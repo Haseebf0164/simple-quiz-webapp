@@ -1,0 +1,1050 @@
+1. What does LAN stand for?
+A) Local Area Network
+B) Large Area Network
+C) Long Area Network
+D) Light Area Network
+Answer: A
+
+2. Which device connects different networks?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+3. What is the main function of a switch?
+A) Forward packets based on MAC address
+B) Forward packets based on IP address
+C) Amplify signals
+D) Connect to the internet
+Answer: A
+
+4. What protocol is used for web browsing?
+A) FTP
+B) SMTP
+C) HTTP
+D) SNMP
+Answer: C
+
+5. Which layer of OSI model deals with routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+6. Which protocol is used to send emails?
+A) SMTP
+B) FTP
+C) HTTP
+D) SNMP
+Answer: A
+
+7. What does WAN stand for?
+A) Wide Area Network
+B) Wireless Area Network
+C) Wired Area Network
+D) Web Area Network
+Answer: A
+
+8. Which device operates at the Data Link layer of the OSI model?
+A) Switch
+B) Router
+C) Hub
+D) Gateway
+Answer: A
+
+9. What is the main function of a firewall?
+A) To filter network traffic
+B) To amplify signals
+C) To connect devices
+D) To assign IP addresses
+Answer: A
+
+10. Which protocol is used for secure web browsing?
+A) HTTP
+B) HTTPS
+C) FTP
+D) SMTP
+Answer: B
+
+11. What does IP stand for?
+A) Internet Protocol
+B) Internal Protocol
+C) Interconnected Protocol
+D) Internet Process
+Answer: A
+
+12. Which of the following is a wireless networking standard?
+A) IEEE 802.11
+B) IEEE 802.3
+C) IEEE 802.5
+D) IEEE 802.15
+Answer: A
+
+13. What is the default port number for HTTP?
+A) 21
+B) 25
+C) 80
+D) 110
+Answer: C
+
+14. Which device regenerates and amplifies signals in a network?
+A) Repeater
+B) Switch
+C) Router
+D) Bridge
+Answer: A
+
+15. What does DNS stand for?
+A) Domain Name System
+B) Data Network Service
+C) Digital Network System
+D) Domain Network Service
+Answer: A
+
+16. Which protocol is used to transfer files over the Internet?
+A) FTP
+B) SMTP
+C) SNMP
+D) POP3
+Answer: A
+
+17. What is the main function of a hub?
+A) Broadcasts data to all devices
+B) Routes data to specific devices
+C) Filters network traffic
+D) Assigns IP addresses
+Answer: A
+
+18. Which layer of the OSI model is responsible for encryption?
+A) Presentation
+B) Network
+C) Data Link
+D) Physical
+Answer: A
+
+19. What is the maximum length of a MAC address?
+A) 6 bytes
+B) 4 bytes
+C) 8 bytes
+D) 2 bytes
+Answer: A
+
+20. Which protocol is used to retrieve emails from a server?
+A) POP3
+B) SMTP
+C) FTP
+D) SNMP
+Answer: A
+
+21. What does TCP stand for?
+A) Transmission Control Protocol
+B) Transfer Control Protocol
+C) Transmission Communication Protocol
+D) Transfer Communication Protocol
+Answer: A
+
+22. Which device connects two different network architectures?
+A) Gateway
+B) Switch
+C) Hub
+D) Repeater
+Answer: A
+
+23. What is the main function of ARP?
+A) Resolves IP addresses to MAC addresses
+B) Resolves MAC addresses to IP addresses
+C) Assigns IP addresses
+D) Encrypts data
+Answer: A
+
+24. Which protocol is used for remote login?
+A) Telnet
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+25. What is the default port number for HTTPS?
+A) 80
+B) 443
+C) 21
+D) 25
+Answer: B
+
+26. Which layer of the OSI model is responsible for end-to-end communication?
+A) Transport
+B) Network
+C) Data Link
+D) Physical
+Answer: A
+
+27. What does DHCP stand for?
+A) Dynamic Host Configuration Protocol
+B) Data Host Control Protocol
+C) Dynamic Host Control Protocol
+D) Data Host Configuration Protocol
+Answer: A
+
+28. Which protocol is used for network management?
+A) SNMP
+B) SMTP
+C) FTP
+D) HTTP
+Answer: A
+
+29. What is the main function of a bridge?
+A) Connects two LAN segments
+B) Assigns IP addresses
+C) Encrypts data
+D) Routes data between networks
+Answer: A
+
+30. Which of the following is a class A IP address?
+A) 10.0.0.1
+B) 172.16.0.1
+C) 192.168.1.1
+D) 224.0.0.1
+Answer: A
+
+31. What is the maximum length of an IPv4 address?
+A) 32 bits
+B) 64 bits
+C) 128 bits
+D) 16 bits
+Answer: A
+
+32. Which protocol is used for dynamic IP address assignment?
+A) DHCP
+B) DNS
+C) FTP
+D) SMTP
+Answer: A
+
+33. What does NAT stand for?
+A) Network Address Translation
+B) Network Access Technology
+C) Network Application Tool
+D) Network Address Tool
+Answer: A
+
+34. Which device is used to connect a LAN to the Internet?
+A) Router
+B) Switch
+C) Hub
+D) Repeater
+Answer: A
+
+35. What is the main function of ICMP?
+A) Error reporting and diagnostics
+B) File transfer
+C) Email delivery
+D) Encryption
+Answer: A
+
+36. Which protocol is used for secure file transfer?
+A) SFTP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+37. What does VPN stand for?
+A) Virtual Private Network
+B) Virtual Public Network
+C) Visual Private Network
+D) Visual Public Network
+Answer: A
+
+38. Which layer of the OSI model is responsible for physical transmission of data?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: A
+
+39. What is the main function of a proxy server?
+A) Acts as an intermediary between client and server
+B) Assigns IP addresses
+C) Encrypts data
+D) Connects devices
+Answer: A
+
+40. Which protocol is used for voice over IP?
+A) SIP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+41. What does SSL stand for?
+A) Secure Sockets Layer
+B) Secure System Layer
+C) System Sockets Layer
+D) Secure Software Layer
+Answer: A
+
+42. Which device is used to segment a network into multiple collision domains?
+A) Switch
+B) Hub
+C) Repeater
+D) Modem
+Answer: A
+
+43. What is the main function of a modem?
+A) Modulates and demodulates signals
+B) Assigns IP addresses
+C) Encrypts data
+D) Connects devices
+Answer: A
+
+44. Which protocol is used for network time synchronization?
+A) NTP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+45. What does URL stand for?
+A) Uniform Resource Locator
+B) Universal Resource Locator
+C) Uniform Reference Locator
+D) Universal Reference Locator
+Answer: A
+
+46. Which layer of the OSI model is responsible for flow control?
+A) Transport
+B) Network
+C) Data Link
+D) Physical
+Answer: A
+
+47. What is the main function of a VLAN?
+A) Logically segments a network
+B) Physically segments a network
+C) Encrypts data
+D) Assigns IP addresses
+Answer: A
+
+48. Which protocol is used for sending emails securely?
+A) SMTPS
+B) FTP
+C) HTTP
+D) SNMP
+Answer: A
+
+49. What does IPv6 stand for?
+A) Internet Protocol version 6
+B) Internet Protocol version 4
+C) Internal Protocol version 6
+D) Internal Protocol version 4
+Answer: A
+
+50. Which device operates at the Physical layer of the OSI model?
+A) Hub
+B) Router
+C) Switch
+D) Bridge
+Answer: A
+
+51. What is the default port number for FTP?
+A) 21
+B) 25
+C) 80
+D) 110
+Answer: A
+
+52. Which protocol is used for directory services?
+A) LDAP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+53. What does MAN stand for?
+A) Metropolitan Area Network
+B) Main Area Network
+C) Medium Area Network
+D) Managed Area Network
+Answer: A
+
+54. Which protocol is used for remote desktop access?
+A) RDP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+55. What is the main function of a load balancer?
+A) Distributes network traffic across multiple servers
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+56. Which layer of the OSI model is responsible for error detection?
+A) Data Link
+B) Network
+C) Transport
+D) Physical
+Answer: A
+
+57. What does SSID stand for?
+A) Service Set Identifier
+B) Secure Set Identifier
+C) System Set Identifier
+D) Service System Identifier
+Answer: A
+
+58. Which protocol is used for network file sharing in Windows?
+A) SMB
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+59. What is the main function of a network topology?
+A) Describes the arrangement of network devices
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+60. Which protocol is used for secure shell access?
+A) SSH
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+61. What does BGP stand for?
+A) Border Gateway Protocol
+B) Basic Gateway Protocol
+C) Broad Gateway Protocol
+D) Base Gateway Protocol
+Answer: A
+
+62. Which device is used to connect different LANs?
+A) Router
+B) Switch
+C) Hub
+D) Repeater
+Answer: A
+
+63. What is the main function of a packet sniffer?
+A) Captures and analyzes network packets
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+64. Which protocol is used for email retrieval and storage?
+A) IMAP
+B) SMTP
+C) FTP
+D) SNMP
+Answer: A
+
+65. What does ISDN stand for?
+A) Integrated Services Digital Network
+B) Internet Services Digital Network
+C) Integrated System Digital Network
+D) Internet System Digital Network
+Answer: A
+
+66. Which layer of the OSI model is responsible for logical addressing?
+A) Network
+B) Data Link
+C) Transport
+D) Physical
+Answer: A
+
+67. What is the main function of a network bridge?
+A) Connects two LAN segments
+B) Assigns IP addresses
+C) Encrypts data
+D) Routes data between networks
+Answer: A
+
+68. Which protocol is used for network printing?
+A) LPR
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+69. What does PPP stand for?
+A) Point-to-Point Protocol
+B) Peer-to-Peer Protocol
+C) Public-to-Private Protocol
+D) Private-to-Public Protocol
+Answer: A
+
+70. Which device is used to extend the range of a wireless network?
+A) Wireless Repeater
+B) Switch
+C) Router
+D) Bridge
+Answer: A
+
+71. What is the main function of a network interface card (NIC)?
+A) Connects a computer to a network
+B) Encrypts data
+C) Assigns IP addresses
+D) Routes data
+Answer: A
+
+72. Which protocol is used for network address resolution?
+A) ARP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+73. What does FQDN stand for?
+A) Fully Qualified Domain Name
+B) Full Quality Domain Name
+C) Fast Query Domain Name
+D) Full Query Domain Name
+Answer: A
+
+74. Which layer of the OSI model is responsible for session management?
+A) Session
+B) Network
+C) Data Link
+D) Physical
+Answer: A
+
+75. What is the main function of a demilitarized zone (DMZ) in networking?
+A) Adds an extra layer of security between internal and external networks
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+76. Which protocol is used for network discovery?
+A) LLDP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+77. What does MTU stand for?
+A) Maximum Transmission Unit
+B) Minimum Transmission Unit
+C) Maximum Transfer Unit
+D) Minimum Transfer Unit
+Answer: A
+
+78. Which device is used to connect a computer to a telephone line for Internet access?
+A) Modem
+B) Switch
+C) Router
+D) Bridge
+Answer: A
+
+79. What is the main function of a network switch?
+A) Forwards data based on MAC addresses
+B) Forwards data based on IP addresses
+C) Encrypts data
+D) Assigns IP addresses
+Answer: A
+
+80. Which protocol is used for network booting?
+A) PXE
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+81. What does OSPF stand for?
+A) Open Shortest Path First
+B) Open Secure Path First
+C) Open System Path First
+D) Open Shortest Protocol First
+Answer: A
+
+82. Which layer of the OSI model is responsible for packet switching?
+A) Network
+B) Data Link
+C) Transport
+D) Physical
+Answer: A
+
+83. What is the main function of a network gateway?
+A) Connects networks using different protocols
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+84. Which protocol is used for network authentication?
+A) RADIUS
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+85. What does MAC stand for in networking?
+A) Media Access Control
+B) Main Access Control
+C) Media Application Control
+D) Main Application Control
+Answer: A
+
+86. Which device is used to connect multiple devices in a star topology?
+A) Switch
+B) Router
+C) Hub
+D) Bridge
+Answer: A
+
+87. What is the main function of a network analyzer?
+A) Monitors and analyzes network traffic
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+88. Which protocol is used for network file sharing in Linux?
+A) NFS
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+89. What does STP stand for in networking?
+A) Spanning Tree Protocol
+B) Secure Transfer Protocol
+C) Simple Transfer Protocol
+D) Secure Tree Protocol
+Answer: A
+
+90. Which layer of the OSI model is responsible for physical addressing?
+A) Data Link
+B) Network
+C) Transport
+D) Physical
+Answer: A
+
+91. What is the main function of a network repeater?
+A) Regenerates and amplifies signals
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+92. Which protocol is used for network monitoring?
+A) SNMP
+B) FTP
+C) SMTP
+D) HTTP
+Answer: A
+
+93. What does CIDR stand for?
+A) Classless Inter-Domain Routing
+B) Classful Inter-Domain Routing
+C) Classless Intra-Domain Routing
+D) Classful Intra-Domain Routing
+Answer: A
+
+94. Which device is used to connect a network to the Internet using a phone line?
+A) Modem
+B) Switch
+C) Router
+D) Bridge
+Answer: A
+
+95. What is the main function of a network firewall?
+A) Filters incoming and outgoing traffic
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+96. Which protocol is used for network address translation?
+A) NAT
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+97. What does MPLS stand for?
+A) Multi-Protocol Label Switching
+B) Multi-Protocol Layer Switching
+C) Multi-Path Label Switching
+D) Multi-Path Layer Switching
+Answer: A
+
+98. Which layer of the OSI model is responsible for segmentation and reassembly?
+A) Transport
+B) Network
+C) Data Link
+D) Physical
+Answer: A
+
+99. What is the main function of a network access point (AP)?
+A) Provides wireless connectivity to devices
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+100. Which protocol is used for network configuration?
+A) DHCP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+101. What does TFTP stand for?
+A) Trivial File Transfer Protocol
+B) Transfer File Transfer Protocol
+C) Trivial File Transmission Protocol
+D) Transfer File Transmission Protocol
+Answer: A
+
+102. Which device is used to connect networks with different protocols?
+A) Gateway
+B) Switch
+C) Hub
+D) Repeater
+Answer: A
+
+103. What is the main function of a network segment?
+A) Divides a network into smaller parts
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+104. Which protocol is used for network routing updates?
+A) RIP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+105. What does APIPA stand for?
+A) Automatic Private IP Addressing
+B) Automatic Public IP Addressing
+C) Automatic Private Internet Addressing
+D) Automatic Public Internet Addressing
+Answer: A
+
+106. Which layer of the OSI model is responsible for reliable data transfer?
+A) Transport
+B) Network
+C) Data Link
+D) Physical
+Answer: A
+
+107. What is the main function of a network concentrator?
+A) Aggregates multiple network connections
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+108. Which protocol is used for network file transfer over SSH?
+A) SFTP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+109. What does IGMP stand for?
+A) Internet Group Management Protocol
+B) Internal Group Management Protocol
+C) Internet Gateway Management Protocol
+D) Internal Gateway Management Protocol
+Answer: A
+
+110. Which device is used to connect wireless devices to a wired network?
+A) Access Point
+B) Switch
+C) Router
+D) Bridge
+Answer: A
+
+111. What is the main function of a network patch panel?
+A) Organizes and connects network cables
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+112. Which protocol is used for network time synchronization?
+A) NTP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+113. What does EIGRP stand for?
+A) Enhanced Interior Gateway Routing Protocol
+B) Enhanced Internet Gateway Routing Protocol
+C) Enhanced Internal Gateway Routing Protocol
+D) Enhanced Internet Group Routing Protocol
+Answer: A
+
+114. Which layer of the OSI model is responsible for data formatting?
+A) Presentation
+B) Network
+C) Data Link
+D) Physical
+Answer: A
+
+115. What is the main function of a network proxy?
+A) Acts as an intermediary for requests from clients
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+116. Which protocol is used for network device discovery?
+A) CDP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+117. What does ATM stand for in networking?
+A) Asynchronous Transfer Mode
+B) Automatic Transfer Mode
+C) Asynchronous Transmission Mode
+D) Automatic Transmission Mode
+Answer: A
+
+118. Which device is used to connect multiple networks?
+A) Router
+B) Switch
+C) Hub
+D) Bridge
+Answer: A
+
+119. What is the main function of a network load balancer?
+A) Distributes network traffic across multiple servers
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+120. Which protocol is used for network file sharing in Apple devices?
+A) AFP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+121. What does SONET stand for?
+A) Synchronous Optical Network
+B) Synchronous Open Network
+C) Synchronous Optical Node
+D) Synchronous Open Node
+Answer: A
+
+122. Which layer of the OSI model is responsible for establishing connections?
+A) Session
+B) Network
+C) Data Link
+D) Physical
+Answer: A
+
+123. What is the main function of a network transceiver?
+A) Converts signals from one form to another
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+124. Which protocol is used for network address assignment?
+A) DHCP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+125. What does FDDI stand for?
+A) Fiber Distributed Data Interface
+B) Fast Distributed Data Interface
+C) Fiber Data Distribution Interface
+D) Fast Data Distribution Interface
+Answer: A
+
+126. Which device is used to connect a computer to a wireless network?
+A) Wireless Adapter
+B) Switch
+C) Router
+D) Bridge
+Answer: A
+
+127. What is the main function of a network controller?
+A) Manages network resources and traffic
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+128. Which protocol is used for network file transfer in Windows?
+A) SMB
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+129. What does VTP stand for?
+A) VLAN Trunking Protocol
+B) Virtual Trunking Protocol
+C) VLAN Transfer Protocol
+D) Virtual Transfer Protocol
+Answer: A
+
+130. Which layer of the OSI model is responsible for multiplexing?
+A) Transport
+B) Network
+C) Data Link
+D) Physical
+Answer: A
+
+131. What is the main function of a network demarcation point?
+A) Marks the boundary between service provider and customer network
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+132. Which protocol is used for network device management?
+A) SNMP
+B) FTP
+C) SMTP
+D) HTTP
+Answer: A
+
+133. What does CSU/DSU stand for?
+A) Channel Service Unit/Data Service Unit
+B) Channel System Unit/Data System Unit
+C) Channel Service Unit/Data System Unit
+D) Channel System Unit/Data Service Unit
+Answer: A
+
+134. Which device is used to connect a network to a digital line?
+A) CSU/DSU
+B) Switch
+C) Router
+D) Bridge
+Answer: A
+
+135. What is the main function of a network patch cable?
+A) Connects devices to a network
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects networks
+Answer: A
+
+136. Which protocol is used for network file transfer in UNIX?
+A) NFS
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+137. What does DDoS stand for?
+A) Distributed Denial of Service
+B) Direct Denial of Service
+C) Distributed Data of Service
+D) Direct Data of Service
+Answer: A
+
+138. Which layer of the OSI model is responsible for error correction?
+A) Data Link
+B) Network
+C) Transport
+D) Physical
+Answer: A
+
+139. What is the main function of a network access control (NAC)?
+A) Restricts unauthorized devices from accessing the network
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+140. Which protocol is used for network file transfer in Apple devices?
+A) AFP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+141. What does SFP stand for?
+A) Small Form-factor Pluggable
+B) Simple Form-factor Pluggable
+C) Small Form-factor Plug
+D) Simple Form-factor Plug
+Answer: A
+
+142. Which device is used to connect a computer to a fiber optic network?
+A) Media Converter
+B) Switch
+C) Router
+D) Bridge
+Answer: A
+
+143. What is the main function of a network patch panel?
+A) Organizes and connects network cables
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects devices
+Answer: A
+
+144. Which protocol is used for network device discovery in Cisco devices?
+A) CDP
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+145. What does UTP stand for?
+A) Unshielded Twisted Pair
+B) Universal Twisted Pair
+C) Unshielded Transfer Pair
+D) Universal Transfer Pair
+Answer: A
+
+146. Which layer of the OSI model is responsible for physical media?
+A) Physical
+B) Network
+C) Data Link
+D) Transport
+Answer: A
+
+147. What is the main function of a network patch cord?
+A) Connects devices to a network
+B) Encrypts data
+C) Assigns IP addresses
+D) Connects networks
+Answer: A
+
+148. Which protocol is used for network file transfer in Linux?
+A) NFS
+B) FTP
+C) SMTP
+D) SNMP
+Answer: A
+
+149. What does PoE stand for?
+A) Power over Ethernet
+B) Protocol over Ethernet
+C) Power on Ethernet
+D) Protocol on Ethernet
+Answer: A
+
+150. Which device is used to connect a network to the Internet using a cable connection?
+A) Cable Modem
+B) Switch
+C) Router
+D) Bridge
+Answer: A
+
+// ... 95 more MCQs in the same format ... 

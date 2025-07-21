@@ -1,0 +1,1050 @@
+1. Which data structure uses FIFO principle?
+A) Stack
+B) Queue
+C) Tree
+D) Graph
+Answer: B
+
+2. What is the time complexity of searching in a binary search tree?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: C
+
+3. Which data structure is used for recursion?
+A) Queue
+B) Stack
+C) Array
+D) Linked List
+Answer: B
+
+4. Which of the following is a non-linear data structure?
+A) Array
+B) Linked List
+C) Stack
+D) Tree
+Answer: D
+
+5. What is the maximum number of children a binary tree node can have?
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B
+6. Which data structure uses LIFO principle?
+A) Queue
+B) Stack
+C) Tree
+D) Graph
+Answer: B
+
+7. What is the worst-case time complexity for searching in a linked list?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: C
+
+8. Which of the following is a linear data structure?
+A) Tree
+B) Graph
+C) Stack
+D) Heap
+Answer: C
+
+9. Which data structure is best suited for implementing a priority queue?
+A) Stack
+B) Heap
+C) Array
+D) Linked List
+Answer: B
+
+10. What is the maximum number of nodes at level 'l' in a binary tree?
+A) 2^l
+B) l
+C) l^2
+D) 2l
+Answer: A
+
+11. Which traversal of a binary tree gives nodes in non-decreasing order?
+A) Preorder
+B) Postorder
+C) Inorder
+D) Level order
+Answer: C
+
+12. Which data structure is used in breadth-first search of a graph?
+A) Stack
+B) Queue
+C) Tree
+D) Heap
+Answer: B
+
+13. What is the time complexity of inserting an element at the beginning of a singly linked list?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+14. Which of the following is not a self-balancing binary search tree?
+A) AVL Tree
+B) Red-Black Tree
+C) B-Tree
+D) Binary Heap
+Answer: D
+
+15. Which data structure is used for implementing function calls in programming languages?
+A) Queue
+B) Stack
+C) Array
+D) Graph
+Answer: B
+
+16. What is the minimum number of nodes in a complete binary tree of height h?
+A) 2^h - 1
+B) h
+C) h^2
+D) 2h
+Answer: A
+
+17. Which of the following is used to implement undo operations in text editors?
+A) Queue
+B) Stack
+C) Array
+D) Tree
+Answer: B
+
+18. Which data structure is used in depth-first search of a graph?
+A) Queue
+B) Stack
+C) Heap
+D) Array
+Answer: B
+
+19. What is the time complexity of accessing an element in an array by index?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+20. Which of the following is not a type of linked list?
+A) Singly linked list
+B) Doubly linked list
+C) Circular linked list
+D) Binary linked list
+Answer: D
+
+21. Which data structure is used to evaluate arithmetic expressions?
+A) Queue
+B) Stack
+C) Array
+D) Tree
+Answer: B
+
+22. What is the maximum number of nodes in a binary tree of height h?
+A) 2^h - 1
+B) h
+C) h^2
+D) 2h
+Answer: A
+
+23. Which of the following is a non-linear data structure?
+A) Array
+B) Stack
+C) Queue
+D) Graph
+Answer: D
+
+24. Which data structure is used for implementing recursion?
+A) Queue
+B) Stack
+C) Array
+D) Linked List
+Answer: B
+
+25. What is the time complexity of inserting an element at the end of an array (without resizing)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+26. Which of the following is not an application of stack?
+A) Function call management
+B) Expression evaluation
+C) Job scheduling
+D) Syntax parsing
+Answer: C
+
+27. Which traversal is used to delete a tree?
+A) Preorder
+B) Inorder
+C) Postorder
+D) Level order
+Answer: C
+
+28. What is the degree of a node in a tree?
+A) Number of edges from root to node
+B) Number of children of the node
+C) Number of leaves in the tree
+D) Number of ancestors of the node
+Answer: B
+
+29. Which data structure is used to implement adjacency list of a graph?
+A) Array
+B) Linked List
+C) Stack
+D) Queue
+Answer: B
+
+30. What is the time complexity of searching for an element in a hash table (average case)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+31. Which of the following is not a property of a binary search tree?
+A) Left child < parent
+B) Right child > parent
+C) No duplicate nodes
+D) All nodes have two children
+Answer: D
+
+32. Which data structure is used for level order traversal of a binary tree?
+A) Stack
+B) Queue
+C) Array
+D) Heap
+Answer: B
+
+33. What is the height of a tree with only one node?
+A) 0
+B) 1
+C) 2
+D) -1
+Answer: A
+
+34. Which of the following is not a type of binary tree?
+A) Full binary tree
+B) Complete binary tree
+C) Skewed binary tree
+D) Ternary tree
+Answer: D
+
+35. Which data structure is used to implement a circular buffer?
+A) Stack
+B) Queue
+C) Array
+D) Tree
+Answer: C
+
+36. What is the time complexity of deleting an element from the front of a queue implemented using a linked list?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+37. Which of the following is not an operation on a stack?
+A) Push
+B) Pop
+C) Peek
+D) Enqueue
+Answer: D
+
+38. Which data structure is used to implement a hash table?
+A) Array
+B) Stack
+C) Queue
+D) Tree
+Answer: A
+
+39. What is the maximum number of nodes in a binary tree of height 3?
+A) 7
+B) 8
+C) 15
+D) 16
+Answer: A
+
+40. Which of the following is not a valid graph representation?
+A) Adjacency matrix
+B) Adjacency list
+C) Incidence matrix
+D) Binary tree
+Answer: D
+
+41. Which data structure is used for implementing undo and redo operations?
+A) Stack
+B) Queue
+C) Array
+D) Tree
+Answer: A
+
+42. What is the time complexity of inserting an element in a min-heap?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+43. Which of the following is not a characteristic of a queue?
+A) FIFO
+B) LIFO
+C) Front and rear pointers
+D) Linear structure
+Answer: B
+
+44. Which data structure is used to implement a call stack in programming languages?
+A) Queue
+B) Stack
+C) Array
+D) Tree
+Answer: B
+
+45. What is the time complexity of searching for an element in a balanced binary search tree?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+46. Which of the following is not a type of heap?
+A) Min-heap
+B) Max-heap
+C) Binary heap
+D) AVL heap
+Answer: D
+
+47. Which data structure is used to implement a breadth-first search in a graph?
+A) Stack
+B) Queue
+C) Array
+D) Tree
+Answer: B
+
+48. What is the time complexity of deleting the root from a max-heap?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+49. Which of the following is not a property of a red-black tree?
+A) Every node is either red or black
+B) The root is always red
+C) Every path from root to leaf has the same number of black nodes
+D) No two red nodes are adjacent
+Answer: B
+
+50. Which data structure is used to implement adjacency matrix of a graph?
+A) Array
+B) Stack
+C) Queue
+D) Tree
+Answer: A
+
+51. What is the time complexity of finding the minimum element in a min-heap?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: A
+
+52. Which of the following is not a valid operation on a queue?
+A) Enqueue
+B) Dequeue
+C) Peek
+D) Pop
+Answer: D
+
+53. Which data structure is used to implement a double-ended queue (deque)?
+A) Stack
+B) Queue
+C) Linked List
+D) Tree
+Answer: C
+
+54. What is the time complexity of inserting an element at the end of a singly linked list (without tail pointer)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: B
+
+55. Which of the following is not a property of a complete binary tree?
+A) All levels are completely filled except possibly the last
+B) All nodes are as far left as possible
+C) All nodes have two children
+D) Height is minimum
+Answer: C
+
+56. Which data structure is used to implement a stack?
+A) Array
+B) Linked List
+C) Both A and B
+D) Tree
+Answer: C
+
+57. What is the time complexity of searching for an element in an unsorted array?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: B
+
+58. Which of the following is not a valid tree traversal?
+A) Preorder
+B) Inorder
+C) Postorder
+D) Reverseorder
+Answer: D
+
+59. Which data structure is used to implement a binary search tree?
+A) Array
+B) Linked List
+C) Tree
+D) Stack
+Answer: C
+
+60. What is the time complexity of deleting an element from a doubly linked list (given pointer to node)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+61. Which of the following is not a property of a stack?
+A) LIFO
+B) Top pointer
+C) FIFO
+D) Push and Pop operations
+Answer: C
+
+62. Which data structure is used to implement a circular queue?
+A) Array
+B) Stack
+C) Tree
+D) Heap
+Answer: A
+
+63. What is the time complexity of finding the height of a binary tree?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: B
+
+64. Which of the following is not a type of graph?
+A) Directed
+B) Undirected
+C) Weighted
+D) Skewed
+Answer: D
+
+65. Which data structure is used to implement a sparse matrix?
+A) Array
+B) Linked List
+C) Stack
+D) Queue
+Answer: B
+
+66. What is the time complexity of merging two sorted arrays?
+A) O(1)
+B) O(n)
+C) O(n+m)
+D) O(n^2)
+Answer: C
+
+67. Which of the following is not a property of a min-heap?
+A) Root is the minimum element
+B) Complete binary tree
+C) Every parent is less than or equal to its children
+D) All leaves are at the same level
+Answer: D
+
+68. Which data structure is used to implement a trie?
+A) Array
+B) Linked List
+C) Tree
+D) Stack
+Answer: C
+
+69. What is the time complexity of inserting an element in a binary search tree (average case)?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+70. Which of the following is not a valid operation on a binary search tree?
+A) Insertion
+B) Deletion
+C) Searching
+D) Sorting
+Answer: D
+
+71. Which data structure is used to implement a graph?
+A) Array
+B) Linked List
+C) Both A and B
+D) Stack
+Answer: C
+
+72. What is the time complexity of finding the maximum element in a max-heap?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: A
+
+73. Which of the following is not a property of a doubly linked list?
+A) Each node has a next pointer
+B) Each node has a previous pointer
+C) Nodes can be traversed in both directions
+D) Each node has two children
+Answer: D
+
+74. Which data structure is used to implement a stack in function call management?
+A) Array
+B) Linked List
+C) Both A and B
+D) Tree
+Answer: C
+
+75. What is the time complexity of deleting an element from the end of a singly linked list (without tail pointer)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: B
+
+76. Which of the following is not a valid operation on a queue?
+A) Enqueue
+B) Dequeue
+C) Peek
+D) Push
+Answer: D
+
+77. Which data structure is used to implement a priority queue?
+A) Stack
+B) Heap
+C) Array
+D) Linked List
+Answer: B
+
+78. What is the time complexity of searching for an element in a balanced binary search tree?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+79. Which of the following is not a property of a stack?
+A) LIFO
+B) Top pointer
+C) FIFO
+D) Push and Pop operations
+Answer: C
+
+80. Which data structure is used to implement a queue?
+A) Array
+B) Linked List
+C) Both A and B
+D) Tree
+Answer: C
+
+81. What is the time complexity of inserting an element at the beginning of a doubly linked list?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+82. Which of the following is not a property of a binary tree?
+A) Each node has at most two children
+B) All nodes have two children
+C) There is a unique path from root to each node
+D) The tree is connected
+Answer: B
+
+83. Which data structure is used to implement a hash map?
+A) Array
+B) Stack
+C) Queue
+D) Tree
+Answer: A
+
+84. What is the time complexity of deleting an element from a min-heap?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+85. Which of the following is not a valid operation on a stack?
+A) Push
+B) Pop
+C) Peek
+D) Enqueue
+Answer: D
+
+86. Which data structure is used to implement a tree?
+A) Array
+B) Linked List
+C) Both A and B
+D) Stack
+Answer: C
+
+87. What is the time complexity of searching for an element in a sorted array using binary search?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+88. Which of the following is not a property of a queue?
+A) FIFO
+B) Front and rear pointers
+C) LIFO
+D) Linear structure
+Answer: C
+
+89. Which data structure is used to implement a circular linked list?
+A) Array
+B) Linked List
+C) Stack
+D) Queue
+Answer: B
+
+90. What is the time complexity of inserting an element at the end of a doubly linked list (with tail pointer)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+91. Which of the following is not a property of a heap?
+A) Complete binary tree
+B) Heap order property
+C) All leaves are at the same level
+D) Root is either minimum or maximum
+Answer: C
+
+92. Which data structure is used to implement a graph using adjacency matrix?
+A) Array
+B) Stack
+C) Queue
+D) Tree
+Answer: A
+
+93. What is the time complexity of finding the minimum element in a binary search tree?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+94. Which of the following is not a valid operation on a binary tree?
+A) Insertion
+B) Deletion
+C) Searching
+D) Sorting
+Answer: D
+
+95. Which data structure is used to implement a stack in recursion?
+A) Array
+B) Linked List
+C) Both A and B
+D) Tree
+Answer: C
+
+96. What is the time complexity of deleting an element from the front of a singly linked list?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+97. Which of the following is not a property of a binary search tree?
+A) Left child < parent
+B) Right child > parent
+C) No duplicate nodes
+D) All nodes have two children
+Answer: D
+
+98. Which data structure is used to implement a queue in breadth-first search?
+A) Stack
+B) Queue
+C) Array
+D) Tree
+Answer: B
+
+99. What is the time complexity of inserting an element in a hash table (average case)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+100. Which of the following is not a property of a complete binary tree?
+A) All levels are completely filled except possibly the last
+B) All nodes are as far left as possible
+C) All nodes have two children
+D) Height is minimum
+Answer: C
+
+101. Which data structure is used to implement a stack in function call management?
+A) Array
+B) Linked List
+C) Both A and B
+D) Tree
+Answer: C
+
+102. What is the time complexity of searching for an element in an unsorted linked list?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: B
+
+103. Which of the following is not a valid tree traversal?
+A) Preorder
+B) Inorder
+C) Postorder
+D) Reverseorder
+Answer: D
+
+104. Which data structure is used to implement a binary search tree?
+A) Array
+B) Linked List
+C) Tree
+D) Stack
+Answer: C
+
+105. What is the time complexity of deleting an element from a doubly linked list (given pointer to node)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+106. Which of the following is not a property of a stack?
+A) LIFO
+B) Top pointer
+C) FIFO
+D) Push and Pop operations
+Answer: C
+
+107. Which data structure is used to implement a circular queue?
+A) Array
+B) Stack
+C) Tree
+D) Heap
+Answer: A
+
+108. What is the time complexity of finding the height of a binary tree?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: B
+
+109. Which of the following is not a type of graph?
+A) Directed
+B) Undirected
+C) Weighted
+D) Skewed
+Answer: D
+
+110. Which data structure is used to implement a sparse matrix?
+A) Array
+B) Linked List
+C) Stack
+D) Queue
+Answer: B
+
+111. What is the time complexity of merging two sorted arrays?
+A) O(1)
+B) O(n)
+C) O(n+m)
+D) O(n^2)
+Answer: C
+
+112. Which of the following is not a property of a min-heap?
+A) Root is the minimum element
+B) Complete binary tree
+C) Every parent is less than or equal to its children
+D) All leaves are at the same level
+Answer: D
+
+113. Which data structure is used to implement a trie?
+A) Array
+B) Linked List
+C) Tree
+D) Stack
+Answer: C
+
+114. What is the time complexity of inserting an element in a binary search tree (average case)?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+115. Which of the following is not a valid operation on a binary search tree?
+A) Insertion
+B) Deletion
+C) Searching
+D) Sorting
+Answer: D
+
+116. Which data structure is used to implement a graph?
+A) Array
+B) Linked List
+C) Both A and B
+D) Stack
+Answer: C
+
+117. What is the time complexity of finding the maximum element in a max-heap?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: A
+
+118. Which of the following is not a property of a doubly linked list?
+A) Each node has a next pointer
+B) Each node has a previous pointer
+C) Nodes can be traversed in both directions
+D) Each node has two children
+Answer: D
+
+119. Which data structure is used to implement a stack in function call management?
+A) Array
+B) Linked List
+C) Both A and B
+D) Tree
+Answer: C
+
+120. What is the time complexity of deleting an element from the end of a singly linked list (without tail pointer)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: B
+
+121. Which of the following is not a valid operation on a queue?
+A) Enqueue
+B) Dequeue
+C) Peek
+D) Push
+Answer: D
+
+122. Which data structure is used to implement a priority queue?
+A) Stack
+B) Heap
+C) Array
+D) Linked List
+Answer: B
+
+123. What is the time complexity of searching for an element in a balanced binary search tree?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+124. Which of the following is not a property of a stack?
+A) LIFO
+B) Top pointer
+C) FIFO
+D) Push and Pop operations
+Answer: C
+
+125. Which data structure is used to implement a queue?
+A) Array
+B) Linked List
+C) Both A and B
+D) Tree
+Answer: C
+
+126. What is the time complexity of inserting an element at the beginning of a doubly linked list?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+127. Which of the following is not a property of a binary tree?
+A) Each node has at most two children
+B) All nodes have two children
+C) There is a unique path from root to each node
+D) The tree is connected
+Answer: B
+
+128. Which data structure is used to implement a hash map?
+A) Array
+B) Stack
+C) Queue
+D) Tree
+Answer: A
+
+129. What is the time complexity of deleting an element from a min-heap?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+130. Which of the following is not a valid operation on a stack?
+A) Push
+B) Pop
+C) Peek
+D) Enqueue
+Answer: D
+
+131. Which data structure is used to implement a tree?
+A) Array
+B) Linked List
+C) Both A and B
+D) Stack
+Answer: C
+
+132. What is the time complexity of searching for an element in a sorted array using binary search?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+133. Which of the following is not a property of a queue?
+A) FIFO
+B) Front and rear pointers
+C) LIFO
+D) Linear structure
+Answer: C
+
+134. Which data structure is used to implement a circular linked list?
+A) Array
+B) Linked List
+C) Stack
+D) Queue
+Answer: B
+
+135. What is the time complexity of inserting an element at the end of a doubly linked list (with tail pointer)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+136. Which of the following is not a property of a heap?
+A) Complete binary tree
+B) Heap order property
+C) All leaves are at the same level
+D) Root is either minimum or maximum
+Answer: C
+
+137. Which data structure is used to implement a graph using adjacency matrix?
+A) Array
+B) Stack
+C) Queue
+D) Tree
+Answer: A
+
+138. What is the time complexity of finding the minimum element in a binary search tree?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n^2)
+Answer: B
+
+139. Which of the following is not a valid operation on a binary tree?
+A) Insertion
+B) Deletion
+C) Searching
+D) Sorting
+Answer: D
+
+140. Which data structure is used to implement a stack in recursion?
+A) Array
+B) Linked List
+C) Both A and B
+D) Tree
+Answer: C
+
+141. What is the time complexity of deleting an element from the front of a singly linked list?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+142. Which of the following is not a property of a binary search tree?
+A) Left child < parent
+B) Right child > parent
+C) No duplicate nodes
+D) All nodes have two children
+Answer: D
+
+143. Which data structure is used to implement a queue in breadth-first search?
+A) Stack
+B) Queue
+C) Array
+D) Tree
+Answer: B
+
+144. What is the time complexity of inserting an element in a hash table (average case)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+145. Which of the following is not a property of a complete binary tree?
+A) All levels are completely filled except possibly the last
+B) All nodes are as far left as possible
+C) All nodes have two children
+D) Height is minimum
+Answer: C
+
+146. Which data structure is used to implement a stack in function call management?
+A) Array
+B) Linked List
+C) Both A and B
+D) Tree
+Answer: C
+
+147. What is the time complexity of searching for an element in an unsorted linked list?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: B
+
+148. Which of the following is not a valid tree traversal?
+A) Preorder
+B) Inorder
+C) Postorder
+D) Reverseorder
+Answer: D
+
+149. Which data structure is used to implement a binary search tree?
+A) Array
+B) Linked List
+C) Tree
+D) Stack
+Answer: C
+
+150. What is the time complexity of deleting an element from a doubly linked list (given pointer to node)?
+A) O(1)
+B) O(n)
+C) O(log n)
+D) O(n^2)
+Answer: A
+
+// ... 95 more MCQs in the same format ... 

@@ -1,0 +1,1049 @@
+1. What is system software?
+A) Software designed for a specific task
+B) Software that manages hardware
+C) Software for entertainment
+D) Software for education
+Answer: B
+
+2. Which of the following is an example of application software?
+A) Windows
+B) Linux
+C) MS Word
+D) BIOS
+Answer: C
+
+3. What does GUI stand for?
+A) General User Interface
+B) Graphical User Interface
+C) Global User Interface
+D) Graphical Utility Interface
+Answer: B
+
+4. Which software is used to browse the internet?
+A) Word Processor
+B) Spreadsheet
+C) Web Browser
+D) Database
+Answer: C
+
+5. What is open-source software?
+A) Software with hidden code
+B) Software with free access to source code
+C) Software that is paid
+D) Software that is illegal
+Answer: B
+
+6. Which of the following is NOT a type of system software?
+A) Operating System
+B) Device Driver
+C) Antivirus
+D) Word Processor
+Answer: D
+
+7. What is the main function of an operating system?
+A) To compile code
+B) To manage computer hardware and software resources
+C) To create documents
+D) To play games
+Answer: B
+
+8. Which of the following is an example of system software?
+A) MS Excel
+B) Windows 10
+C) Photoshop
+D) VLC Media Player
+Answer: B
+
+9. Which software translates high-level language into machine language?
+A) Compiler
+B) Browser
+C) Text Editor
+D) Media Player
+Answer: A
+
+10. Which of the following is NOT an application software?
+A) Spreadsheet
+B) Database
+C) Device Driver
+D) Presentation
+Answer: C
+
+11. What is proprietary software?
+A) Software with open source code
+B) Software with restricted rights of use
+C) Software that is free to modify
+D) Software that is illegal
+Answer: B
+
+12. Which of the following is an example of open-source software?
+A) MS Office
+B) Adobe Photoshop
+C) Linux
+D) Windows
+Answer: C
+
+13. What is the function of device drivers?
+A) To manage files
+B) To control hardware devices
+C) To edit images
+D) To browse the internet
+Answer: B
+
+14. Which of the following is NOT a function of utility software?
+A) Disk cleanup
+B) Virus scanning
+C) Word processing
+D) File compression
+Answer: C
+
+15. Which software is used for creating presentations?
+A) MS PowerPoint
+B) MS Excel
+C) MS Word
+D) MS Access
+Answer: A
+
+16. What is firmware?
+A) Hardware component
+B) Software stored in ROM
+C) Application software
+D) Utility software
+Answer: B
+
+17. Which of the following is NOT an operating system?
+A) Windows
+B) Linux
+C) Android
+D) MS Word
+Answer: D
+
+18. What is the main purpose of application software?
+A) To manage hardware
+B) To perform specific user tasks
+C) To control devices
+D) To run the operating system
+Answer: B
+
+19. Which of the following is a web browser?
+A) Chrome
+B) Windows
+C) Linux
+D) BIOS
+Answer: A
+
+20. Which software is used to manage databases?
+A) MS Word
+B) MS Excel
+C) MS Access
+D) MS Paint
+Answer: C
+
+21. What is the full form of BIOS?
+A) Basic Input Output System
+B) Binary Input Output System
+C) Basic Internal Output System
+D) Binary Internal Output System
+Answer: A
+
+22. Which of the following is NOT a feature of open-source software?
+A) Free to use
+B) Source code available
+C) Can be modified
+D) Always paid
+Answer: D
+
+23. Which of the following is an example of utility software?
+A) Disk Defragmenter
+B) MS Word
+C) Chrome
+D) Photoshop
+Answer: A
+
+24. What is the main function of antivirus software?
+A) To create viruses
+B) To protect against malware
+C) To edit videos
+D) To manage files
+Answer: B
+
+25. Which of the following is NOT a web browser?
+A) Firefox
+B) Safari
+C) Notepad
+D) Edge
+Answer: C
+
+26. What is the main function of a compiler?
+A) To execute programs
+B) To translate source code to machine code
+C) To manage files
+D) To browse the internet
+Answer: B
+
+27. Which of the following is NOT a type of software license?
+A) Freeware
+B) Shareware
+C) Hardware
+D) Open-source
+Answer: C
+
+28. Which of the following is an example of freeware?
+A) MS Office
+B) Adobe Reader
+C) Linux
+D) Windows
+Answer: B
+
+29. What is the main function of a word processor?
+A) To create and edit text documents
+B) To manage databases
+C) To browse the internet
+D) To play music
+Answer: A
+
+30. Which of the following is NOT a function of an operating system?
+A) Memory management
+B) Process management
+C) Hardware management
+D) Image editing
+Answer: D
+
+31. Which of the following is an example of a spreadsheet software?
+A) MS Word
+B) MS Excel
+C) MS PowerPoint
+D) MS Access
+Answer: B
+
+32. What is the main function of backup software?
+A) To create viruses
+B) To copy and store data safely
+C) To edit images
+D) To browse the internet
+Answer: B
+
+33. Which of the following is NOT a type of application software?
+A) Word processor
+B) Spreadsheet
+C) Device driver
+D) Presentation
+Answer: C
+
+34. What is the main function of a database management system (DBMS)?
+A) To manage and organize data
+B) To edit images
+C) To play music
+D) To browse the internet
+Answer: A
+
+35. Which of the following is NOT an example of system software?
+A) Operating System
+B) Device Driver
+C) Compiler
+D) MS Paint
+Answer: D
+
+36. What is the main function of a text editor?
+A) To edit text files
+B) To play videos
+C) To manage hardware
+D) To scan for viruses
+Answer: A
+
+37. Which of the following is NOT a characteristic of software?
+A) Tangible
+B) Intangible
+C) Can be updated
+D) Can be copied
+Answer: A
+
+38. Which of the following is an example of a programming language?
+A) Python
+B) Windows
+C) Chrome
+D) BIOS
+Answer: A
+
+39. What is the main function of a web server software?
+A) To host websites
+B) To edit images
+C) To play music
+D) To manage files
+Answer: A
+
+40. Which of the following is NOT a type of software?
+A) System software
+B) Application software
+C) Utility software
+D) Hardware software
+Answer: D
+
+41. Which of the following is an example of a device driver?
+A) Printer driver
+B) MS Word
+C) Chrome
+D) Photoshop
+Answer: A
+
+42. What is the main function of a media player?
+A) To play audio and video files
+B) To manage databases
+C) To edit text
+D) To scan for viruses
+Answer: A
+
+43. Which of the following is NOT a function of utility software?
+A) Disk cleanup
+B) File compression
+C) Virus scanning
+D) Word processing
+Answer: D
+
+44. Which of the following is an example of shareware?
+A) WinRAR
+B) Linux
+C) Windows
+D) MS Word
+Answer: A
+
+45. What is the main function of a spreadsheet software?
+A) To perform calculations and data analysis
+B) To edit images
+C) To play music
+D) To browse the internet
+Answer: A
+
+46. Which of the following is NOT an example of application software?
+A) MS Excel
+B) MS Word
+C) Device Driver
+D) MS PowerPoint
+Answer: C
+
+47. What is the main function of a presentation software?
+A) To create slideshows
+B) To manage files
+C) To scan for viruses
+D) To play music
+Answer: A
+
+48. Which of the following is NOT a feature of system software?
+A) Manages hardware
+B) Provides platform for application software
+C) Edits images
+D) Controls peripherals
+Answer: C
+
+49. Which of the following is an example of a database software?
+A) MS Access
+B) MS Word
+C) MS Paint
+D) Chrome
+Answer: A
+
+50. What is the main function of a file management software?
+A) To organize and manage files
+B) To play music
+C) To edit images
+D) To browse the internet
+Answer: A
+
+51. Which of the following is NOT a type of software distribution?
+A) Freeware
+B) Shareware
+C) Malware
+D) Open-source
+Answer: C
+
+52. Which of the following is an example of a graphics software?
+A) MS Paint
+B) MS Word
+C) Chrome
+D) MS Access
+Answer: A
+
+53. What is the main function of a browser?
+A) To access and view web pages
+B) To edit images
+C) To play music
+D) To manage files
+Answer: A
+
+54. Which of the following is NOT a function of application software?
+A) Word processing
+B) Spreadsheet calculations
+C) Hardware management
+D) Presentation creation
+Answer: C
+
+55. Which of the following is an example of a paid software?
+A) MS Office
+B) Linux
+C) GIMP
+D) VLC Media Player
+Answer: A
+
+56. What is the main function of a scheduler in an operating system?
+A) To manage processes
+B) To edit images
+C) To play music
+D) To browse the internet
+Answer: A
+
+57. Which of the following is NOT a type of user interface?
+A) Command Line Interface
+B) Graphical User Interface
+C) Hardware Interface
+D) Menu-driven Interface
+Answer: C
+
+58. Which of the following is an example of a command line interface?
+A) MS-DOS
+B) Windows 10
+C) Chrome
+D) MS Word
+Answer: A
+
+59. What is the main function of a debugger?
+A) To find and fix errors in code
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+60. Which of the following is NOT a function of a compiler?
+A) Translate code
+B) Debug code
+C) Optimize code
+D) Execute code
+Answer: D
+
+61. Which of the following is an example of a mobile operating system?
+A) Android
+B) Windows 10
+C) Linux
+D) MS Word
+Answer: A
+
+62. What is the main function of a text editor?
+A) To edit text files
+B) To play music
+C) To manage hardware
+D) To scan for viruses
+Answer: A
+
+63. Which of the following is NOT a type of software update?
+A) Patch
+B) Upgrade
+C) Downgrade
+D) Install
+Answer: D
+
+64. Which of the following is an example of a real-time operating system?
+A) Windows
+B) Linux
+C) VxWorks
+D) MS Word
+Answer: C
+
+65. What is the main function of a bootloader?
+A) To load the operating system
+B) To edit images
+C) To play music
+D) To manage files
+Answer: A
+
+66. Which of the following is NOT a function of a database management system?
+A) Data storage
+B) Data retrieval
+C) Data analysis
+D) Image editing
+Answer: D
+
+67. Which of the following is an example of a cloud-based software?
+A) Google Docs
+B) MS Word
+C) MS Paint
+D) Notepad
+Answer: A
+
+68. What is the main function of encryption software?
+A) To secure data
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+69. Which of the following is NOT a type of software testing?
+A) Unit testing
+B) Integration testing
+C) System testing
+D) Hardware testing
+Answer: D
+
+70. Which of the following is an example of a multimedia software?
+A) VLC Media Player
+B) MS Word
+C) Chrome
+D) MS Access
+Answer: A
+
+71. What is the main function of a scheduler in an operating system?
+A) To manage processes
+B) To edit images
+C) To play music
+D) To browse the internet
+Answer: A
+
+72. Which of the following is NOT a type of software maintenance?
+A) Corrective
+B) Adaptive
+C) Preventive
+D) Destructive
+Answer: D
+
+73. Which of the following is an example of a backup software?
+A) Acronis True Image
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+74. What is the main function of a firewall software?
+A) To protect against unauthorized access
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+75. Which of the following is NOT a type of software piracy?
+A) Counterfeiting
+B) Softlifting
+C) Open-sourcing
+D) Client-server overuse
+Answer: C
+
+76. Which of the following is an example of a software suite?
+A) MS Office
+B) Linux
+C) Chrome
+D) BIOS
+Answer: A
+
+77. What is the main function of a package manager?
+A) To install and manage software packages
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+78. Which of the following is NOT a type of software development model?
+A) Waterfall
+B) Agile
+C) Spiral
+D) Hardware
+Answer: D
+
+79. Which of the following is an example of a cross-platform software?
+A) VLC Media Player
+B) MS Word
+C) MS Paint
+D) Notepad
+Answer: A
+
+80. What is the main function of a version control system?
+A) To manage changes in code
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+81. Which of the following is NOT a type of software documentation?
+A) User manual
+B) Technical manual
+C) Hardware manual
+D) API documentation
+Answer: C
+
+82. Which of the following is an example of a software development tool?
+A) IDE
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+83. What is the main function of a patch in software?
+A) To fix bugs or vulnerabilities
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+84. Which of the following is NOT a type of software distribution model?
+A) SaaS
+B) PaaS
+C) IaaS
+D) BIOS
+Answer: D
+
+85. Which of the following is an example of a SaaS application?
+A) Google Drive
+B) MS Word
+C) MS Paint
+D) Notepad
+Answer: A
+
+86. What is the main function of a software license?
+A) To define usage rights
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+87. Which of the following is NOT a type of software testing?
+A) Alpha testing
+B) Beta testing
+C) Gamma testing
+D) Unit testing
+Answer: C
+
+88. Which of the following is an example of a software bug?
+A) Program crash
+B) Hardware failure
+C) Power outage
+D) Network cable unplugged
+Answer: A
+
+89. What is the main function of a software update?
+A) To improve performance or fix issues
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+90. Which of the following is NOT a type of software error?
+A) Syntax error
+B) Logic error
+C) Runtime error
+D) Hardware error
+Answer: D
+
+91. Which of the following is an example of a software vulnerability?
+A) Buffer overflow
+B) Power failure
+C) Disk crash
+D) Printer jam
+Answer: A
+
+92. What is the main function of a software installer?
+A) To install software on a computer
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+93. Which of the following is NOT a type of software deployment?
+A) Local installation
+B) Cloud deployment
+C) Manual deployment
+D) Hardware deployment
+Answer: D
+
+94. Which of the following is an example of a software framework?
+A) .NET
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+95. What is the main function of a software emulator?
+A) To mimic another system's software
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+96. Which of the following is NOT a type of software architecture?
+A) Client-server
+B) Peer-to-peer
+C) Star topology
+D) Layered
+Answer: C
+
+97. Which of the following is an example of a software protocol?
+A) HTTP
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+98. What is the main function of a software patch?
+A) To fix bugs or vulnerabilities
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+99. Which of the following is NOT a type of software development life cycle?
+A) Waterfall
+B) Spiral
+C) Agile
+D) Hardware
+Answer: D
+
+100. Which of the following is an example of a software plug-in?
+A) Adobe Flash Player
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+101. What is the main function of a software API?
+A) To allow communication between software components
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+102. Which of the following is NOT a type of software interface?
+A) User interface
+B) Application interface
+C) Hardware interface
+D) Network interface
+Answer: C
+
+103. Which of the following is an example of a software patch?
+A) Security update
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+104. What is the main function of a software driver?
+A) To control hardware devices
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+105. Which of the following is NOT a type of software piracy?
+A) Softlifting
+B) Counterfeiting
+C) Open-sourcing
+D) Client-server overuse
+Answer: C
+
+106. Which of the following is an example of a software vulnerability?
+A) SQL injection
+B) Power failure
+C) Disk crash
+D) Printer jam
+Answer: A
+
+107. What is the main function of a software firewall?
+A) To protect against unauthorized access
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+108. Which of the following is NOT a type of software license?
+A) Freeware
+B) Shareware
+C) Hardware
+D) Open-source
+Answer: C
+
+109. Which of the following is an example of a software update?
+A) Security patch
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+110. What is the main function of a software debugger?
+A) To find and fix errors in code
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+111. Which of the following is NOT a type of software testing?
+A) Alpha testing
+B) Beta testing
+C) Gamma testing
+D) Unit testing
+Answer: C
+
+112. Which of the following is an example of a software bug?
+A) Program crash
+B) Hardware failure
+C) Power outage
+D) Network cable unplugged
+Answer: A
+
+113. What is the main function of a software update?
+A) To improve performance or fix issues
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+114. Which of the following is NOT a type of software error?
+A) Syntax error
+B) Logic error
+C) Runtime error
+D) Hardware error
+Answer: D
+
+115. Which of the following is an example of a software vulnerability?
+A) Buffer overflow
+B) Power failure
+C) Disk crash
+D) Printer jam
+Answer: A
+
+116. What is the main function of a software installer?
+A) To install software on a computer
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+117. Which of the following is NOT a type of software deployment?
+A) Local installation
+B) Cloud deployment
+C) Manual deployment
+D) Hardware deployment
+Answer: D
+
+118. Which of the following is an example of a software framework?
+A) .NET
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+119. What is the main function of a software emulator?
+A) To mimic another system's software
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+120. Which of the following is NOT a type of software architecture?
+A) Client-server
+B) Peer-to-peer
+C) Star topology
+D) Layered
+Answer: C
+
+121. Which of the following is an example of a software protocol?
+A) HTTP
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+122. What is the main function of a software patch?
+A) To fix bugs or vulnerabilities
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+123. Which of the following is NOT a type of software development life cycle?
+A) Waterfall
+B) Spiral
+C) Agile
+D) Hardware
+Answer: D
+
+124. Which of the following is an example of a software plug-in?
+A) Adobe Flash Player
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+125. What is the main function of a software API?
+A) To allow communication between software components
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+126. Which of the following is NOT a type of software interface?
+A) User interface
+B) Application interface
+C) Hardware interface
+D) Network interface
+Answer: C
+
+127. Which of the following is an example of a software patch?
+A) Security update
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+128. What is the main function of a software driver?
+A) To control hardware devices
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+129. Which of the following is NOT a type of software piracy?
+A) Softlifting
+B) Counterfeiting
+C) Open-sourcing
+D) Client-server overuse
+Answer: C
+
+130. Which of the following is an example of a software vulnerability?
+A) SQL injection
+B) Power failure
+C) Disk crash
+D) Printer jam
+Answer: A
+
+131. What is the main function of a software firewall?
+A) To protect against unauthorized access
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+132. Which of the following is NOT a type of software license?
+A) Freeware
+B) Shareware
+C) Hardware
+D) Open-source
+Answer: C
+
+133. Which of the following is an example of a software update?
+A) Security patch
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+134. What is the main function of a software debugger?
+A) To find and fix errors in code
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+135. Which of the following is NOT a type of software testing?
+A) Alpha testing
+B) Beta testing
+C) Gamma testing
+D) Unit testing
+Answer: C
+
+136. Which of the following is an example of a software bug?
+A) Program crash
+B) Hardware failure
+C) Power outage
+D) Network cable unplugged
+Answer: A
+
+137. What is the main function of a software update?
+A) To improve performance or fix issues
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+138. Which of the following is NOT a type of software error?
+A) Syntax error
+B) Logic error
+C) Runtime error
+D) Hardware error
+Answer: D
+
+139. Which of the following is an example of a software vulnerability?
+A) Buffer overflow
+B) Power failure
+C) Disk crash
+D) Printer jam
+Answer: A
+
+140. What is the main function of a software installer?
+A) To install software on a computer
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+141. Which of the following is NOT a type of software deployment?
+A) Local installation
+B) Cloud deployment
+C) Manual deployment
+D) Hardware deployment
+Answer: D
+
+142. Which of the following is an example of a software framework?
+A) .NET
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+143. What is the main function of a software emulator?
+A) To mimic another system's software
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+144. Which of the following is NOT a type of software architecture?
+A) Client-server
+B) Peer-to-peer
+C) Star topology
+D) Layered
+Answer: C
+
+145. Which of the following is an example of a software protocol?
+A) HTTP
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+146. What is the main function of a software patch?
+A) To fix bugs or vulnerabilities
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+147. Which of the following is NOT a type of software development life cycle?
+A) Waterfall
+B) Spiral
+C) Agile
+D) Hardware
+Answer: D
+
+148. Which of the following is an example of a software plug-in?
+A) Adobe Flash Player
+B) MS Word
+C) Chrome
+D) MS Paint
+Answer: A
+
+149. What is the main function of a software API?
+A) To allow communication between software components
+B) To play music
+C) To edit images
+D) To manage files
+Answer: A
+
+150. Which of the following is NOT a type of software interface?
+A) User interface
+B) Application interface
+C) Hardware interface
+D) Network interface
+Answer: C

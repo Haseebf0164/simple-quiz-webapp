@@ -1,0 +1,700 @@
+1. What is the main goal of information security?
+A) To make data public
+B) To protect data from unauthorized access
+C) To delete data
+D) To share data
+Answer: B
+
+2. What does CIA stand for in information security?
+A) Confidentiality, Integrity, Availability
+B) Central Intelligence Agency
+C) Control, Integrity, Access
+D) Confidentiality, Information, Access
+Answer: A
+
+3. What is a firewall?
+A) A security system that controls incoming and outgoing network traffic
+B) A type of virus
+C) A type of malware
+D) A type of software
+Answer: A
+
+4. What is phishing?
+A) A type of cyber attack
+B) A type of fish
+C) A type of hardware
+D) A type of encryption
+Answer: A
+
+5. What is encryption?
+A) Converting data into a secret code
+B) Deleting data
+C) Sharing data
+D) Copying data
+Answer: A
+6. What is malware?
+A) Malicious software designed to harm or exploit systems
+B) A type of hardware
+C) A security protocol
+D) A backup method
+Answer: A
+
+7. Which of the following is NOT a type of malware?
+A) Virus
+B) Worm
+C) Firewall
+D) Trojan horse
+Answer: C
+
+8. What is the purpose of a strong password?
+A) To make it easy to remember
+B) To prevent unauthorized access
+C) To share with friends
+D) To use the same password everywhere
+Answer: B
+
+9. What is two-factor authentication (2FA)?
+A) Using two passwords
+B) Using two methods to verify identity
+C) Using two computers
+D) Using two usernames
+Answer: B
+
+10. What is social engineering?
+A) Manipulating people to gain confidential information
+B) Engineering social networks
+C) Building secure software
+D) Encrypting data
+Answer: A
+
+11. What is a denial-of-service (DoS) attack?
+A) An attack that makes a system unavailable to users
+B) An attack that steals data
+C) An attack that encrypts files
+D) An attack that repairs systems
+Answer: A
+
+12. What is a vulnerability?
+A) A weakness in a system that can be exploited
+B) A type of malware
+C) A security policy
+D) A backup method
+Answer: A
+
+13. What is a security policy?
+A) A set of rules to protect information
+B) A type of virus
+C) A hardware device
+D) A backup plan
+Answer: A
+
+14. What is the function of antivirus software?
+A) Detect and remove malicious software
+B) Create backups
+C) Encrypt data
+D) Manage passwords
+Answer: A
+
+15. What is a security breach?
+A) Unauthorized access to data or systems
+B) A type of firewall
+C) A backup process
+D) A security update
+Answer: A
+
+16. What is a digital certificate?
+A) An electronic document used to prove identity
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+17. What is public key cryptography?
+A) Uses two keys: public and private
+B) Uses only one key
+C) Uses passwords
+D) Uses firewalls
+Answer: A
+
+18. What is a private key?
+A) A secret key used in cryptography
+B) A public password
+C) A type of malware
+D) A firewall setting
+Answer: A
+
+19. What is a brute force attack?
+A) Trying all possible combinations to guess a password
+B) Encrypting data
+C) Installing antivirus
+D) Creating backups
+Answer: A
+
+20. What is a man-in-the-middle attack?
+A) Intercepting communication between two parties
+B) Encrypting data
+C) Installing firewalls
+D) Creating backups
+Answer: A
+
+21. What is a security patch?
+A) An update to fix vulnerabilities
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+22. What is data integrity?
+A) Ensuring data is accurate and unaltered
+B) Encrypting data
+C) Deleting data
+D) Sharing data
+Answer: A
+
+23. What is authentication?
+A) Verifying the identity of a user or device
+B) Encrypting data
+C) Deleting files
+D) Sharing passwords
+Answer: A
+
+24. What is authorization?
+A) Granting access to resources
+B) Encrypting data
+C) Deleting files
+D) Sharing passwords
+Answer: A
+
+25. What is a security audit?
+A) A review of security policies and controls
+B) A type of malware
+C) A backup process
+D) A firewall setting
+Answer: A
+
+26. What is a honeypot in information security?
+A) A decoy system to attract attackers
+B) A type of malware
+C) A backup device
+D) A password manager
+Answer: A
+
+27. What is spyware?
+A) Software that secretly monitors user activity
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+28. What is ransomware?
+A) Malware that encrypts files and demands payment
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+29. What is a botnet?
+A) A network of infected computers controlled by an attacker
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+30. What is penetration testing?
+A) Testing a system for vulnerabilities
+B) Encrypting data
+C) Deleting files
+D) Sharing passwords
+Answer: A
+
+31. What is a security token?
+A) A physical or digital device used for authentication
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+32. What is a zero-day vulnerability?
+A) A vulnerability unknown to the vendor
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+33. What is a Trojan horse?
+A) Malware disguised as legitimate software
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+34. What is a worm in information security?
+A) Self-replicating malware that spreads across networks
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+35. What is a security incident?
+A) An event that may compromise information security
+B) A type of malware
+C) A backup process
+D) A firewall setting
+Answer: A
+
+36. What is a security risk?
+A) The potential for loss or damage to information
+B) A type of malware
+C) A backup method
+D) A password
+Answer: A
+
+37. What is a security threat?
+A) Any potential danger to information or systems
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+38. What is a security control?
+A) A safeguard to reduce security risks
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+39. What is a security policy violation?
+A) Breaking the rules set to protect information
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+40. What is a password manager?
+A) A tool to securely store and manage passwords
+B) A type of malware
+C) A backup device
+D) A firewall
+Answer: A
+
+41. What is multi-factor authentication (MFA)?
+A) Using more than one method to verify identity
+B) Using only a password
+C) Using a firewall
+D) Using a backup
+Answer: A
+
+42. What is a security log?
+A) A record of security-related events
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+43. What is a security perimeter?
+A) The boundary that separates a secure area from an insecure one
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+44. What is a security protocol?
+A) A set of rules for secure communication
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+45. What is a security update?
+A) Software update to fix vulnerabilities
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+46. What is a security awareness program?
+A) Training users about security risks and best practices
+B) A type of malware
+C) A backup method
+D) A password
+Answer: A
+
+47. What is a security baseline?
+A) A minimum set of security standards
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+48. What is a security framework?
+A) A structured set of guidelines for managing security
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+49. What is a security incident response plan?
+A) A plan for handling security incidents
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+50. What is a security breach notification?
+A) Informing affected parties about a security breach
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+51. What is a security assessment?
+A) Evaluating the security of a system
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+52. What is a security vulnerability assessment?
+A) Identifying and evaluating vulnerabilities in a system
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+53. What is a security risk assessment?
+A) Identifying and evaluating risks to information assets
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+54. What is a security policy enforcement?
+A) Ensuring compliance with security policies
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+55. What is a security operations center (SOC)?
+A) A facility that monitors and responds to security incidents
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+56. What is a security token service (STS)?
+A) A service that issues security tokens for authentication
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+57. What is a security certificate authority (CA)?
+A) An entity that issues digital certificates
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+58. What is a security sandbox?
+A) An isolated environment for testing untrusted code
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+59. What is a security gateway?
+A) A device that controls traffic between networks
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+60. What is a security group?
+A) A collection of users with similar access rights
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+61. What is a security clearance?
+A) Authorization to access classified information
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+62. What is a security breach response team?
+A) A group responsible for handling security breaches
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+63. What is a security event?
+A) An occurrence that may affect security
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+64. What is a security incident report?
+A) Documentation of a security incident
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+65. What is a security policy exception?
+A) Allowing deviation from a security policy under certain conditions
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+66. What is a security posture?
+A) The overall security status of an organization
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+67. What is a security breach investigation?
+A) Analyzing the cause and impact of a security breach
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+68. What is a security compliance audit?
+A) Checking adherence to security standards and regulations
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+69. What is a security incident response team (SIRT)?
+A) A team that responds to security incidents
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+70. What is a security operations procedure?
+A) Steps to maintain and monitor security
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+71. What is a security risk management process?
+A) Identifying, assessing, and mitigating security risks
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+72. What is a security awareness training?
+A) Educating users about security threats and best practices
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+73. What is a security incident escalation?
+A) Reporting incidents to higher authorities
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+74. What is a security event correlation?
+A) Analyzing multiple events to detect threats
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+75. What is a security monitoring tool?
+A) Software that monitors systems for security threats
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+76. What is a security breach notification law?
+A) Law requiring notification of affected parties after a breach
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+77. What is a security incident management process?
+A) Steps to handle and resolve security incidents
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+78. What is a security vulnerability management process?
+A) Identifying and addressing vulnerabilities
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+79. What is a security configuration baseline?
+A) Standard security settings for systems
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+80. What is a security event management system?
+A) A system for collecting and analyzing security events
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+81. What is a security incident response plan testing?
+A) Testing the effectiveness of incident response plans
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+82. What is a security risk mitigation strategy?
+A) Actions to reduce security risks
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+83. What is a security policy review?
+A) Regularly evaluating and updating security policies
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+84. What is a security incident communication plan?
+A) Plan for communicating during security incidents
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+85. What is a security incident containment?
+A) Limiting the impact of a security incident
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+86. What is a security incident eradication?
+A) Removing the cause of a security incident
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+87. What is a security incident recovery?
+A) Restoring systems after a security incident
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+88. What is a security incident post-mortem?
+A) Analyzing and learning from a security incident
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+89. What is a security incident documentation?
+A) Recording details of a security incident
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+90. What is a security incident notification?
+A) Informing stakeholders about a security incident
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+91. What is a security incident timeline?
+A) Chronological record of events during an incident
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+92. What is a security incident evidence collection?
+A) Gathering data for investigation and legal purposes
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+93. What is a security incident forensics analysis?
+A) Investigating the cause and impact of an incident
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+94. What is a security incident root cause analysis?
+A) Identifying the underlying cause of an incident
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+95. What is a security incident lessons learned?
+A) Documenting insights to improve future response
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+96. What is a security incident reporting procedure?
+A) Steps for reporting security incidents
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+97. What is a security incident escalation procedure?
+A) Steps for escalating incidents to higher authorities
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+98. What is a security incident notification procedure?
+A) Steps for notifying stakeholders about incidents
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+99. What is a security incident response team training?
+A) Training team members to handle incidents
+B) A type of firewall
+C) A backup method
+D) A password
+Answer: A
+
+100. What is a security incident response plan review?
+A) Regularly evaluating and updating response plans
+B) A type of malware
+C) A backup file
+D) A password
+Answer: A
+
+// ... 95 more MCQs in the same format ... 

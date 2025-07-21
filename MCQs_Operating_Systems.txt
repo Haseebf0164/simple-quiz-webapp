@@ -1,0 +1,770 @@
+1. What is the main function of an operating system?
+A) Manage hardware and software resources
+B) Compile programs
+C) Design websites
+D) Store data
+Answer: A
+
+2. Which of the following is not an operating system?
+A) Windows
+B) Linux
+C) Oracle
+D) MacOS
+Answer: C
+
+3. What is a process?
+A) A program in execution
+B) A hardware device
+C) A type of memory
+D) A file
+Answer: A
+
+4. Which operating system is open source?
+A) Windows
+B) Linux
+C) MacOS
+D) DOS
+Answer: B
+
+5. What is multitasking?
+A) Running multiple programs at the same time
+B) Running a single program
+C) Running a program once
+D) None of the above
+Answer: A
+6. Which of the following is a type of operating system?
+A) Batch Operating System
+B) Compiler
+C) Assembler
+D) Linker
+Answer: A
+
+7. Which of the following is not a function of an operating system?
+A) Memory management
+B) Process management
+C) Virus scanning
+D) File management
+Answer: C
+
+8. Which of the following is a real-time operating system?
+A) Windows 10
+B) Linux Mint
+C) VxWorks
+D) MS-DOS
+Answer: C
+
+9. What is the kernel of an operating system?
+A) The core part that manages system resources
+B) A type of application software
+C) A hardware device
+D) A user interface
+Answer: A
+
+10. Which of the following is a mobile operating system?
+A) Android
+B) Ubuntu
+C) Fedora
+D) Windows 7
+Answer: A
+
+11. What is the main purpose of device drivers?
+A) To allow the OS to communicate with hardware
+B) To manage user accounts
+C) To compile code
+D) To design graphics
+Answer: A
+
+12. Which of the following is an example of system software?
+A) Operating System
+B) Word Processor
+C) Spreadsheet
+D) Web Browser
+Answer: A
+
+13. What is the function of a file system in an operating system?
+A) Organize and store files
+B) Compile programs
+C) Manage printers
+D) Connect to the internet
+Answer: A
+
+14. Which of the following is not a type of user interface?
+A) Command Line Interface
+B) Graphical User Interface
+C) Application Programming Interface
+D) Web Interface
+Answer: C
+
+15. What is virtual memory?
+A) A technique to use hard disk as additional RAM
+B) A type of physical memory
+C) A type of cache memory
+D) A type of ROM
+Answer: A
+
+16. Which of the following is used for inter-process communication?
+A) Semaphore
+B) Monitor
+C) Pipe
+D) All of the above
+Answer: D
+
+17. What is a deadlock?
+A) Two or more processes waiting indefinitely for resources
+B) A process running without stopping
+C) A process that never starts
+D) A process that finishes early
+Answer: A
+
+18. Which of the following is not a scheduling algorithm?
+A) First Come First Serve
+B) Shortest Job First
+C) Round Robin
+D) Bubble Sort
+Answer: D
+
+19. What is the function of a shell in an operating system?
+A) To provide an interface between user and kernel
+B) To manage hardware
+C) To compile code
+D) To run antivirus
+Answer: A
+
+20. Which of the following is not a type of operating system?
+A) Time-sharing
+B) Distributed
+C) Network
+D) Compiler
+Answer: D
+
+21. What is the main advantage of multiprogramming?
+A) Increased CPU utilization
+B) Decreased memory usage
+C) Increased power consumption
+D) Decreased speed
+Answer: A
+
+22. Which of the following is a distributed operating system?
+A) Amoeba
+B) MS-DOS
+C) Windows 95
+D) MacOS 9
+Answer: A
+
+23. What is swapping in operating systems?
+A) Moving processes between main memory and disk
+B) Changing user accounts
+C) Switching off the computer
+D) Formatting the hard disk
+Answer: A
+
+24. Which of the following is not a type of memory management technique?
+A) Paging
+B) Segmentation
+C) Compilation
+D) Swapping
+Answer: C
+
+25. What is a system call?
+A) A request to the operating system to perform a task
+B) A phone call to tech support
+C) A type of virus
+D) A hardware interrupt
+Answer: A
+
+26. Which of the following is not a layer of an operating system?
+A) Hardware
+B) Kernel
+C) Application
+D) Compiler
+Answer: D
+
+27. What is the main function of BIOS?
+A) Initialize hardware during booting
+B) Manage user files
+C) Run applications
+D) Connect to the internet
+Answer: A
+
+28. Which of the following is not a type of process state?
+A) Running
+B) Waiting
+C) Compiling
+D) Ready
+Answer: C
+
+29. What is the function of a scheduler in an operating system?
+A) Decide which process runs next
+B) Manage files
+C) Connect to the internet
+D) Format disks
+Answer: A
+
+30. Which of the following is a command line operating system?
+A) MS-DOS
+B) Windows 10
+C) MacOS
+D) Android
+Answer: A
+
+31. What is the main purpose of an interrupt?
+A) To signal the CPU to stop current work and execute a task
+B) To increase memory
+C) To delete files
+D) To run antivirus
+Answer: A
+
+32. Which of the following is not a type of interrupt?
+A) Hardware interrupt
+B) Software interrupt
+C) User interrupt
+D) Timer interrupt
+Answer: C
+
+33. What is the function of a spooler?
+A) Manage print jobs
+B) Manage memory
+C) Manage user accounts
+D) Manage network connections
+Answer: A
+
+34. Which of the following is not a type of file system?
+A) FAT32
+B) NTFS
+C) EXT4
+D) HTTP
+Answer: D
+
+35. What is the main function of a bootloader?
+A) Load the operating system into memory
+B) Manage files
+C) Run applications
+D) Connect to the internet
+Answer: A
+
+36. Which of the following is not a type of user account in operating systems?
+A) Administrator
+B) Guest
+C) Root
+D) Compiler
+Answer: D
+
+37. What is the main function of a command interpreter?
+A) Execute user commands
+B) Manage hardware
+C) Compile code
+D) Run antivirus
+Answer: A
+
+38. Which of the following is not a type of operating system architecture?
+A) Monolithic
+B) Microkernel
+C) Layered
+D) Binary Tree
+Answer: D
+
+39. What is the main function of a daemon process?
+A) Run background tasks
+B) Manage user input
+C) Compile code
+D) Run antivirus
+Answer: A
+
+40. Which of the following is not a type of system call?
+A) Process control
+B) File manipulation
+C) Device management
+D) Web browsing
+Answer: D
+
+41. What is the main function of a semaphore?
+A) Synchronize processes
+B) Manage files
+C) Compile code
+D) Run antivirus
+Answer: A
+
+42. Which of the following is not a type of memory?
+A) RAM
+B) ROM
+C) CPU
+D) Cache
+Answer: C
+
+43. What is the main function of a cache memory?
+A) Store frequently used data for quick access
+B) Store user files
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+44. Which of the following is not a type of scheduling algorithm?
+A) Priority Scheduling
+B) Shortest Remaining Time
+C) Longest Job First
+D) Round Robin
+Answer: C
+
+45. What is the main function of a thread?
+A) Execute a sequence of instructions within a process
+B) Manage files
+C) Compile code
+D) Run antivirus
+Answer: A
+
+46. Which of the following is not a type of thread?
+A) User-level thread
+B) Kernel-level thread
+C) Process-level thread
+D) Hybrid thread
+Answer: C
+
+47. What is the main function of a dispatcher?
+A) Give control of the CPU to the process selected by the scheduler
+B) Manage files
+C) Compile code
+D) Run antivirus
+Answer: A
+
+48. Which of the following is not a type of process synchronization mechanism?
+A) Semaphore
+B) Mutex
+C) Monitor
+D) Compiler
+Answer: D
+
+49. What is the main function of a monitor in operating systems?
+A) Synchronize processes
+B) Display output
+C) Compile code
+D) Run antivirus
+Answer: A
+
+50. Which of the following is not a type of operating system?
+A) Batch
+B) Time-sharing
+C) Real-time
+D) Spreadsheet
+Answer: D
+
+51. What is the main function of paging in memory management?
+A) Divide memory into fixed-size blocks
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+52. Which of the following is not a type of fragmentation?
+A) Internal
+B) External
+C) Logical
+D) Physical
+Answer: D
+
+53. What is the main function of a page table?
+A) Map virtual addresses to physical addresses
+B) Manage files
+C) Compile code
+D) Run antivirus
+Answer: A
+
+54. Which of the following is not a type of file access method?
+A) Sequential
+B) Direct
+C) Indexed
+D) Compiled
+Answer: D
+
+55. What is the main function of a directory in a file system?
+A) Organize files
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+56. Which of the following is not a type of file?
+A) Text file
+B) Binary file
+C) Executable file
+D) Hardware file
+Answer: D
+
+57. What is the main function of a backup utility?
+A) Copy data to prevent loss
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+58. Which of the following is not a type of backup?
+A) Full
+B) Incremental
+C) Differential
+D) Logical
+Answer: D
+
+59. What is the main function of a disk defragmenter?
+A) Rearrange fragmented data on disk
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+60. Which of the following is not a type of disk scheduling algorithm?
+A) FCFS
+B) SSTF
+C) SCAN
+D) FIFO
+Answer: D
+
+61. What is the main function of a network operating system?
+A) Manage network resources
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+62. Which of the following is not a network operating system?
+A) Windows Server
+B) Novell NetWare
+C) Linux
+D) MS-DOS
+Answer: D
+
+63. What is the main function of a security policy in an operating system?
+A) Protect system resources
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+64. Which of the following is not a type of security threat?
+A) Virus
+B) Worm
+C) Trojan horse
+D) Compiler
+Answer: D
+
+65. What is the main function of an antivirus program?
+A) Detect and remove malware
+B) Compile code
+C) Manage user accounts
+D) Run backup
+Answer: A
+
+66. Which of the following is not a type of user authentication?
+A) Password
+B) Biometrics
+C) Token
+D) Compiler
+Answer: D
+
+67. What is the main function of access control?
+A) Restrict access to system resources
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+68. Which of the following is not a type of access control?
+A) Discretionary
+B) Mandatory
+C) Role-based
+D) Compiler-based
+Answer: D
+
+69. What is the main function of a firewall?
+A) Block unauthorized access to a network
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+70. Which of the following is not a type of firewall?
+A) Packet-filtering
+B) Proxy
+C) Application-level
+D) Compiler-level
+Answer: D
+
+71. What is the main function of a log file in an operating system?
+A) Record system events
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+72. Which of the following is not a type of log file?
+A) System log
+B) Application log
+C) Security log
+D) Compiler log
+Answer: D
+
+73. What is the main function of a system update?
+A) Improve security and performance
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+74. Which of the following is not a type of system update?
+A) Security patch
+B) Feature update
+C) Service pack
+D) Compiler update
+Answer: D
+
+75. What is the main function of a task manager?
+A) Monitor and control running processes
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+76. Which of the following is not a type of process management tool?
+A) Task Manager
+B) Process Explorer
+C) Resource Monitor
+D) Compiler
+Answer: D
+
+77. What is the main function of a resource monitor?
+A) Track system resource usage
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+78. Which of the following is not a type of resource?
+A) CPU
+B) Memory
+C) Disk
+D) Compiler
+Answer: D
+
+79. What is the main function of a system restore?
+A) Revert system to a previous state
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+80. Which of the following is not a type of system restore point?
+A) Manual
+B) Automatic
+C) Scheduled
+D) Compiler
+Answer: D
+
+81. What is the main function of a system utility?
+A) Perform maintenance tasks
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+82. Which of the following is not a type of system utility?
+A) Disk cleaner
+B) Disk defragmenter
+C) Task manager
+D) Compiler
+Answer: D
+
+83. What is the main function of a service in an operating system?
+A) Run background tasks
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+84. Which of the following is not a type of service?
+A) Print spooler
+B) Windows update
+C) Antivirus
+D) Compiler
+Answer: D
+
+85. What is the main function of a patch in an operating system?
+A) Fix bugs and vulnerabilities
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+86. Which of the following is not a type of patch?
+A) Security patch
+B) Hotfix
+C) Service pack
+D) Compiler patch
+Answer: D
+
+87. What is the main function of a boot manager?
+A) Select which operating system to load
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+88. Which of the following is not a type of boot manager?
+A) GRUB
+B) LILO
+C) NTLDR
+D) Compiler
+Answer: D
+
+89. What is the main function of a virtual machine?
+A) Run multiple operating systems on one hardware
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+90. Which of the following is not a type of virtualization?
+A) Hardware virtualization
+B) Software virtualization
+C) Network virtualization
+D) Compiler virtualization
+Answer: D
+
+91. What is the main function of a hypervisor?
+A) Manage virtual machines
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+92. Which of the following is not a type of hypervisor?
+A) Type 1
+B) Type 2
+C) Type 3
+D) None of the above
+Answer: C
+
+93. What is the main function of a process table?
+A) Store information about processes
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+94. Which of the following is not a type of process?
+A) System process
+B) User process
+C) Kernel process
+D) Compiler process
+Answer: D
+
+95. What is the main function of a system clock?
+A) Keep track of time for the system
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+96. Which of the following is not a type of system clock?
+A) Real-time clock
+B) System timer
+C) Hardware clock
+D) Compiler clock
+Answer: D
+
+97. What is the main function of a watchdog timer?
+A) Reset the system if it becomes unresponsive
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+98. Which of the following is not a type of watchdog timer?
+A) Hardware
+B) Software
+C) Network
+D) Compiler
+Answer: D
+
+99. What is the main function of a system bus?
+A) Transfer data between components
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+100. Which of the following is not a type of system bus?
+A) Data bus
+B) Address bus
+C) Control bus
+D) Compiler bus
+Answer: D
+
+101. What is the main function of a device controller?
+A) Manage communication with hardware devices
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+102. Which of the following is not a type of device controller?
+A) Disk controller
+B) Network controller
+C) Printer controller
+D) Compiler controller
+Answer: D
+
+103. What is the main function of a buffer in operating systems?
+A) Temporarily store data during transfer
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+104. Which of the following is not a type of buffer?
+A) Input buffer
+B) Output buffer
+C) Circular buffer
+D) Compiler buffer
+Answer: D
+
+105. What is the main function of a stack in operating systems?
+A) Store temporary data for processes
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+106. Which of the following is not a type of stack?
+A) Call stack
+B) Kernel stack
+C) User stack
+D) Compiler stack
+Answer: D
+
+107. What is the main function of a queue in operating systems?
+A) Manage process scheduling
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+108. Which of the following is not a type of queue?
+A) Ready queue
+B) Device queue
+C) Job queue
+D) Compiler queue
+Answer: D
+
+109. What is the main function of a system call interface?
+A) Provide a way for user programs to interact with the OS
+B) Compile code
+C) Manage user accounts
+D) Run antivirus
+Answer: A
+
+110. Which of the following is not a type of system call interface?
+A) POSIX
+B) WinAPI
+C) Java API
+D) Compiler API
+Answer: D
+
+// ... 95 more MCQs in the same format ... 

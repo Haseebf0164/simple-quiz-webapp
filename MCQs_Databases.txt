@@ -1,0 +1,980 @@
+1. What does DBMS stand for?
+A) Data Base Management System
+B) Data Base Manipulation System
+C) Data Base Monitoring System
+D) Data Base Modeling System
+Answer: A
+
+2. Which language is used to create and modify database structures?
+A) DML
+B) DDL
+C) DCL
+D) TCL
+Answer: B
+
+3. What is a primary key?
+A) A unique identifier for a record
+B) A duplicate value
+C) A foreign key
+D) None of the above
+Answer: A
+
+4. Which of the following is a relational database?
+A) MongoDB
+B) MySQL
+C) Redis
+D) Neo4j
+Answer: B
+
+5. What does SQL stand for?
+A) Structured Query Language
+B) Simple Query Language
+C) Sequential Query Language
+D) Standard Query Language
+Answer: A
+6. Which of the following is NOT a type of database model?
+A) Hierarchical
+B) Network
+C) Relational
+D) Linear
+Answer: D
+
+7. What is the purpose of a foreign key in a database?
+A) To uniquely identify a record
+B) To link two tables together
+C) To store images
+D) To delete records
+Answer: B
+
+8. Which SQL command is used to remove a table from a database?
+A) DELETE
+B) DROP
+C) REMOVE
+D) ERASE
+Answer: B
+
+9. What is normalization in databases?
+A) Increasing redundancy
+B) Organizing data to reduce redundancy
+C) Deleting data
+D) Encrypting data
+Answer: B
+
+10. Which of the following is a NoSQL database?
+A) Oracle
+B) PostgreSQL
+C) MongoDB
+D) MySQL
+Answer: C
+
+11. What does ACID stand for in database systems?
+A) Atomicity, Consistency, Isolation, Durability
+B) Access, Control, Integrity, Data
+C) Accuracy, Consistency, Isolation, Durability
+D) Atomicity, Control, Integrity, Data
+Answer: A
+
+12. Which SQL clause is used to filter the results of a query?
+A) WHERE
+B) ORDER BY
+C) GROUP BY
+D) HAVING
+Answer: A
+
+13. What is a view in SQL?
+A) A physical table
+B) A virtual table
+C) A stored procedure
+D) A trigger
+Answer: B
+
+14. Which command is used to add new data into a database table?
+A) INSERT
+B) UPDATE
+C) SELECT
+D) ALTER
+Answer: A
+
+15. What is the default port number for MySQL?
+A) 3306
+B) 1433
+C) 1521
+D) 5432
+Answer: A
+
+16. Which of the following is used to ensure the uniqueness of values in a column?
+A) Foreign Key
+B) Unique Constraint
+C) Index
+D) Check Constraint
+Answer: B
+
+17. What is a transaction in a database?
+A) A single SQL query
+B) A group of operations performed as a single unit
+C) A backup process
+D) A type of database
+Answer: B
+
+18. Which SQL statement is used to modify existing data in a table?
+A) UPDATE
+B) INSERT
+C) SELECT
+D) CREATE
+Answer: A
+
+19. What is the main function of the SELECT statement in SQL?
+A) To retrieve data
+B) To delete data
+C) To update data
+D) To create tables
+Answer: A
+
+20. Which of the following is a column in a table that uniquely identifies each row?
+A) Foreign Key
+B) Primary Key
+C) Index
+D) View
+Answer: B
+
+21. What is a schema in a database?
+A) A type of query
+B) The structure that defines the organization of data
+C) A backup file
+D) A user account
+Answer: B
+
+22. Which of the following is NOT a valid SQL data type?
+A) VARCHAR
+B) INTEGER
+C) FLOAT
+D) NUMBERIC
+Answer: D
+
+23. What is the purpose of the GROUP BY clause in SQL?
+A) To filter rows
+B) To group rows that have the same values
+C) To sort rows
+D) To join tables
+Answer: B
+
+24. Which of the following is a DML command?
+A) CREATE
+B) DROP
+C) INSERT
+D) ALTER
+Answer: C
+
+25. What is an index in a database?
+A) A backup file
+B) A data structure to speed up data retrieval
+C) A type of key
+D) A user account
+Answer: B
+
+26. Which of the following is used to enforce referential integrity?
+A) Primary Key
+B) Foreign Key
+C) Unique Constraint
+D) Index
+Answer: B
+
+27. What is a trigger in a database?
+A) A type of table
+B) A stored procedure that runs automatically in response to events
+C) A backup process
+D) A type of index
+Answer: B
+
+28. Which SQL keyword is used to sort the result-set?
+A) ORDER BY
+B) GROUP BY
+C) HAVING
+D) WHERE
+Answer: A
+
+29. What is the maximum number of primary keys a table can have?
+A) 0
+B) 1
+C) 2
+D) Unlimited
+Answer: B
+
+30. Which of the following is NOT a property of a transaction?
+A) Atomicity
+B) Consistency
+C) Isolation
+D) Redundancy
+Answer: D
+
+31. What is the function of the HAVING clause in SQL?
+A) To filter groups
+B) To filter rows
+C) To join tables
+D) To create tables
+Answer: A
+
+32. Which of the following is a command to change the structure of a table?
+A) ALTER
+B) SELECT
+C) INSERT
+D) DROP
+Answer: A
+
+33. What is a composite key?
+A) A key made up of two or more columns
+B) A key that is always unique
+C) A key that is always foreign
+D) A key that is always primary
+Answer: A
+
+34. Which of the following is NOT a valid SQL command?
+A) SELECT
+B) UPDATE
+C) DELETE
+D) MODIFY
+Answer: D
+
+35. What is a candidate key?
+A) A key that can uniquely identify a record
+B) A key that is always foreign
+C) A key that is always primary
+D) A key that is always composite
+Answer: A
+
+36. Which of the following is used to remove duplicate rows in SQL?
+A) DISTINCT
+B) UNIQUE
+C) PRIMARY
+D) FOREIGN
+Answer: A
+
+37. What is the purpose of the JOIN operation in SQL?
+A) To combine rows from two or more tables
+B) To delete rows
+C) To update rows
+D) To create tables
+Answer: A
+
+38. Which of the following is NOT a type of JOIN in SQL?
+A) INNER JOIN
+B) OUTER JOIN
+C) CROSS JOIN
+D) UPPER JOIN
+Answer: D
+
+39. What is a database cursor?
+A) A pointer to a result set
+B) A type of key
+C) A type of table
+D) A type of index
+Answer: A
+
+40. Which of the following is a command to permanently save changes in a database?
+A) SAVE
+B) COMMIT
+C) ROLLBACK
+D) UPDATE
+Answer: B
+
+41. What is the function of the ROLLBACK command?
+A) To save changes
+B) To undo changes
+C) To delete a table
+D) To create a table
+Answer: B
+
+42. Which of the following is a DDL command?
+A) SELECT
+B) INSERT
+C) CREATE
+D) UPDATE
+Answer: C
+
+43. What is a surrogate key?
+A) A system-generated unique identifier
+B) A user-defined key
+C) A foreign key
+D) A composite key
+Answer: A
+
+44. Which of the following is NOT a valid constraint in SQL?
+A) PRIMARY KEY
+B) FOREIGN KEY
+C) CHECK
+D) REFERENCE
+Answer: D
+
+45. What is the main purpose of a database index?
+A) To increase redundancy
+B) To speed up data retrieval
+C) To store images
+D) To create tables
+Answer: B
+
+46. Which of the following is a command to delete all rows from a table but keep its structure?
+A) DROP
+B) DELETE
+C) TRUNCATE
+D) REMOVE
+Answer: C
+
+47. What is a stored procedure?
+A) A precompiled collection of SQL statements
+B) A type of table
+C) A type of index
+D) A type of key
+Answer: A
+
+48. Which of the following is NOT a valid SQL aggregate function?
+A) SUM
+B) AVG
+C) COUNT
+D) MULTIPLY
+Answer: D
+
+49. What is the purpose of the UNIQUE constraint?
+A) To allow duplicate values
+B) To ensure all values are unique
+C) To create a foreign key
+D) To create a primary key
+Answer: B
+
+50. Which of the following is a command to change the name of a table?
+A) RENAME
+B) ALTER
+C) UPDATE
+D) MODIFY
+Answer: A
+
+51. What is a database transaction log?
+A) A record of all changes made to the database
+B) A backup file
+C) A type of table
+D) A type of key
+Answer: A
+
+52. Which of the following is NOT a valid SQL operator?
+A) AND
+B) OR
+C) NOT
+D) BETWEENST
+Answer: D
+
+53. What is the purpose of the CHECK constraint?
+A) To enforce a condition on a column
+B) To create a primary key
+C) To create a foreign key
+D) To create an index
+Answer: A
+
+54. Which of the following is a command to remove a specific row from a table?
+A) DROP
+B) DELETE
+C) TRUNCATE
+D) REMOVE
+Answer: B
+
+55. What is a database deadlock?
+A) When two transactions wait for each other to release locks
+B) When a table is deleted
+C) When a database is full
+D) When a query fails
+Answer: A
+
+56. Which of the following is NOT a valid SQL keyword?
+A) SELECT
+B) UPDATE
+C) REMOVE
+D) INSERT
+Answer: C
+
+57. What is the purpose of the DEFAULT constraint?
+A) To set a default value for a column
+B) To create a primary key
+C) To create a foreign key
+D) To create an index
+Answer: A
+
+58. Which of the following is a command to retrieve unique values from a column?
+A) SELECT DISTINCT
+B) SELECT UNIQUE
+C) SELECT ONLY
+D) SELECT SINGLE
+Answer: A
+
+59. What is a subquery in SQL?
+A) A query within another query
+B) A type of table
+C) A type of index
+D) A type of key
+Answer: A
+
+60. Which of the following is NOT a valid SQL clause?
+A) WHERE
+B) ORDER BY
+C) GROUP BY
+D) SORT BY
+Answer: D
+
+61. What is the purpose of the LIMIT clause in SQL?
+A) To limit the number of rows returned
+B) To limit the number of columns
+C) To limit the number of tables
+D) To limit the number of queries
+Answer: A
+
+62. Which of the following is a command to add a new column to a table?
+A) ALTER TABLE ... ADD
+B) UPDATE TABLE ... ADD
+C) INSERT TABLE ... ADD
+D) CREATE TABLE ... ADD
+Answer: A
+
+63. What is a database view?
+A) A virtual table based on the result of a query
+B) A physical table
+C) A type of index
+D) A type of key
+Answer: A
+
+64. Which of the following is NOT a valid SQL join type?
+A) INNER JOIN
+B) OUTER JOIN
+C) LEFT JOIN
+D) UPPER JOIN
+Answer: D
+
+65. What is the purpose of the SQL COUNT() function?
+A) To count the number of rows
+B) To sum values
+C) To find the average
+D) To find the maximum value
+Answer: A
+
+66. Which of the following is a command to remove a column from a table?
+A) ALTER TABLE ... DROP COLUMN
+B) UPDATE TABLE ... DROP COLUMN
+C) DELETE TABLE ... DROP COLUMN
+D) REMOVE TABLE ... DROP COLUMN
+Answer: A
+
+67. What is a clustered index?
+A) An index that determines the physical order of data in a table
+B) An index that is not unique
+C) An index that is always primary
+D) An index that is always foreign
+Answer: A
+
+68. Which of the following is NOT a valid SQL set operation?
+A) UNION
+B) INTERSECT
+C) EXCEPT
+D) COMBINE
+Answer: D
+
+69. What is the purpose of the SQL AVG() function?
+A) To calculate the average value
+B) To count the number of rows
+C) To find the maximum value
+D) To sum values
+Answer: A
+
+70. Which of the following is a command to change the data type of a column?
+A) ALTER TABLE ... MODIFY
+B) UPDATE TABLE ... MODIFY
+C) INSERT TABLE ... MODIFY
+D) CREATE TABLE ... MODIFY
+Answer: A
+
+71. What is a non-clustered index?
+A) An index that does not affect the physical order of data
+B) An index that is always unique
+C) An index that is always primary
+D) An index that is always foreign
+Answer: A
+
+72. Which of the following is NOT a valid SQL function?
+A) SUM()
+B) AVG()
+C) MAX()
+D) ADD()
+Answer: D
+
+73. What is the purpose of the SQL MIN() function?
+A) To find the minimum value
+B) To find the maximum value
+C) To sum values
+D) To count the number of rows
+Answer: A
+
+74. Which of the following is a command to rename a column in a table?
+A) ALTER TABLE ... RENAME COLUMN
+B) UPDATE TABLE ... RENAME COLUMN
+C) INSERT TABLE ... RENAME COLUMN
+D) CREATE TABLE ... RENAME COLUMN
+Answer: A
+
+75. What is a self join in SQL?
+A) A join of a table with itself
+B) A join of two different tables
+C) A join of two databases
+D) A join of two columns
+Answer: A
+
+76. Which of the following is NOT a valid SQL comparison operator?
+A) =
+B) <>
+C) !=
+D) !<
+Answer: D
+
+77. What is the purpose of the SQL SUM() function?
+A) To sum values
+B) To count the number of rows
+C) To find the average
+D) To find the minimum value
+Answer: A
+
+78. Which of the following is a command to remove all rows from a table without logging individual row deletions?
+A) TRUNCATE
+B) DELETE
+C) DROP
+D) REMOVE
+Answer: A
+
+79. What is a cross join in SQL?
+A) A join that returns the Cartesian product of two tables
+B) A join that returns only matching rows
+C) A join that returns only non-matching rows
+D) A join that returns no rows
+Answer: A
+
+80. Which of the following is NOT a valid SQL logical operator?
+A) AND
+B) OR
+C) NOT
+D) THEN
+Answer: D
+
+81. What is the purpose of the SQL MAX() function?
+A) To find the maximum value
+B) To find the minimum value
+C) To sum values
+D) To count the number of rows
+Answer: A
+
+82. Which of the following is a command to create a new database?
+A) CREATE DATABASE
+B) NEW DATABASE
+C) MAKE DATABASE
+D) ADD DATABASE
+Answer: A
+
+83. What is a materialized view?
+A) A view whose result is stored physically
+B) A virtual table
+C) A type of index
+D) A type of key
+Answer: A
+
+84. Which of the following is NOT a valid SQL statement?
+A) SELECT
+B) UPDATE
+C) DELETE
+D) CHANGE
+Answer: D
+
+85. What is the purpose of the SQL LIKE operator?
+A) To search for a specified pattern in a column
+B) To compare two columns
+C) To join tables
+D) To create tables
+Answer: A
+
+86. Which of the following is a command to grant privileges to a user?
+A) GRANT
+B) GIVE
+C) ALLOW
+D) PERMIT
+Answer: A
+
+87. What is a database trigger?
+A) A procedure that is automatically executed in response to certain events
+B) A type of index
+C) A type of key
+D) A type of table
+Answer: A
+
+88. Which of the following is NOT a valid SQL constraint?
+A) PRIMARY KEY
+B) FOREIGN KEY
+C) UNIQUE
+D) DUPLICATE
+Answer: D
+
+89. What is the purpose of the SQL BETWEEN operator?
+A) To select values within a range
+B) To join tables
+C) To create tables
+D) To delete rows
+Answer: A
+
+90. Which of the following is a command to revoke privileges from a user?
+A) REVOKE
+B) REMOVE
+C) DENY
+D) DELETE
+Answer: A
+
+91. What is a database synonym?
+A) An alternative name for a database object
+B) A type of key
+C) A type of index
+D) A type of table
+Answer: A
+
+92. Which of the following is NOT a valid SQL data type?
+A) CHAR
+B) VARCHAR
+C) NUMBER
+D) STRING
+Answer: D
+
+93. What is the purpose of the SQL IN operator?
+A) To specify multiple possible values for a column
+B) To join tables
+C) To create tables
+D) To delete rows
+Answer: A
+
+94. Which of the following is a command to create a new table?
+A) CREATE TABLE
+B) NEW TABLE
+C) MAKE TABLE
+D) ADD TABLE
+Answer: A
+
+95. What is a database sequence?
+A) A database object that generates a sequence of unique numbers
+B) A type of key
+C) A type of index
+D) A type of table
+Answer: A
+
+96. Which of the following is NOT a valid SQL clause?
+A) WHERE
+B) ORDER BY
+C) GROUP BY
+D) SORT
+Answer: D
+
+97. What is the purpose of the SQL EXISTS operator?
+A) To check if a subquery returns any rows
+B) To join tables
+C) To create tables
+D) To delete rows
+Answer: A
+
+98. Which of the following is a command to change the owner of a table?
+A) ALTER TABLE ... OWNER TO
+B) UPDATE TABLE ... OWNER TO
+C) CHANGE TABLE ... OWNER TO
+D) MODIFY TABLE ... OWNER TO
+Answer: A
+
+99. What is a database partition?
+A) A division of a table into smaller, more manageable pieces
+B) A type of key
+C) A type of index
+D) A type of table
+Answer: A
+
+100. Which of the following is NOT a valid SQL statement?
+A) SELECT
+B) UPDATE
+C) DELETE
+D) MODIFY
+Answer: D
+
+101. What is the purpose of the SQL ALL operator?
+A) To compare a value to all values in another set
+B) To join tables
+C) To create tables
+D) To delete rows
+Answer: A
+
+102. Which of the following is a command to add a comment in SQL?
+A) --
+B) ##
+C) //
+D) **
+Answer: A
+
+103. What is a database constraint?
+A) A rule that restricts the values in a database
+B) A type of key
+C) A type of index
+D) A type of table
+Answer: A
+
+104. Which of the following is NOT a valid SQL keyword?
+A) SELECT
+B) UPDATE
+C) DELETE
+D) REMOVE
+Answer: D
+
+105. What is the purpose of the SQL UNION operator?
+A) To combine the result sets of two or more SELECT statements
+B) To join tables
+C) To create tables
+D) To delete rows
+Answer: A
+
+106. Which of the following is a command to create a backup of a database?
+A) BACKUP DATABASE
+B) SAVE DATABASE
+C) COPY DATABASE
+D) EXPORT DATABASE
+Answer: A
+
+107. What is a database function?
+A) A stored program that can be called to perform operations
+B) A type of key
+C) A type of index
+D) A type of table
+Answer: A
+
+108. Which of the following is NOT a valid SQL aggregate function?
+A) SUM()
+B) AVG()
+C) COUNT()
+D) MULT()
+Answer: D
+
+109. What is the purpose of the SQL ORDER BY clause?
+A) To sort the result set
+B) To filter rows
+C) To group rows
+D) To join tables
+Answer: A
+
+110. Which of the following is a command to remove a database?
+A) DROP DATABASE
+B) DELETE DATABASE
+C) REMOVE DATABASE
+D) ERASE DATABASE
+Answer: A
+
+111. What is a database synonym used for?
+A) To provide an alternative name for a database object
+B) To create a primary key
+C) To create a foreign key
+D) To create an index
+Answer: A
+
+112. Which of the following is NOT a valid SQL operator?
+A) AND
+B) OR
+C) NOT
+D) THEN
+Answer: D
+
+113. What is the purpose of the SQL CASE statement?
+A) To provide conditional logic in queries
+B) To join tables
+C) To create tables
+D) To delete rows
+Answer: A
+
+114. Which of the following is a command to change a user's password in SQL?
+A) ALTER USER ... IDENTIFIED BY
+B) UPDATE USER ... PASSWORD
+C) CHANGE USER ... PASSWORD
+D) MODIFY USER ... PASSWORD
+Answer: A
+
+115. What is a database cursor used for?
+A) To retrieve rows one at a time from a result set
+B) To create a primary key
+C) To create a foreign key
+D) To create an index
+Answer: A
+
+116. Which of the following is NOT a valid SQL clause?
+A) WHERE
+B) ORDER BY
+C) GROUP BY
+D) SORT BY
+Answer: D
+
+117. What is the purpose of the SQL COALESCE function?
+A) To return the first non-null value in a list
+B) To sum values
+C) To count the number of rows
+D) To find the maximum value
+Answer: A
+
+118. Which of the following is a command to create a new user in SQL?
+A) CREATE USER
+B) NEW USER
+C) ADD USER
+D) MAKE USER
+Answer: A
+
+119. What is a database schema?
+A) The structure that defines the organization of data
+B) A type of key
+C) A type of index
+D) A type of table
+Answer: A
+
+120. Which of the following is NOT a valid SQL data type?
+A) DATE
+B) TIME
+C) DATETIME
+D) DATETIMESTAMP
+Answer: D
+
+121. What is the purpose of the SQL NVL function?
+A) To replace NULL values with a specified value
+B) To sum values
+C) To count the number of rows
+D) To find the maximum value
+Answer: A
+
+122. Which of the following is a command to lock a table in SQL?
+A) LOCK TABLE
+B) BLOCK TABLE
+C) HOLD TABLE
+D) FREEZE TABLE
+Answer: A
+
+123. What is a database view used for?
+A) To present data in a specific format without storing it physically
+B) To create a primary key
+C) To create a foreign key
+D) To create an index
+Answer: A
+
+124. Which of the following is NOT a valid SQL join type?
+A) INNER JOIN
+B) OUTER JOIN
+C) LEFT JOIN
+D) UPPER JOIN
+Answer: D
+
+125. What is the purpose of the SQL DROP command?
+A) To remove database objects
+B) To create tables
+C) To update rows
+D) To insert rows
+Answer: A
+
+126. Which of the following is a command to change the definition of a view?
+A) CREATE OR REPLACE VIEW
+B) UPDATE VIEW
+C) MODIFY VIEW
+D) ALTER VIEW
+Answer: A
+
+127. What is a database backup?
+A) A copy of data for recovery purposes
+B) A type of key
+C) A type of index
+D) A type of table
+Answer: A
+
+128. Which of the following is NOT a valid SQL function?
+A) SUM()
+B) AVG()
+C) MAX()
+D) ADD()
+Answer: D
+
+129. What is the purpose of the SQL DISTINCT keyword?
+A) To remove duplicate rows from the result set
+B) To join tables
+C) To create tables
+D) To delete rows
+Answer: A
+
+130. Which of the following is a command to change the structure of a database?
+A) ALTER DATABASE
+B) UPDATE DATABASE
+C) MODIFY DATABASE
+D) CHANGE DATABASE
+Answer: A
+
+131. What is a database lock?
+A) A mechanism to control concurrent access to data
+B) A type of key
+C) A type of index
+D) A type of table
+Answer: A
+
+132. Which of the following is NOT a valid SQL statement?
+A) SELECT
+B) UPDATE
+C) DELETE
+D) MODIFY
+Answer: D
+
+133. What is the purpose of the SQL PRIMARY KEY constraint?
+A) To uniquely identify each record in a table
+B) To allow duplicate values
+C) To create a foreign key
+D) To create an index
+Answer: A
+
+134. Which of the following is a command to remove a user in SQL?
+A) DROP USER
+B) DELETE USER
+C) REMOVE USER
+D) ERASE USER
+Answer: A
+
+135. What is a database trigger used for?
+A) To automatically execute a procedure in response to certain events
+B) To create a primary key
+C) To create a foreign key
+D) To create an index
+Answer: A
+
+136. Which of the following is NOT a valid SQL clause?
+A) WHERE
+B) ORDER BY
+C) GROUP BY
+D) SORT
+Answer: D
+
+137. What is the purpose of the SQL FOREIGN KEY constraint?
+A) To enforce referential integrity between tables
+B) To allow duplicate values
+C) To create a primary key
+D) To create an index
+Answer: A
+
+138. Which of the following is a command to change the name of a column?
+A) ALTER TABLE ... RENAME COLUMN
+B) UPDATE TABLE ... RENAME COLUMN
+C) MODIFY TABLE ... RENAME COLUMN
+D) CHANGE TABLE ... RENAME COLUMN
+Answer: A
+
+139. What is a database index used for?
+A) To speed up data retrieval
+B) To create a primary key
+C) To create a foreign key
+D) To create a table
+Answer: A
+
+140. Which of the following is NOT a valid SQL operator?
+A) AND
+B) OR
+C) NOT
+D) THEN
+Answer: D
+
+// ... 95 more MCQs in the same format ... 

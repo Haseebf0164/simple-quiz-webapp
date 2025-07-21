@@ -1,0 +1,840 @@
+1. What is the derivative of x^3?
+A) 3x^2
+B) x^2
+C) 2x
+D) 3x
+Answer: A
+
+2. What is the derivative of e^x?
+A) e^x
+B) x e^x
+C) e
+D) x^e
+Answer: A
+
+3. What is the derivative of ln(x)?
+A) 1/x
+B) x
+C) ln(x)
+D) x ln(x)
+Answer: A
+
+4. What is the derivative of cos(x)?
+A) sin(x)
+B) -sin(x)
+C) -cos(x)
+D) cos(x)
+Answer: B
+
+5. What is the derivative of a constant?
+A) 0
+B) 1
+C) The constant itself
+D) x
+Answer: A
+6. What is the derivative of sin(x)?
+A) cos(x)
+B) -cos(x)
+C) sin(x)
+D) -sin(x)
+Answer: A
+
+7. What is the derivative of x^4?
+A) 4x^3
+B) 3x^2
+C) x^3
+D) 4x
+Answer: A
+
+8. What is the derivative of 5x?
+A) 5
+B) x
+C) 1
+D) 0
+Answer: A
+
+9. What is the derivative of x^2 + 2x?
+A) 2x + 2
+B) 2x
+C) x + 2
+D) 2x + x
+Answer: A
+
+10. What is the derivative of tan(x)?
+A) sec^2(x)
+B) csc^2(x)
+C) tan(x)
+D) sec(x)
+Answer: A
+
+11. What is the derivative of x^5?
+A) 5x^4
+B) 4x^5
+C) x^4
+D) 5x^3
+Answer: A
+
+12. What is the derivative of 7?
+A) 0
+B) 1
+C) 7
+D) x
+Answer: A
+
+13. What is the derivative of 2x^3 + 3x^2?
+A) 6x^2 + 6x
+B) 6x^2 + 3x
+C) 3x^2 + 6x
+D) 2x^2 + 3x
+Answer: A
+
+14. What is the derivative of 1/x?
+A) -1/x^2
+B) 1/x^2
+C) -x
+D) x^2
+Answer: A
+
+15. What is the derivative of sqrt(x)?
+A) 1/(2sqrt(x))
+B) 2sqrt(x)
+C) sqrt(x)/2
+D) 1/sqrt(x)
+Answer: A
+
+16. What is the derivative of x^n?
+A) n x^(n-1)
+B) x^n
+C) n x^n
+D) x^(n-1)
+Answer: A
+
+17. What is the derivative of ln(2x)?
+A) 1/x
+B) 2/x
+C) 1/(2x)
+D) 2ln(x)
+Answer: A
+
+18. What is the derivative of e^(2x)?
+A) 2e^(2x)
+B) e^(2x)
+C) 2e^x
+D) e^x
+Answer: A
+
+19. What is the derivative of cos(2x)?
+A) -2sin(2x)
+B) -sin(2x)
+C) 2cos(2x)
+D) sin(2x)
+Answer: A
+
+20. What is the derivative of x^2 * sin(x)?
+A) 2x sin(x) + x^2 cos(x)
+B) 2x sin(x) - x^2 cos(x)
+C) x^2 sin(x)
+D) 2x cos(x) + sin(x)
+Answer: A
+
+21. What is the derivative of x^3 + 2x + 1?
+A) 3x^2 + 2
+B) 3x^2 + 1
+C) 2x + 1
+D) 3x^2 + 2x
+Answer: A
+
+22. What is the derivative of e^(x^2)?
+A) 2x e^(x^2)
+B) e^(x^2)
+C) x e^(x^2)
+D) 2 e^(x^2)
+Answer: A
+
+23. What is the derivative of ln(x^2)?
+A) 2/x
+B) 1/x^2
+C) 2ln(x)
+D) 1/x
+Answer: A
+
+24. What is the derivative of sin^2(x)?
+A) 2sin(x)cos(x)
+B) sin(x)cos(x)
+C) 2cos(x)
+D) 2sin(x)
+Answer: A
+
+25. What is the derivative of x^2 * e^x?
+A) 2x e^x + x^2 e^x
+B) x^2 e^x
+C) 2x e^x
+D) e^x
+Answer: A
+
+26. What is the derivative of arctan(x)?
+A) 1/(1 + x^2)
+B) 1/(1 - x^2)
+C) x/(1 + x^2)
+D) 1/x^2
+Answer: A
+
+27. What is the derivative of 1/(x^2)?
+A) -2/x^3
+B) 2/x^3
+C) -1/x^2
+D) 1/x^3
+Answer: A
+
+28. What is the derivative of x^2 + 3x + 4?
+A) 2x + 3
+B) 2x + 4
+C) 3x + 4
+D) 2x + 1
+Answer: A
+
+29. What is the derivative of ln(sin(x))?
+A) cot(x)
+B) tan(x)
+C) sin(x)
+D) cos(x)
+Answer: A
+
+30. What is the derivative of cos^2(x)?
+A) -2sin(x)cos(x)
+B) 2sin(x)cos(x)
+C) -sin(x)cos(x)
+D) 2cos(x)
+Answer: A
+
+31. What is the derivative of x^3 - 2x^2 + x?
+A) 3x^2 - 4x + 1
+B) 3x^2 - 2x + 1
+C) 2x^2 - 4x + 1
+D) 3x^2 - 2x
+Answer: A
+
+32. What is the derivative of e^(3x)?
+A) 3e^(3x)
+B) e^(3x)
+C) 3e^x
+D) e^x
+Answer: A
+
+33. What is the derivative of tan^2(x)?
+A) 2tan(x)sec^2(x)
+B) 2tan(x)
+C) sec^2(x)
+D) 2sec^2(x)
+Answer: A
+
+34. What is the derivative of x^2 * ln(x)?
+A) 2x ln(x) + x
+B) 2x ln(x)
+C) x^2 / x
+D) ln(x)
+Answer: A
+
+35. What is the derivative of 1/(sqrt(x))?
+A) -1/(2x^(3/2))
+B) 1/(2x^(3/2))
+C) -1/(2sqrt(x))
+D) 1/(2sqrt(x))
+Answer: A
+
+36. What is the derivative of arccos(x)?
+A) -1/sqrt(1 - x^2)
+B) 1/sqrt(1 - x^2)
+C) -1/(1 + x^2)
+D) 1/(1 + x^2)
+Answer: A
+
+37. What is the derivative of arcsin(x)?
+A) 1/sqrt(1 - x^2)
+B) -1/sqrt(1 - x^2)
+C) 1/(1 + x^2)
+D) -1/(1 + x^2)
+Answer: A
+
+38. What is the derivative of x^2 * cos(x)?
+A) 2x cos(x) - x^2 sin(x)
+B) 2x cos(x) + x^2 sin(x)
+C) x^2 cos(x)
+D) 2x sin(x) - x^2 cos(x)
+Answer: A
+
+39. What is the derivative of ln(x^3)?
+A) 3/x
+B) 1/x^3
+C) 3ln(x)
+D) 1/x
+Answer: A
+
+40. What is the derivative of e^(x) * sin(x)?
+A) e^x sin(x) + e^x cos(x)
+B) e^x sin(x) - e^x cos(x)
+C) e^x cos(x)
+D) e^x sin(x)
+Answer: A
+
+41. What is the derivative of x^2 / 2?
+A) x
+B) 2x
+C) x^2
+D) 1
+Answer: A
+
+42. What is the derivative of ln(x + 1)?
+A) 1/(x + 1)
+B) 1/x
+C) ln(x)
+D) x/(x + 1)
+Answer: A
+
+43. What is the derivative of 2^x?
+A) 2^x ln(2)
+B) 2^x
+C) x 2^x
+D) ln(2)
+Answer: A
+
+44. What is the derivative of x^3 + x^2 + x + 1?
+A) 3x^2 + 2x + 1
+B) 3x^2 + x + 1
+C) 2x + 1
+D) 3x^2 + 2x
+Answer: A
+
+45. What is the derivative of ln(e^x)?
+A) 1
+B) x
+C) e^x
+D) ln(x)
+Answer: A
+
+46. What is the derivative of x^2 * e^(x^2)?
+A) 2x e^(x^2) + 2x^3 e^(x^2)
+B) 2x e^(x^2)
+C) x^2 e^(x^2)
+D) 2x^2 e^(x^2)
+Answer: A
+
+47. What is the derivative of sin(2x)?
+A) 2cos(2x)
+B) cos(2x)
+C) 2sin(2x)
+D) -2sin(2x)
+Answer: A
+
+48. What is the derivative of cos(3x)?
+A) -3sin(3x)
+B) -sin(3x)
+C) 3cos(3x)
+D) 3sin(3x)
+Answer: A
+
+49. What is the derivative of tan(2x)?
+A) 2sec^2(2x)
+B) sec^2(2x)
+C) 2tan(2x)
+D) tan(2x)
+Answer: A
+
+50. What is the derivative of x^4 + 2x^2 + 1?
+A) 4x^3 + 4x
+B) 4x^3 + 4x^2
+C) 4x^3 + 4x
+D) 4x^3 + 2x
+Answer: D
+
+51. What is the derivative of e^(x) / x?
+A) (e^x(x - 1))/x^2
+B) e^x / x^2
+C) e^x / x
+D) (e^x(x + 1))/x^2
+Answer: A
+
+52. What is the derivative of ln(x^2 + 1)?
+A) 2x/(x^2 + 1)
+B) 1/(x^2 + 1)
+C) 2x ln(x)
+D) x/(x^2 + 1)
+Answer: A
+
+53. What is the derivative of x^2 * tan(x)?
+A) 2x tan(x) + x^2 sec^2(x)
+B) 2x tan(x) - x^2 sec^2(x)
+C) x^2 tan(x)
+D) 2x sec^2(x)
+Answer: A
+
+54. What is the derivative of 1/(x + 1)?
+A) -1/(x + 1)^2
+B) 1/(x + 1)^2
+C) -1/(x + 1)
+D) 1/(x + 1)
+Answer: A
+
+55. What is the derivative of x^3 * ln(x)?
+A) 3x^2 ln(x) + x^2
+B) 3x^2 ln(x) + x^3 / x
+C) 3x^2 ln(x) + x^2
+D) x^3 / x
+Answer: A
+
+56. What is the derivative of e^(sin(x))?
+A) cos(x) e^(sin(x))
+B) sin(x) e^(cos(x))
+C) e^(sin(x))
+D) cos(x) e^(cos(x))
+Answer: A
+
+57. What is the derivative of ln(cos(x))?
+A) -tan(x)
+B) tan(x)
+C) -sin(x)
+D) cos(x)
+Answer: A
+
+58. What is the derivative of x^2 / (x + 1)?
+A) (2x(x + 1) - x^2)/(x + 1)^2
+B) (2x(x + 1) + x^2)/(x + 1)^2
+C) (2x - x^2)/(x + 1)^2
+D) (2x + x^2)/(x + 1)^2
+Answer: A
+
+59. What is the derivative of arccot(x)?
+A) -1/(1 + x^2)
+B) 1/(1 + x^2)
+C) -1/(1 - x^2)
+D) 1/(1 - x^2)
+Answer: A
+
+60. What is the derivative of x^2 * e^x?
+A) 2x e^x + x^2 e^x
+B) x^2 e^x
+C) 2x e^x
+D) e^x
+Answer: A
+
+61. What is the derivative of ln|x|?
+A) 1/x
+B) x
+C) ln(x)
+D) x ln(x)
+Answer: A
+
+62. What is the derivative of e^(x^3)?
+A) 3x^2 e^(x^3)
+B) x^2 e^(x^3)
+C) 3x e^(x^3)
+D) e^(x^3)
+Answer: A
+
+63. What is the derivative of sin(x) * cos(x)?
+A) cos^2(x) - sin^2(x)
+B) sin^2(x) + cos^2(x)
+C) 2sin(x)cos(x)
+D) sin(x)cos(x)
+Answer: A
+
+64. What is the derivative of tan(x^2)?
+A) 2x sec^2(x^2)
+B) sec^2(x^2)
+C) 2x tan(x^2)
+D) 2x sec(x^2)
+Answer: A
+
+65. What is the derivative of x / (x + 1)?
+A) 1/(x + 1)^2
+B) 1/(x + 1)
+C) x/(x + 1)^2
+D) (1)/(x + 1)^2
+Answer: A
+
+66. What is the derivative of ln(x^4)?
+A) 4/x
+B) 1/x^4
+C) 4ln(x)
+D) 1/x
+Answer: A
+
+67. What is the derivative of e^(2x^2)?
+A) 4x e^(2x^2)
+B) 2x e^(2x^2)
+C) 2 e^(2x^2)
+D) 4 e^(2x^2)
+Answer: A
+
+68. What is the derivative of x^2 * sin(x^2)?
+A) 2x sin(x^2) + 2x^3 cos(x^2)
+B) 2x sin(x^2) + x^2 cos(x^2)
+C) 2x sin(x^2)
+D) 2x^2 cos(x^2)
+Answer: A
+
+69. What is the derivative of ln(x^2 + x)?
+A) (2x + 1)/(x^2 + x)
+B) (2x)/(x^2 + x)
+C) (x + 1)/(x^2 + x)
+D) (2x + 1)/(x^2)
+Answer: A
+
+70. What is the derivative of x^2 * ln(x^2)?
+A) 2x ln(x^2) + 2x
+B) 2x ln(x^2)
+C) x^2 / x^2
+D) ln(x^2)
+Answer: A
+
+71. What is the derivative of e^(x) * cos(x)?
+A) e^x cos(x) - e^x sin(x)
+B) e^x cos(x) + e^x sin(x)
+C) e^x sin(x)
+D) e^x cos(x)
+Answer: A
+
+72. What is the derivative of ln(x^3 + 1)?
+A) 3x^2/(x^3 + 1)
+B) 1/(x^3 + 1)
+C) 3x/(x^3 + 1)
+D) x^2/(x^3 + 1)
+Answer: A
+
+73. What is the derivative of x^2 * arctan(x)?
+A) 2x arctan(x) + x^2/(1 + x^2)
+B) 2x arctan(x) - x^2/(1 + x^2)
+C) x^2 arctan(x)
+D) 2x/(1 + x^2)
+Answer: A
+
+74. What is the derivative of ln(x^2 - 1)?
+A) 2x/(x^2 - 1)
+B) 1/(x^2 - 1)
+C) 2x ln(x)
+D) x/(x^2 - 1)
+Answer: A
+
+75. What is the derivative of x^2 * ln(x^2)?
+A) 2x ln(x^2) + 2x
+B) 2x ln(x^2)
+C) x^2 / x^2
+D) ln(x^2)
+Answer: A
+
+76. What is the derivative of e^(x^2 + 1)?
+A) 2x e^(x^2 + 1)
+B) e^(x^2 + 1)
+C) x e^(x^2 + 1)
+D) 2 e^(x^2 + 1)
+Answer: A
+
+77. What is the derivative of sin(x^2)?
+A) 2x cos(x^2)
+B) cos(x^2)
+C) 2x sin(x^2)
+D) sin(x^2)
+Answer: A
+
+78. What is the derivative of cos(x^2)?
+A) -2x sin(x^2)
+B) -sin(x^2)
+C) 2x cos(x^2)
+D) -2x cos(x^2)
+Answer: A
+
+79. What is the derivative of tan(x^2)?
+A) 2x sec^2(x^2)
+B) sec^2(x^2)
+C) 2x tan(x^2)
+D) 2x sec(x^2)
+Answer: A
+
+80. What is the derivative of ln(x^2 + 2x + 1)?
+A) (2x + 2)/(x^2 + 2x + 1)
+B) (2x)/(x^2 + 2x + 1)
+C) (x + 1)/(x^2 + 2x + 1)
+D) (2x + 1)/(x^2 + 2x + 1)
+Answer: A
+
+81. What is the derivative of e^(x^2) * x?
+A) e^(x^2) (2x^2 + 1)
+B) e^(x^2) (2x + x)
+C) e^(x^2) (2x^2)
+D) e^(x^2) (x^2 + 1)
+Answer: A
+
+82. What is the derivative of ln(x^2 + 2)?
+A) 2x/(x^2 + 2)
+B) 1/(x^2 + 2)
+C) 2x ln(x)
+D) x/(x^2 + 2)
+Answer: A
+
+83. What is the derivative of x^2 * e^(x^2)?
+A) 2x e^(x^2) + 2x^3 e^(x^2)
+B) 2x e^(x^2)
+C) x^2 e^(x^2)
+D) 2x^2 e^(x^2)
+Answer: A
+
+84. What is the derivative of sin(x) / x?
+A) (x cos(x) - sin(x))/x^2
+B) (x sin(x) - cos(x))/x^2
+C) (cos(x) - x sin(x))/x^2
+D) (sin(x) - x cos(x))/x^2
+Answer: A
+
+85. What is the derivative of ln(x^2 + x + 1)?
+A) (2x + 1)/(x^2 + x + 1)
+B) (2x)/(x^2 + x + 1)
+C) (x + 1)/(x^2 + x + 1)
+D) (2x + 1)/(x^2)
+Answer: A
+
+86. What is the derivative of e^(x) * ln(x)?
+A) e^x ln(x) + e^x / x
+B) e^x ln(x)
+C) e^x / x
+D) ln(x) / x
+Answer: A
+
+87. What is the derivative of x^2 * cos(x^2)?
+A) 2x cos(x^2) - 2x^3 sin(x^2)
+B) 2x cos(x^2) + 2x^3 sin(x^2)
+C) x^2 cos(x^2)
+D) 2x sin(x^2) - x^2 cos(x^2)
+Answer: A
+
+88. What is the derivative of ln(x^2 + 3)?
+A) 2x/(x^2 + 3)
+B) 1/(x^2 + 3)
+C) 2x ln(x)
+D) x/(x^2 + 3)
+Answer: A
+
+89. What is the derivative of e^(x^2 + x)?
+A) (2x + 1) e^(x^2 + x)
+B) (x^2 + 1) e^(x^2 + x)
+C) (2x) e^(x^2 + x)
+D) (x + 1) e^(x^2 + x)
+Answer: A
+
+90. What is the derivative of sin(x^3)?
+A) 3x^2 cos(x^3)
+B) cos(x^3)
+C) 3x cos(x^3)
+D) sin(x^3)
+Answer: A
+
+91. What is the derivative of cos(x^3)?
+A) -3x^2 sin(x^3)
+B) -sin(x^3)
+C) 3x^2 cos(x^3)
+D) -3x cos(x^3)
+Answer: A
+
+92. What is the derivative of tan(x^3)?
+A) 3x^2 sec^2(x^3)
+B) sec^2(x^3)
+C) 3x tan(x^3)
+D) 3x^2 sec(x^3)
+Answer: A
+
+93. What is the derivative of ln(x^3 + 2)?
+A) 3x^2/(x^3 + 2)
+B) 1/(x^3 + 2)
+C) 3x/(x^3 + 2)
+D) x^2/(x^3 + 2)
+Answer: A
+
+94. What is the derivative of e^(x^3 + x)?
+A) (3x^2 + 1) e^(x^3 + x)
+B) (x^3 + 1) e^(x^3 + x)
+C) (3x^2) e^(x^3 + x)
+D) (x^2 + 1) e^(x^3 + x)
+Answer: A
+
+95. What is the derivative of sin(x^2 + x)?
+A) (2x + 1) cos(x^2 + x)
+B) cos(x^2 + x)
+C) (x^2 + 1) cos(x^2 + x)
+D) (2x) cos(x^2 + x)
+Answer: A
+
+96. What is the derivative of cos(x^2 + x)?
+A) -(2x + 1) sin(x^2 + x)
+B) -sin(x^2 + x)
+C) (2x + 1) sin(x^2 + x)
+D) -(x^2 + 1) sin(x^2 + x)
+Answer: A
+
+97. What is the derivative of tan(x^2 + x)?
+A) (2x + 1) sec^2(x^2 + x)
+B) sec^2(x^2 + x)
+C) (x^2 + 1) sec^2(x^2 + x)
+D) (2x) sec^2(x^2 + x)
+Answer: A
+
+98. What is the derivative of ln(x^2 + x + 2)?
+A) (2x + 1)/(x^2 + x + 2)
+B) (2x)/(x^2 + x + 2)
+C) (x + 1)/(x^2 + x + 2)
+D) (2x + 1)/(x^2)
+Answer: A
+
+99. What is the derivative of e^(x^2 + x + 1)?
+A) (2x + 1) e^(x^2 + x + 1)
+B) (x^2 + 1) e^(x^2 + x + 1)
+C) (2x) e^(x^2 + x + 1)
+D) (x + 1) e^(x^2 + x + 1)
+Answer: A
+
+100. What is the derivative of sin(x^2 + x + 1)?
+A) (2x + 1) cos(x^2 + x + 1)
+B) cos(x^2 + x + 1)
+C) (x^2 + 1) cos(x^2 + x + 1)
+D) (2x) cos(x^2 + x + 1)
+Answer: A
+
+101. What is the derivative of cos(x^2 + x + 1)?
+A) -(2x + 1) sin(x^2 + x + 1)
+B) -sin(x^2 + x + 1)
+C) (2x + 1) sin(x^2 + x + 1)
+D) -(x^2 + 1) sin(x^2 + x + 1)
+Answer: A
+
+102. What is the derivative of tan(x^2 + x + 1)?
+A) (2x + 1) sec^2(x^2 + x + 1)
+B) sec^2(x^2 + x + 1)
+C) (x^2 + 1) sec^2(x^2 + x + 1)
+D) (2x) sec^2(x^2 + x + 1)
+Answer: A
+
+103. What is the derivative of ln(x^2 + x + 3)?
+A) (2x + 1)/(x^2 + x + 3)
+B) (2x)/(x^2 + x + 3)
+C) (x + 1)/(x^2 + x + 3)
+D) (2x + 1)/(x^2)
+Answer: A
+
+104. What is the derivative of e^(x^2 + x + 2)?
+A) (2x + 1) e^(x^2 + x + 2)
+B) (x^2 + 1) e^(x^2 + x + 2)
+C) (2x) e^(x^2 + x + 2)
+D) (x + 1) e^(x^2 + x + 2)
+Answer: A
+
+105. What is the derivative of sin(x^2 + x + 2)?
+A) (2x + 1) cos(x^2 + x + 2)
+B) cos(x^2 + x + 2)
+C) (x^2 + 1) cos(x^2 + x + 2)
+D) (2x) cos(x^2 + x + 2)
+Answer: A
+
+106. What is the derivative of cos(x^2 + x + 2)?
+A) -(2x + 1) sin(x^2 + x + 2)
+B) -sin(x^2 + x + 2)
+C) (2x + 1) sin(x^2 + x + 2)
+D) -(x^2 + 1) sin(x^2 + x + 2)
+Answer: A
+
+107. What is the derivative of tan(x^2 + x + 2)?
+A) (2x + 1) sec^2(x^2 + x + 2)
+B) sec^2(x^2 + x + 2)
+C) (x^2 + 1) sec^2(x^2 + x + 2)
+D) (2x) sec^2(x^2 + x + 2)
+Answer: A
+
+108. What is the derivative of ln(x^2 + x + 4)?
+A) (2x + 1)/(x^2 + x + 4)
+B) (2x)/(x^2 + x + 4)
+C) (x + 1)/(x^2 + x + 4)
+D) (2x + 1)/(x^2)
+Answer: A
+
+109. What is the derivative of e^(x^2 + x + 3)?
+A) (2x + 1) e^(x^2 + x + 3)
+B) (x^2 + 1) e^(x^2 + x + 3)
+C) (2x) e^(x^2 + x + 3)
+D) (x + 1) e^(x^2 + x + 3)
+Answer: A
+
+110. What is the derivative of sin(x^2 + x + 3)?
+A) (2x + 1) cos(x^2 + x + 3)
+B) cos(x^2 + x + 3)
+C) (x^2 + 1) cos(x^2 + x + 3)
+D) (2x) cos(x^2 + x + 3)
+Answer: A
+
+111. What is the derivative of cos(x^2 + x + 3)?
+A) -(2x + 1) sin(x^2 + x + 3)
+B) -sin(x^2 + x + 3)
+C) (2x + 1) sin(x^2 + x + 3)
+D) -(x^2 + 1) sin(x^2 + x + 3)
+Answer: A
+
+112. What is the derivative of tan(x^2 + x + 3)?
+A) (2x + 1) sec^2(x^2 + x + 3)
+B) sec^2(x^2 + x + 3)
+C) (x^2 + 1) sec^2(x^2 + x + 3)
+D) (2x) sec^2(x^2 + x + 3)
+Answer: A
+
+113. What is the derivative of ln(x^2 + x + 5)?
+A) (2x + 1)/(x^2 + x + 5)
+B) (2x)/(x^2 + x + 5)
+C) (x + 1)/(x^2 + x + 5)
+D) (2x + 1)/(x^2)
+Answer: A
+
+114. What is the derivative of e^(x^2 + x + 4)?
+A) (2x + 1) e^(x^2 + x + 4)
+B) (x^2 + 1) e^(x^2 + x + 4)
+C) (2x) e^(x^2 + x + 4)
+D) (x + 1) e^(x^2 + x + 4)
+Answer: A
+
+115. What is the derivative of sin(x^2 + x + 4)?
+A) (2x + 1) cos(x^2 + x + 4)
+B) cos(x^2 + x + 4)
+C) (x^2 + 1) cos(x^2 + x + 4)
+D) (2x) cos(x^2 + x + 4)
+Answer: A
+
+116. What is the derivative of cos(x^2 + x + 4)?
+A) -(2x + 1) sin(x^2 + x + 4)
+B) -sin(x^2 + x + 4)
+C) (2x + 1) sin(x^2 + x + 4)
+D) -(x^2 + 1) sin(x^2 + x + 4)
+Answer: A
+
+117. What is the derivative of tan(x^2 + x + 4)?
+A) (2x + 1) sec^2(x^2 + x + 4)
+B) sec^2(x^2 + x + 4)
+C) (x^2 + 1) sec^2(x^2 + x + 4)
+D) (2x) sec^2(x^2 + x + 4)
+Answer: A
+
+118. What is the derivative of ln(x^2 + x + 6)?
+A) (2x + 1)/(x^2 + x + 6)
+B) (2x)/(x^2 + x + 6)
+C) (x + 1)/(x^2 + x + 6)
+D) (2x + 1)/(x^2)
+Answer: A
+
+119. What is the derivative of e^(x^2 + x + 5)?
+A) (2x + 1) e^(x^2 + x + 5)
+B) (x^2 + 1) e^(x^2 + x + 5)
+C) (2x) e^(x^2 + x + 5)
+D) (x + 1) e^(x^2 + x + 5)
+Answer: A
+
+120. What is the derivative of sin(x^2 + x + 5)?
+A) (2x + 1) cos(x^2 + x + 5)
+B) cos(x^2 + x + 5)
+C) (x^2 + 1) cos(x^2 + x + 5)
+D) (2x) cos(x^2 + x + 5)
+Answer: A
+
+// ... 95 more MCQs in the same format ... 

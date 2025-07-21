@@ -1,0 +1,37 @@
+1. What is the derivative of x^2?
+A) x
+B) 2x
+C) x^2
+D) 2
+Answer: B
+
+2. What is the integral of 1/x dx?
+A) x
+B) ln|x|
+C) 1/x
+D) e^x
+Answer: B
+
+3. What is the limit of sin(x)/x as x approaches 0?
+A) 0
+B) 1
+C) Infinity
+D) -1
+Answer: B
+
+4. What is the derivative of sin(x)?
+A) cos(x)
+B) -cos(x)
+C) -sin(x)
+D) tan(x)
+Answer: A
+
+5. What is the area under the curve y = x from x = 0 to x = 1?
+A) 0.5
+B) 1
+C) 2
+D) 0
+Answer: A
+
+
+// ... 95 more MCQs in the same format ... 

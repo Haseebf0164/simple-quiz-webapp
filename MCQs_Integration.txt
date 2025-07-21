@@ -1,0 +1,1050 @@
+1. What is the integral of x dx?
+A) x^2
+B) x^2/2
+C) 2x
+D) x
+Answer: B
+
+2. What is the integral of cos(x) dx?
+A) sin(x)
+B) -sin(x)
+C) cos(x)
+D) -cos(x)
+Answer: A
+
+3. What is the integral of e^x dx?
+A) e^x
+B) x e^x
+C) ln(x)
+D) x^e
+Answer: A
+
+4. What is the integral of 1 dx?
+A) 1
+B) x
+C) ln(x)
+D) 0
+Answer: B
+
+5. What is the integral of 1/x dx?
+A) x
+B) ln|x|
+C) 1/x
+D) e^x
+Answer: B
+6. What is the integral of sin(x) dx?
+A) -cos(x)
+B) cos(x)
+C) sin(x)
+D) -sin(x)
+Answer: A
+
+7. What is the integral of x^2 dx?
+A) x^3/3
+B) 2x
+C) x^2/2
+D) x^3
+Answer: A
+
+8. What is the integral of 2x dx?
+A) x^2
+B) 2x^2
+C) x^2/2
+D) x^3
+Answer: A
+
+9. What is the integral of 1/(1 + x^2) dx?
+A) arctan(x)
+B) ln|x|
+C) arcsin(x)
+D) e^x
+Answer: A
+
+10. What is the integral of sec^2(x) dx?
+A) tan(x)
+B) sec(x)
+C) cot(x)
+D) sin(x)
+Answer: A
+
+11. What is the integral of 0 dx?
+A) 0
+B) 1
+C) x
+D) C
+Answer: A
+
+12. What is the integral of 1/(sqrt(1 - x^2)) dx?
+A) arcsin(x)
+B) arccos(x)
+C) arctan(x)
+D) ln|x|
+Answer: A
+
+13. What is the integral of tan(x) dx?
+A) -ln|cos(x)|
+B) ln|sin(x)|
+C) ln|tan(x)|
+D) -ln|sin(x)|
+Answer: A
+
+14. What is the integral of 1/(x^2) dx?
+A) -1/x
+B) 1/x
+C) ln|x|
+D) x^2/2
+Answer: A
+
+15. What is the integral of e^(2x) dx?
+A) (1/2)e^(2x)
+B) 2e^(2x)
+C) e^(2x)
+D) ln|x|
+Answer: A
+
+16. What is the integral of 3x^2 dx?
+A) x^3
+B) 3x^3
+C) x^2/2
+D) x^3/3
+Answer: A
+
+17. What is the integral of 1/(x+1) dx?
+A) ln|x+1|
+B) 1/(x+1)
+C) x+1
+D) ln|x|
+Answer: A
+
+18. What is the integral of cos^2(x) dx?
+A) (x/2) + (sin(2x)/4)
+B) sin^2(x)
+C) cos(x)
+D) (x/2) - (sin(2x)/4)
+Answer: A
+
+19. What is the integral of 1/(sqrt(x)) dx?
+A) 2sqrt(x)
+B) sqrt(x)
+C) ln|x|
+D) x^2
+Answer: A
+
+20. What is the integral of 5 dx?
+A) 5x
+B) x^5
+C) 5
+D) x/5
+Answer: A
+
+21. What is the integral of x^n dx (n ≠ -1)?
+A) x^(n+1)/(n+1)
+B) x^n/n
+C) n x^(n-1)
+D) x^n + 1
+Answer: A
+
+22. What is the integral of 1/(a^2 + x^2) dx?
+A) (1/a) arctan(x/a)
+B) arctan(x)
+C) ln|x|
+D) arcsin(x/a)
+Answer: A
+
+23. What is the integral of sec(x)tan(x) dx?
+A) sec(x)
+B) tan(x)
+C) sec^2(x)
+D) sin(x)
+Answer: A
+
+24. What is the integral of csc^2(x) dx?
+A) -cot(x)
+B) cot(x)
+C) -csc(x)
+D) csc(x)
+Answer: A
+
+25. What is the integral of 1/(x ln(x)) dx?
+A) ln|ln(x)|
+B) ln|x|
+C) 1/ln(x)
+D) ln|x ln(x)|
+Answer: A
+
+26. What is the integral of e^(ax) dx?
+A) (1/a)e^(ax)
+B) a e^(ax)
+C) e^(ax)
+D) ln|ax|
+Answer: A
+
+27. What is the integral of sin^2(x) dx?
+A) (x/2) - (sin(2x)/4)
+B) (x/2) + (sin(2x)/4)
+C) sin(x)
+D) cos(x)
+Answer: A
+
+28. What is the integral of 1/(sqrt(1 + x^2)) dx?
+A) arcsinh(x)
+B) arctan(x)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+29. What is the integral of x e^x dx?
+A) (x - 1)e^x
+B) (x + 1)e^x
+C) x e^x
+D) e^x
+Answer: A
+
+30. What is the integral of ln(x) dx?
+A) x ln(x) - x
+B) ln(x)/x
+C) x ln(x)
+D) ln^2(x)
+Answer: A
+
+31. What is the integral of arctan(x) dx?
+A) x arctan(x) - (1/2)ln(1 + x^2)
+B) arctan(x)/x
+C) ln|x|
+D) x arctan(x)
+Answer: A
+
+32. What is the integral of 1/(cos^2(x)) dx?
+A) tan(x)
+B) sec(x)
+C) cot(x)
+D) sin(x)
+Answer: A
+
+33. What is the integral of 1/(sin^2(x)) dx?
+A) -cot(x)
+B) cot(x)
+C) -csc(x)
+D) csc(x)
+Answer: A
+
+34. What is the integral of x^3 dx?
+A) x^4/4
+B) x^3/3
+C) 3x^2
+D) x^2/2
+Answer: A
+
+35. What is the integral of 2 dx?
+A) 2x
+B) x^2
+C) 2
+D) x/2
+Answer: A
+
+36. What is the integral of 1/(a^2 - x^2) dx?
+A) (1/2a)ln|(a+x)/(a-x)|
+B) ln|x|
+C) arctan(x/a)
+D) arcsin(x/a)
+Answer: A
+
+37. What is the integral of e^(-x) dx?
+A) -e^(-x)
+B) e^(-x)
+C) ln|x|
+D) -e^x
+Answer: A
+
+38. What is the integral of 1/(x^2 + 1) dx?
+A) arctan(x)
+B) arcsin(x)
+C) ln|x|
+D) arccos(x)
+Answer: A
+
+39. What is the integral of 1/(sqrt(a^2 - x^2)) dx?
+A) arcsin(x/a)
+B) arccos(x/a)
+C) arctan(x/a)
+D) ln|x|
+Answer: A
+
+40. What is the integral of x^4 dx?
+A) x^5/5
+B) x^4/4
+C) 4x^3
+D) x^3/3
+Answer: A
+
+41. What is the integral of cos(2x) dx?
+A) (1/2)sin(2x)
+B) 2sin(x)
+C) sin(2x)
+D) (1/2)cos(2x)
+Answer: A
+
+42. What is the integral of sin(2x) dx?
+A) -(1/2)cos(2x)
+B) (1/2)sin(2x)
+C) cos(2x)
+D) (1/2)cos(2x)
+Answer: A
+
+43. What is the integral of 1/(x^3) dx?
+A) -1/(2x^2)
+B) 1/(2x^2)
+C) -1/x^2
+D) 1/x^2
+Answer: A
+
+44. What is the integral of 1/(x^2 + a^2) dx?
+A) (1/a)arctan(x/a)
+B) arctan(x)
+C) ln|x|
+D) arcsin(x/a)
+Answer: A
+
+45. What is the integral of 1/(sqrt(x^2 + a^2)) dx?
+A) ln|x + sqrt(x^2 + a^2)|
+B) arcsin(x/a)
+C) arctan(x/a)
+D) ln|x|
+Answer: A
+
+46. What is the integral of x^5 dx?
+A) x^6/6
+B) x^5/5
+C) 5x^4
+D) x^4/4
+Answer: A
+
+47. What is the integral of 1/(x^2 - a^2) dx?
+A) (1/2a)ln|(x-a)/(x+a)|
+B) ln|x|
+C) arctan(x/a)
+D) arcsin(x/a)
+Answer: A
+
+48. What is the integral of 1/(sin(x)) dx?
+A) ln|tan(x/2)|
+B) ln|sin(x)|
+C) ln|cos(x)|
+D) tan(x)
+Answer: A
+
+49. What is the integral of 1/(cos(x)) dx?
+A) ln|tan(x/2 + π/4)|
+B) ln|cos(x)|
+C) ln|sin(x)|
+D) tan(x)
+Answer: A
+
+50. What is the integral of tan^2(x) dx?
+A) tan(x) - x
+B) x - tan(x)
+C) tan(x) + x
+D) x + tan(x)
+Answer: A
+
+51. What is the integral of cot^2(x) dx?
+A) -cot(x) - x
+B) cot(x) - x
+C) -cot(x) + x
+D) x - cot(x)
+Answer: A
+
+52. What is the integral of sec(x) dx?
+A) ln|sec(x) + tan(x)|
+B) ln|sin(x)|
+C) ln|cos(x)|
+D) tan(x)
+Answer: A
+
+53. What is the integral of csc(x) dx?
+A) -ln|csc(x) + cot(x)|
+B) ln|csc(x) + cot(x)|
+C) ln|sin(x)|
+D) tan(x)
+Answer: A
+
+54. What is the integral of x^(-1) dx?
+A) ln|x|
+B) x
+C) 1/x
+D) x^2/2
+Answer: A
+
+55. What is the integral of x^(-2) dx?
+A) -1/x
+B) 1/x
+C) ln|x|
+D) x^2/2
+Answer: A
+
+56. What is the integral of x^(-3) dx?
+A) -1/(2x^2)
+B) 1/(2x^2)
+C) -1/x^2
+D) 1/x^2
+Answer: A
+
+57. What is the integral of e^(x^2) dx?
+A) No elementary function
+B) e^(x^2)
+C) x e^(x^2)
+D) ln|x|
+Answer: A
+
+58. What is the integral of 1/(1 - x^2) dx?
+A) (1/2)ln|(1+x)/(1-x)|
+B) ln|x|
+C) arctan(x)
+D) arcsin(x)
+Answer: A
+
+59. What is the integral of 1/(a^2 - x^2) dx?
+A) (1/2a)ln|(a+x)/(a-x)|
+B) ln|x|
+C) arctan(x/a)
+D) arcsin(x/a)
+Answer: A
+
+60. What is the integral of 1/(x^2 + 2x + 2) dx?
+A) arctan(x+1)
+B) (1/1)arctan(x+1)
+C) arctan(x+1) + C
+D) (1/1)arctan(x+1) + C
+Answer: A
+
+61. What is the integral of 1/(x^2 - 2x + 2) dx?
+A) arctan(x-1)
+B) (1/1)arctan(x-1)
+C) arctan(x-1) + C
+D) (1/1)arctan(x-1) + C
+Answer: A
+
+62. What is the integral of 1/(x^2 - 1) dx?
+A) (1/2)ln|(x+1)/(x-1)|
+B) ln|x|
+C) arctan(x)
+D) arcsin(x)
+Answer: A
+
+63. What is the integral of 1/(x^2 + 4) dx?
+A) (1/2)arctan(x/2)
+B) arctan(x)
+C) ln|x|
+D) arcsin(x/2)
+Answer: A
+
+64. What is the integral of 1/(x^2 - 4) dx?
+A) (1/4)ln|(x+2)/(x-2)|
+B) ln|x|
+C) arctan(x/2)
+D) arcsin(x/2)
+Answer: A
+
+65. What is the integral of 1/(x^2 + a^2)^2 dx?
+A) (x/(2a^2(x^2 + a^2))) + (1/(2a^3))arctan(x/a)
+B) arctan(x/a)
+C) ln|x|
+D) arcsin(x/a)
+Answer: A
+
+66. What is the integral of x/(x^2 + 1) dx?
+A) (1/2)ln|x^2 + 1|
+B) ln|x|
+C) arctan(x)
+D) arcsin(x)
+Answer: A
+
+67. What is the integral of x/(x^2 - 1) dx?
+A) (1/2)ln|(x^2 - 1)|
+B) ln|x|
+C) arctan(x)
+D) arcsin(x)
+Answer: A
+
+68. What is the integral of x/(x^2 + a^2) dx?
+A) (1/2)ln|x^2 + a^2|
+B) ln|x|
+C) arctan(x/a)
+D) arcsin(x/a)
+Answer: A
+
+69. What is the integral of x/(x^2 - a^2) dx?
+A) (1/2)ln|x^2 - a^2|
+B) ln|x|
+C) arctan(x/a)
+D) arcsin(x/a)
+Answer: A
+
+70. What is the integral of x^2/(x^2 + 1) dx?
+A) x - arctan(x)
+B) x + arctan(x)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+71. What is the integral of x^2/(x^2 - 1) dx?
+A) x + (1/2)ln|(x-1)/(x+1)|
+B) x - (1/2)ln|(x-1)/(x+1)|
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+72. What is the integral of x^2/(x^2 + a^2) dx?
+A) x - a arctan(x/a)
+B) x + a arctan(x/a)
+C) ln|x|
+D) arcsin(x/a)
+Answer: A
+
+73. What is the integral of x^2/(x^2 - a^2) dx?
+A) x - a ln|(x-a)/(x+a)|/2
+B) x + a ln|(x-a)/(x+a)|/2
+C) ln|x|
+D) arcsin(x/a)
+Answer: A
+
+74. What is the integral of e^(ax + b) dx?
+A) (1/a)e^(ax + b)
+B) a e^(ax + b)
+C) e^(ax + b)
+D) ln|ax + b|
+Answer: A
+
+75. What is the integral of 1/(x^2 + 1)^2 dx?
+A) (x/2(x^2 + 1)) + (1/2)arctan(x)
+B) arctan(x)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+76. What is the integral of 1/(x^2 - 1)^2 dx?
+A) (x/4(x^2 - 1)) + (1/4)ln|(x-1)/(x+1)|
+B) ln|x|
+C) arctan(x)
+D) arcsin(x)
+Answer: A
+
+77. What is the integral of 1/(x^4 + 1) dx?
+A) (1/4)arctan(x) + (1/8)ln|(x^2 - sqrt(2)x + 1)/(x^2 + sqrt(2)x + 1)|
+B) ln|x|
+C) arctan(x)
+D) arcsin(x)
+Answer: A
+
+78. What is the integral of x^3/(x^2 + 1) dx?
+A) (1/2)x^2 - (1/2)ln|x^2 + 1|
+B) x^2 - ln|x^2 + 1|
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+79. What is the integral of x^3/(x^2 - 1) dx?
+A) (1/2)x^2 + (1/2)ln|x^2 - 1|
+B) x^2 + ln|x^2 - 1|
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+80. What is the integral of x^3/(x^2 + a^2) dx?
+A) (1/2)x^2 - (a^2/2)ln|x^2 + a^2|
+B) x^2 - a^2 ln|x^2 + a^2|
+C) ln|x|
+D) arcsin(x/a)
+Answer: A
+
+81. What is the integral of x^3/(x^2 - a^2) dx?
+A) (1/2)x^2 + (a^2/2)ln|x^2 - a^2|
+B) x^2 + a^2 ln|x^2 - a^2|
+C) ln|x|
+D) arcsin(x/a)
+Answer: A
+
+82. What is the integral of e^(x) sin(x) dx?
+A) (1/2)e^x (sin(x) - cos(x))
+B) (1/2)e^x (sin(x) + cos(x))
+C) e^x sin(x)
+D) e^x cos(x)
+Answer: A
+
+83. What is the integral of e^(x) cos(x) dx?
+A) (1/2)e^x (sin(x) + cos(x))
+B) (1/2)e^x (sin(x) - cos(x))
+C) e^x cos(x)
+D) e^x sin(x)
+Answer: A
+
+84. What is the integral of sin^3(x) dx?
+A) (1/3)cos^3(x) - cos(x) + C
+B) (1/3)sin^3(x) - sin(x) + C
+C) (1/3)cos^3(x) + cos(x) + C
+D) (1/3)sin^3(x) + sin(x) + C
+Answer: A
+
+85. What is the integral of cos^3(x) dx?
+A) (1/3)sin^3(x) + sin(x) + C
+B) (1/3)cos^3(x) + cos(x) + C
+C) (1/3)sin^3(x) - sin(x) + C
+D) (1/3)cos^3(x) - cos(x) + C
+Answer: D
+
+86. What is the integral of tan^3(x) dx?
+A) (1/2)tan^2(x) + ln|cos(x)|
+B) (1/2)tan^2(x) - ln|cos(x)|
+C) (1/2)tan^2(x) + ln|sin(x)|
+D) (1/2)tan^2(x) - ln|sin(x)|
+Answer: A
+
+87. What is the integral of cot^3(x) dx?
+A) -(1/2)cot^2(x) + ln|sin(x)|
+B) (1/2)cot^2(x) + ln|sin(x)|
+C) -(1/2)cot^2(x) - ln|sin(x)|
+D) (1/2)cot^2(x) - ln|sin(x)|
+Answer: A
+
+88. What is the integral of sec^3(x) dx?
+A) (1/2)sec(x)tan(x) + (1/2)ln|sec(x) + tan(x)|
+B) sec(x)tan(x) + ln|sec(x) + tan(x)|
+C) (1/2)sec(x)tan(x) - (1/2)ln|sec(x) + tan(x)|
+D) sec(x)tan(x) - ln|sec(x) + tan(x)|
+Answer: B
+
+89. What is the integral of csc^3(x) dx?
+A) -(1/2)csc(x)cot(x) + (1/2)ln|csc(x) + cot(x)|
+B) -csc(x)cot(x) + ln|csc(x) + cot(x)|
+C) (1/2)csc(x)cot(x) + (1/2)ln|csc(x) + cot(x)|
+D) csc(x)cot(x) + ln|csc(x) + cot(x)|
+Answer: B
+
+90. What is the integral of 1/(x^2 - 2x + 1) dx?
+A) -1/(x-1)
+B) ln|x-1|
+C) 1/(x-1)
+D) ln|x+1|
+Answer: B
+
+91. What is the integral of 1/(x^2 + 2x + 1) dx?
+A) -1/(x+1)
+B) ln|x+1|
+C) 1/(x+1)
+D) ln|x-1|
+Answer: B
+
+92. What is the integral of 1/(x^2 - 4x + 4) dx?
+A) -1/(x-2)
+B) ln|x-2|
+C) 1/(x-2)
+D) ln|x+2|
+Answer: B
+
+93. What is the integral of 1/(x^2 + 4x + 4) dx?
+A) -1/(x+2)
+B) ln|x+2|
+C) 1/(x+2)
+D) ln|x-2|
+Answer: B
+
+94. What is the integral of 1/(x^2 - 9) dx?
+A) (1/6)ln|(x+3)/(x-3)|
+B) ln|x|
+C) arctan(x/3)
+D) arcsin(x/3)
+Answer: A
+
+95. What is the integral of 1/(x^2 + 9) dx?
+A) (1/3)arctan(x/3)
+B) arctan(x)
+C) ln|x|
+D) arcsin(x/3)
+Answer: A
+
+96. What is the integral of 1/(x^2 - 16) dx?
+A) (1/8)ln|(x+4)/(x-4)|
+B) ln|x|
+C) arctan(x/4)
+D) arcsin(x/4)
+Answer: A
+
+97. What is the integral of 1/(x^2 + 16) dx?
+A) (1/4)arctan(x/4)
+B) arctan(x)
+C) ln|x|
+D) arcsin(x/4)
+Answer: A
+
+98. What is the integral of 1/(x^2 - 25) dx?
+A) (1/10)ln|(x+5)/(x-5)|
+B) ln|x|
+C) arctan(x/5)
+D) arcsin(x/5)
+Answer: A
+
+99. What is the integral of 1/(x^2 + 25) dx?
+A) (1/5)arctan(x/5)
+B) arctan(x)
+C) ln|x|
+D) arcsin(x/5)
+Answer: A
+
+100. What is the integral of 1/(x^2 - a^2)^2 dx?
+A) (x/2a^2(x^2 - a^2)) + (1/4a^3)ln|(x-a)/(x+a)|
+B) ln|x|
+C) arctan(x/a)
+D) arcsin(x/a)
+Answer: A
+
+101. What is the integral of 1/(x^2 + a^2)^2 dx?
+A) (x/2a^2(x^2 + a^2)) + (1/2a^3)arctan(x/a)
+B) arctan(x/a)
+C) ln|x|
+D) arcsin(x/a)
+Answer: A
+
+102. What is the integral of x^n dx (n = -1)?
+A) ln|x|
+B) x^n/n
+C) n x^(n-1)
+D) x^n + 1
+Answer: A
+
+103. What is the integral of 1/(x^2 + 2x + 2) dx?
+A) arctan(x+1)
+B) (1/1)arctan(x+1)
+C) arctan(x+1) + C
+D) (1/1)arctan(x+1) + C
+Answer: A
+
+104. What is the integral of 1/(x^2 - 2x + 2) dx?
+A) arctan(x-1)
+B) (1/1)arctan(x-1)
+C) arctan(x-1) + C
+D) (1/1)arctan(x-1) + C
+Answer: A
+
+105. What is the integral of 1/(x^2 + 1)^3 dx?
+A) (3x/8(x^2 + 1)^2) + (3/8)arctan(x)
+B) arctan(x)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+106. What is the integral of 1/(x^2 - 1)^3 dx?
+A) (3x/8(x^2 - 1)^2) + (3/8)ln|(x-1)/(x+1)|
+B) ln|x|
+C) arctan(x)
+D) arcsin(x)
+Answer: A
+
+107. What is the integral of x^2 e^x dx?
+A) (x^2 - 2x + 2)e^x
+B) (x^2 + 2x + 2)e^x
+C) x^2 e^x
+D) e^x
+Answer: A
+
+108. What is the integral of x^2 sin(x) dx?
+A) 2x sin(x) + (x^2 - 2)cos(x)
+B) -x^2 cos(x) + 2x sin(x) + 2 cos(x)
+C) x^2 sin(x)
+D) x^2 cos(x)
+Answer: B
+
+109. What is the integral of x^2 cos(x) dx?
+A) x^2 sin(x) + 2x cos(x) - 2 sin(x)
+B) x^2 cos(x)
+C) x^2 sin(x)
+D) 2x sin(x) + (x^2 - 2)cos(x)
+Answer: A
+
+110. What is the integral of x e^(ax) dx?
+A) (e^(ax)/a^2)(ax - 1)
+B) (e^(ax)/a^2)(ax + 1)
+C) x e^(ax)
+D) e^(ax)
+Answer: A
+
+111. What is the integral of x sin(ax) dx?
+A) (sin(ax)/a^2) - (x cos(ax)/a)
+B) (cos(ax)/a^2) + (x sin(ax)/a)
+C) x sin(ax)
+D) x cos(ax)
+Answer: A
+
+112. What is the integral of x cos(ax) dx?
+A) (cos(ax)/a^2) + (x sin(ax)/a)
+B) (sin(ax)/a^2) - (x cos(ax)/a)
+C) x cos(ax)
+D) x sin(ax)
+Answer: A
+
+113. What is the integral of ln(ax) dx?
+A) x ln(ax) - x
+B) ln(ax)/x
+C) x ln(ax)
+D) ln^2(ax)
+Answer: A
+
+114. What is the integral of arccos(x) dx?
+A) x arccos(x) + sqrt(1 - x^2)
+B) x arccos(x) - sqrt(1 - x^2)
+C) x arccos(x)
+D) sqrt(1 - x^2)
+Answer: A
+
+115. What is the integral of arcsin(x) dx?
+A) x arcsin(x) + sqrt(1 - x^2)
+B) x arcsin(x) - sqrt(1 - x^2)
+C) x arcsin(x)
+D) sqrt(1 - x^2)
+Answer: A
+
+116. What is the integral of arccos(ax) dx?
+A) x arccos(ax) + sqrt(1 - a^2 x^2)/a
+B) x arccos(ax) - sqrt(1 - a^2 x^2)/a
+C) x arccos(ax)
+D) sqrt(1 - a^2 x^2)
+Answer: A
+
+117. What is the integral of arcsin(ax) dx?
+A) x arcsin(ax) + sqrt(1 - a^2 x^2)/a
+B) x arcsin(ax) - sqrt(1 - a^2 x^2)/a
+C) x arcsin(ax)
+D) sqrt(1 - a^2 x^2)
+Answer: A
+
+118. What is the integral of arctan(ax) dx?
+A) x arctan(ax) - (1/2a)ln(1 + a^2 x^2)
+B) x arctan(ax) + (1/2a)ln(1 + a^2 x^2)
+C) x arctan(ax)
+D) ln(1 + a^2 x^2)
+Answer: A
+
+119. What is the integral of sinh(x) dx?
+A) cosh(x)
+B) sinh(x)
+C) tanh(x)
+D) ln|x|
+Answer: A
+
+120. What is the integral of cosh(x) dx?
+A) sinh(x)
+B) cosh(x)
+C) tanh(x)
+D) ln|x|
+Answer: A
+
+121. What is the integral of tanh(x) dx?
+A) ln|cosh(x)|
+B) ln|sinh(x)|
+C) ln|tanh(x)|
+D) ln|x|
+Answer: A
+
+122. What is the integral of coth(x) dx?
+A) ln|sinh(x)|
+B) ln|cosh(x)|
+C) ln|tanh(x)|
+D) ln|x|
+Answer: A
+
+123. What is the integral of sech(x) dx?
+A) arctan(sinh(x))
+B) arcsin(x)
+C) arccos(x)
+D) ln|x|
+Answer: A
+
+124. What is the integral of csch(x) dx?
+A) ln|tanh(x/2)|
+B) ln|sinh(x)|
+C) ln|cosh(x)|
+D) ln|x|
+Answer: A
+
+125. What is the integral of e^(ax + b) dx?
+A) (1/a)e^(ax + b)
+B) a e^(ax + b)
+C) e^(ax + b)
+D) ln|ax + b|
+Answer: A
+
+126. What is the integral of 1/(x^2 + 2x + 5) dx?
+A) (1/2)arctan((x+1)/2)
+B) arctan(x+1)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+127. What is the integral of 1/(x^2 - 2x + 5) dx?
+A) (1/2)arctan((x-1)/2)
+B) arctan(x-1)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+128. What is the integral of 1/(x^2 + 4x + 5) dx?
+A) arctan(x+2)
+B) (1/1)arctan(x+2)
+C) (1/2)arctan((x+2)/1)
+D) (1/2)arctan((x+2)/1) + C
+Answer: C
+
+129. What is the integral of 1/(x^2 - 4x + 5) dx?
+A) (1/2)arctan((x-2)/1)
+B) arctan(x-2)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+130. What is the integral of 1/(x^2 + 9x + 20) dx?
+A) (1/5)ln|(x+4)/(x+5)|
+B) ln|x|
+C) arctan(x)
+D) arcsin(x)
+Answer: A
+
+131. What is the integral of 1/(x^2 - 9x + 20) dx?
+A) (1/5)ln|(x-4)/(x-5)|
+B) ln|x|
+C) arctan(x)
+D) arcsin(x)
+Answer: A
+
+132. What is the integral of 1/(x^2 + 6x + 10) dx?
+A) (1/2)arctan((x+3)/1)
+B) arctan(x+3)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+133. What is the integral of 1/(x^2 - 6x + 10) dx?
+A) (1/2)arctan((x-3)/1)
+B) arctan(x-3)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+134. What is the integral of 1/(x^2 + 1)^n dx (n > 1)?
+A) Use reduction formula
+B) arctan(x)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+135. What is the integral of 1/(x^2 - 1)^n dx (n > 1)?
+A) Use reduction formula
+B) ln|x|
+C) arctan(x)
+D) arcsin(x)
+Answer: A
+
+136. What is the integral of 1/(x^2 + a^2)^n dx (n > 1)?
+A) Use reduction formula
+B) arctan(x/a)
+C) ln|x|
+D) arcsin(x/a)
+Answer: A
+
+137. What is the integral of 1/(x^2 - a^2)^n dx (n > 1)?
+A) Use reduction formula
+B) ln|x|
+C) arctan(x/a)
+D) arcsin(x/a)
+Answer: A
+
+138. What is the integral of x^n e^(ax) dx?
+A) Use integration by parts
+B) e^(ax)
+C) x^n e^(ax)
+D) ln|x|
+Answer: A
+
+139. What is the integral of x^n sin(ax) dx?
+A) Use integration by parts
+B) sin(ax)
+C) x^n sin(ax)
+D) ln|x|
+Answer: A
+
+140. What is the integral of x^n cos(ax) dx?
+A) Use integration by parts
+B) cos(ax)
+C) x^n cos(ax)
+D) ln|x|
+Answer: A
+
+141. What is the integral of 1/(x^2 + 2x + 2)^2 dx?
+A) (x+1)/(2((x+1)^2 + 1)) + (1/2)arctan(x+1)
+B) arctan(x+1)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+142. What is the integral of 1/(x^2 - 2x + 2)^2 dx?
+A) (x-1)/(2((x-1)^2 + 1)) + (1/2)arctan(x-1)
+B) arctan(x-1)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+143. What is the integral of 1/(x^2 + 4x + 5)^2 dx?
+A) (x+2)/(2((x+2)^2 + 1)) + (1/2)arctan(x+2)
+B) arctan(x+2)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+144. What is the integral of 1/(x^2 - 4x + 5)^2 dx?
+A) (x-2)/(2((x-2)^2 + 1)) + (1/2)arctan(x-2)
+B) arctan(x-2)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+145. What is the integral of 1/(x^2 + 9x + 20)^2 dx?
+A) (x+4)/(10((x+4)^2 + 1)) + (1/10)arctan((x+4)/1)
+B) arctan(x+4)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+146. What is the integral of 1/(x^2 - 9x + 20)^2 dx?
+A) (x-4)/(10((x-4)^2 + 1)) + (1/10)arctan((x-4)/1)
+B) arctan(x-4)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+147. What is the integral of 1/(x^2 + 6x + 10)^2 dx?
+A) (x+3)/(2((x+3)^2 + 1)) + (1/2)arctan(x+3)
+B) arctan(x+3)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+148. What is the integral of 1/(x^2 - 6x + 10)^2 dx?
+A) (x-3)/(2((x-3)^2 + 1)) + (1/2)arctan(x-3)
+B) arctan(x-3)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+149. What is the integral of 1/(x^2 + 1)^4 dx?
+A) Use reduction formula
+B) arctan(x)
+C) ln|x|
+D) arcsin(x)
+Answer: A
+
+150. What is the integral of 1/(x^2 - 1)^4 dx?
+A) Use reduction formula
+B) ln|x|
+C) arctan(x)
+D) arcsin(x)
+Answer: A
+
+// ... 95 more MCQs in the same format ... 

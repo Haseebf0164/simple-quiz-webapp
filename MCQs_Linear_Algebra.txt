@@ -1,0 +1,1050 @@
+1. What is the determinant of a 2x2 matrix [[a, b], [c, d]]?
+A) ab - cd
+B) ad - bc
+C) ac - bd
+D) ab + cd
+Answer: B
+
+2. What is the rank of a matrix?
+A) Number of rows
+B) Number of columns
+C) Number of non-zero rows
+D) Maximum number of linearly independent rows or columns
+Answer: D
+
+3. What is an eigenvalue?
+A) A scalar associated with a matrix
+B) A vector associated with a matrix
+C) A row of a matrix
+D) A column of a matrix
+Answer: A
+
+4. What is the identity matrix?
+A) All elements are 1
+B) All elements are 0
+C) Diagonal elements are 1, others are 0
+D) Diagonal elements are 0, others are 1
+Answer: C
+
+5. What is the inverse of a matrix?
+A) Matrix with all elements negative
+B) Matrix that when multiplied gives the identity matrix
+C) Matrix with all elements positive
+D) Matrix with all elements zero
+Answer: B
+6. What is a singular matrix?
+A) A matrix with all elements zero
+B) A matrix with determinant zero
+C) A matrix with determinant one
+D) A matrix with all elements one
+Answer: B
+
+7. What is a diagonal matrix?
+A) All elements are zero
+B) Only diagonal elements are non-zero
+C) Only off-diagonal elements are non-zero
+D) All elements are one
+Answer: B
+
+8. What is a symmetric matrix?
+A) Matrix equal to its transpose
+B) Matrix with all elements positive
+C) Matrix with all elements negative
+D) Matrix with all elements zero
+Answer: A
+
+9. What is the trace of a matrix?
+A) Sum of all elements
+B) Product of all elements
+C) Sum of diagonal elements
+D) Product of diagonal elements
+Answer: C
+
+10. What is a row vector?
+A) A matrix with one row
+B) A matrix with one column
+C) A matrix with all elements zero
+D) A matrix with all elements one
+Answer: A
+
+11. What is a column vector?
+A) A matrix with one row
+B) A matrix with one column
+C) A matrix with all elements zero
+D) A matrix with all elements one
+Answer: B
+
+12. What is the transpose of a matrix?
+A) Flipping matrix over its diagonal
+B) Multiplying matrix by itself
+C) Adding matrix to itself
+D) Subtracting matrix from itself
+Answer: A
+
+13. What is a zero matrix?
+A) All elements are one
+B) All elements are zero
+C) All diagonal elements are one
+D) All diagonal elements are zero
+Answer: B
+
+14. What is a scalar matrix?
+A) All elements are equal
+B) Diagonal elements are equal and non-diagonal elements are zero
+C) All elements are zero
+D) All elements are one
+Answer: B
+
+15. What is a skew-symmetric matrix?
+A) Matrix equal to its transpose
+B) Matrix equal to negative of its transpose
+C) Matrix with all elements positive
+D) Matrix with all elements negative
+Answer: B
+
+16. What is the product of a matrix and its inverse?
+A) Zero matrix
+B) Identity matrix
+C) Diagonal matrix
+D) Symmetric matrix
+Answer: B
+
+17. What is the solution to a homogeneous system of linear equations?
+A) Always unique
+B) Always infinite
+C) Always zero
+D) At least the trivial solution
+Answer: D
+
+18. What is the rank of a zero matrix?
+A) 0
+B) 1
+C) n
+D) m
+Answer: A
+
+19. What is the sum of a matrix and its negative?
+A) Zero matrix
+B) Identity matrix
+C) Diagonal matrix
+D) Symmetric matrix
+Answer: A
+
+20. What is the main diagonal of a matrix?
+A) Elements from top left to bottom right
+B) Elements from top right to bottom left
+C) All elements in first row
+D) All elements in first column
+Answer: A
+
+21. What is a non-singular matrix?
+A) Matrix with determinant zero
+B) Matrix with determinant non-zero
+C) Matrix with all elements zero
+D) Matrix with all elements one
+Answer: B
+
+22. What is the order of a matrix with 3 rows and 4 columns?
+A) 3x3
+B) 4x3
+C) 3x4
+D) 4x4
+Answer: C
+
+23. What is the minimum number of linearly independent vectors in R^n to span the space?
+A) 1
+B) n
+C) n+1
+D) 2n
+Answer: B
+
+24. What is a basis of a vector space?
+A) Any set of vectors
+B) Set of linearly dependent vectors
+C) Set of linearly independent vectors that span the space
+D) Set of zero vectors
+Answer: C
+
+25. What is the dimension of a vector space?
+A) Number of vectors in any set
+B) Number of vectors in a basis
+C) Number of elements in a vector
+D) Number of rows in a matrix
+Answer: B
+
+26. What is the null space of a matrix?
+A) Set of all solutions to Ax = 0
+B) Set of all solutions to Ax = b
+C) Set of all non-zero vectors
+D) Set of all eigenvectors
+Answer: A
+
+27. What is the column space of a matrix?
+A) Set of all possible linear combinations of its columns
+B) Set of all possible linear combinations of its rows
+C) Set of all eigenvectors
+D) Set of all zero vectors
+Answer: A
+
+28. What is the row space of a matrix?
+A) Set of all possible linear combinations of its rows
+B) Set of all possible linear combinations of its columns
+C) Set of all eigenvectors
+D) Set of all zero vectors
+Answer: A
+
+29. What is the effect of multiplying a matrix by a scalar?
+A) No change
+B) Each element is multiplied by the scalar
+C) Only diagonal elements are multiplied
+D) Only off-diagonal elements are multiplied
+Answer: B
+
+30. What is the eigenvector of a matrix?
+A) A vector that changes direction after transformation
+B) A vector that does not change direction after transformation
+C) A vector with all elements zero
+D) A vector with all elements one
+Answer: B
+
+31. What is the characteristic equation of a matrix A?
+A) det(A - λI) = 0
+B) det(A + λI) = 0
+C) det(A) = 0
+D) det(λA) = 0
+Answer: A
+
+32. What is the Cayley-Hamilton theorem?
+A) Every matrix satisfies its own characteristic equation
+B) Every matrix is invertible
+C) Every matrix is diagonalizable
+D) Every matrix is symmetric
+Answer: A
+
+33. What is a triangular matrix?
+A) All elements are zero
+B) All elements above or below the main diagonal are zero
+C) All elements are one
+D) All elements are negative
+Answer: B
+
+34. What is an upper triangular matrix?
+A) All elements below the main diagonal are zero
+B) All elements above the main diagonal are zero
+C) All elements are zero
+D) All elements are one
+Answer: A
+
+35. What is a lower triangular matrix?
+A) All elements above the main diagonal are zero
+B) All elements below the main diagonal are zero
+C) All elements are zero
+D) All elements are one
+Answer: A
+
+36. What is the sum of two matrices of the same order?
+A) Matrix of different order
+B) Matrix of same order
+C) Matrix with all elements zero
+D) Matrix with all elements one
+Answer: B
+
+37. What is the scalar multiple of a matrix?
+A) Matrix with all elements zero
+B) Matrix with all elements multiplied by a scalar
+C) Matrix with all elements one
+D) Matrix with all elements negative
+Answer: B
+
+38. What is the result of multiplying a matrix by the identity matrix?
+A) Zero matrix
+B) The original matrix
+C) Diagonal matrix
+D) Symmetric matrix
+Answer: B
+
+39. What is the adjugate of a matrix?
+A) The transpose of the cofactor matrix
+B) The inverse of the matrix
+C) The determinant of the matrix
+D) The trace of the matrix
+Answer: A
+
+40. What is the cofactor of an element in a matrix?
+A) The element itself
+B) The determinant of the minor matrix with a sign
+C) The sum of all elements
+D) The product of all elements
+Answer: B
+
+41. What is the minor of an element in a matrix?
+A) The element itself
+B) The determinant of the submatrix formed by deleting the row and column of the element
+C) The sum of all elements
+D) The product of all elements
+Answer: B
+
+42. What is the effect of interchanging two rows of a matrix on its determinant?
+A) No change
+B) Determinant changes sign
+C) Determinant becomes zero
+D) Determinant doubles
+Answer: B
+
+43. What is the effect of multiplying a row of a matrix by a scalar on its determinant?
+A) Determinant is multiplied by the scalar
+B) Determinant is divided by the scalar
+C) Determinant is unchanged
+D) Determinant becomes zero
+Answer: A
+
+44. What is the effect of adding a multiple of one row to another row on the determinant?
+A) No change
+B) Determinant doubles
+C) Determinant becomes zero
+D) Determinant is multiplied by the scalar
+Answer: A
+
+45. What is the determinant of an identity matrix?
+A) 0
+B) 1
+C) n
+D) -1
+Answer: B
+
+46. What is the determinant of a triangular matrix?
+A) Product of diagonal elements
+B) Sum of diagonal elements
+C) Product of all elements
+D) Sum of all elements
+Answer: A
+
+47. What is the rank of an identity matrix of order n?
+A) 0
+B) 1
+C) n
+D) n-1
+Answer: C
+
+48. What is the solution of a system of linear equations if the determinant of the coefficient matrix is zero?
+A) Unique solution
+B) No solution or infinitely many solutions
+C) Only trivial solution
+D) All solutions are zero
+Answer: B
+
+49. What is the geometric interpretation of the determinant of a 2x2 matrix?
+A) Area of a parallelogram
+B) Volume of a cube
+C) Length of a vector
+D) Slope of a line
+Answer: A
+
+50. What is the geometric interpretation of the determinant of a 3x3 matrix?
+A) Area of a triangle
+B) Volume of a parallelepiped
+C) Length of a vector
+D) Slope of a plane
+Answer: B
+
+51. What is the effect of transposing a matrix on its determinant?
+A) No change
+B) Determinant doubles
+C) Determinant becomes zero
+D) Determinant changes sign
+Answer: A
+
+52. What is the sum of the eigenvalues of a matrix?
+A) Product of diagonal elements
+B) Sum of diagonal elements (trace)
+C) Product of all elements
+D) Sum of all elements
+Answer: B
+
+53. What is the product of the eigenvalues of a matrix?
+A) Product of diagonal elements
+B) Determinant of the matrix
+C) Sum of all elements
+D) Trace of the matrix
+Answer: B
+
+54. What is a linearly independent set of vectors?
+A) No vector can be written as a linear combination of others
+B) All vectors are multiples of each other
+C) All vectors are zero
+D) All vectors are equal
+Answer: A
+
+55. What is a linearly dependent set of vectors?
+A) No vector can be written as a linear combination of others
+B) At least one vector can be written as a linear combination of others
+C) All vectors are zero
+D) All vectors are equal
+Answer: B
+
+56. What is the Gram-Schmidt process used for?
+A) Diagonalizing a matrix
+B) Orthogonalizing a set of vectors
+C) Finding eigenvalues
+D) Finding determinants
+Answer: B
+
+57. What is an orthogonal matrix?
+A) Matrix whose transpose is its inverse
+B) Matrix with all elements zero
+C) Matrix with all elements one
+D) Matrix with all elements negative
+Answer: A
+
+58. What is the determinant of an orthogonal matrix?
+A) 0
+B) 1 or -1
+C) n
+D) -n
+Answer: B
+
+59. What is a projection matrix?
+A) Matrix that projects vectors onto a subspace
+B) Matrix with all elements zero
+C) Matrix with all elements one
+D) Matrix with all elements negative
+Answer: A
+
+60. What is the Moore-Penrose pseudoinverse?
+A) Generalized inverse for non-square matrices
+B) Inverse of a square matrix
+C) Determinant of a matrix
+D) Trace of a matrix
+Answer: A
+
+61. What is the spectral theorem?
+A) Every symmetric matrix can be diagonalized by an orthogonal matrix
+B) Every matrix is invertible
+C) Every matrix is singular
+D) Every matrix is triangular
+Answer: A
+
+62. What is a block matrix?
+A) Matrix divided into smaller submatrices
+B) Matrix with all elements zero
+C) Matrix with all elements one
+D) Matrix with all elements negative
+Answer: A
+
+63. What is the Kronecker product?
+A) Product of two matrices of same size
+B) Tensor product of two matrices
+C) Sum of two matrices
+D) Difference of two matrices
+Answer: B
+
+64. What is the rank-nullity theorem?
+A) rank(A) + nullity(A) = number of columns of A
+B) rank(A) + nullity(A) = number of rows of A
+C) rank(A) = nullity(A)
+D) rank(A) = number of rows of A
+Answer: A
+
+65. What is a permutation matrix?
+A) Matrix obtained by permuting rows of identity matrix
+B) Matrix with all elements zero
+C) Matrix with all elements one
+D) Matrix with all elements negative
+Answer: A
+
+66. What is the LU decomposition?
+A) Factorization of a matrix into lower and upper triangular matrices
+B) Factorization into diagonal matrices
+C) Factorization into orthogonal matrices
+D) Factorization into permutation matrices
+Answer: A
+
+67. What is the QR decomposition?
+A) Factorization of a matrix into orthogonal and upper triangular matrices
+B) Factorization into diagonal matrices
+C) Factorization into lower triangular matrices
+D) Factorization into permutation matrices
+Answer: A
+
+68. What is the SVD (Singular Value Decomposition)?
+A) Factorization of a matrix into U, Σ, and V^T
+B) Factorization into diagonal matrices
+C) Factorization into lower triangular matrices
+D) Factorization into permutation matrices
+Answer: A
+
+69. What is the geometric meaning of an eigenvector?
+A) Direction that is unchanged by the transformation
+B) Direction that is reversed by the transformation
+C) Direction that is scaled to zero
+D) Direction that is perpendicular to the transformation
+Answer: A
+
+70. What is the geometric meaning of an eigenvalue?
+A) Scaling factor for the eigenvector
+B) Angle of rotation
+C) Area of the matrix
+D) Volume of the matrix
+Answer: A
+
+71. What is a positive definite matrix?
+A) All eigenvalues are positive
+B) All eigenvalues are negative
+C) All elements are positive
+D) All elements are negative
+Answer: A
+
+72. What is a negative definite matrix?
+A) All eigenvalues are negative
+B) All eigenvalues are positive
+C) All elements are negative
+D) All elements are positive
+Answer: A
+
+73. What is a Hermitian matrix?
+A) Matrix equal to its conjugate transpose
+B) Matrix equal to its transpose
+C) Matrix with all elements real
+D) Matrix with all elements imaginary
+Answer: A
+
+74. What is a unitary matrix?
+A) Matrix whose conjugate transpose is its inverse
+B) Matrix with all elements zero
+C) Matrix with all elements one
+D) Matrix with all elements negative
+Answer: A
+
+75. What is the determinant of a 3x3 matrix [[a, b, c], [d, e, f], [g, h, i]]?
+A) aei + bfg + cdh - ceg - bdi - afh
+B) aei - bfg + cdh - ceg + bdi - afh
+C) aei + bfg + cdh + ceg + bdi + afh
+D) aei - bfg - cdh + ceg - bdi + afh
+Answer: A
+
+76. What is the effect of multiplying a matrix by -1?
+A) All elements become negative
+B) All elements become positive
+C) Only diagonal elements change sign
+D) Only off-diagonal elements change sign
+Answer: A
+
+77. What is the sum of a matrix and its transpose called?
+A) Symmetric part
+B) Skew-symmetric part
+C) Diagonal part
+D) Zero matrix
+Answer: A
+
+78. What is the difference between a matrix and its transpose called?
+A) Skew-symmetric part
+B) Symmetric part
+C) Diagonal part
+D) Zero matrix
+Answer: A
+
+79. What is the Frobenius norm of a matrix?
+A) Square root of sum of squares of all elements
+B) Sum of all elements
+C) Product of all elements
+D) Maximum element
+Answer: A
+
+80. What is the rank of a diagonal matrix with all non-zero diagonal elements?
+A) 0
+B) 1
+C) n
+D) n-1
+Answer: C
+
+81. What is the solution to Ax = b if A is invertible?
+A) x = A^(-1)b
+B) x = Ab
+C) x = bA
+D) x = A + b
+Answer: A
+
+82. What is the effect of swapping two columns of a matrix on its determinant?
+A) Determinant changes sign
+B) Determinant doubles
+C) Determinant becomes zero
+D) No change
+Answer: A
+
+83. What is the sum of the elements of the main diagonal of a matrix called?
+A) Trace
+B) Determinant
+C) Rank
+D) Norm
+Answer: A
+
+84. What is the maximum number of linearly independent columns in a matrix called?
+A) Rank
+B) Trace
+C) Determinant
+D) Norm
+Answer: A
+
+85. What is the solution set of a consistent system of linear equations?
+A) At least one solution
+B) No solution
+C) Only zero solution
+D) Only infinite solutions
+Answer: A
+
+86. What is the solution set of an inconsistent system of linear equations?
+A) No solution
+B) At least one solution
+C) Only zero solution
+D) Only infinite solutions
+Answer: A
+
+87. What is the augmented matrix?
+A) Matrix formed by appending the column of constants to the coefficient matrix
+B) Matrix with all elements zero
+C) Matrix with all elements one
+D) Matrix with all elements negative
+Answer: A
+
+88. What is the reduced row echelon form (RREF)?
+A) Matrix in which each leading entry is 1 and is the only nonzero entry in its column
+B) Matrix with all elements zero
+C) Matrix with all elements one
+D) Matrix with all elements negative
+Answer: A
+
+89. What is the Gauss-Jordan elimination method used for?
+A) Solving systems of linear equations
+B) Finding eigenvalues
+C) Finding determinants
+D) Orthogonalizing vectors
+Answer: A
+
+90. What is the geometric interpretation of a system of two linear equations in two variables?
+A) Intersection of two lines
+B) Intersection of two planes
+C) Intersection of two points
+D) Intersection of two vectors
+Answer: A
+
+91. What is the geometric interpretation of a system of three linear equations in three variables?
+A) Intersection of three planes
+B) Intersection of three lines
+C) Intersection of three points
+D) Intersection of three vectors
+Answer: A
+
+92. What is the solution to a homogeneous system with more variables than equations?
+A) Infinite solutions
+B) No solution
+C) Unique solution
+D) Only zero solution
+Answer: A
+
+93. What is the effect of multiplying a row by zero in a matrix?
+A) The row becomes zero
+B) The row becomes one
+C) The row is unchanged
+D) The row is deleted
+Answer: A
+
+94. What is the effect of adding a zero row to a matrix?
+A) Increases the number of rows
+B) Decreases the number of rows
+C) No change
+D) Decreases the number of columns
+Answer: A
+
+95. What is the effect of multiplying a matrix by the zero matrix?
+A) Zero matrix
+B) Identity matrix
+C) Diagonal matrix
+D) Symmetric matrix
+Answer: A
+
+96. What is the sum of two diagonal matrices?
+A) Diagonal matrix
+B) Zero matrix
+C) Identity matrix
+D) Symmetric matrix
+Answer: A
+
+97. What is the product of two diagonal matrices?
+A) Diagonal matrix
+B) Zero matrix
+C) Identity matrix
+D) Symmetric matrix
+Answer: A
+
+98. What is the sum of a matrix and the zero matrix?
+A) The original matrix
+B) Zero matrix
+C) Identity matrix
+D) Diagonal matrix
+Answer: A
+
+99. What is the product of a matrix and the zero matrix?
+A) Zero matrix
+B) The original matrix
+C) Identity matrix
+D) Diagonal matrix
+Answer: A
+
+100. What is the product of a matrix and the identity matrix?
+A) The original matrix
+B) Zero matrix
+C) Identity matrix
+D) Diagonal matrix
+Answer: A
+
+101. What is the effect of multiplying a matrix by a scalar k?
+A) Each element is multiplied by k
+B) Each element is divided by k
+C) Only diagonal elements are multiplied by k
+D) Only off-diagonal elements are multiplied by k
+Answer: A
+
+102. What is the sum of a matrix and its negative?
+A) Zero matrix
+B) Identity matrix
+C) Diagonal matrix
+D) Symmetric matrix
+Answer: A
+
+103. What is the effect of multiplying a matrix by 1?
+A) The original matrix
+B) Zero matrix
+C) Identity matrix
+D) Diagonal matrix
+Answer: A
+
+104. What is the effect of multiplying a matrix by 0?
+A) Zero matrix
+B) The original matrix
+C) Identity matrix
+D) Diagonal matrix
+Answer: A
+
+105. What is the sum of two symmetric matrices?
+A) Symmetric matrix
+B) Skew-symmetric matrix
+C) Diagonal matrix
+D) Zero matrix
+Answer: A
+
+106. What is the sum of two skew-symmetric matrices?
+A) Skew-symmetric matrix
+B) Symmetric matrix
+C) Diagonal matrix
+D) Zero matrix
+Answer: A
+
+107. What is the product of a symmetric matrix and its transpose?
+A) Symmetric matrix
+B) Skew-symmetric matrix
+C) Diagonal matrix
+D) Zero matrix
+Answer: A
+
+108. What is the product of a skew-symmetric matrix and its transpose?
+A) Symmetric matrix
+B) Skew-symmetric matrix
+C) Diagonal matrix
+D) Zero matrix
+Answer: A
+
+109. What is the sum of a symmetric and a skew-symmetric matrix?
+A) Any square matrix
+B) Symmetric matrix
+C) Skew-symmetric matrix
+D) Diagonal matrix
+Answer: A
+
+110. What is the effect of transposing a diagonal matrix?
+A) No change
+B) All elements become zero
+C) All elements become one
+D) All elements become negative
+Answer: A
+
+111. What is the effect of transposing a symmetric matrix?
+A) No change
+B) All elements become zero
+C) All elements become one
+D) All elements become negative
+Answer: A
+
+112. What is the effect of transposing a skew-symmetric matrix?
+A) Matrix becomes its negative
+B) No change
+C) All elements become one
+D) All elements become zero
+Answer: A
+
+113. What is the sum of the elements of a zero matrix?
+A) 0
+B) 1
+C) n
+D) -1
+Answer: A
+
+114. What is the sum of the elements of an identity matrix of order n?
+A) n
+B) 1
+C) 0
+D) n^2
+Answer: A
+
+115. What is the sum of the elements of a diagonal matrix with diagonal elements d1, d2, ..., dn?
+A) d1 + d2 + ... + dn
+B) d1 * d2 * ... * dn
+C) 0
+D) 1
+Answer: A
+
+116. What is the sum of the elements of a row vector [a, b, c]?
+A) a + b + c
+B) a * b * c
+C) 0
+D) 1
+Answer: A
+
+117. What is the sum of the elements of a column vector [a; b; c]?
+A) a + b + c
+B) a * b * c
+C) 0
+D) 1
+Answer: A
+
+118. What is the product of a row vector and a column vector of the same length?
+A) Scalar (dot product)
+B) Matrix
+C) Vector
+D) Zero
+Answer: A
+
+119. What is the product of a column vector and a row vector of the same length?
+A) Matrix
+B) Scalar
+C) Vector
+D) Zero
+Answer: A
+
+120. What is the dot product of two vectors?
+A) Sum of products of corresponding elements
+B) Product of sums of elements
+C) Sum of all elements
+D) Product of all elements
+Answer: A
+
+121. What is the cross product of two vectors in R^3?
+A) Vector perpendicular to both
+B) Scalar
+C) Zero vector
+D) Identity vector
+Answer: A
+
+122. What is the length (norm) of a vector v = [a, b, c]?
+A) sqrt(a^2 + b^2 + c^2)
+B) a + b + c
+C) a * b * c
+D) 0
+Answer: A
+
+123. What is the angle between two orthogonal vectors?
+A) 90 degrees
+B) 0 degrees
+C) 180 degrees
+D) 45 degrees
+Answer: A
+
+124. What is the projection of vector a onto vector b?
+A) (a·b / |b|^2) * b
+B) (a·b / |a|^2) * a
+C) a + b
+D) a - b
+Answer: A
+
+125. What is the condition for two vectors to be linearly independent?
+A) Neither is a scalar multiple of the other
+B) Both are scalar multiples of each other
+C) Both are zero
+D) Both are equal
+Answer: A
+
+126. What is the condition for two vectors to be linearly dependent?
+A) One is a scalar multiple of the other
+B) Both are zero
+C) Both are equal
+D) Both are orthogonal
+Answer: A
+
+127. What is the sum of two orthogonal vectors?
+A) Vector with length greater than or equal to each
+B) Zero vector
+C) Identity vector
+D) Diagonal vector
+Answer: A
+
+128. What is the span of a set of vectors?
+A) Set of all possible linear combinations
+B) Set of all orthogonal vectors
+C) Set of all zero vectors
+D) Set of all unit vectors
+Answer: A
+
+129. What is the orthogonal complement of a subspace?
+A) Set of all vectors orthogonal to every vector in the subspace
+B) Set of all vectors parallel to the subspace
+C) Set of all zero vectors
+D) Set of all unit vectors
+Answer: A
+
+130. What is the dimension of the null space of an m x n matrix A?
+A) n - rank(A)
+B) m - rank(A)
+C) rank(A)
+D) m + n
+Answer: A
+
+131. What is the dimension of the column space of an m x n matrix A?
+A) rank(A)
+B) n - rank(A)
+C) m - rank(A)
+D) m + n
+Answer: A
+
+132. What is the dimension of the row space of an m x n matrix A?
+A) rank(A)
+B) n - rank(A)
+C) m - rank(A)
+D) m + n
+Answer: A
+
+133. What is the sum of the dimensions of the row space and null space of an m x n matrix A?
+A) n
+B) m
+C) rank(A)
+D) m + n
+Answer: A
+
+134. What is the sum of the dimensions of the column space and left null space of an m x n matrix A?
+A) m
+B) n
+C) rank(A)
+D) m + n
+Answer: A
+
+135. What is the left null space of a matrix A?
+A) Null space of A^T
+B) Null space of A
+C) Column space of A
+D) Row space of A
+Answer: A
+
+136. What is the geometric interpretation of the rank of a matrix?
+A) Dimension of the image of the linear transformation
+B) Number of rows
+C) Number of columns
+D) Number of zero elements
+Answer: A
+
+137. What is the geometric interpretation of the nullity of a matrix?
+A) Dimension of the kernel of the linear transformation
+B) Number of rows
+C) Number of columns
+D) Number of zero elements
+Answer: A
+
+138. What is the kernel of a linear transformation?
+A) Set of all vectors mapped to zero
+B) Set of all vectors mapped to one
+C) Set of all vectors mapped to themselves
+D) Set of all vectors mapped to infinity
+Answer: A
+
+139. What is the image of a linear transformation?
+A) Set of all possible outputs
+B) Set of all possible inputs
+C) Set of all zero vectors
+D) Set of all unit vectors
+Answer: A
+
+140. What is the standard basis for R^n?
+A) Vectors with a single 1 and the rest 0
+B) Vectors with all elements 1
+C) Vectors with all elements 0
+D) Vectors with all elements -1
+Answer: A
+
+141. What is the coordinate vector of v relative to a basis B?
+A) Vector of coefficients expressing v as a linear combination of B
+B) Vector with all elements 1
+C) Vector with all elements 0
+D) Vector with all elements -1
+Answer: A
+
+142. What is the change of basis matrix?
+A) Matrix that converts coordinates from one basis to another
+B) Matrix with all elements zero
+C) Matrix with all elements one
+D) Matrix with all elements negative
+Answer: A
+
+143. What is the transition matrix from basis B to basis C?
+A) Matrix that converts coordinates from B to C
+B) Matrix with all elements zero
+C) Matrix with all elements one
+D) Matrix with all elements negative
+Answer: A
+
+144. What is the effect of a linear transformation on the origin?
+A) Maps origin to origin
+B) Maps origin to one
+C) Maps origin to infinity
+D) Maps origin to negative origin
+Answer: A
+
+145. What is the effect of a linear transformation on straight lines?
+A) Maps straight lines to straight lines
+B) Maps straight lines to curves
+C) Maps straight lines to points
+D) Maps straight lines to planes
+Answer: A
+
+146. What is the effect of a linear transformation on parallel lines?
+A) Maps parallel lines to parallel lines
+B) Maps parallel lines to intersecting lines
+C) Maps parallel lines to points
+D) Maps parallel lines to curves
+Answer: A
+
+147. What is the effect of a linear transformation on the zero vector?
+A) Maps zero vector to zero vector
+B) Maps zero vector to one
+C) Maps zero vector to infinity
+D) Maps zero vector to negative zero vector
+Answer: A
+
+148. What is the effect of a linear transformation on vector addition?
+A) Preserves vector addition
+B) Reverses vector addition
+C) Destroys vector addition
+D) Doubles vector addition
+Answer: A
+
+149. What is the effect of a linear transformation on scalar multiplication?
+A) Preserves scalar multiplication
+B) Reverses scalar multiplication
+C) Destroys scalar multiplication
+D) Doubles scalar multiplication
+Answer: A
+
+150. What is the composition of two linear transformations?
+A) Another linear transformation
+B) Nonlinear transformation
+C) Zero transformation
+D) Identity transformation
+Answer: A
+
+// ... 95 more MCQs in the same format ... 

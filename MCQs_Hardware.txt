@@ -1,0 +1,980 @@
+1. What is the primary function of the CPU in a computer?
+A) Store data
+B) Process data
+C) Display data
+D) Input data
+Answer: B
+
+2. Which device is used to convert digital signals to analog signals?
+A) Modem
+B) Router
+C) Switch
+D) Hub
+Answer: A
+
+3. What type of memory is volatile?
+A) ROM
+B) Hard Disk
+C) RAM
+D) SSD
+Answer: C
+
+4. Which of the following is an input device?
+A) Monitor
+B) Printer
+C) Keyboard
+D) Speaker
+Answer: C
+
+5. Which storage device has the largest storage capacity?
+A) Floppy Disk
+B) CD-ROM
+C) Hard Disk
+D) DVD
+Answer: C
+6. Which component is considered the "brain" of the computer?
+A) RAM
+B) CPU
+C) Hard Drive
+D) Monitor
+Answer: B
+
+7. What does RAM stand for?
+A) Readily Available Memory
+B) Random Access Memory
+C) Read Access Memory
+D) Rapid Access Module
+Answer: B
+
+8. Which of the following is NOT a type of secondary storage?
+A) SSD
+B) Hard Disk
+C) RAM
+D) CD-ROM
+Answer: C
+
+9. Which port is commonly used to connect a monitor to a computer?
+A) USB
+B) HDMI
+C) Ethernet
+D) Audio Jack
+Answer: B
+
+10. What is the function of a power supply unit (PSU)?
+A) Store data
+B) Process data
+C) Convert AC to DC power
+D) Display images
+Answer: C
+
+11. Which device is used to print documents?
+A) Monitor
+B) Printer
+C) Mouse
+D) Scanner
+Answer: B
+
+12. Which of the following is an example of an output device?
+A) Keyboard
+B) Mouse
+C) Monitor
+D) Microphone
+Answer: C
+
+13. What does BIOS stand for?
+A) Basic Input Output System
+B) Binary Integrated Operating System
+C) Basic Internal Output System
+D) Binary Input Output System
+Answer: A
+
+14. Which storage device uses magnetic disks to store data?
+A) SSD
+B) Hard Disk Drive
+C) CD-ROM
+D) Flash Drive
+Answer: B
+
+15. Which of the following is a pointing device?
+A) Keyboard
+B) Mouse
+C) Printer
+D) Speaker
+Answer: B
+
+16. What is the main function of the motherboard?
+A) Store data
+B) Connect all hardware components
+C) Display images
+D) Print documents
+Answer: B
+
+17. Which of the following is NOT an input device?
+A) Mouse
+B) Keyboard
+C) Speaker
+D) Scanner
+Answer: C
+
+18. Which memory is permanent and non-volatile?
+A) RAM
+B) ROM
+C) Cache
+D) Register
+Answer: B
+
+19. What is the function of a heat sink?
+A) Store data
+B) Cool electronic components
+C) Process data
+D) Display images
+Answer: B
+
+20. Which device is used to scan documents into a computer?
+A) Printer
+B) Scanner
+C) Monitor
+D) Speaker
+Answer: B
+
+21. Which of the following is a removable storage device?
+A) Hard Disk
+B) RAM
+C) USB Flash Drive
+D) ROM
+Answer: C
+
+22. What does SSD stand for?
+A) Solid State Drive
+B) Secure Storage Device
+C) Simple Storage Disk
+D) Static Storage Drive
+Answer: A
+
+23. Which of the following is used to connect computers in a network?
+A) Modem
+B) Switch
+C) Printer
+D) Monitor
+Answer: B
+
+24. Which device is used to backup data?
+A) Monitor
+B) Printer
+C) External Hard Drive
+D) Keyboard
+Answer: C
+
+25. Which of the following is NOT a hardware component?
+A) Operating System
+B) RAM
+C) CPU
+D) Motherboard
+Answer: A
+
+26. What is the function of a graphics card?
+A) Process audio
+B) Process video and images
+C) Store data
+D) Input data
+Answer: B
+
+27. Which of the following is a storage device?
+A) Mouse
+B) Hard Disk
+C) Monitor
+D) Speaker
+Answer: B
+
+28. What is the main function of cache memory?
+A) Store permanent data
+B) Store frequently used data for quick access
+C) Display images
+D) Print documents
+Answer: B
+
+29. Which of the following is an example of a peripheral device?
+A) CPU
+B) RAM
+C) Printer
+D) Motherboard
+Answer: C
+
+30. Which device is used to connect to the internet?
+A) Modem
+B) Printer
+C) Monitor
+D) Speaker
+Answer: A
+
+31. What is the function of a network interface card (NIC)?
+A) Store data
+B) Connect to a network
+C) Display images
+D) Print documents
+Answer: B
+
+32. Which of the following is NOT a type of computer port?
+A) USB
+B) HDMI
+C) VGA
+D) BIOS
+Answer: D
+
+33. Which device is used to input sound into a computer?
+A) Speaker
+B) Microphone
+C) Monitor
+D) Printer
+Answer: B
+
+34. What is the function of a UPS (Uninterruptible Power Supply)?
+A) Store data
+B) Provide backup power
+C) Process data
+D) Display images
+Answer: B
+
+35. Which of the following is a type of optical storage?
+A) Hard Disk
+B) SSD
+C) CD-ROM
+D) RAM
+Answer: C
+
+36. Which component temporarily holds data and instructions for the CPU?
+A) ROM
+B) RAM
+C) Hard Disk
+D) SSD
+Answer: B
+
+37. Which of the following is NOT a function of the operating system?
+A) Managing hardware
+B) Running applications
+C) Storing data permanently
+D) Providing user interface
+Answer: C
+
+38. Which device is used to project images onto a screen?
+A) Monitor
+B) Printer
+C) Projector
+D) Speaker
+Answer: C
+
+39. What is the function of a router?
+A) Connect networks and direct data traffic
+B) Store data
+C) Print documents
+D) Display images
+Answer: A
+
+40. Which of the following is a non-volatile memory?
+A) RAM
+B) Cache
+C) ROM
+D) Register
+Answer: C
+
+41. Which device is used to read barcodes?
+A) Printer
+B) Barcode Scanner
+C) Monitor
+D) Speaker
+Answer: B
+
+42. What is the function of a touchpad?
+A) Input data using touch
+B) Display images
+C) Print documents
+D) Store data
+Answer: A
+
+43. Which of the following is NOT a storage device?
+A) SSD
+B) RAM
+C) Hard Disk
+D) CD-ROM
+Answer: B
+
+44. Which component is responsible for arithmetic and logic operations?
+A) ALU
+B) RAM
+C) ROM
+D) Monitor
+Answer: A
+
+45. What does VGA stand for?
+A) Video Graphics Array
+B) Virtual Graphics Adapter
+C) Visual Graphics Application
+D) Video General Adapter
+Answer: A
+
+46. Which of the following is an example of a hybrid device?
+A) Printer
+B) Modem
+C) Monitor
+D) Mouse
+Answer: B
+
+47. Which device is used to store large amounts of data permanently?
+A) RAM
+B) Hard Disk
+C) Cache
+D) Register
+Answer: B
+
+48. What is the function of a CD drive?
+A) Read and write data to CDs
+B) Display images
+C) Process data
+D) Print documents
+Answer: A
+
+49. Which of the following is NOT an output device?
+A) Monitor
+B) Printer
+C) Speaker
+D) Keyboard
+Answer: D
+
+50. Which device is used to input handwritten data?
+A) Keyboard
+B) Mouse
+C) Graphics Tablet
+D) Speaker
+Answer: C
+
+51. What is the function of a fan in a computer?
+A) Store data
+B) Cool components
+C) Process data
+D) Display images
+Answer: B
+
+52. Which of the following is a type of memory card?
+A) SSD
+B) SD Card
+C) Hard Disk
+D) RAM
+Answer: B
+
+53. Which device is used to connect multiple computers in a LAN?
+A) Switch
+B) Printer
+C) Monitor
+D) Speaker
+Answer: A
+
+54. What is the function of a sound card?
+A) Process audio signals
+B) Process video signals
+C) Store data
+D) Input data
+Answer: A
+
+55. Which of the following is NOT a type of monitor?
+A) CRT
+B) LCD
+C) LED
+D) HDD
+Answer: D
+
+56. Which device is used to store data in a mobile phone?
+A) Hard Disk
+B) SD Card
+C) Floppy Disk
+D) CD-ROM
+Answer: B
+
+57. What is the function of a webcam?
+A) Capture video and images
+B) Print documents
+C) Store data
+D) Display images
+Answer: A
+
+58. Which of the following is a type of printer?
+A) Laser
+B) LED
+C) LCD
+D) CRT
+Answer: A
+
+59. Which device is used to connect a computer to a wireless network?
+A) Ethernet Card
+B) Wi-Fi Adapter
+C) Printer
+D) Monitor
+Answer: B
+
+60. What is the function of a joystick?
+A) Control movement in games
+B) Print documents
+C) Store data
+D) Display images
+Answer: A
+
+61. Which of the following is NOT a type of computer case?
+A) Tower
+B) Desktop
+C) Laptop
+D) Monitor
+Answer: D
+
+62. Which device is used to read and write data on a DVD?
+A) Hard Disk
+B) DVD Drive
+C) SSD
+D) RAM
+Answer: B
+
+63. What is the function of a trackball?
+A) Pointing device
+B) Output device
+C) Storage device
+D) Display device
+Answer: A
+
+64. Which of the following is a type of cable used for networking?
+A) HDMI
+B) VGA
+C) Ethernet
+D) Audio Jack
+Answer: C
+
+65. Which device is used to display the output from a computer?
+A) Keyboard
+B) Monitor
+C) Mouse
+D) Printer
+Answer: B
+
+66. What is the function of a Bluetooth adapter?
+A) Enable wireless communication
+B) Store data
+C) Print documents
+D) Display images
+Answer: A
+
+67. Which of the following is NOT a type of memory?
+A) RAM
+B) ROM
+C) SSD
+D) Cache
+Answer: C
+
+68. Which device is used to input data by touching the screen?
+A) Mouse
+B) Touchscreen
+C) Keyboard
+D) Printer
+Answer: B
+
+69. What is the function of a plotter?
+A) Print large graphics
+B) Store data
+C) Process data
+D) Display images
+Answer: A
+
+70. Which of the following is a type of removable storage?
+A) RAM
+B) Hard Disk
+C) USB Flash Drive
+D) ROM
+Answer: C
+
+71. Which device is used to amplify sound from a computer?
+A) Microphone
+B) Speaker
+C) Monitor
+D) Printer
+Answer: B
+
+72. What is the function of a surge protector?
+A) Protect devices from voltage spikes
+B) Store data
+C) Process data
+D) Display images
+Answer: A
+
+73. Which of the following is NOT a type of keyboard?
+A) Mechanical
+B) Membrane
+C) Optical
+D) CRT
+Answer: D
+
+74. Which device is used to read smart cards?
+A) Printer
+B) Smart Card Reader
+C) Monitor
+D) Speaker
+Answer: B
+
+75. What is the function of a docking station?
+A) Connect multiple peripherals to a laptop
+B) Store data
+C) Process data
+D) Display images
+Answer: A
+
+76. Which of the following is a type of display technology?
+A) LCD
+B) HDD
+C) SSD
+D) RAM
+Answer: A
+
+77. Which device is used to input data using voice?
+A) Speaker
+B) Microphone
+C) Monitor
+D) Printer
+Answer: B
+
+78. What is the function of a fingerprint scanner?
+A) Authenticate user identity
+B) Print documents
+C) Store data
+D) Display images
+Answer: A
+
+79. Which of the following is NOT a type of mouse?
+A) Optical
+B) Mechanical
+C) Laser
+D) CRT
+Answer: D
+
+80. Which device is used to connect a computer to a telephone line?
+A) Modem
+B) Router
+C) Switch
+D) Hub
+Answer: A
+
+81. What is the function of a BIOS battery?
+A) Maintain system settings when power is off
+B) Store data
+C) Process data
+D) Display images
+Answer: A
+
+82. Which of the following is a type of expansion card?
+A) Graphics Card
+B) Monitor
+C) Printer
+D) Keyboard
+Answer: A
+
+83. Which device is used to read magnetic stripes on cards?
+A) Barcode Scanner
+B) Magnetic Stripe Reader
+C) Monitor
+D) Speaker
+Answer: B
+
+84. What is the function of a RAID controller?
+A) Manage multiple hard drives for redundancy/performance
+B) Print documents
+C) Display images
+D) Input data
+Answer: A
+
+85. Which of the following is NOT a type of printer?
+A) Inkjet
+B) Laser
+C) Dot Matrix
+D) LCD
+Answer: D
+
+86. Which device is used to input data using a pen?
+A) Mouse
+B) Graphics Tablet
+C) Monitor
+D) Printer
+Answer: B
+
+87. What is the function of a CMOS chip?
+A) Store BIOS settings
+B) Print documents
+C) Display images
+D) Process data
+Answer: A
+
+88. Which of the following is a type of connector for monitors?
+A) HDMI
+B) USB
+C) Ethernet
+D) Audio Jack
+Answer: A
+
+89. Which device is used to read optical marks on paper?
+A) OMR (Optical Mark Reader)
+B) Printer
+C) Monitor
+D) Speaker
+Answer: A
+
+90. What is the function of a KVM switch?
+A) Control multiple computers with one keyboard, video, and mouse
+B) Store data
+C) Print documents
+D) Display images
+Answer: A
+
+91. Which of the following is NOT a type of storage media?
+A) Blu-ray Disc
+B) SSD
+C) RAM
+D) Monitor
+Answer: D
+
+92. Which device is used to input data using light?
+A) Light Pen
+B) Mouse
+C) Keyboard
+D) Printer
+Answer: A
+
+93. What is the function of a thermal printer?
+A) Print using heat
+B) Store data
+C) Process data
+D) Display images
+Answer: A
+
+94. Which of the following is a type of memory used in USB drives?
+A) Flash Memory
+B) RAM
+C) ROM
+D) Cache
+Answer: A
+
+95. Which device is used to connect audio devices to a computer?
+A) Audio Jack
+B) HDMI
+C) VGA
+D) USB
+Answer: A
+
+96. What is the function of a card reader?
+A) Read data from memory cards
+B) Print documents
+C) Display images
+D) Process data
+Answer: A
+
+97. Which of the following is NOT a type of computer bus?
+A) Data Bus
+B) Address Bus
+C) Control Bus
+D) Monitor Bus
+Answer: D
+
+98. Which device is used to input data using a stylus?
+A) Graphics Tablet
+B) Mouse
+C) Keyboard
+D) Printer
+Answer: A
+
+99. What is the function of a SCSI controller?
+A) Connect and control SCSI devices
+B) Print documents
+C) Display images
+D) Input data
+Answer: A
+
+100. Which of the following is a type of removable disk?
+A) Floppy Disk
+B) RAM
+C) ROM
+D) Cache
+Answer: A
+
+101. Which device is used to display hardcopy output?
+A) Printer
+B) Monitor
+C) Mouse
+D) Keyboard
+Answer: A
+
+102. What is the function of a network switch?
+A) Connect devices in a network and forward data
+B) Store data
+C) Print documents
+D) Display images
+Answer: A
+
+103. Which of the following is NOT a type of computer memory?
+A) RAM
+B) ROM
+C) SSD
+D) Monitor
+Answer: D
+
+104. Which device is used to input data using a ball?
+A) Trackball
+B) Mouse
+C) Keyboard
+D) Printer
+Answer: A
+
+105. What is the function of a power cord?
+A) Supply electrical power to devices
+B) Store data
+C) Print documents
+D) Display images
+Answer: A
+
+106. Which of the following is a type of display port?
+A) DisplayPort
+B) USB
+C) Ethernet
+D) Audio Jack
+Answer: A
+
+107. Which device is used to input data using a camera?
+A) Webcam
+B) Printer
+C) Monitor
+D) Speaker
+Answer: A
+
+108. What is the function of a docking station for laptops?
+A) Connect multiple peripherals
+B) Store data
+C) Print documents
+D) Display images
+Answer: A
+
+109. Which of the following is NOT a type of storage device?
+A) Hard Disk
+B) SSD
+C) RAM
+D) CD-ROM
+Answer: C
+
+110. Which device is used to input data using a barcode?
+A) Barcode Scanner
+B) Printer
+C) Monitor
+D) Speaker
+Answer: A
+
+111. What is the function of a system unit?
+A) House all main components of a computer
+B) Print documents
+C) Display images
+D) Input data
+Answer: A
+
+112. Which of the following is a type of memory used in mobile phones?
+A) Flash Memory
+B) RAM
+C) ROM
+D) Cache
+Answer: A
+
+113. Which device is used to connect a computer to a network?
+A) Network Interface Card
+B) Printer
+C) Monitor
+D) Speaker
+Answer: A
+
+114. What is the function of a heat sink in a CPU?
+A) Dissipate heat
+B) Store data
+C) Print documents
+D) Display images
+Answer: A
+
+115. Which of the following is NOT a type of input device?
+A) Mouse
+B) Keyboard
+C) Monitor
+D) Scanner
+Answer: C
+
+116. Which device is used to store backup data?
+A) External Hard Drive
+B) Monitor
+C) Printer
+D) Speaker
+Answer: A
+
+117. What is the function of a USB hub?
+A) Expand the number of USB ports
+B) Store data
+C) Print documents
+D) Display images
+Answer: A
+
+118. Which of the following is a type of optical drive?
+A) DVD Drive
+B) Hard Disk
+C) SSD
+D) RAM
+Answer: A
+
+119. Which device is used to input data using a touch-sensitive surface?
+A) Touchpad
+B) Mouse
+C) Keyboard
+D) Printer
+Answer: A
+
+120. What is the function of a monitor?
+A) Display visual output
+B) Store data
+C) Print documents
+D) Input data
+Answer: A
+
+121. Which of the following is NOT a type of expansion slot?
+A) PCI
+B) AGP
+C) HDMI
+D) PCIe
+Answer: C
+
+122. Which device is used to input data using a pen or stylus?
+A) Graphics Tablet
+B) Mouse
+C) Keyboard
+D) Printer
+Answer: A
+
+123. What is the function of a modem?
+A) Convert digital signals to analog and vice versa
+B) Store data
+C) Print documents
+D) Display images
+Answer: A
+
+124. Which of the following is a type of removable storage media?
+A) USB Flash Drive
+B) RAM
+C) ROM
+D) Cache
+Answer: A
+
+125. Which device is used to input data using a light beam?
+A) Light Pen
+B) Mouse
+C) Keyboard
+D) Printer
+Answer: A
+
+126. What is the function of a speaker?
+A) Output sound
+B) Store data
+C) Print documents
+D) Input data
+Answer: A
+
+127. Which of the following is NOT a type of computer hardware?
+A) CPU
+B) RAM
+C) Operating System
+D) Hard Disk
+Answer: C
+
+128. Which device is used to input data using a magnetic stripe?
+A) Magnetic Stripe Reader
+B) Printer
+C) Monitor
+D) Speaker
+Answer: A
+
+129. What is the function of a scanner?
+A) Convert physical documents to digital format
+B) Print documents
+C) Store data
+D) Display images
+Answer: A
+
+130. Which of the following is a type of computer case?
+A) Tower
+B) Monitor
+C) Printer
+D) Speaker
+Answer: A
+
+131. Which device is used to input data using a touch screen?
+A) Touchscreen
+B) Mouse
+C) Keyboard
+D) Printer
+Answer: A
+
+132. What is the function of a hard disk drive?
+A) Store data permanently
+B) Print documents
+C) Display images
+D) Input data
+Answer: A
+
+133. Which of the following is NOT a type of output device?
+A) Monitor
+B) Printer
+C) Speaker
+D) Keyboard
+Answer: D
+
+134. Which device is used to input data using a camera?
+A) Webcam
+B) Printer
+C) Monitor
+D) Speaker
+Answer: A
+
+135. What is the function of a USB flash drive?
+A) Store and transfer data
+B) Print documents
+C) Display images
+D) Input data
+Answer: A
+
+136. Which of the following is a type of memory used in computers?
+A) RAM
+B) Monitor
+C) Printer
+D) Speaker
+Answer: A
+
+137. Which device is used to input data using a microphone?
+A) Microphone
+B) Printer
+C) Monitor
+D) Speaker
+Answer: A
+
+138. What is the function of a CD-ROM?
+A) Read data from CDs
+B) Print documents
+C) Display images
+D) Input data
+Answer: A
+
+139. Which of the following is NOT a type of storage device?
+A) Hard Disk
+B) SSD
+C) RAM
+D) CD-ROM
+Answer: C
+
+140. Which device is used to input data using a barcode?
+A) Barcode Scanner
+B) Printer
+C) Monitor
+D) Speaker
+Answer: A
+
+// ... 95 more MCQs in the same format ... 

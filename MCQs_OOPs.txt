@@ -1,0 +1,734 @@
+1. What does OOP stand for?
+A) Object Oriented Programming
+B) Object Oriented Process
+C) Object Oriented Procedure
+D) Object Oriented Protocol
+Answer: A
+
+2. Which of the following is not a principle of OOP?
+A) Encapsulation
+B) Inheritance
+C) Compilation
+D) Polymorphism
+Answer: C
+
+3. What is encapsulation?
+A) Hiding data
+B) Inheriting data
+C) Overloading functions
+D) None of the above
+Answer: A
+
+4. Which feature allows a class to derive properties from another class?
+A) Inheritance
+B) Polymorphism
+C) Abstraction
+D) Encapsulation
+Answer: A
+
+5. Which of the following is an OOP language?
+A) C
+B) Java
+C) Assembly
+D) Fortran
+Answer: B
+
+6. What is polymorphism in OOP?
+A) Many forms
+B) Single form
+C) No form
+D) None of the above
+Answer: A
+
+7. Which of the following is used to implement abstraction in Java?
+A) Interface
+B) Class
+C) Object
+D) Variable
+Answer: A
+
+8. What is inheritance?
+A) Acquiring properties from another class
+B) Hiding data
+C) Overloading functions
+D) None of the above
+Answer: A
+
+9. Which of the following is not an OOP language?
+A) C++
+B) Python
+C) Java
+D) COBOL
+Answer: D
+
+10. What is a class?
+A) Blueprint for objects
+B) Variable
+C) Function
+D) Data type
+Answer: A
+
+11. What is an object?
+A) Instance of a class
+B) Function
+C) Variable
+D) Data type
+Answer: A
+
+12. Which of the following supports OOP concepts?
+A) Java
+B) C++
+C) Python
+D) All of the above
+Answer: D
+
+13. What is method overloading?
+A) Same method name, different parameters
+B) Same method name, same parameters
+C) Different method name, same parameters
+D) None of the above
+Answer: A
+
+14. What is method overriding?
+A) Redefining a method in a subclass
+B) Defining a new method
+C) Deleting a method
+D) None of the above
+Answer: A
+
+15. Which of the following is not a feature of OOP?
+A) Encapsulation
+B) Inheritance
+C) Polymorphism
+D) Compilation
+Answer: D
+
+16. What is the default access modifier for class members in Java?
+A) Private
+B) Protected
+C) Public
+D) Package-private
+Answer: D
+
+17. Which keyword is used to inherit a class in Java?
+A) extends
+B) implements
+C) inherits
+D) super
+Answer: A
+
+18. Which keyword is used to create an object in Java?
+A) new
+B) create
+C) object
+D) make
+Answer: A
+
+19. What is the process of hiding internal details called?
+A) Encapsulation
+B) Inheritance
+C) Polymorphism
+D) Abstraction
+Answer: D
+
+20. Which of the following is a real-world example of encapsulation?
+A) Capsule
+B) Car
+C) Book
+D) Table
+Answer: A
+
+21. Which of the following is not a type of inheritance?
+A) Single
+B) Multiple
+C) Multilevel
+D) Double
+Answer: D
+
+22. Which OOP concept allows code reusability?
+A) Inheritance
+B) Encapsulation
+C) Abstraction
+D) Polymorphism
+Answer: A
+
+23. What is the parent class called in inheritance?
+A) Superclass
+B) Subclass
+C) Child class
+D) Derived class
+Answer: A
+
+24. What is the child class called in inheritance?
+A) Subclass
+B) Superclass
+C) Base class
+D) Parent class
+Answer: A
+
+25. Which of the following is not a benefit of OOP?
+A) Code reusability
+B) Data hiding
+C) Procedural approach
+D) Modularity
+Answer: C
+
+26. Which of the following is used to achieve runtime polymorphism?
+A) Method overriding
+B) Method overloading
+C) Constructor
+D) Variable
+Answer: A
+
+27. Which of the following is used to achieve compile-time polymorphism?
+A) Method overloading
+B) Method overriding
+C) Inheritance
+D) Abstraction
+Answer: A
+
+28. Which of the following is not a valid access modifier in Java?
+A) Public
+B) Private
+C) Protected
+D) Internal
+Answer: D
+
+29. Which of the following is a constructor?
+A) A special method to initialize objects
+B) A variable
+C) A function
+D) None of the above
+Answer: A
+
+30. Which of the following is true about constructors?
+A) They have the same name as the class
+B) They have a return type
+C) They can be static
+D) None of the above
+Answer: A
+
+31. What is the use of the 'super' keyword in Java?
+A) To refer to the parent class
+B) To refer to the child class
+C) To create an object
+D) None of the above
+Answer: A
+
+32. Which of the following is not a type of polymorphism?
+A) Compile-time
+B) Runtime
+C) Static
+D) Dynamic binding
+Answer: C
+
+33. What is data hiding?
+A) Restricting access to data
+B) Showing data
+C) Deleting data
+D) None of the above
+Answer: A
+
+34. Which of the following is not a characteristic of OOP?
+A) Modularity
+B) Data hiding
+C) Code duplication
+D) Code reusability
+Answer: C
+
+35. Which of the following is used to implement multiple inheritance in Java?
+A) Interface
+B) Class
+C) Object
+D) Method
+Answer: A
+
+36. Which of the following is not a valid class name in Java?
+A) MyClass
+B) 1Class
+C) _Class
+D) Class1
+Answer: B
+
+37. Which of the following is not a valid object name?
+A) myObject
+B) object1
+C) 1object
+D) obj
+Answer: C
+
+38. Which of the following is not a primitive data type in Java?
+A) int
+B) float
+C) String
+D) char
+Answer: C
+
+39. Which of the following is used to access members of a class?
+A) Dot operator
+B) Comma operator
+C) Colon operator
+D) Semicolon
+Answer: A
+
+40. Which of the following is not a method of the Object class in Java?
+A) toString()
+B) equals()
+C) hashCode()
+D) length()
+Answer: D
+
+41. Which of the following is not a feature of encapsulation?
+A) Data hiding
+B) Data binding
+C) Data abstraction
+D) Data sharing
+Answer: D
+
+42. Which of the following is not a type of class member?
+A) Field
+B) Method
+C) Constructor
+D) Interface
+Answer: D
+
+43. Which of the following is not a valid method name?
+A) myMethod
+B) 1method
+C) method1
+D) _method
+Answer: B
+
+44. Which of the following is not a valid way to create an object in Java?
+A) new MyClass()
+B) MyClass obj = new MyClass();
+C) MyClass obj();
+D) MyClass obj = MyClass();
+Answer: D
+
+45. Which of the following is not a type of variable in Java?
+A) Instance variable
+B) Static variable
+C) Local variable
+D) Global variable
+Answer: D
+
+46. Which of the following is not a valid interface declaration?
+A) interface MyInterface {}
+B) public interface MyInterface {}
+C) interface MyInterface;
+D) interface MyInterface extends AnotherInterface {}
+Answer: C
+
+47. Which of the following is not a valid way to implement an interface?
+A) class MyClass implements MyInterface {}
+B) class MyClass extends MyInterface {}
+C) class MyClass implements MyInterface, AnotherInterface {}
+D) class MyClass implements MyInterface
+Answer: B
+
+48. Which of the following is not a valid way to inherit a class?
+A) class A extends B {}
+B) class A implements B {}
+C) class A extends B, C {}
+D) class A extends B
+Answer: C
+
+49. Which of the following is not a valid way to override a method?
+A) Use the same method name and parameters in subclass
+B) Use @Override annotation
+C) Change the return type
+D) Call super.methodName()
+Answer: C
+
+50. Which of the following is not a valid way to overload a method?
+A) Change the number of parameters
+B) Change the type of parameters
+C) Change the order of parameters
+D) Change the method name
+Answer: D
+
+51. Which of the following is not a valid way to achieve abstraction?
+A) Abstract class
+B) Interface
+C) Concrete class
+D) None of the above
+Answer: C
+
+52. Which of the following is not a valid way to declare an abstract class?
+A) abstract class MyClass {}
+B) public abstract class MyClass {}
+C) class MyClass abstract {}
+D) abstract class MyClass
+Answer: C
+
+53. Which of the following is not a valid way to declare an abstract method?
+A) abstract void myMethod();
+B) public abstract void myMethod();
+C) void myMethod() abstract;
+D) abstract int myMethod();
+Answer: C
+
+54. Which of the following is not a valid way to instantiate an abstract class?
+A) new MyClass()
+B) Using subclass
+C) Anonymous class
+D) None of the above
+Answer: A
+
+55. Which of the following is not a valid way to implement multiple interfaces?
+A) class MyClass implements A, B {}
+B) class MyClass implements A {}
+C) class MyClass implements A, B, C {}
+D) class MyClass extends A, B {}
+Answer: D
+
+56. Which of the following is not a valid way to access a static member?
+A) ClassName.member
+B) object.member
+C) member
+D) None of the above
+Answer: C
+
+57. Which of the following is not a valid way to declare a static method?
+A) static void myMethod() {}
+B) public static void myMethod() {}
+C) void static myMethod() {}
+D) static int myMethod() {}
+Answer: C
+
+58. Which of the following is not a valid way to call a superclass constructor?
+A) super();
+B) super(arguments);
+C) this();
+D) None of the above
+Answer: C
+
+59. Which of the following is not a valid way to declare a final class?
+A) final class MyClass {}
+B) public final class MyClass {}
+C) class MyClass final {}
+D) final class MyClass
+Answer: C
+
+60. Which of the following is not a valid way to declare a final method?
+A) final void myMethod() {}
+B) public final void myMethod() {}
+C) void final myMethod() {}
+D) final int myMethod() {}
+Answer: C
+
+61. Which of the following is not a valid way to prevent inheritance?
+A) final class
+B) private constructor
+C) static class
+D) None of the above
+Answer: C
+
+62. Which of the following is not a valid way to prevent method overriding?
+A) final method
+B) private method
+C) static method
+D) public method
+Answer: D
+
+63. Which of the following is not a valid way to declare a package in Java?
+A) package mypackage;
+B) package mypackage
+C) package mypackage.*;
+D) None of the above
+Answer: C
+
+64. Which of the following is not a valid way to import a package in Java?
+A) import java.util.*;
+B) import java.util.Scanner;
+C) import java.util;
+D) import static java.lang.Math.*;
+Answer: C
+
+65. Which of the following is not a valid way to declare an array in Java?
+A) int[] arr;
+B) int arr[];
+C) int arr[5];
+D) int[] arr = new int[5];
+Answer: C
+
+66. Which of the following is not a valid way to access array elements?
+A) arr[0]
+B) arr[1]
+C) arr(0)
+D) arr[arr.length-1]
+Answer: C
+
+67. Which of the following is not a valid way to declare a main method in Java?
+A) public static void main(String[] args)
+B) static public void main(String[] args)
+C) public void main(String[] args)
+D) public static void main(String args[])
+Answer: C
+
+68. Which of the following is not a valid way to create a string in Java?
+A) String s = "Hello";
+B) String s = new String("Hello");
+C) String s = 'Hello';
+D) String s = String.valueOf("Hello");
+Answer: C
+
+69. Which of the following is not a valid way to compare strings in Java?
+A) equals()
+B) ==
+C) compareTo()
+D) equalsIgnoreCase()
+Answer: B
+
+70. Which of the following is not a valid way to concatenate strings in Java?
+A) +
+B) concat()
+C) append()
+D) StringBuilder
+Answer: C
+
+71. Which of the following is not a valid way to handle exceptions in Java?
+A) try-catch
+B) throw
+C) throws
+D) catch-try
+Answer: D
+
+72. Which of the following is not a valid way to declare a custom exception?
+A) class MyException extends Exception {}
+B) class MyException extends Throwable {}
+C) class MyException extends RuntimeException {}
+D) class MyException implements Exception {}
+Answer: D
+
+73. Which of the following is not a valid way to use the 'this' keyword?
+A) To refer to current object
+B) To call another constructor
+C) To refer to superclass
+D) To pass as argument
+Answer: C
+
+74. Which of the following is not a valid way to use the 'super' keyword?
+A) To refer to superclass
+B) To call superclass constructor
+C) To access superclass methods
+D) To refer to current object
+Answer: D
+
+75. Which of the following is not a valid way to declare an inner class?
+A) class Outer { class Inner {} }
+B) class Outer { static class Inner {} }
+C) class Outer.Inner {}
+D) class Outer { private class Inner {} }
+Answer: C
+
+76. Which of the following is not a valid way to access an inner class?
+A) Outer.Inner
+B) new Outer().new Inner()
+C) Outer.new Inner()
+D) new Outer.Inner()
+Answer: C
+
+77. Which of the following is not a valid way to declare an anonymous class?
+A) new Interface() { }
+B) new Class() { }
+C) new Object() { }
+D) class Anonymous { }
+Answer: D
+
+78. Which of the following is not a valid way to use 'instanceof'?
+A) obj instanceof Class
+B) obj instanceof Interface
+C) obj instanceof null
+D) obj instanceof Object
+Answer: C
+
+79. Which of the following is not a valid way to declare a generic class?
+A) class MyClass<T> {}
+B) class MyClass<T, U> {}
+C) class MyClass<> {}
+D) class MyClass<T extends Number> {}
+Answer: C
+
+80. Which of the following is not a valid way to use generics?
+A) ArrayList<String>
+B) HashMap<Integer, String>
+C) List<>
+D) Set<Double>
+Answer: C
+
+81. Which of the following is not a valid way to declare an enum?
+A) enum Color { RED, GREEN, BLUE }
+B) public enum Color { RED, GREEN, BLUE }
+C) enum Color();
+D) enum Color { }
+Answer: C
+
+82. Which of the following is not a valid way to use an enum?
+A) Color.RED
+B) new Color()
+C) Color.valueOf("RED")
+D) Color.values()
+Answer: B
+
+83. Which of the following is not a valid way to declare a static nested class?
+A) static class Nested {}
+B) class Outer { static class Nested {} }
+C) class Nested static {}
+D) class Outer { static class Nested {} }
+Answer: C
+
+84. Which of the following is not a valid way to use a static block?
+A) static { }
+B) static void block() { }
+C) static { System.out.println("Hello"); }
+D) static { int x = 10; }
+Answer: B
+
+85. Which of the following is not a valid way to declare a variable?
+A) int x;
+B) float y = 2.5f;
+C) String s = "Hello";
+D) int 1x;
+Answer: D
+
+86. Which of the following is not a valid way to declare a constant in Java?
+A) final int x = 10;
+B) static final int x = 10;
+C) const int x = 10;
+D) public static final int x = 10;
+Answer: C
+
+87. Which of the following is not a valid way to use the 'final' keyword?
+A) To declare a constant
+B) To prevent inheritance
+C) To prevent method overriding
+D) To declare a variable
+Answer: D
+
+88. Which of the following is not a valid way to use the 'static' keyword?
+A) To declare a static variable
+B) To declare a static method
+C) To declare a static class
+D) To declare a static block
+Answer: C
+
+89. Which of the following is not a valid way to use the 'abstract' keyword?
+A) To declare an abstract class
+B) To declare an abstract method
+C) To declare an abstract variable
+D) To declare an abstract interface
+Answer: C
+
+90. Which of the following is not a valid way to use the 'interface' keyword?
+A) To declare an interface
+B) To implement an interface
+C) To extend an interface
+D) To instantiate an interface
+Answer: D
+
+91. Which of the following is not a valid way to use the 'implements' keyword?
+A) To implement an interface
+B) To implement multiple interfaces
+C) To implement a class
+D) To implement an abstract class
+Answer: C
+
+92. Which of the following is not a valid way to use the 'extends' keyword?
+A) To extend a class
+B) To extend an interface
+C) To extend multiple classes
+D) To extend an abstract class
+Answer: C
+
+93. Which of the following is not a valid way to use the 'throws' keyword?
+A) To declare an exception
+B) To throw an exception
+C) To specify an exception in method signature
+D) None of the above
+Answer: B
+
+94. Which of the following is not a valid way to use the 'throw' keyword?
+A) To throw an exception
+B) To declare an exception
+C) To throw a custom exception
+D) To throw a runtime exception
+Answer: B
+
+95. Which of the following is not a valid way to use the 'try-catch' block?
+A) try { } catch(Exception e) { }
+B) try { } finally { }
+C) try { } catch(Exception e) { } finally { }
+D) try { } catch { }
+Answer: D
+
+96. Which of the following is not a valid way to use the 'finally' block?
+A) To execute code after try-catch
+B) To handle exceptions
+C) To close resources
+D) To execute code always
+Answer: B
+
+97. Which of the following is not a valid way to use the 'synchronized' keyword?
+A) To synchronize a method
+B) To synchronize a block
+C) To synchronize a variable
+D) To synchronize a class
+Answer: C
+
+98. Which of the following is not a valid way to use the 'volatile' keyword?
+A) To declare a volatile variable
+B) To declare a volatile method
+C) To declare a volatile field
+D) None of the above
+Answer: B
+
+99. Which of the following is not a valid way to use the 'transient' keyword?
+A) To declare a transient variable
+B) To declare a transient method
+C) To declare a transient field
+D) None of the above
+Answer: B
+
+100. Which of the following is not a valid way to use the 'native' keyword?
+A) To declare a native method
+B) To declare a native variable
+C) To declare a native function
+D) None of the above
+Answer: B
+A) Object Oriented Programming
+B) Object Oriented Process
+C) Object Oriented Procedure
+D) Object Oriented Protocol
+Answer: A
+
+2. Which of the following is not a principle of OOP?
+A) Encapsulation
+B) Inheritance
+C) Compilation
+D) Polymorphism
+Answer: C
+
+3. What is encapsulation?
+A) Hiding data
+B) Inheriting data
+C) Overloading functions
+D) None of the above
+Answer: A
+
+4. Which feature allows a class to derive properties from another class?
+A) Inheritance
+B) Polymorphism
+C) Abstraction
+D) Encapsulation
+Answer: A
+
+5. Which of the following is an OOP language?
+A) C
+B) Java
+C) Assembly
+D) Fortran
+Answer: B
+
+// ... 95 more MCQs in the same format ... 

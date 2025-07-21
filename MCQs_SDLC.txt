@@ -1,0 +1,1049 @@
+1. What does SDLC stand for?
+A) Software Development Life Cycle
+B) System Design Life Cycle
+C) Software Design Life Cycle
+D) System Development Life Cycle
+Answer: A
+
+2. Which is the first phase of SDLC?
+A) Design
+B) Testing
+C) Requirement Analysis
+D) Implementation
+Answer: C
+
+3. Which model is also known as the linear sequential model?
+A) Spiral
+B) Waterfall
+C) Agile
+D) V-Model
+Answer: B
+
+4. What is the main purpose of the testing phase?
+A) To design the system
+B) To find and fix bugs
+C) To gather requirements
+D) To deploy the system
+Answer: B
+
+5. Which SDLC model is best for small projects?
+A) Spiral
+B) Waterfall
+C) Agile
+D) V-Model
+Answer: B
+
+6. Which phase comes after requirement analysis in SDLC?
+A) Design
+B) Testing
+C) Maintenance
+D) Deployment
+Answer: A
+
+7. What is the main focus of the design phase in SDLC?
+A) Coding
+B) System architecture and specifications
+C) Testing
+D) Deployment
+Answer: B
+
+8. Which SDLC model emphasizes risk analysis?
+A) Waterfall
+B) Spiral
+C) Agile
+D) V-Model
+Answer: B
+
+9. In which phase is the actual code written?
+A) Design
+B) Implementation
+C) Testing
+D) Maintenance
+Answer: B
+
+10. What is the last phase of the SDLC?
+A) Testing
+B) Deployment
+C) Maintenance
+D) Design
+Answer: C
+
+11. Which SDLC model is iterative and incremental?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+12. What is the main advantage of the Agile model?
+A) Strict documentation
+B) Flexibility and customer feedback
+C) No testing required
+D) Linear process
+Answer: B
+
+13. Which SDLC phase involves fixing bugs after deployment?
+A) Design
+B) Implementation
+C) Maintenance
+D) Testing
+Answer: C
+
+14. What is a deliverable in SDLC?
+A) A type of software
+B) A completed product or document
+C) A programming language
+D) A testing tool
+Answer: B
+
+15. Which model is best suited for projects with unclear requirements?
+A) Waterfall
+B) Agile
+C) V-Model
+D) Big Bang
+Answer: B
+
+16. What is the main disadvantage of the Waterfall model?
+A) Too flexible
+B) Difficult to go back to previous phases
+C) No documentation
+D) No testing
+Answer: B
+
+17. Which SDLC model is also called the Verification and Validation model?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Agile
+Answer: C
+
+18. What is prototyping in SDLC?
+A) Writing code
+B) Creating a working model of the system
+C) Testing the system
+D) Deploying the system
+Answer: B
+
+19. Which phase involves user training and system installation?
+A) Requirement Analysis
+B) Deployment
+C) Design
+D) Testing
+Answer: B
+
+20. What is the main goal of requirement analysis?
+A) To design the system
+B) To gather and document user needs
+C) To test the system
+D) To deploy the system
+Answer: B
+
+21. Which SDLC model is best for large, complex, and high-risk projects?
+A) Waterfall
+B) Spiral
+C) Agile
+D) V-Model
+Answer: B
+
+22. What is feasibility study in SDLC?
+A) Testing the system
+B) Checking if the project is possible and practical
+C) Writing code
+D) Deploying the system
+Answer: B
+
+23. Which phase includes creating data flow diagrams and ER diagrams?
+A) Requirement Analysis
+B) Design
+C) Implementation
+D) Maintenance
+Answer: B
+
+24. What is the main output of the design phase?
+A) Source code
+B) Design documents and specifications
+C) Test cases
+D) User manuals
+Answer: B
+
+25. Which SDLC model delivers a working product at the end of each iteration?
+A) Waterfall
+B) Agile
+C) V-Model
+D) Spiral
+Answer: B
+
+26. What is regression testing?
+A) Testing new features only
+B) Testing to ensure new changes do not affect existing functionality
+C) Testing the user interface
+D) Testing the database
+Answer: B
+
+27. Which phase involves writing test cases and test plans?
+A) Requirement Analysis
+B) Design
+C) Testing
+D) Maintenance
+Answer: C
+
+28. What is the main purpose of the maintenance phase?
+A) To gather requirements
+B) To fix issues and update the system
+C) To design the system
+D) To write code
+Answer: B
+
+29. Which SDLC model is best for projects with well-defined requirements?
+A) Waterfall
+B) Agile
+C) Spiral
+D) Big Bang
+Answer: A
+
+30. What is a milestone in SDLC?
+A) A programming language
+B) A significant event or achievement in the project
+C) A type of test
+D) A deployment tool
+Answer: B
+
+31. Which SDLC model is known for its strict sequential flow?
+A) Waterfall
+B) Agile
+C) Spiral
+D) V-Model
+Answer: A
+
+32. What is the main focus of the implementation phase?
+A) Writing and integrating code
+B) Gathering requirements
+C) Designing the system
+D) Testing the system
+Answer: A
+
+33. Which phase involves checking if the system meets user requirements?
+A) Design
+B) Implementation
+C) Testing
+D) Maintenance
+Answer: C
+
+34. What is user acceptance testing (UAT)?
+A) Testing by developers
+B) Testing by end users to verify the system meets their needs
+C) Testing the database
+D) Testing the network
+Answer: B
+
+35. Which SDLC model is best for projects with changing requirements?
+A) Waterfall
+B) Agile
+C) V-Model
+D) Spiral
+Answer: B
+
+36. What is the main disadvantage of the Big Bang model?
+A) Too much documentation
+B) No planning and high risk of failure
+C) Too many phases
+D) Too much testing
+Answer: B
+
+37. Which phase involves creating user manuals and documentation?
+A) Requirement Analysis
+B) Design
+C) Implementation
+D) Deployment
+Answer: D
+
+38. What is the main purpose of system testing?
+A) To test individual modules
+B) To test the complete integrated system
+C) To test the user interface
+D) To test the database
+Answer: B
+
+39. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+40. What is a use case in SDLC?
+A) A programming language
+B) A description of how users interact with the system
+C) A type of test
+D) A deployment tool
+Answer: B
+
+41. Which phase involves identifying stakeholders and their needs?
+A) Requirement Analysis
+B) Design
+C) Implementation
+D) Testing
+Answer: A
+
+42. What is the main output of the requirement analysis phase?
+A) Source code
+B) Requirement specification document
+C) Test cases
+D) User manuals
+Answer: B
+
+43. Which SDLC model is best for rapid application development?
+A) Waterfall
+B) Agile
+C) V-Model
+D) Spiral
+Answer: B
+
+44. What is integration testing?
+A) Testing individual modules
+B) Testing combined modules as a group
+C) Testing the user interface
+D) Testing the database
+Answer: B
+
+45. Which phase involves planning the project schedule and resources?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+46. What is the main purpose of the deployment phase?
+A) To gather requirements
+B) To make the system available to users
+C) To design the system
+D) To write code
+Answer: B
+
+47. Which SDLC model is best for projects with fixed requirements and budget?
+A) Waterfall
+B) Agile
+C) Spiral
+D) V-Model
+Answer: A
+
+48. What is a test case?
+A) A programming language
+B) A set of conditions to test a feature or function
+C) A type of software
+D) A deployment tool
+Answer: B
+
+49. Which phase involves reviewing and approving project deliverables?
+A) Requirement Analysis
+B) Design
+C) Implementation
+D) Testing
+Answer: D
+
+50. What is the main advantage of the V-Model?
+A) No documentation
+B) Testing is planned in parallel with development
+C) No testing required
+D) No design phase
+Answer: B
+
+51. Which SDLC model is best for projects with high customer involvement?
+A) Waterfall
+B) Agile
+C) V-Model
+D) Spiral
+Answer: B
+
+52. What is the main disadvantage of the Agile model?
+A) Inflexible to changes
+B) Requires frequent customer involvement
+C) No testing
+D) No documentation
+Answer: B
+
+53. Which phase involves coding standards and guidelines?
+A) Requirement Analysis
+B) Design
+C) Implementation
+D) Testing
+Answer: C
+
+54. What is the main purpose of the feasibility study?
+A) To test the system
+B) To determine if the project is viable
+C) To write code
+D) To deploy the system
+Answer: B
+
+55. Which SDLC model is best for projects with high risk of changing requirements?
+A) Waterfall
+B) Agile
+C) V-Model
+D) Spiral
+Answer: B
+
+56. What is a Gantt chart used for in SDLC?
+A) Coding
+B) Project scheduling and tracking
+C) Testing
+D) Deployment
+Answer: B
+
+57. Which phase involves risk management and mitigation planning?
+A) Requirement Analysis
+B) Design
+C) Project Planning
+D) Testing
+Answer: C
+
+58. What is the main output of the testing phase?
+A) Source code
+B) Test reports and defect logs
+C) Design documents
+D) User manuals
+Answer: B
+
+59. Which SDLC model is best for projects with strict regulatory requirements?
+A) Waterfall
+B) Agile
+C) V-Model
+D) Spiral
+Answer: C
+
+60. What is a functional requirement?
+A) A requirement related to system performance
+B) A requirement describing what the system should do
+C) A requirement for system security
+D) A requirement for system reliability
+Answer: B
+
+61. Which phase involves performance testing?
+A) Requirement Analysis
+B) Design
+C) Testing
+D) Maintenance
+Answer: C
+
+62. What is the main purpose of code review?
+A) To gather requirements
+B) To find and fix errors in code
+C) To design the system
+D) To deploy the system
+Answer: B
+
+63. Which SDLC model is best for projects with evolving requirements?
+A) Waterfall
+B) Agile
+C) V-Model
+D) Spiral
+Answer: B
+
+64. What is a non-functional requirement?
+A) A requirement describing system behavior and performance
+B) A requirement for user interface
+C) A requirement for coding standards
+D) A requirement for deployment
+Answer: A
+
+65. Which phase involves creating wireframes and mockups?
+A) Requirement Analysis
+B) Design
+C) Implementation
+D) Testing
+Answer: B
+
+66. What is the main advantage of prototyping?
+A) No user feedback
+B) Early visualization of the system
+C) No documentation
+D) No testing
+Answer: B
+
+67. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+68. What is the main purpose of user training?
+A) To gather requirements
+B) To help users understand and use the system
+C) To design the system
+D) To write code
+Answer: B
+
+69. Which phase involves updating the system for new requirements?
+A) Requirement Analysis
+B) Design
+C) Maintenance
+D) Testing
+Answer: C
+
+70. What is the main output of the deployment phase?
+A) Source code
+B) Live system available to users
+C) Test cases
+D) Design documents
+Answer: B
+
+71. Which SDLC model is best for projects with high customer feedback?
+A) Waterfall
+B) Agile
+C) V-Model
+D) Spiral
+Answer: B
+
+72. What is the main disadvantage of the Spiral model?
+A) No risk analysis
+B) Can be expensive and complex
+C) No documentation
+D) No testing
+Answer: B
+
+73. Which phase involves creating backup and recovery plans?
+A) Requirement Analysis
+B) Design
+C) Implementation
+D) Maintenance
+Answer: D
+
+74. What is the main purpose of system documentation?
+A) To gather requirements
+B) To provide information about the system for users and developers
+C) To design the system
+D) To write code
+Answer: B
+
+75. Which SDLC model is best for projects with fixed requirements and timeline?
+A) Waterfall
+B) Agile
+C) V-Model
+D) Spiral
+Answer: A
+
+76. What is a project baseline?
+A) A programming language
+B) The approved version of a work product
+C) A type of test
+D) A deployment tool
+Answer: B
+
+77. Which phase involves creating test data?
+A) Requirement Analysis
+B) Design
+C) Testing
+D) Maintenance
+Answer: C
+
+78. What is the main advantage of the incremental model?
+A) No documentation
+B) Delivers working software in increments
+C) No testing
+D) No design phase
+Answer: B
+
+79. Which SDLC model is best for projects with high risk and changing requirements?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+80. What is the main purpose of configuration management?
+A) To gather requirements
+B) To control changes to software and documents
+C) To design the system
+D) To write code
+Answer: B
+
+81. Which phase involves creating a project budget?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+82. What is the main output of the maintenance phase?
+A) Source code
+B) Updated system and documentation
+C) Test cases
+D) Design documents
+Answer: B
+
+83. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+84. What is the main purpose of a project kickoff meeting?
+A) To gather requirements
+B) To start the project and align the team
+C) To design the system
+D) To write code
+Answer: B
+
+85. Which phase involves creating a communication plan?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+86. What is the main advantage of the RAD model?
+A) No documentation
+B) Rapid development and delivery
+C) No testing
+D) No design phase
+Answer: B
+
+87. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+88. What is the main purpose of a project closure report?
+A) To gather requirements
+B) To formally close the project and document lessons learned
+C) To design the system
+D) To write code
+Answer: B
+
+89. Which phase involves creating a risk register?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+90. What is the main output of the project planning phase?
+A) Project plan and schedule
+B) Source code
+C) Test cases
+D) Design documents
+Answer: A
+
+91. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+92. What is the main purpose of a change request?
+A) To gather requirements
+B) To formally request a change to the project
+C) To design the system
+D) To write code
+Answer: B
+
+93. Which phase involves creating a quality management plan?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+94. What is the main advantage of the iterative model?
+A) No documentation
+B) Allows repeated refinement of the system
+C) No testing
+D) No design phase
+Answer: B
+
+95. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+96. What is the main purpose of a project status report?
+A) To gather requirements
+B) To communicate project progress to stakeholders
+C) To design the system
+D) To write code
+Answer: B
+
+97. Which phase involves creating a stakeholder register?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+98. What is the main output of the requirement analysis phase?
+A) Requirement specification document
+B) Source code
+C) Test cases
+D) Design documents
+Answer: A
+
+99. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+100. What is the main purpose of a project risk assessment?
+A) To gather requirements
+B) To identify and evaluate project risks
+C) To design the system
+D) To write code
+Answer: B
+
+101. Which phase involves creating a project charter?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+102. What is the main output of the design phase?
+A) Design documents and specifications
+B) Source code
+C) Test cases
+D) User manuals
+Answer: A
+
+103. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+104. What is the main purpose of a project kickoff meeting?
+A) To start the project and align the team
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+105. Which phase involves creating a project schedule?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+106. What is the main output of the implementation phase?
+A) Source code and executable programs
+B) Design documents
+C) Test cases
+D) User manuals
+Answer: A
+
+107. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+108. What is the main purpose of a project closure report?
+A) To formally close the project and document lessons learned
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+109. Which phase involves creating a communication plan?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+110. What is the main output of the testing phase?
+A) Test reports and defect logs
+B) Source code
+C) Design documents
+D) User manuals
+Answer: A
+
+111. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+112. What is the main purpose of a project status report?
+A) To communicate project progress to stakeholders
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+113. Which phase involves creating a stakeholder register?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+114. What is the main output of the requirement analysis phase?
+A) Requirement specification document
+B) Source code
+C) Test cases
+D) Design documents
+Answer: A
+
+115. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+116. What is the main purpose of a project risk assessment?
+A) To identify and evaluate project risks
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+117. Which phase involves creating a project charter?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+118. What is the main output of the design phase?
+A) Design documents and specifications
+B) Source code
+C) Test cases
+D) User manuals
+Answer: A
+
+119. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+120. What is the main purpose of a project kickoff meeting?
+A) To start the project and align the team
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+121. Which phase involves creating a project schedule?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+122. What is the main output of the implementation phase?
+A) Source code and executable programs
+B) Design documents
+C) Test cases
+D) User manuals
+Answer: A
+
+123. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+124. What is the main purpose of a project closure report?
+A) To formally close the project and document lessons learned
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+125. Which phase involves creating a communication plan?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+126. What is the main output of the testing phase?
+A) Test reports and defect logs
+B) Source code
+C) Design documents
+D) User manuals
+Answer: A
+
+127. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+128. What is the main purpose of a project status report?
+A) To communicate project progress to stakeholders
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+129. Which phase involves creating a stakeholder register?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+130. What is the main output of the requirement analysis phase?
+A) Requirement specification document
+B) Source code
+C) Test cases
+D) Design documents
+Answer: A
+
+131. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+132. What is the main purpose of a project risk assessment?
+A) To identify and evaluate project risks
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+133. Which phase involves creating a project charter?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+134. What is the main output of the design phase?
+A) Design documents and specifications
+B) Source code
+C) Test cases
+D) User manuals
+Answer: A
+
+135. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+136. What is the main purpose of a project kickoff meeting?
+A) To start the project and align the team
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+137. Which phase involves creating a project schedule?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+138. What is the main output of the implementation phase?
+A) Source code and executable programs
+B) Design documents
+C) Test cases
+D) User manuals
+Answer: A
+
+139. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+140. What is the main purpose of a project closure report?
+A) To formally close the project and document lessons learned
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+141. Which phase involves creating a communication plan?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+142. What is the main output of the testing phase?
+A) Test reports and defect logs
+B) Source code
+C) Design documents
+D) User manuals
+Answer: A
+
+143. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+144. What is the main purpose of a project status report?
+A) To communicate project progress to stakeholders
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+145. Which phase involves creating a stakeholder register?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+146. What is the main output of the requirement analysis phase?
+A) Requirement specification document
+B) Source code
+C) Test cases
+D) Design documents
+Answer: A
+
+147. Which SDLC model is best for projects with high risk and frequent changes?
+A) Waterfall
+B) Spiral
+C) V-Model
+D) Big Bang
+Answer: B
+
+148. What is the main purpose of a project risk assessment?
+A) To identify and evaluate project risks
+B) To gather requirements
+C) To design the system
+D) To write code
+Answer: A
+
+149. Which phase involves creating a project charter?
+A) Requirement Analysis
+B) Project Planning
+C) Design
+D) Testing
+Answer: B
+
+150. What is the main output of the design phase?
+A) Design documents and specifications
+B) Source code
+C) Test cases
+D) User manuals
+Answer: A

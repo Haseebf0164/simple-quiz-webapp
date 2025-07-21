@@ -1,0 +1,840 @@
+1. What is the main function of the ALU?
+A) Store data
+B) Perform arithmetic and logic operations
+C) Control input/output
+D) Manage memory
+Answer: B
+
+2. What does CPU stand for?
+A) Central Processing Unit
+B) Computer Processing Unit
+C) Central Programming Unit
+D) Computer Program Unit
+Answer: A
+
+3. Which memory is directly accessible by the CPU?
+A) Hard Disk
+B) RAM
+C) CD-ROM
+D) Floppy Disk
+Answer: B
+
+4. What is a register?
+A) A small, fast storage location in CPU
+B) A type of software
+C) A type of bus
+D) A type of port
+Answer: A
+
+5. What is the function of the control unit?
+A) Execute instructions
+B) Store data
+C) Decode and control instructions
+D) Perform calculations
+Answer: C
+6. Which of the following is a volatile memory?
+A) ROM
+B) Hard Disk
+C) RAM
+D) CD-ROM
+Answer: C
+
+7. What is the purpose of cache memory?
+A) Store permanent data
+B) Increase processing speed by storing frequently used data
+C) Backup data
+D) Connect devices
+Answer: B
+
+8. Which bus is used to transfer data between CPU and memory?
+A) Address bus
+B) Data bus
+C) Control bus
+D) Serial bus
+Answer: B
+
+9. What does the program counter (PC) hold?
+A) Address of the next instruction to execute
+B) Data to be processed
+C) Result of operation
+D) Status of CPU
+Answer: A
+
+10. Which of the following is NOT a type of ROM?
+A) PROM
+B) EPROM
+C) EEPROM
+D) SRAM
+Answer: D
+
+11. What is pipelining in computer architecture?
+A) Storing data in pipes
+B) Executing multiple instructions simultaneously in different stages
+C) Increasing memory size
+D) Connecting computers in a network
+Answer: B
+
+12. Which of the following is a RISC processor characteristic?
+A) Complex instructions
+B) Fewer instructions, simple addressing modes
+C) Slow execution
+D) High power consumption
+Answer: B
+
+13. What is the function of the instruction register?
+A) Store data
+B) Store the current instruction being executed
+C) Store address of next instruction
+D) Store results
+Answer: B
+
+14. Which of the following is NOT a secondary storage device?
+A) Hard Disk
+B) SSD
+C) RAM
+D) CD-ROM
+Answer: C
+
+15. What is the main function of the motherboard?
+A) Store data
+B) Connect and allow communication between components
+C) Display output
+D) Input data
+Answer: B
+
+16. Which of the following is used to connect CPU to peripherals?
+A) Data bus
+B) Address bus
+C) I/O bus
+D) Control bus
+Answer: C
+
+17. What is the function of the MAR (Memory Address Register)?
+A) Store data to be written
+B) Store address of memory location to access
+C) Store instructions
+D) Store results
+Answer: B
+
+18. Which of the following is NOT a function of the CPU?
+A) Arithmetic operations
+B) Logic operations
+C) Data storage
+D) Instruction execution
+Answer: C
+
+19. What is the function of the MDR (Memory Data Register)?
+A) Store address of data
+B) Store data being transferred to or from memory
+C) Store instructions
+D) Store program counter
+Answer: B
+
+20. Which of the following is a non-volatile memory?
+A) RAM
+B) Cache
+C) ROM
+D) Register
+Answer: C
+
+21. What is the main function of the system clock?
+A) Store data
+B) Synchronize operations in the computer
+C) Display time
+D) Control input/output
+Answer: B
+
+22. Which of the following is NOT a type of computer architecture?
+A) Von Neumann
+B) Harvard
+C) RISC
+D) SQL
+Answer: D
+
+23. What is the main difference between Von Neumann and Harvard architecture?
+A) Number of CPUs
+B) Separate memory for data and instructions in Harvard
+C) Use of cache
+D) Use of registers
+Answer: B
+
+24. What is a microprocessor?
+A) A small memory chip
+B) A CPU on a single integrated circuit
+C) A type of software
+D) A storage device
+Answer: B
+
+25. Which of the following is NOT a component of the CPU?
+A) ALU
+B) Control Unit
+C) Register
+D) Monitor
+Answer: D
+
+26. What is instruction cycle?
+A) Time to execute a program
+B) Time to fetch and execute an instruction
+C) Time to store data
+D) Time to transfer data
+Answer: B
+
+27. What is the function of the stack pointer?
+A) Points to the top of the stack
+B) Points to the next instruction
+C) Points to the base of memory
+D) Points to the ALU
+Answer: A
+
+28. Which of the following is used for temporary storage during processing?
+A) Hard Disk
+B) Register
+C) CD-ROM
+D) SSD
+Answer: B
+
+29. What is the main function of the BIOS?
+A) Manage files
+B) Initialize hardware during booting
+C) Run applications
+D) Store user data
+Answer: B
+
+30. Which of the following is NOT a type of register?
+A) Accumulator
+B) Program Counter
+C) Cache
+D) Instruction Register
+Answer: C
+
+31. What is the function of the accumulator?
+A) Store intermediate results of operations
+B) Store instructions
+C) Store addresses
+D) Store programs
+Answer: A
+
+32. Which of the following is a characteristic of CISC architecture?
+A) Simple instructions
+B) Many addressing modes
+C) Few instructions
+D) No microprogramming
+Answer: B
+
+33. What is the function of the address bus?
+A) Transfer data
+B) Transfer addresses
+C) Transfer control signals
+D) Transfer power
+Answer: B
+
+34. Which of the following is NOT a function of the control unit?
+A) Decode instructions
+B) Control data flow
+C) Perform arithmetic operations
+D) Generate control signals
+Answer: C
+
+35. What is the main advantage of using cache memory?
+A) Increases storage capacity
+B) Increases processing speed
+C) Reduces power consumption
+D) Reduces cost
+Answer: B
+
+36. Which of the following is NOT a type of cache?
+A) L1
+B) L2
+C) L3
+D) L4
+Answer: D
+
+37. What is the function of the data bus?
+A) Transfer data between components
+B) Transfer addresses
+C) Transfer control signals
+D) Transfer power
+Answer: A
+
+38. Which of the following is a primary memory?
+A) Hard Disk
+B) RAM
+C) CD-ROM
+D) SSD
+Answer: B
+
+39. What is the main function of the input unit?
+A) Store data
+B) Convert user data into machine readable form
+C) Display output
+D) Perform calculations
+Answer: B
+
+40. Which of the following is NOT an output device?
+A) Monitor
+B) Printer
+C) Keyboard
+D) Speaker
+Answer: C
+
+41. What is the function of the output unit?
+A) Store data
+B) Convert machine results into human readable form
+C) Perform calculations
+D) Control input
+Answer: B
+
+42. Which of the following is NOT a type of instruction?
+A) Data transfer
+B) Arithmetic
+C) Control
+D) Formatting
+Answer: D
+
+43. What is the function of the instruction decoder?
+A) Store instructions
+B) Decode instructions for execution
+C) Store data
+D) Control output
+Answer: B
+
+44. Which of the following is NOT a type of addressing mode?
+A) Immediate
+B) Direct
+C) Indirect
+D) Sequential
+Answer: D
+
+45. What is the function of the DMA (Direct Memory Access) controller?
+A) Control CPU speed
+B) Allow peripherals to access memory directly
+C) Store data
+D) Control output devices
+Answer: B
+
+46. Which of the following is NOT a type of micro-operation?
+A) Register transfer
+B) Arithmetic
+C) Logic
+D) Formatting
+Answer: D
+
+47. What is the function of the system bus?
+A) Connect CPU, memory, and peripherals
+B) Store data
+C) Display output
+D) Input data
+Answer: A
+
+48. Which of the following is NOT a type of system bus?
+A) Data bus
+B) Address bus
+C) Control bus
+D) Power bus
+Answer: D
+
+49. What is the function of the control bus?
+A) Transfer data
+B) Transfer addresses
+C) Transfer control signals
+D) Transfer power
+Answer: C
+
+50. Which of the following is NOT a type of memory hierarchy?
+A) Register
+B) Cache
+C) RAM
+D) Monitor
+Answer: D
+
+51. What is the main function of the fetch operation in instruction cycle?
+A) Execute instruction
+B) Retrieve instruction from memory
+C) Store result
+D) Decode instruction
+Answer: B
+
+52. Which of the following is NOT a type of instruction format?
+A) Zero address
+B) One address
+C) Two address
+D) Four address
+Answer: D
+
+53. What is the function of the status register?
+A) Store data
+B) Store program counter
+C) Store condition codes and flags
+D) Store instructions
+Answer: C
+
+54. Which of the following is NOT a type of flag in status register?
+A) Zero flag
+B) Carry flag
+C) Overflow flag
+D) Data flag
+Answer: D
+
+55. What is the function of the stack in computer architecture?
+A) Store data permanently
+B) Store temporary data for function calls and interrupts
+C) Store instructions
+D) Store output
+Answer: B
+
+56. Which of the following is NOT a type of interrupt?
+A) Hardware
+B) Software
+C) Power
+D) Timer
+Answer: C
+
+57. What is the function of the interrupt vector table?
+A) Store data
+B) Store addresses of interrupt service routines
+C) Store instructions
+D) Store results
+Answer: B
+
+58. Which of the following is NOT a type of bus arbitration?
+A) Daisy chaining
+B) Polling
+C) Priority
+D) Formatting
+Answer: D
+
+59. What is the function of the instruction pipeline?
+A) Store instructions
+B) Allow overlapping execution of instructions
+C) Store data
+D) Control output
+Answer: B
+
+60. Which of the following is NOT a type of memory?
+A) RAM
+B) ROM
+C) CPU
+D) Cache
+Answer: C
+
+61. What is the function of the control word in micro-operations?
+A) Store data
+B) Specify micro-operations to be performed
+C) Store instructions
+D) Store addresses
+Answer: B
+
+62. Which of the following is NOT a type of microinstruction?
+A) Horizontal
+B) Vertical
+C) Diagonal
+D) None of the above
+Answer: C
+
+63. What is the function of the program status word (PSW)?
+A) Store data
+B) Store status information about the program
+C) Store instructions
+D) Store addresses
+Answer: B
+
+64. Which of the following is NOT a type of instruction set architecture?
+A) RISC
+B) CISC
+C) SISC
+D) VLIW
+Answer: C
+
+65. What is the function of the instruction set?
+A) Store data
+B) Define operations the CPU can perform
+C) Store addresses
+D) Store results
+Answer: B
+
+66. Which of the following is NOT a type of addressing mode?
+A) Immediate
+B) Direct
+C) Indirect
+D) Output
+Answer: D
+
+67. What is the function of the operand in an instruction?
+A) Specify operation to be performed
+B) Specify data to be operated on
+C) Specify address of instruction
+D) Specify control signals
+Answer: B
+
+68. Which of the following is NOT a type of instruction cycle?
+A) Fetch
+B) Decode
+C) Execute
+D) Store
+Answer: D
+
+69. What is the function of the decode operation in instruction cycle?
+A) Fetch instruction
+B) Interpret instruction to determine operation
+C) Execute instruction
+D) Store result
+Answer: B
+
+70. Which of the following is NOT a type of control unit?
+A) Hardwired
+B) Microprogrammed
+C) Software
+D) None of the above
+Answer: C
+
+71. What is the function of the microprogrammed control unit?
+A) Use fixed logic circuits
+B) Use microinstructions stored in control memory
+C) Store data
+D) Store addresses
+Answer: B
+
+72. Which of the following is NOT a type of memory organization?
+A) Random access
+B) Sequential access
+C) Direct access
+D) Indirect access
+Answer: D
+
+73. What is the function of the associative memory?
+A) Store data sequentially
+B) Store data by content rather than address
+C) Store instructions
+D) Store results
+Answer: B
+
+74. Which of the following is NOT a type of secondary memory?
+A) Hard Disk
+B) SSD
+C) RAM
+D) CD-ROM
+Answer: C
+
+75. What is the function of the bootloader?
+A) Store data
+B) Load operating system into memory during startup
+C) Store instructions
+D) Store results
+Answer: B
+
+76. Which of the following is NOT a type of parallel processing?
+A) SIMD
+B) MIMD
+C) MISD
+D) SISD
+Answer: D
+
+77. What is the function of the coprocessor?
+A) Store data
+B) Assist CPU in performing specific operations
+C) Store instructions
+D) Store results
+Answer: B
+
+78. Which of the following is NOT a type of computer bus?
+A) Data bus
+B) Address bus
+C) Control bus
+D) Output bus
+Answer: D
+
+79. What is the function of the instruction queue?
+A) Store data
+B) Store instructions before execution
+C) Store addresses
+D) Store results
+Answer: B
+
+80. Which of the following is NOT a type of memory mapping?
+A) Direct mapping
+B) Associative mapping
+C) Set-associative mapping
+D) Sequential mapping
+Answer: D
+
+81. What is the function of the TLB (Translation Lookaside Buffer)?
+A) Store data
+B) Store recent translations of virtual memory to physical memory addresses
+C) Store instructions
+D) Store results
+Answer: B
+
+82. Which of the following is NOT a type of instruction hazard?
+A) Data hazard
+B) Control hazard
+C) Structural hazard
+D) Output hazard
+Answer: D
+
+83. What is the function of the branch predictor?
+A) Store data
+B) Predict outcome of branch instructions to improve pipeline performance
+C) Store instructions
+D) Store results
+Answer: B
+
+84. Which of the following is NOT a type of pipeline stall?
+A) Data stall
+B) Control stall
+C) Output stall
+D) Structural stall
+Answer: C
+
+85. What is the function of the bus interface unit?
+A) Store data
+B) Manage data transfer between CPU and external devices
+C) Store instructions
+D) Store results
+Answer: B
+
+86. Which of the following is NOT a type of instruction format?
+A) Zero address
+B) One address
+C) Two address
+D) Three address
+Answer: D
+
+87. What is the function of the instruction pointer?
+A) Store data
+B) Store address of next instruction to execute
+C) Store instructions
+D) Store results
+Answer: B
+
+88. Which of the following is NOT a type of memory access?
+A) Read
+B) Write
+C) Execute
+D) Fetch
+Answer: C
+
+89. What is the function of the bus arbiter?
+A) Store data
+B) Control access to the bus among multiple devices
+C) Store instructions
+D) Store results
+Answer: B
+
+90. Which of the following is NOT a type of computer instruction?
+A) Data transfer
+B) Arithmetic
+C) Logic
+D) Formatting
+Answer: D
+
+91. What is the function of the instruction fetch unit?
+A) Store data
+B) Retrieve instructions from memory
+C) Store instructions
+D) Store results
+Answer: B
+
+92. Which of the following is NOT a type of memory management technique?
+A) Paging
+B) Segmentation
+C) Caching
+D) Formatting
+Answer: D
+
+93. What is the function of the page table?
+A) Store data
+B) Map virtual addresses to physical addresses
+C) Store instructions
+D) Store results
+Answer: B
+
+94. Which of the following is NOT a type of cache mapping?
+A) Direct mapping
+B) Associative mapping
+C) Set-associative mapping
+D) Sequential mapping
+Answer: D
+
+95. What is the function of the instruction execution unit?
+A) Store data
+B) Execute instructions
+C) Store instructions
+D) Store results
+Answer: B
+
+96. Which of the following is NOT a type of computer architecture?
+A) Von Neumann
+B) Harvard
+C) RISC
+D) SQL
+Answer: D
+
+97. What is the function of the memory management unit (MMU)?
+A) Store data
+B) Handle memory access and address translation
+C) Store instructions
+D) Store results
+Answer: B
+
+98. Which of the following is NOT a type of register?
+A) Accumulator
+B) Program Counter
+C) Cache
+D) Instruction Register
+Answer: C
+
+99. What is the function of the instruction cycle?
+A) Store data
+B) Fetch, decode, and execute instructions
+C) Store instructions
+D) Store results
+Answer: B
+
+100. Which of the following is NOT a type of instruction set?
+A) RISC
+B) CISC
+C) SISC
+D) VLIW
+Answer: C
+
+101. What is the function of the ALU?
+A) Store data
+B) Perform arithmetic and logic operations
+C) Control input/output
+D) Manage memory
+Answer: B
+
+102. Which of the following is NOT a type of memory?
+A) RAM
+B) ROM
+C) CPU
+D) Cache
+Answer: C
+
+103. What is the function of the control unit?
+A) Execute instructions
+B) Store data
+C) Decode and control instructions
+D) Perform calculations
+Answer: C
+
+104. Which of the following is NOT a type of bus?
+A) Data bus
+B) Address bus
+C) Control bus
+D) Output bus
+Answer: D
+
+105. What is the function of the register?
+A) Store data temporarily for processing
+B) Store data permanently
+C) Store instructions
+D) Store results
+Answer: A
+
+106. Which of the following is NOT a type of memory hierarchy?
+A) Register
+B) Cache
+C) RAM
+D) Monitor
+Answer: D
+
+107. What is the function of the program counter?
+A) Store data
+B) Store address of next instruction to execute
+C) Store instructions
+D) Store results
+Answer: B
+
+108. Which of the following is NOT a type of instruction?
+A) Data transfer
+B) Arithmetic
+C) Control
+D) Formatting
+Answer: D
+
+109. What is the function of the instruction register?
+A) Store current instruction being executed
+B) Store data
+C) Store addresses
+D) Store results
+Answer: A
+
+110. Which of the following is NOT a type of addressing mode?
+A) Immediate
+B) Direct
+C) Indirect
+D) Output
+Answer: D
+
+111. What is the function of the accumulator?
+A) Store intermediate results of operations
+B) Store instructions
+C) Store addresses
+D) Store programs
+Answer: A
+
+112. Which of the following is NOT a type of control unit?
+A) Hardwired
+B) Microprogrammed
+C) Software
+D) None of the above
+Answer: C
+
+113. What is the function of the stack pointer?
+A) Points to the top of the stack
+B) Points to the next instruction
+C) Points to the base of memory
+D) Points to the ALU
+Answer: A
+
+114. Which of the following is NOT a type of interrupt?
+A) Hardware
+B) Software
+C) Power
+D) Timer
+Answer: C
+
+115. What is the function of the DMA controller?
+A) Control CPU speed
+B) Allow peripherals to access memory directly
+C) Store data
+D) Control output devices
+Answer: B
+
+116. Which of the following is NOT a type of micro-operation?
+A) Register transfer
+B) Arithmetic
+C) Logic
+D) Formatting
+Answer: D
+
+117. What is the function of the system bus?
+A) Connect CPU, memory, and peripherals
+B) Store data
+C) Display output
+D) Input data
+Answer: A
+
+118. Which of the following is NOT a type of system bus?
+A) Data bus
+B) Address bus
+C) Control bus
+D) Power bus
+Answer: D
+
+119. What is the function of the control bus?
+A) Transfer data
+B) Transfer addresses
+C) Transfer control signals
+D) Transfer power
+Answer: C
+
+120. Which of the following is NOT a type of memory hierarchy?
+A) Register
+B) Cache
+C) RAM
+D) Monitor
+Answer: D
+
+// ... 95 more MCQs in the same format ... 
