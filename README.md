@@ -60,11 +60,6 @@ Just open the `index.html` file in your browser. No build steps needed!
 
 ---
 
-## 📸 Screenshots
-
-> *(Add your screenshots here if available)*
-
----
 
 ## 📄 License
 
