@@ -73,7 +73,4 @@ Made with ❤️ by [Haseeb](https://github.com/Haseebf0164)
 
 ```
 
----
 
-Let me know if you want to add a live demo link, screenshots, or deployment instructions!
-```
