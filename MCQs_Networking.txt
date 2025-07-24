@@ -1046,5 +1046,491 @@ B) Switch
 C) Router
 D) Bridge
 Answer: A
+151. Which protocol is used for dynamic routing within an Autonomous System and supports fast convergence?
+A) OSPF
+B) BGP
+C) RIP
+D) IS-IS
+Answer: A
 
-// ... 95 more MCQs in the same format ... 
+152. What is the main function of EIGRP in networking?
+A) Distance-vector routing with Cisco enhancements
+B) Link-state routing for Internet backbone
+C) Static routing only
+D) Encrypting data packets
+Answer: A
+
+153. Which protocol is primarily used for routing between different Autonomous Systems on the Internet?
+A) OSPF
+B) EIGRP
+C) BGP
+D) RIP
+Answer: C
+
+154. What is a VLAN?
+A) Virtual Local Area Network
+B) Very Large Area Network
+C) Virtual Link Access Node
+D) Variable LAN
+Answer: A
+
+155. What is required for communication between different VLANs?
+A) Inter-VLAN Routing
+B) Spanning Tree Protocol
+C) DHCP Snooping
+D) Port Security
+Answer: A
+
+156. Which protocol prevents switching loops in a network?
+A) STP
+B) OSPF
+C) DHCP
+D) ARP
+Answer: A
+
+157. What is the main advantage of Rapid Spanning Tree Protocol (RSTP) over STP?
+A) Faster convergence
+B) More VLAN support
+C) Lower cost
+D) IPv6 compatibility
+Answer: A
+
+158. What does DHCP Snooping protect against?
+A) Rogue DHCP servers
+B) MAC address spoofing
+C) Routing loops
+D) VLAN hopping
+Answer: A
+
+159. What is Dynamic ARP Inspection used for?
+A) Preventing ARP spoofing attacks
+B) Assigning IP addresses
+C) Filtering VLANs
+D) Encrypting data
+Answer: A
+
+160. What does Port Security do on a switch?
+A) Limits the number of MAC addresses per port
+B) Encrypts all traffic
+C) Assigns VLANs
+D) Enables routing
+Answer: A
+
+161. Which protocol provides first hop redundancy in Cisco networks?
+A) HSRP
+B) OSPF
+C) RIP
+D) BGP
+Answer: A
+
+162. What is the main difference between static and dynamic routing?
+A) Static routes are manually configured, dynamic routes are learned automatically
+B) Static routes use more bandwidth
+C) Dynamic routes are less secure
+D) Static routes require routing protocols
+Answer: A
+
+163. Which protocol is used for link aggregation and is an IEEE standard?
+A) LACP
+B) PAgP
+C) STP
+D) HSRP
+Answer: A
+
+164. What is the main benefit of link aggregation?
+A) Increased bandwidth and redundancy
+B) VLAN segmentation
+C) DHCP assignment
+D) MAC filtering
+Answer: A
+
+165. Which address type is unique to IPv6?
+A) Link-local address
+B) Broadcast address
+C) MAC address
+D) IPv4 address
+Answer: A
+
+166. What is the main difference between standard and extended ACLs?
+A) Extended ACLs can filter by protocol and port, standard only by source IP
+B) Standard ACLs are more secure
+C) Extended ACLs are only for IPv6
+D) Standard ACLs filter by MAC address
+Answer: A
+
+167. What is a firewall zone?
+A) Logical grouping of interfaces with similar security requirements
+B) A type of VLAN
+C) A routing protocol
+D) A type of NAT
+Answer: A
+
+168. What does PAT stand for in networking?
+A) Port Address Translation
+B) Protocol Address Translation
+C) Packet Address Translation
+D) Port Access Table
+Answer: A
+
+169. Which VPN type connects two offices over the Internet?
+A) Site-to-Site VPN
+B) Remote Access VPN
+C) SSL VPN
+D) GRE Tunnel
+Answer: A
+
+170. What does AAA stand for in network security?
+A) Authentication, Authorization, Accounting
+B) Access, Addressing, Assignment
+C) Authorization, Access, Allocation
+D) Authentication, Addressing, Assignment
+Answer: A
+
+171. What is the primary function of Syslog in networking?
+A) Centralized logging of network events
+B) Routing packets
+C) Encrypting data
+D) Assigning IP addresses
+Answer: A
+
+172. What is SNMP used for?
+A) Network monitoring and management
+B) Routing
+C) VLAN assignment
+D) Firewall configuration
+Answer: A
+
+173. What is Wireshark primarily used for?
+A) Packet analysis and network troubleshooting
+B) Routing configuration
+C) VLAN management
+D) IP address assignment
+Answer: A
+
+174. What is NetFlow used for in networking?
+A) Collecting and analyzing network traffic flows
+B) Assigning IP addresses
+C) Encrypting data
+D) VLAN segmentation
+Answer: A
+
+175. Which tool is commonly used for network automation?
+A) Python
+B) Telnet
+C) FTP
+D) SMTP
+Answer: A
+
+176. What is a Route Reflector in BGP?
+A) A router that redistributes BGP routes within an AS
+B) A device that encrypts BGP updates
+C) A switch that reflects VLANs
+D) A firewall for BGP
+Answer: A
+
+177. What does MPLS stand for?
+A) Multiprotocol Label Switching
+B) Multi-Path Link Switching
+C) Multi-Protocol LAN Service
+D) Multi-Point Link Service
+Answer: A
+
+178. What is the main benefit of MPLS VPNs?
+A) Secure, scalable site-to-site connectivity
+B) Assigning IP addresses
+C) VLAN segmentation
+D) DHCP assignment
+Answer: A
+
+179. What is route redistribution?
+A) Sharing routes between different routing protocols
+B) Assigning VLANs
+C) Encrypting data
+D) Filtering MAC addresses
+Answer: A
+
+180. What is VXLAN used for?
+A) Overlay networks and network virtualization
+B) Routing between VLANs
+C) Assigning IP addresses
+D) Encrypting data
+Answer: A
+
+181. What is the main advantage of a leaf-spine architecture in data centers?
+A) Predictable low-latency and high bandwidth
+B) More VLANs
+C) Easier static routing
+D) Lower power consumption
+Answer: A
+
+182. What is the difference between overlay and underlay networks?
+A) Overlay is virtual, underlay is physical
+B) Overlay is faster
+C) Underlay is encrypted
+D) Overlay is for IPv6 only
+Answer: A
+
+183. What is a VPC in cloud networking?
+A) Virtual Private Cloud
+B) Virtual Protocol Channel
+C) VLAN Protocol Control
+D) Virtual Port Channel
+Answer: A
+
+184. What is SDN?
+A) Software-Defined Networking
+B) Static Data Network
+C) Secure Data Node
+D) Software Data Node
+Answer: A
+
+185. What is the main function of NFV?
+A) Virtualizing network functions like firewalls and routers
+B) Assigning VLANs
+C) Encrypting data
+D) Routing packets
+Answer: A
+
+186. What is Intent-Based Networking (IBN)?
+A) Network automation based on business intent
+B) VLAN assignment
+C) Static routing
+D) MAC filtering
+Answer: A
+
+187. Which tool is commonly used for network automation with playbooks?
+A) Ansible
+B) Telnet
+C) FTP
+D) SMTP
+Answer: A
+
+188. What is Zero Trust Network Architecture (ZTNA)?
+A) Security model that assumes no implicit trust
+B) VLAN segmentation
+C) Static routing
+D) MAC filtering
+Answer: A
+
+189. What is a Next-Gen Firewall (NGFW)?
+A) Firewall with advanced features like DPI and application control
+B) VLAN assignment tool
+C) Routing protocol
+D) DHCP server
+Answer: A
+
+190. What is Deep Packet Inspection (DPI)?
+A) Analyzing packet contents for security and policy enforcement
+B) Assigning IP addresses
+C) VLAN segmentation
+D) Routing packets
+Answer: A
+
+191. What is microsegmentation in enterprise networks?
+A) Fine-grained network segmentation for security
+B) Assigning VLANs
+C) Static routing
+D) MAC filtering
+Answer: A
+
+192. What is the main goal of Quality of Service (QoS) in networking?
+A) Prioritize network traffic for performance
+B) Assign VLANs
+C) Encrypt data
+D) Assign IP addresses
+Answer: A
+
+193. What is WAN optimization?
+A) Techniques to improve WAN performance and reduce latency
+B) VLAN segmentation
+C) Static routing
+D) MAC filtering
+Answer: A
+
+194. What is PIM-SM used for?
+A) Multicast routing in sparse mode
+B) VLAN assignment
+C) Static routing
+D) Encrypting data
+Answer: A
+
+195. What is 5G primarily used for in networking?
+A) High-speed mobile and IoT connectivity
+B) VLAN segmentation
+C) Static routing
+D) MAC filtering
+Answer: A
+
+196. What is the main function of IoT network protocols?
+A) Enable communication between IoT devices
+B) Assign VLANs
+C) Static routing
+D) Encrypting data
+Answer: A
+
+197. What is edge computing?
+A) Processing data closer to the data source
+B) Assigning VLANs
+C) Static routing
+D) MAC filtering
+Answer: A
+
+198. What is GNS3 used for?
+A) Network simulation and emulation
+B) VLAN assignment
+C) Static routing
+D) Encrypting data
+Answer: A
+
+199. What is the main benefit of using EVE-NG in networking?
+A) Emulating complex network topologies for testing
+B) Assigning VLANs
+C) Static routing
+D) MAC filtering
+Answer: A
+
+200. What is the primary use of Cisco VIRL?
+A) Network simulation and learning
+B) VLAN assignment
+C) Static routing
+D) Encrypting data
+Answer: A
+201. What is the primary function of a Next Generation Firewall (NGFW)?
+A) Deep packet inspection and application-level filtering
+B) Only packet forwarding
+C) Physical layer signal boosting
+D) Assigning IP addresses
+Answer: A
+
+202. Which protocol is commonly used for secure remote device management?
+A) SSH
+B) Telnet
+C) HTTP
+D) SNMPv1
+Answer: A
+
+203. What is the main advantage of using VLANs in a switched network?
+A) Segmentation of broadcast domains
+B) Increasing physical cabling
+C) Reducing switch cost
+D) Assigning static IPs
+Answer: A
+
+204. What does the Spanning Tree Protocol (STP) prevent in Ethernet networks?
+A) Layer 2 loops
+B) IP address conflicts
+C) DNS spoofing
+D) ARP poisoning
+Answer: A
+
+205. Which protocol is used to dynamically assign IP addresses to devices on a network?
+A) DHCP
+B) DNS
+C) OSPF
+D) ICMP
+Answer: A
+
+206. What is the main purpose of Network Address Translation (NAT)?
+A) Allow multiple devices to share a single public IP address
+B) Encrypt network traffic
+C) Assign MAC addresses
+D) Prevent VLAN hopping
+Answer: A
+
+207. Which routing protocol uses cost as its primary metric and is link-state based?
+A) OSPF
+B) RIP
+C) EIGRP
+D) BGP
+Answer: A
+
+208. What is the function of Port Security on a switch?
+A) Restrict access to a switch port based on MAC address
+B) Encrypt port traffic
+C) Assign VLANs automatically
+D) Increase port speed
+Answer: A
+
+209. What is the main benefit of using IPv6 over IPv4?
+A) Larger address space
+B) Faster transmission speed
+C) Simpler cabling
+D) Lower latency
+Answer: A
+
+210. Which protocol is used for secure file transfer over a network?
+A) SFTP
+B) TFTP
+C) SNMP
+D) SMTP
+Answer: A
+
+211. What is the purpose of a DMZ (Demilitarized Zone) in network security?
+A) Isolate public-facing services from the internal network
+B) Increase wireless range
+C) Assign static IPs
+D) Encrypt all network traffic
+Answer: A
+
+212. What is the main function of a load balancer in a network?
+A) Distribute network traffic across multiple servers
+B) Encrypt data at rest
+C) Assign VLANs
+D) Monitor CPU usage
+Answer: A
+
+213. Which protocol is used for network time synchronization?
+A) NTP
+B) FTP
+C) SNMP
+D) SMTP
+Answer: A
+
+214. What is the primary use of the 802.1X protocol?
+A) Port-based network access control
+B) Wireless encryption
+C) VLAN trunking
+D) Routing updates
+Answer: A
+
+215. What is the main purpose of a proxy server?
+A) Intermediary for client requests to external resources
+B) Assign MAC addresses
+C) Encrypt wireless traffic
+D) Increase switch speed
+Answer: A
+
+216. Which protocol is used for dynamic routing between autonomous systems on the Internet?
+A) BGP
+B) OSPF
+C) RIP
+D) EIGRP
+Answer: A
+
+217. What is the function of Quality of Service (QoS) in networking?
+A) Prioritize certain types of network traffic
+B) Encrypt all data
+C) Assign static IPs
+D) Increase cable length
+Answer: A
+
+218. What is the main advantage of using MPLS in enterprise networks?
+A) Efficient and scalable traffic engineering
+B) Assigning MAC addresses
+C) Increasing wireless range
+D) Encrypting all traffic
+Answer: A
+
+219. What is the purpose of SNMP in network management?
+A) Monitor and manage network devices
+B) Encrypt network traffic
+C) Assign VLANs
+D) Provide wireless access
+Answer: A
+
+220. What is the main function of a network access control (NAC) system?
+A) Enforce security policies for devices connecting to the network
+B) Assign static IPs
+C) Encrypt all data
+D) Increase switch speed
+Answer: A

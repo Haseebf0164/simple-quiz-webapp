@@ -84,8 +84,16 @@ startBtn.onclick = async function() {
         alert('No valid MCQs found for this subject.');
         return;
     }
-    // Shuffle and pick 50
-    quizQuestions = allQuestions.sort(() => Math.random() - 0.5).slice(0, 50);
+    // Get number of questions from dropdown
+    let numQuestions = 50;
+    const numQSel = document.getElementById('numQuestions');
+    if (numQSel) {
+      const val = numQSel.value;
+      if (val === 'all') numQuestions = allQuestions.length;
+      else numQuestions = Math.min(parseInt(val, 10) || 50, allQuestions.length);
+    }
+    // Shuffle and pick selected number
+    quizQuestions = allQuestions.sort(() => Math.random() - 0.5).slice(0, numQuestions);
     showQuiz();
 };
 
