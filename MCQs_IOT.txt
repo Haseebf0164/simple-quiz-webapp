@@ -1,0 +1,2098 @@
+1. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+2. Which of the following is NOT a typical component of an IoT system?
+A) Sensors
+B) Actuators
+C) Web Browser
+D) Connectivity
+Answer: C
+
+3. Which protocol is commonly used for lightweight communication in IoT devices?
+A) HTTP
+B) MQTT
+C) FTP
+D) SMTP
+Answer: B
+
+4. What is the main purpose of a sensor in an IoT device?
+A) Store data
+B) Process data
+C) Collect data from the environment
+D) Display data
+Answer: C
+
+5. Which of the following is a security concern in IoT?
+A) Data privacy
+B) Device authentication
+C) Network attacks
+D) All of the above
+Answer: D 
+6. Which wireless technology is widely used for short-range communication in IoT?
+A) Bluetooth
+B) Wi-Fi
+C) Ethernet
+D) DSL
+Answer: A
+
+7. What does the term "actuator" refer to in IoT?
+A) Device that senses environmental data
+B) Device that performs actions based on commands
+C) Device that stores data
+D) Device that displays data
+Answer: B
+
+8. Which of the following is an example of an IoT application?
+A) Smart thermostat
+B) Word processor
+C) Web browser
+D) Spreadsheet
+Answer: A
+
+9. What is the role of a gateway in an IoT system?
+A) Collects data from sensors and forwards it to the cloud
+B) Stores data locally
+C) Displays data to users
+D) Encrypts data
+Answer: A
+
+10. Which protocol is designed for constrained devices and low-power networks in IoT?
+A) CoAP
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+11. What is the main function of an IoT cloud platform?
+A) Data storage and analytics
+B) Device manufacturing
+C) Hardware design
+D) Power supply
+Answer: A
+
+12. Which of the following is a popular IoT cloud platform?
+A) AWS IoT
+B) Microsoft Word
+C) Adobe Photoshop
+D) MySQL
+Answer: A
+
+13. What is the full form of RFID?
+A) Radio Frequency Identification
+B) Remote Frequency Identification
+C) Real-time Frequency Identification
+D) Radio Fast Identification
+Answer: A
+
+14. Which layer in the IoT architecture is responsible for data processing?
+A) Application layer
+B) Perception layer
+C) Network layer
+D) Physical layer
+Answer: A
+
+15. Which of the following is NOT a communication protocol used in IoT?
+A) Zigbee
+B) LoRaWAN
+C) SMTP
+D) Z-Wave
+Answer: C
+
+16. What is the main advantage of using IPv6 in IoT?
+A) Larger address space
+B) Lower cost
+C) Higher speed
+D) Simpler syntax
+Answer: A
+
+17. Which of the following is a security protocol for IoT devices?
+A) DTLS
+B) FTP
+C) POP3
+D) HTTP
+Answer: A
+
+18. What is the function of a sensor node in IoT?
+A) Senses and transmits data
+B) Only stores data
+C) Only processes data
+D) Only displays data
+Answer: A
+
+19. Which of the following is a low-power wide-area network (LPWAN) technology?
+A) LoRaWAN
+B) Wi-Fi
+C) Bluetooth
+D) Ethernet
+Answer: A
+
+20. What is the main challenge in IoT device management?
+A) Scalability
+B) Device color
+C) Device size
+D) Device brand
+Answer: A
+
+21. Which of the following is an example of a wearable IoT device?
+A) Smartwatch
+B) Desktop computer
+C) Printer
+D) Scanner
+Answer: A
+
+22. What is the purpose of edge computing in IoT?
+A) Processing data closer to the source
+B) Increasing data storage
+C) Reducing device size
+D) Improving display quality
+Answer: A
+
+23. Which of the following is a common IoT operating system?
+A) Contiki
+B) Windows XP
+C) macOS
+D) Ubuntu Server
+Answer: A
+
+24. What is the main benefit of using MQTT in IoT?
+A) Lightweight and efficient communication
+B) High graphics support
+C) Large file transfer
+D) Video streaming
+Answer: A
+
+25. Which of the following is NOT a type of IoT sensor?
+A) Temperature sensor
+B) Humidity sensor
+C) Pressure sensor
+D) Keyboard sensor
+Answer: D
+
+26. What is the function of a smart home hub?
+A) Central control of IoT devices
+B) Data encryption
+C) Device manufacturing
+D) Power supply
+Answer: A
+
+27. Which of the following is a challenge in IoT security?
+A) Device authentication
+B) Device color
+C) Device price
+D) Device weight
+Answer: A
+
+28. What is the main purpose of data analytics in IoT?
+A) Extract useful information from data
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+29. Which of the following is a real-time operating system for IoT?
+A) FreeRTOS
+B) Windows 10
+C) Linux Mint
+D) Android
+Answer: A
+
+30. What is the function of a smart meter in IoT?
+A) Measures and reports energy usage
+B) Measures temperature
+C) Measures humidity
+D) Measures air quality
+Answer: A
+
+31. Which of the following is a wireless communication protocol for home automation?
+A) Z-Wave
+B) SMTP
+C) HTTP
+D) FTP
+Answer: A
+
+32. What is the main advantage of using Zigbee in IoT?
+A) Low power consumption
+B) High data rate
+C) Long range
+D) High cost
+Answer: A
+
+33. Which of the following is NOT an IoT application in healthcare?
+A) Smart insulin pump
+B) Fitness tracker
+C) Smart refrigerator
+D) Remote patient monitoring
+Answer: C
+
+34. What is the main function of a gateway in IoT?
+A) Connects devices to the internet
+B) Manufactures devices
+C) Displays data
+D) Encrypts data
+Answer: A
+
+35. Which of the following is a challenge in IoT data management?
+A) Data volume
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+36. What is the purpose of device provisioning in IoT?
+A) Registering and configuring devices
+B) Manufacturing devices
+C) Displaying data
+D) Encrypting data
+Answer: A
+
+37. Which of the following is a common IoT protocol for device discovery?
+A) mDNS
+B) FTP
+C) SMTP
+D) POP3
+Answer: A
+
+38. What is the main benefit of using RESTful APIs in IoT?
+A) Easy integration and scalability
+B) High graphics support
+C) Large file transfer
+D) Video streaming
+Answer: A
+
+39. Which of the following is a common IoT development board?
+A) Arduino
+B) PlayStation
+C) Xbox
+D) Kindle
+Answer: A
+
+40. What is the function of a smart thermostat?
+A) Controls home temperature automatically
+B) Controls lighting
+C) Controls security cameras
+D) Controls door locks
+Answer: A
+
+41. Which of the following is a challenge in IoT interoperability?
+A) Different communication protocols
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+42. What is the main purpose of firmware updates in IoT devices?
+A) Improve security and functionality
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+43. Which of the following is a popular IoT messaging protocol?
+A) AMQP
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+44. What is the function of a smart lock in IoT?
+A) Controls access to doors remotely
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+45. Which of the following is a challenge in IoT scalability?
+A) Managing large number of devices
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+46. What is the main purpose of device authentication in IoT?
+A) Ensure only authorized devices connect
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+47. Which of the following is a common IoT communication protocol for industrial automation?
+A) Modbus
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+48. What is the function of a smart camera in IoT?
+A) Captures and transmits video/images
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+49. Which of the following is a challenge in IoT privacy?
+A) Protecting user data
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+50. What is the main benefit of using LoRaWAN in IoT?
+A) Long-range, low-power communication
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+51. Which of the following is a common IoT application in agriculture?
+A) Smart irrigation system
+B) Smart refrigerator
+C) Smart TV
+D) Smart speaker
+Answer: A
+
+52. What is the function of a smart plug in IoT?
+A) Controls power supply to devices remotely
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+53. Which of the following is a challenge in IoT network management?
+A) Network congestion
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+54. What is the main purpose of data encryption in IoT?
+A) Protect data from unauthorized access
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+55. Which of the following is a common IoT protocol for device-to-device communication?
+A) Bluetooth Low Energy (BLE)
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+56. What is the function of a smart light bulb in IoT?
+A) Allows remote control of lighting
+B) Controls temperature
+C) Controls humidity
+D) Controls power supply
+Answer: A
+
+57. Which of the following is a challenge in IoT device lifecycle management?
+A) Device decommissioning
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+58. What is the main benefit of using edge analytics in IoT?
+A) Reduces latency and bandwidth usage
+B) Increases device size
+C) Reduces device cost
+D) Improves device color
+Answer: A
+
+59. Which of the following is a common IoT protocol for device provisioning?
+A) LwM2M
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+60. What is the function of a smart speaker in IoT?
+A) Voice-controlled device for automation
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+61. Which of the following is a challenge in IoT firmware management?
+A) Secure updates
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+62. What is the main purpose of device monitoring in IoT?
+A) Track device status and performance
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+63. Which of the following is a common IoT protocol for device management?
+A) OMA-DM
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+64. What is the function of a smart refrigerator in IoT?
+A) Monitors and manages food inventory
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+65. Which of the following is a challenge in IoT data security?
+A) Data breaches
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+66. What is the main benefit of using mesh networks in IoT?
+A) Improved coverage and reliability
+B) Increased device size
+C) Reduced device cost
+D) Improved device color
+Answer: A
+
+67. Which of the following is a common IoT protocol for device communication?
+A) XMPP
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+68. What is the function of a smart smoke detector in IoT?
+A) Detects smoke and sends alerts
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+69. Which of the following is a challenge in IoT device connectivity?
+A) Network compatibility
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+70. What is the main purpose of device discovery in IoT?
+A) Identify and connect new devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+71. Which of the following is a common IoT protocol for device updates?
+A) OTA (Over-the-Air)
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+72. What is the function of a smart water meter in IoT?
+A) Measures and reports water usage
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+73. Which of the following is a challenge in IoT device interoperability?
+A) Different standards and protocols
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+74. What is the main benefit of using cloud computing in IoT?
+A) Scalable data storage and processing
+B) Increased device size
+C) Reduced device cost
+D) Improved device color
+Answer: A
+
+75. Which of the following is a common IoT protocol for device authentication?
+A) OAuth
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+76. What is the function of a smart parking system in IoT?
+A) Monitors and manages parking spaces
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+77. Which of the following is a challenge in IoT data privacy?
+A) Unauthorized data access
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+78. What is the main purpose of device configuration in IoT?
+A) Set up device parameters and settings
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+79. Which of the following is a common IoT protocol for device communication in smart homes?
+A) Thread
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+80. What is the function of a smart irrigation system in IoT?
+A) Automates watering of crops/plants
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+81. Which of the following is a challenge in IoT device scalability?
+A) Managing millions of devices
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+82. What is the main benefit of using 6LoWPAN in IoT?
+A) IPv6 over low-power wireless networks
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+83. Which of the following is a common IoT protocol for device-to-cloud communication?
+A) HTTPS
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+84. What is the function of a smart air quality monitor in IoT?
+A) Measures and reports air quality
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+85. Which of the following is a challenge in IoT device power management?
+A) Battery life
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+86. What is the main purpose of device decommissioning in IoT?
+A) Securely remove devices from the network
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+87. Which of the following is a common IoT protocol for device communication in industrial IoT?
+A) OPC UA
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+88. What is the function of a smart waste management system in IoT?
+A) Monitors and manages waste collection
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+89. Which of the following is a challenge in IoT device update management?
+A) Secure and reliable updates
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+90. What is the main benefit of using NB-IoT in IoT?
+A) Narrowband, low-power, wide-area communication
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+91. Which of the following is a common IoT protocol for device communication in smart cities?
+A) LoRaWAN
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+92. What is the function of a smart grid in IoT?
+A) Monitors and manages electricity distribution
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+93. Which of the following is a challenge in IoT device security?
+A) Vulnerabilities to cyber attacks
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+94. What is the main purpose of device registration in IoT?
+A) Add new devices to the network
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+95. Which of the following is a common IoT protocol for device communication in healthcare?
+A) Bluetooth Low Energy (BLE)
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+96. What is the function of a smart wearable in IoT?
+A) Monitors health and fitness data
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+97. Which of the following is a challenge in IoT device maintenance?
+A) Remote troubleshooting
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+98. What is the main benefit of using fog computing in IoT?
+A) Distributed processing closer to devices
+B) Increased device size
+C) Reduced device cost
+D) Improved device color
+Answer: A
+
+99. Which of the following is a common IoT protocol for device communication in automotive IoT?
+A) CAN bus
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+100. What is the function of a smart traffic management system in IoT?
+A) Monitors and controls traffic flow
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+101. Which of the following is a challenge in IoT device integration?
+A) Compatibility with existing systems
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+102. What is the main purpose of device monitoring in IoT?
+A) Track device health and performance
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+103. Which of the following is a common IoT protocol for device communication in smart buildings?
+A) BACnet
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+104. What is the function of a smart energy meter in IoT?
+A) Measures and reports energy consumption
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+105. Which of the following is a challenge in IoT device deployment?
+A) Network coverage
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+106. What is the main benefit of using Wi-Fi in IoT?
+A) High data rate and easy integration
+B) Low power consumption
+C) Long range
+D) High cost
+Answer: A
+
+107. Which of the following is a common IoT protocol for device communication in smart factories?
+A) PROFINET
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+108. What is the function of a smart doorbell in IoT?
+A) Provides video and audio communication at the door
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+109. Which of the following is a challenge in IoT device configuration?
+A) Remote setup and management
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+110. What is the main purpose of device authentication in IoT?
+A) Ensure only trusted devices connect
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+111. Which of the following is a common IoT protocol for device communication in smart healthcare?
+A) HL7
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+112. What is the function of a smart fitness tracker in IoT?
+A) Monitors physical activity and health metrics
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+113. Which of the following is a challenge in IoT device firmware updates?
+A) Secure and reliable delivery
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+114. What is the main benefit of using Z-Wave in IoT?
+A) Reliable wireless communication for smart homes
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+115. Which of the following is a common IoT protocol for device communication in smart energy?
+A) DNP3
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+116. What is the function of a smart smoke alarm in IoT?
+A) Detects smoke and sends alerts
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+117. Which of the following is a challenge in IoT device provisioning?
+A) Secure onboarding of devices
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+118. What is the main purpose of device management in IoT?
+A) Monitor, update, and control devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+119. Which of the following is a common IoT protocol for device communication in smart transportation?
+A) DSRC
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+120. What is the function of a smart thermostat in IoT?
+A) Automatically adjusts home temperature
+B) Controls lighting
+C) Controls humidity
+D) Controls power supply
+Answer: A
+
+121. Which of the following is a challenge in IoT device monitoring?
+A) Real-time data collection and analysis
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+122. What is the main benefit of using BLE in IoT?
+A) Low power consumption for short-range communication
+B) High data rate
+C) High cost
+D) Long range
+Answer: A
+
+123. Which of the following is a common IoT protocol for device communication in smart agriculture?
+A) LoRaWAN
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+124. What is the function of a smart lighting system in IoT?
+A) Automates and controls lighting remotely
+B) Controls temperature
+C) Controls humidity
+D) Controls power supply
+Answer: A
+
+125. Which of the following is a challenge in IoT device data management?
+A) Handling large volumes of data
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+126. What is the main purpose of device analytics in IoT?
+A) Gain insights from device data
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+127. Which of the following is a common IoT protocol for device communication in smart retail?
+A) RFID
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+128. What is the function of a smart vending machine in IoT?
+A) Monitors inventory and sales remotely
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+129. Which of the following is a challenge in IoT device connectivity?
+A) Reliable and secure network connections
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+130. What is the main benefit of using Thread in IoT?
+A) Secure and reliable mesh networking
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+131. Which of the following is a common IoT protocol for device communication in smart logistics?
+A) Sigfox
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+132. What is the function of a smart asset tracker in IoT?
+A) Monitors location and status of assets
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+133. Which of the following is a challenge in IoT device firmware management?
+A) Secure and efficient updates
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+134. What is the main purpose of device orchestration in IoT?
+A) Coordinate actions among multiple devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+135. Which of the following is a common IoT protocol for device communication in smart water management?
+A) NB-IoT
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+136. What is the function of a smart leak detector in IoT?
+A) Detects water leaks and sends alerts
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+137. Which of the following is a challenge in IoT device scalability?
+A) Managing millions of devices efficiently
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+138. What is the main benefit of using cellular networks in IoT?
+A) Wide-area coverage and mobility
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+139. Which of the following is a common IoT protocol for device communication in smart manufacturing?
+A) MQTT
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+140. What is the function of a smart production line in IoT?
+A) Monitors and controls manufacturing processes
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+141. Which of the following is a challenge in IoT device interoperability?
+A) Different hardware and software standards
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+142. What is the main purpose of device synchronization in IoT?
+A) Ensure devices operate in harmony
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+143. Which of the following is a common IoT protocol for device communication in smart grids?
+A) IEC 61850
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+144. What is the function of a smart transformer in IoT?
+A) Monitors and manages power distribution
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+145. Which of the following is a challenge in IoT device data security?
+A) Protecting data in transit and at rest
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+146. What is the main benefit of using REST APIs in IoT?
+A) Simplifies integration and communication
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+147. Which of the following is a common IoT protocol for device communication in smart metering?
+A) M-Bus
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+148. What is the function of a smart gas meter in IoT?
+A) Measures and reports gas usage
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+149. Which of the following is a challenge in IoT device authentication?
+A) Ensuring only trusted devices connect
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+150. What is the main purpose of device authorization in IoT?
+A) Grant appropriate access to devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+151. Which of the following is a common IoT protocol for device communication in smart homes?
+A) Zigbee
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+152. What is the function of a smart window in IoT?
+A) Automatically adjusts based on weather or user input
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+153. Which of the following is a challenge in IoT device provisioning?
+A) Secure and scalable onboarding
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+154. What is the main benefit of using mesh networking in IoT?
+A) Increases network reliability and coverage
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+155. Which of the following is a common IoT protocol for device communication in smart cities?
+A) NB-IoT
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+156. What is the function of a smart streetlight in IoT?
+A) Automatically adjusts lighting based on conditions
+B) Controls temperature
+C) Controls humidity
+D) Controls power supply
+Answer: A
+
+157. Which of the following is a challenge in IoT device lifecycle management?
+A) Managing devices from deployment to decommissioning
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+158. What is the main purpose of device firmware updates in IoT?
+A) Improve security and add new features
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+159. Which of the following is a common IoT protocol for device communication in smart healthcare?
+A) Bluetooth
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+160. What is the function of a smart pill dispenser in IoT?
+A) Dispenses medication and sends reminders
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+161. Which of the following is a challenge in IoT device data analytics?
+A) Processing large and diverse data sets
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+162. What is the main benefit of using cloud analytics in IoT?
+A) Scalable and powerful data processing
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+163. Which of the following is a common IoT protocol for device communication in smart transportation?
+A) DSRC
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+164. What is the function of a smart vehicle tracker in IoT?
+A) Monitors vehicle location and status
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+165. Which of the following is a challenge in IoT device network management?
+A) Ensuring reliable and secure connectivity
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+166. What is the main purpose of device orchestration in IoT?
+A) Coordinate actions among multiple devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+167. Which of the following is a common IoT protocol for device communication in smart factories?
+A) OPC UA
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+168. What is the function of a smart conveyor belt in IoT?
+A) Monitors and controls material movement
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+169. Which of the following is a challenge in IoT device update management?
+A) Secure and reliable firmware delivery
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+170. What is the main benefit of using edge computing in IoT?
+A) Reduces latency and bandwidth usage
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+171. Which of the following is a common IoT protocol for device communication in smart grids?
+A) DNP3
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+172. What is the function of a smart substation in IoT?
+A) Monitors and manages power distribution
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+173. Which of the following is a challenge in IoT device security?
+A) Protecting against cyber threats
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+174. What is the main purpose of device monitoring in IoT?
+A) Track device health and performance
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+175. Which of the following is a common IoT protocol for device communication in smart agriculture?
+A) LoRaWAN
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+176. What is the function of a smart soil sensor in IoT?
+A) Measures soil moisture and nutrients
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+177. Which of the following is a challenge in IoT device data privacy?
+A) Preventing unauthorized data access
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+178. What is the main benefit of using LPWAN in IoT?
+A) Long-range, low-power communication
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+179. Which of the following is a common IoT protocol for device communication in smart logistics?
+A) Sigfox
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+180. What is the function of a smart inventory system in IoT?
+A) Monitors and manages stock levels
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+181. Which of the following is a challenge in IoT device integration?
+A) Compatibility with legacy systems
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+182. What is the main purpose of device provisioning in IoT?
+A) Register and configure new devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+183. Which of the following is a common IoT protocol for device communication in smart metering?
+A) M-Bus
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+184. What is the function of a smart electricity meter in IoT?
+A) Measures and reports electricity usage
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+185. Which of the following is a challenge in IoT device data management?
+A) Storing and processing large data volumes
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+186. What is the main benefit of using RESTful APIs in IoT?
+A) Simplifies device integration and communication
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+187. Which of the following is a common IoT protocol for device communication in smart homes?
+A) Z-Wave
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+188. What is the function of a smart security system in IoT?
+A) Monitors and controls home security
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+189. Which of the following is a challenge in IoT device firmware management?
+A) Secure and efficient firmware updates
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+190. What is the main purpose of device decommissioning in IoT?
+A) Securely remove devices from the network
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+191. Which of the following is a common IoT protocol for device communication in smart cities?
+A) LoRaWAN
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+192. What is the function of a smart waste bin in IoT?
+A) Monitors fill level and sends alerts
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+193. Which of the following is a challenge in IoT device scalability?
+A) Managing large numbers of devices
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+194. What is the main benefit of using MQTT in IoT?
+A) Lightweight and efficient messaging
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+195. Which of the following is a common IoT protocol for device communication in smart healthcare?
+A) Bluetooth Low Energy (BLE)
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+196. What is the function of a smart patient monitor in IoT?
+A) Monitors and reports patient health data
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+197. Which of the following is a challenge in IoT device network management?
+A) Ensuring reliable and secure connectivity
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+198. What is the main purpose of device analytics in IoT?
+A) Gain insights from device-generated data
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+199. Which of the following is a common IoT protocol for device communication in smart agriculture?
+A) LoRaWAN
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+200. What is the function of a smart greenhouse in IoT?
+A) Monitors and controls environmental conditions for plants
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+201. Which of the following is a challenge in IoT device security?
+A) Protecting devices from cyber attacks
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+202. What is the main benefit of using CoAP in IoT?
+A) Lightweight protocol for constrained devices
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+203. Which of the following is a common IoT protocol for device communication in smart factories?
+A) Modbus
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+204. What is the function of a smart machine in IoT?
+A) Monitors and controls manufacturing processes
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+205. Which of the following is a challenge in IoT device interoperability?
+A) Different communication standards
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+206. What is the main purpose of device synchronization in IoT?
+A) Ensure devices operate in harmony
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+207. Which of the following is a common IoT protocol for device communication in smart grids?
+A) IEC 61850
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+208. What is the function of a smart meter in IoT?
+A) Measures and reports utility usage
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+209. Which of the following is a challenge in IoT device data security?
+A) Protecting data from unauthorized access
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+210. What is the main benefit of using edge analytics in IoT?
+A) Real-time data processing at the source
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+211. Which of the following is a common IoT protocol for device communication in smart homes?
+A) Zigbee
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+212. What is the function of a smart home assistant in IoT?
+A) Voice-controlled automation and information
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+213. Which of the following is a challenge in IoT device provisioning?
+A) Secure and scalable onboarding
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+214. What is the main purpose of device management in IoT?
+A) Monitor, update, and control devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+215. Which of the following is a common IoT protocol for device communication in smart cities?
+A) NB-IoT
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+216. What is the function of a smart city platform in IoT?
+A) Integrates and manages city-wide IoT applications
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+217. Which of the following is a challenge in IoT device lifecycle management?
+A) Managing devices from deployment to decommissioning
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+218. What is the main benefit of using mesh networks in IoT?
+A) Improved network reliability and coverage
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+219. Which of the following is a common IoT protocol for device communication in smart healthcare?
+A) Bluetooth
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+220. What is the function of a smart medical device in IoT?
+A) Monitors and reports patient health data
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+221. Which of the following is a challenge in IoT device data analytics?
+A) Processing large and diverse data sets
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+222. What is the main purpose of device orchestration in IoT?
+A) Coordinate actions among multiple devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+223. Which of the following is a common IoT protocol for device communication in smart agriculture?
+A) LoRaWAN
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+224. What is the function of a smart irrigation controller in IoT?
+A) Automates watering based on soil and weather data
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+225. Which of the following is a challenge in IoT device integration?
+A) Compatibility with existing systems
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+226. What is the main benefit of using cloud computing in IoT?
+A) Scalable data storage and processing
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+227. Which of the following is a common IoT protocol for device communication in smart logistics?
+A) Sigfox
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+228. What is the function of a smart supply chain system in IoT?
+A) Monitors and manages supply chain operations
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+229. Which of the following is a challenge in IoT device firmware management?
+A) Secure and efficient firmware updates
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+230. What is the main purpose of device decommissioning in IoT?
+A) Securely remove devices from the network
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+231. Which of the following is a common IoT protocol for device communication in smart metering?
+A) M-Bus
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+232. What is the function of a smart water meter in IoT?
+A) Measures and reports water usage
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+233. Which of the following is a challenge in IoT device scalability?
+A) Managing large numbers of devices
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+234. What is the main benefit of using LPWAN in IoT?
+A) Long-range, low-power communication
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+235. Which of the following is a common IoT protocol for device communication in smart homes?
+A) Z-Wave
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+236. What is the function of a smart plug in IoT?
+A) Controls power supply to devices remotely
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+237. Which of the following is a challenge in IoT device data management?
+A) Storing and processing large data volumes
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+238. What is the main purpose of device analytics in IoT?
+A) Gain insights from device-generated data
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+239. Which of the following is a common IoT protocol for device communication in smart cities?
+A) LoRaWAN
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+240. What is the function of a smart waste management system in IoT?
+A) Monitors and manages waste collection
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+241. Which of the following is a challenge in IoT device security?
+A) Protecting devices from cyber attacks
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+242. What is the main benefit of using MQTT in IoT?
+A) Lightweight and efficient messaging
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+243. Which of the following is a common IoT protocol for device communication in smart healthcare?
+A) Bluetooth Low Energy (BLE)
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+244. What is the function of a smart patient monitor in IoT?
+A) Monitors and reports patient health data
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+245. Which of the following is a challenge in IoT device network management?
+A) Ensuring reliable and secure connectivity
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+246. What is the main purpose of device orchestration in IoT?
+A) Coordinate actions among multiple devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+247. Which of the following is a common IoT protocol for device communication in smart agriculture?
+A) LoRaWAN
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+248. What is the function of a smart greenhouse in IoT?
+A) Monitors and controls environmental conditions for plants
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+249. Which of the following is a challenge in IoT device data privacy?
+A) Preventing unauthorized data access
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+250. What is the main benefit of using CoAP in IoT?
+A) Lightweight protocol for constrained devices
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+251. Which of the following is a common IoT protocol for device communication in smart factories?
+A) Modbus
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+252. What is the function of a smart machine in IoT?
+A) Monitors and controls manufacturing processes
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+253. Which of the following is a challenge in IoT device interoperability?
+A) Different communication standards
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+254. What is the main purpose of device synchronization in IoT?
+A) Ensure devices operate in harmony
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+255. Which of the following is a common IoT protocol for device communication in smart grids?
+A) IEC 61850
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+256. What is the function of a smart meter in IoT?
+A) Measures and reports utility usage
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+257. Which of the following is a challenge in IoT device data security?
+A) Protecting data from unauthorized access
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+258. What is the main benefit of using edge analytics in IoT?
+A) Real-time data processing at the source
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+259. Which of the following is a common IoT protocol for device communication in smart homes?
+A) Zigbee
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+260. What is the function of a smart home assistant in IoT?
+A) Voice-controlled automation and information
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+261. Which of the following is a challenge in IoT device provisioning?
+A) Secure and scalable onboarding
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+262. What is the main purpose of device management in IoT?
+A) Monitor, update, and control devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+263. Which of the following is a common IoT protocol for device communication in smart cities?
+A) NB-IoT
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+264. What is the function of a smart city platform in IoT?
+A) Integrates and manages city-wide IoT applications
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+265. Which of the following is a challenge in IoT device lifecycle management?
+A) Managing devices from deployment to decommissioning
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+266. What is the main benefit of using mesh networks in IoT?
+A) Improved network reliability and coverage
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+267. Which of the following is a common IoT protocol for device communication in smart healthcare?
+A) Bluetooth
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+268. What is the function of a smart medical device in IoT?
+A) Monitors and reports patient health data
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+269. Which of the following is a challenge in IoT device data analytics?
+A) Processing large and diverse data sets
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+270. What is the main purpose of device orchestration in IoT?
+A) Coordinate actions among multiple devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+271. Which of the following is a common IoT protocol for device communication in smart agriculture?
+A) LoRaWAN
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+272. What is the function of a smart irrigation controller in IoT?
+A) Automates watering based on soil and weather data
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+273. Which of the following is a challenge in IoT device integration?
+A) Compatibility with existing systems
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+274. What is the main benefit of using cloud computing in IoT?
+A) Scalable data storage and processing
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+275. Which of the following is a common IoT protocol for device communication in smart logistics?
+A) Sigfox
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+276. What is the function of a smart supply chain system in IoT?
+A) Monitors and manages supply chain operations
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+277. Which of the following is a challenge in IoT device firmware management?
+A) Secure and efficient firmware updates
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+278. What is the main purpose of device decommissioning in IoT?
+A) Securely remove devices from the network
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+279. Which of the following is a common IoT protocol for device communication in smart metering?
+A) M-Bus
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+280. What is the function of a smart water meter in IoT?
+A) Measures and reports water usage
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+281. Which of the following is a challenge in IoT device scalability?
+A) Managing large numbers of devices
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+282. What is the main benefit of using LPWAN in IoT?
+A) Long-range, low-power communication
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+283. Which of the following is a common IoT protocol for device communication in smart homes?
+A) Z-Wave
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+284. What is the function of a smart plug in IoT?
+A) Controls power supply to devices remotely
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+285. Which of the following is a challenge in IoT device data management?
+A) Storing and processing large data volumes
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+286. What is the main purpose of device analytics in IoT?
+A) Gain insights from device-generated data
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+287. Which of the following is a common IoT protocol for device communication in smart cities?
+A) LoRaWAN
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+288. What is the function of a smart waste management system in IoT?
+A) Monitors and manages waste collection
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+289. Which of the following is a challenge in IoT device security?
+A) Protecting devices from cyber attacks
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+290. What is the main benefit of using MQTT in IoT?
+A) Lightweight and efficient messaging
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+291. Which of the following is a common IoT protocol for device communication in smart healthcare?
+A) Bluetooth Low Energy (BLE)
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+292. What is the function of a smart patient monitor in IoT?
+A) Monitors and reports patient health data
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+293. Which of the following is a challenge in IoT device network management?
+A) Ensuring reliable and secure connectivity
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+294. What is the main purpose of device orchestration in IoT?
+A) Coordinate actions among multiple devices
+B) Increase device size
+C) Reduce device cost
+D) Improve device color
+Answer: A
+
+295. Which of the following is a common IoT protocol for device communication in smart agriculture?
+A) LoRaWAN
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+296. What is the function of a smart greenhouse in IoT?
+A) Monitors and controls environmental conditions for plants
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A
+
+297. Which of the following is a challenge in IoT device data privacy?
+A) Preventing unauthorized data access
+B) Device color
+C) Device price
+D) Device size
+Answer: A
+
+298. What is the main benefit of using CoAP in IoT?
+A) Lightweight protocol for constrained devices
+B) High data rate
+C) High cost
+D) Short range
+Answer: A
+
+299. Which of the following is a common IoT protocol for device communication in smart factories?
+A) Modbus
+B) SMTP
+C) POP3
+D) FTP
+Answer: A
+
+300. What is the function of a smart machine in IoT?
+A) Monitors and controls manufacturing processes
+B) Controls lighting
+C) Controls temperature
+D) Controls humidity
+Answer: A

@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Prepare MCQs</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      min-height: 100vh;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 30px;
+      padding-top: 70px !important;
+    }
+    .quiz-card {
+      background-color: #1c1c1e;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 8px 25px rgba(0,0,0,0.5);
+      max-width: 1000px;
+      width: 100%;
+    }
+    h1 {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 2.5rem;
+      color: #00ffff;
+      text-align: center;
+    }
+    .form-label {
+      color: #00ffff;
+      font-weight: 500;
+    }
+    .btn-primary {
+      background-color: #188fa7;
+      border: none;
+      width: 100%;
+    }
+    .btn-primary:hover {
+      background-color: #00b894;
+    }
+    .mcq-list {
+      margin-top: 30px;
+    }
+    .mcq-item {
+      background: #ffffff10;
+      border: 1px solid #ffffff20;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 18px;
+      color: #fff;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .mcq-options {
+      margin-top: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .option-card {
+      background-color: #ffffff10;
+      border: 1px solid #ffffff20;
+      color: #fff;
+      border-radius: 10px;
+      padding: 12px 18px;
+      margin-bottom: 8px;
+      flex: 1 1 45%;
+      min-width: 140px;
+      text-align: left;
+      font-weight: 500;
+      transition: all 0.3s ease;
+      user-select: none;
+      position: relative;
+    }
+    .option-card.correct {
+      background-color: #188fa7;
+      color: #fff;
+      border-color: #00ffff;
+      font-weight: bold;
+      box-shadow: 0 2px 8px rgba(0,255,255,0.08);
+    }
+    .subject-card {
+      background-color: #ffffff10;
+      border: 1px solid #ffffff20;
+      color: #ffffff;
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+      cursor: pointer;
+      font-weight: 500;
+      transition: all 0.3s ease;
+      user-select: none;
+    }
+    .subject-card:hover,
+    .subject-card.active {
+      background-color: #188fa7;
+      color: #fff;
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+    .pagination {
+      display: flex;
+      justify-content: center;
+      margin-top: 24px;
+      gap: 6px;
+    }
+    .page-link {
+      background: #1c1c1e;
+      color: #00ffff;
+      border: 1px solid #188fa7;
+      border-radius: 6px;
+      padding: 6px 14px;
+      cursor: pointer;
+      font-weight: 500;
+      transition: background 0.2s, color 0.2s;
+      user-select: none;
+    }
+    .page-link.active, .page-link:hover {
+      background: #188fa7;
+      color: #fff;
+      border-color: #00ffff;
+    }
+    .notification-banner {
+      background: linear-gradient(90deg, #00b894 0%, #188fa7 100%);
+      color: #fff;
+      padding: 14px 24px;
+      border-radius: 10px;
+      font-weight: 500;
+      margin-bottom: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+      animation: fadeIn 0.5s;
+    }
+    .notification-banner .close-btn {
+      background: none;
+      border: none;
+      color: #fff;
+      font-size: 1.3rem;
+      cursor: pointer;
+      margin-left: 18px;
+      font-weight: bold;
+      line-height: 1;
+      opacity: 0.8;
+      transition: opacity 0.2s;
+    }
+    .notification-banner .close-btn:hover {
+      opacity: 1;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @media (max-width: 576px) {
+      .subject-card {
+        font-size: 14px;
+        padding: 16px;
+      }
+      .mcq-item {
+        padding: 12px;
+      }
+      .option-card {
+        padding: 10px 12px;
+        font-size: 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); position: fixed; top: 0; left: 0; width: 100%; z-index: 1000;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html" style="font-family: 'Chakra Petch', sans-serif; color: #00ffff;">MCQ App</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Quiz</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="prepare.html">Prepare MCQs</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="quiz-card mt-4">
+    <div id="notificationArea"></div>
+    <h1 class="mb-4">Prepare MCQs</h1>
+    <h2 class="text-white mb-4 fs-4 text-center">📚 Select a Subject to Learn</h2>
+    <div class="row g-3 justify-content-center" id="subjectGrid">
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Calculus.txt">Calculus</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Computer_Architecture.txt">Computer Architecture</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Data_Structures.txt">Data Structures</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Databases.txt">Databases</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Derivation.txt">Derivation</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_General_English.txt">General English</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_General_Knowledge.txt">General Knowledge</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Hardware.txt">Hardware</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Information_Security.txt">Information Security</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Integration.txt">Integration</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Linear_Algebra.txt">Linear Algebra</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Networking.txt">Networking</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_OOPs.txt">OOPs</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Operating_Systems.txt">Operating Systems</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Quantitative_Reasoning.txt">Quantitative Reasoning</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_SDLC.txt">SDLC</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Software.txt">Software</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_IOT.txt">IOT</div></div>
+    </div>
+    <div id="mcqList" class="mcq-list"></div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    // Remove form and add subject selection logic
+    const subjectGrid = document.getElementById('subjectGrid');
+    const mcqList = document.getElementById('mcqList');
+    let currentSubject = null;
+    let allMcqs = [];
+    let currentPage = 1;
+    const MCQS_PER_PAGE = 100;
+    subjectGrid.addEventListener('click', async function(e) {
+      const card = e.target.closest('.subject-card');
+      if (!card) return;
+      document.querySelectorAll('.subject-card').forEach(c => c.classList.remove('active'));
+      card.classList.add('active');
+      currentSubject = card.getAttribute('data-value');
+      mcqList.innerHTML = '<div class="text-center text-info">Loading MCQs...</div>';
+      currentPage = 1;
+      try {
+        const res = await fetch(currentSubject);
+        if (!res.ok) throw new Error('File not found');
+        const text = await res.text();
+        allMcqs = parseMCQs(text);
+        checkAndNotifyNewMCQs(card.textContent.trim(), currentSubject, allMcqs.length);
+        renderPaginatedMCQs();
+      } catch (err) {
+        mcqList.innerHTML = '<div class="text-danger text-center">Could not load MCQs for this subject.</div>';
+      }
+    });
+    function parseMCQs(text) {
+      const mcqs = [];
+      const lines = text.split(/\r?\n/);
+      let i = 0;
+      while (i < lines.length) {
+        if (/^\d+\./.test(lines[i])) {
+          const question = lines[i].replace(/^\d+\.\s*/, '');
+          const options = {};
+          let j = i + 1;
+          for (const opt of ['A','B','C','D']) {
+            if (lines[j] && lines[j][0] === opt) {
+              options[opt] = lines[j].slice(2).trim();
+              j++;
+            }
+          }
+          let answer = '';
+          if (lines[j] && lines[j].startsWith('Answer:')) {
+            answer = lines[j].split(':')[1].trim();
+            j++;
+          }
+          mcqs.push({question, options, answer});
+          i = j;
+        } else {
+          i++;
+        }
+      }
+      return mcqs;
+    }
+    function renderPaginatedMCQs() {
+      if (!allMcqs.length) {
+        mcqList.innerHTML = '<div class="text-warning text-center">No MCQs found for this subject.</div>';
+        document.getElementById('paginationArea')?.remove();
+        return;
+      }
+      const start = (currentPage-1)*MCQS_PER_PAGE;
+      const end = start + MCQS_PER_PAGE;
+      const pageMcqs = allMcqs.slice(start, end);
+      mcqList.innerHTML = pageMcqs.map((mcq, idx) => `
+        <div class='mcq-item'>
+          <strong>${start+idx+1}.</strong> ${mcq.question}
+          <div class='mcq-options mt-2'>
+            ${['A','B','C','D'].map(opt => `
+              <div class='option-card${mcq.answer===opt?" correct":""}'>${opt}) ${mcq.options[opt]||''}${mcq.answer===opt?"  ✔️":""}</div>
+            `).join('')}
+          </div>
+        </div>
+      `).join('');
+      renderPagination();
+    }
+    function renderPagination() {
+      document.getElementById('paginationArea')?.remove();
+      const totalPages = Math.ceil(allMcqs.length / MCQS_PER_PAGE);
+      if (totalPages <= 1) return;
+      const pagDiv = document.createElement('div');
+      pagDiv.className = 'pagination';
+      pagDiv.id = 'paginationArea';
+      // Previous
+      const prev = document.createElement('span');
+      prev.className = 'page-link' + (currentPage === 1 ? ' disabled' : '');
+      prev.textContent = 'Previous';
+      prev.onclick = () => { if (currentPage > 1) { currentPage--; renderPaginatedMCQs(); } };
+      pagDiv.appendChild(prev);
+      // Page numbers (show up to 5 pages around current)
+      let startPage = Math.max(1, currentPage-2);
+      let endPage = Math.min(totalPages, currentPage+2);
+      if (currentPage <= 2) endPage = Math.min(5, totalPages);
+      if (currentPage >= totalPages-1) startPage = Math.max(1, totalPages-4);
+      for (let i = startPage; i <= endPage; i++) {
+        const pageBtn = document.createElement('span');
+        pageBtn.className = 'page-link' + (i === currentPage ? ' active' : '');
+        pageBtn.textContent = i;
+        pageBtn.onclick = () => { currentPage = i; renderPaginatedMCQs(); };
+        pagDiv.appendChild(pageBtn);
+      }
+      // Next
+      const next = document.createElement('span');
+      next.className = 'page-link' + (currentPage === totalPages ? ' disabled' : '');
+      next.textContent = 'Next';
+      next.onclick = () => { if (currentPage < totalPages) { currentPage++; renderPaginatedMCQs(); } };
+      pagDiv.appendChild(next);
+      mcqList.parentNode.appendChild(pagDiv);
+    }
+    function checkAndNotifyNewMCQs(subjectName, subjectFile, currentCount) {
+      const key = 'mcq_count_' + subjectFile;
+      const lastCount = parseInt(localStorage.getItem(key) || '0', 10);
+      if (currentCount > lastCount && lastCount !== 0) {
+        showNotification(`🆕 New MCQs have been added to <b>${subjectName}</b>! (${currentCount - lastCount} new)`);
+      }
+      localStorage.setItem(key, currentCount);
+    }
+    function showNotification(message) {
+      const area = document.getElementById('notificationArea');
+      area.innerHTML = `<div class='notification-banner'>
+        <span>${message}</span>
+        <button class='close-btn' onclick='this.parentNode.remove()' title='Dismiss'>&times;</button>
+      </div>`;
+      setTimeout(() => {
+        if (area.firstChild) area.firstChild.remove();
+      }, 7000);
+    }
+    // Show notification for new subject (IOT) if not seen before
+    window.addEventListener('DOMContentLoaded', function() {
+      const newSubjectKey = 'notified_new_subject_IOT';
+      if (!localStorage.getItem(newSubjectKey)) {
+        showNotification('🆕 New subject added: <b>IOT</b>! Explore the latest MCQs.');
+        localStorage.setItem(newSubjectKey, '1');
+      }
+    });
+  </script>
+</body>
+</html> 

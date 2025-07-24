@@ -16,6 +16,7 @@
       align-items: center;
       justify-content: center;
       padding: 30px;
+      padding-top: 70px !important;
     }
 
     .quiz-card {
@@ -86,6 +87,25 @@
 </head>
 <body>
 
+  <nav class="navbar navbar-expand-lg navbar-dark" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); position: fixed; top: 0; left: 0; width: 100%; z-index: 1000;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html" style="font-family: 'Chakra Petch', sans-serif; color: #00ffff;">MCQ App</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="index.html">Quiz</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="prepare.html">Prepare MCQs</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
   <div class="quiz-card">
     <h1 class="mb-4">MCQ Quiz App</h1>
 
@@ -109,10 +129,21 @@
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Quantitative_Reasoning.txt">Quantitative Reasoning</div></div>
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_SDLC.txt">SDLC</div></div>
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Software.txt">Software</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_IOT.txt">IOT</div></div>
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card active" data-value="all">All Subjects (Random)</div></div>
     </div>
 
     <div class="mt-4 text-center">
+      <div class="mb-3 d-flex flex-column align-items-center">
+        <label for="numQuestions" class="form-label text-white mb-1" style="font-weight:500;">Number of Questions</label>
+        <select id="numQuestions" class="form-select w-auto" style="background:#1c1c1e; color:#00ffff; border:1px solid #188fa7;">
+          <option value="30">30</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+          <option value="200">200</option>
+          <option value="all">All</option>
+        </select>
+      </div>
       <button id="startBtn" class="btn btn-primary">🚀 Start Quiz</button>
     </div>
 
