@@ -56,6 +56,19 @@
       box-shadow: 0 4px 12px rgba(0,0,0,0.3);
     }
 
+    .subject-card[data-value="cs_it_concepts"] {
+      background-color: #00b894;
+      color: #fff;
+      border: 2px solid #00b894;
+    }
+
+    .subject-card[data-value="cs_it_concepts"]:hover,
+    .subject-card[data-value="cs_it_concepts"].active {
+      background-color: #00a085;
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
     .btn-primary {
       background-color: #188fa7;
       border: none;
@@ -131,6 +144,7 @@
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Software.txt">Software</div></div>
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_IOT.txt">IOT</div></div>
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card active" data-value="all">All Subjects (Random)</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="cs_it_concepts">💻 CS & IT Concepts</div></div>
     </div>
 
     <div class="mt-4 text-center">

@@ -10,6 +10,7 @@ const subjectFiles = [
     "MCQs_Hardware.txt",
     "MCQs_Information_Security.txt",
     "MCQs_Integration.txt",
+    "MCQs_IOT.txt",
     "MCQs_Linear_Algebra.txt",
     "MCQs_Networking.txt",
     "MCQs_OOPs.txt",
@@ -18,6 +19,8 @@ const subjectFiles = [
     "MCQs_SDLC.txt",
     "MCQs_Software.txt"
 ];
+
+
 
 function parseMCQs(text) {
     const questions = [];
@@ -75,6 +78,10 @@ startBtn.onclick = async function() {
         for (let text of texts) {
             allQuestions = allQuestions.concat(parseMCQs(text));
         }
+    } else if (selectedSubject === 'cs_it_concepts') {
+        // Fetch from all_mcqs.txt file
+        const text = await fetch('all_mcqs.txt').then(r => r.ok ? r.text() : '');
+        allQuestions = parseMCQs(text);
     } else {
         // Fetch only selected subject
         const text = await fetch(selectedSubject).then(r => r.ok ? r.text() : '');

@@ -103,6 +103,19 @@
       transform: translateY(-3px);
       box-shadow: 0 4px 12px rgba(0,0,0,0.3);
     }
+
+    .subject-card[data-value="cs_it_concepts"] {
+      background-color: #00b894;
+      color: #fff;
+      border: 2px solid #00b894;
+    }
+
+    .subject-card[data-value="cs_it_concepts"]:hover,
+    .subject-card[data-value="cs_it_concepts"].active {
+      background-color: #00a085;
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
     .pagination {
       display: flex;
       justify-content: center;
@@ -214,6 +227,7 @@
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_SDLC.txt">SDLC</div></div>
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Software.txt">Software</div></div>
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_IOT.txt">IOT</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="cs_it_concepts">💻 CS & IT Concepts</div></div>
     </div>
     <div id="mcqList" class="mcq-list"></div>
   </div>
@@ -226,6 +240,9 @@
     let allMcqs = [];
     let currentPage = 1;
     const MCQS_PER_PAGE = 100;
+
+
+
     subjectGrid.addEventListener('click', async function(e) {
       const card = e.target.closest('.subject-card');
       if (!card) return;
@@ -235,11 +252,21 @@
       mcqList.innerHTML = '<div class="text-center text-info">Loading MCQs...</div>';
       currentPage = 1;
       try {
-        const res = await fetch(currentSubject);
-        if (!res.ok) throw new Error('File not found');
-        const text = await res.text();
-        allMcqs = parseMCQs(text);
-        checkAndNotifyNewMCQs(card.textContent.trim(), currentSubject, allMcqs.length);
+        if (currentSubject === 'cs_it_concepts') {
+          // Fetch from all_mcqs.txt file
+          const res = await fetch('all_mcqs.txt');
+          if (!res.ok) throw new Error('File not found');
+          const text = await res.text();
+          allMcqs = parseMCQs(text);
+          checkAndNotifyNewMCQs(card.textContent.trim(), currentSubject, allMcqs.length);
+        } else {
+          // Fetch only selected subject
+          const res = await fetch(currentSubject);
+          if (!res.ok) throw new Error('File not found');
+          const text = await res.text();
+          allMcqs = parseMCQs(text);
+          checkAndNotifyNewMCQs(card.textContent.trim(), currentSubject, allMcqs.length);
+        }
         renderPaginatedMCQs();
       } catch (err) {
         mcqList.innerHTML = '<div class="text-danger text-center">Could not load MCQs for this subject.</div>';
