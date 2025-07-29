@@ -7,234 +7,234 @@ Answer: B
 
 2. Which data structure follows the LIFO principle?
 A) Queue
-B) Stack
-C) Linked List
+B) Linked List
+C) Stack
 D) Tree
-Answer: B
+Answer: C
 
 3. What is the main advantage of using a database management system?
-A) Faster processing speed
+A) Better user interface
 B) Data independence and consistency
-C) Lower storage requirements
-D) Better user interface
+C) Faster processing speed
+D) Lower storage requirements
 Answer: B
 
 4. Which protocol is used for secure web browsing?
-A) HTTP
-B) HTTPS
+A) HTTPS
+B) HTTP
 C) FTP
 D) SMTP
-Answer: B
+Answer: A
 
 5. What is the purpose of a firewall in network security?
 A) To speed up internet connection
 B) To monitor and control network traffic
-C) To store backup data
-D) To manage user accounts
+C) To manage user accounts
+D) To store backup data
 Answer: B
 
 6. Which programming paradigm focuses on objects and their interactions?
-A) Procedural programming
-B) Object-oriented programming
-C) Functional programming
+A) Object-oriented programming
+B) Functional programming
+C) Procedural programming
 D) Logic programming
-Answer: B
+Answer: A
 
 7. What is the function of RAM in a computer?
-A) Permanent storage
-B) Temporary storage for running programs
-C) Processing calculations
-D) Display output
-Answer: B
+A) Temporary storage for running programs
+B) Permanent storage
+C) Display output
+D) Processing calculations
+Answer: A
 
 8. Which network topology provides the highest reliability?
-A) Bus topology
-B) Mesh topology
-C) Star topology
-D) Ring topology
-Answer: B
+A) Ring topology
+B) Star topology
+C) Bus topology
+D) Mesh topology
+Answer: D
 
 9. What is the primary purpose of an algorithm?
-A) To make programs run faster
+A) To connect to networks
 B) To solve problems step by step
-C) To store data efficiently
-D) To connect to networks
+C) To make programs run faster
+D) To store data efficiently
 Answer: B
 
 10. Which database model represents data in tables?
 A) Hierarchical model
-B) Relational model
-C) Network model
+B) Network model
+C) Relational model
 D) Object-oriented model
-Answer: B
+Answer: C
 
 11. What is the role of a compiler in programming?
-A) To execute programs
-B) To translate high-level code to machine code
+A) To translate high-level code to machine code
+B) To store programs
 C) To debug programs
-D) To store programs
-Answer: B
+D) To execute programs
+Answer: A
 
 12. Which security measure prevents unauthorized access to data?
-A) Data backup
-B) Authentication
+A) Authentication
+B) Data encryption
 C) Data compression
-D) Data encryption
-Answer: B
+D) Data backup
+Answer: A
 
 13. What is the main function of a CPU?
-A) To store data
-B) To process instructions and perform calculations
+A) To connect peripherals
+B) To store data
 C) To display output
-D) To connect peripherals
-Answer: B
+D) To process instructions and perform calculations
+Answer: D
 
 14. Which data structure allows efficient searching with O(log n) complexity?
-A) Array
-B) Binary Search Tree
+A) Binary Search Tree
+B) Stack
 C) Linked List
-D) Stack
-Answer: B
+D) Array
+Answer: A
 
 15. What is the purpose of normalization in database design?
-A) To increase storage space
-B) To eliminate data redundancy
-C) To speed up queries
-D) To add more data
-Answer: B
+A) To eliminate data redundancy
+B) To increase storage space
+C) To add more data
+D) To speed up queries
+Answer: A
 
 16. Which network device operates at the data link layer?
-A) Router
-B) Switch
-C) Hub
-D) Gateway
-Answer: B
+A) Switch
+B) Gateway
+C) Router
+D) Hub
+Answer: A
 
 17. What is the main advantage of cloud computing?
 A) Lower hardware costs
-B) Scalability and flexibility
+B) Faster processing
 C) Better security
-D) Faster processing
-Answer: B
+D) Scalability and flexibility
+Answer: D
 
 18. Which programming language is primarily used for web development?
-A) Java
-B) JavaScript
-C) C++
-D) Python
-Answer: B
+A) C++
+B) Java
+C) Python
+D) JavaScript
+Answer: D
 
 19. What is the function of an IP address?
-A) To identify a website
-B) To uniquely identify devices on a network
-C) To encrypt data
+A) To encrypt data
+B) To identify a website
+C) To uniquely identify devices on a network
 D) To store files
-Answer: B
+Answer: C
 
 20. Which algorithm is used for sorting with O(n log n) average complexity?
 A) Bubble Sort
-B) Quick Sort
-C) Selection Sort
-D) Insertion Sort
-Answer: B
+B) Insertion Sort
+C) Quick Sort
+D) Selection Sort
+Answer: C
 
 21. What is the purpose of version control systems?
 A) To backup data
 B) To track changes in source code
-C) To compile programs
-D) To test software
+C) To test software
+D) To compile programs
 Answer: B
 
 22. Which memory type is non-volatile?
-A) RAM
-B) ROM
-C) Cache
-D) Virtual Memory
-Answer: B
+A) Cache
+B) RAM
+C) Virtual Memory
+D) ROM
+Answer: D
 
 23. What is the main function of an API?
-A) To store data
-B) To allow different software systems to communicate
-C) To process algorithms
-D) To display graphics
-Answer: B
+A) To display graphics
+B) To store data
+C) To allow different software systems to communicate
+D) To process algorithms
+Answer: C
 
 24. Which security attack involves intercepting network traffic?
-A) Denial of Service
-B) Man-in-the-Middle
-C) SQL Injection
-D) Cross-site Scripting
-Answer: B
+A) Cross-site Scripting
+B) SQL Injection
+C) Denial of Service
+D) Man-in-the-Middle
+Answer: D
 
 25. What is the purpose of garbage collection in programming?
-A) To organize code
-B) To automatically free unused memory
-C) To compile programs
-D) To debug errors
-Answer: B
+A) To compile programs
+B) To organize code
+C) To debug errors
+D) To automatically free unused memory
+Answer: D
 
 26. Which database operation is used to retrieve data?
-A) INSERT
-B) SELECT
-C) UPDATE
+A) SELECT
+B) UPDATE
+C) INSERT
 D) DELETE
-Answer: B
+Answer: A
 
 27. What is the function of a DNS server?
 A) To store websites
-B) To translate domain names to IP addresses
-C) To encrypt data
-D) To route traffic
-Answer: B
+B) To encrypt data
+C) To route traffic
+D) To translate domain names to IP addresses
+Answer: D
 
 28. Which software development methodology emphasizes iterative development?
-A) Waterfall
-B) Agile
-C) Spiral
-D) V-Model
-Answer: B
+A) Agile
+B) Spiral
+C) V-Model
+D) Waterfall
+Answer: A
 
 29. What is the purpose of a virtual machine?
-A) To store data
-B) To run multiple operating systems on one hardware
-C) To connect networks
+A) To run multiple operating systems on one hardware
+B) To connect networks
+C) To store data
 D) To process graphics
-Answer: B
+Answer: A
 
 30. Which data structure uses key-value pairs?
 A) Array
-B) Hash Table
-C) Stack
-D) Queue
-Answer: B
+B) Queue
+C) Hash Table
+D) Stack
+Answer: C
 
 31. What is the main advantage of distributed systems?
-A) Lower cost
-B) Improved reliability and scalability
-C) Better security
+A) Improved reliability and scalability
+B) Better security
+C) Lower cost
 D) Faster processing
-Answer: B
+Answer: A
 
 32. Which protocol is used for email transmission?
 A) HTTP
-B) SMTP
-C) FTP
-D) HTTPS
-Answer: B
+B) FTP
+C) HTTPS
+D) SMTP
+Answer: D
 
 33. What is the purpose of load balancing?
-A) To store data
-B) To distribute network traffic across multiple servers
-C) To encrypt data
-D) To backup systems
-Answer: B
+A) To distribute network traffic across multiple servers
+B) To encrypt data
+C) To backup systems
+D) To store data
+Answer: A
 
 34. Which programming concept allows code reuse?
 A) Variables
-B) Functions
-C) Loops
+B) Loops
+C) Functions
 D) Conditions
-Answer: B
+Answer: C
 
 35. What is the function of a cache in computing?
 A) To store permanent data
@@ -245,24 +245,24 @@ Answer: B
 
 36. Which network protocol ensures reliable data delivery?
 A) UDP
-B) TCP
+B) ICMP
 C) IP
-D) ICMP
-Answer: B
+D) TCP
+Answer: D
 
 37. What is the purpose of unit testing?
 A) To test the entire system
-B) To test individual components in isolation
-C) To test user interface
-D) To test performance
-Answer: B
+B) To test user interface
+C) To test performance
+D) To test individual components in isolation
+Answer: D
 
 38. Which data structure allows efficient insertion and deletion at both ends?
-A) Stack
-B) Deque
-C) Queue
-D) Array
-Answer: B
+A) Deque
+B) Stack
+C) Array
+D) Queue
+Answer: A
 
 39. What is the main function of middleware?
 A) To store data
@@ -273,108 +273,108 @@ Answer: B
 
 40. Which security protocol is used for wireless networks?
 A) HTTP
-B) WPA
+B) SMTP
 C) FTP
-D) SMTP
-Answer: B
+D) WPA
+Answer: D
 
 41. What is the purpose of indexing in databases?
 A) To store data
-B) To speed up data retrieval operations
-C) To backup data
+B) To backup data
+C) To speed up data retrieval operations
 D) To compress data
-Answer: B
+Answer: C
 
 42. Which algorithm is used for finding the shortest path in a graph?
-A) Binary Search
-B) Dijkstra's Algorithm
-C) Bubble Sort
-D) Quick Sort
-Answer: B
+A) Quick Sort
+B) Bubble Sort
+C) Binary Search
+D) Dijkstra's Algorithm
+Answer: D
 
 43. What is the function of a proxy server?
-A) To store websites
+A) To route traffic
 B) To act as an intermediary between clients and servers
-C) To encrypt data
-D) To route traffic
+C) To store websites
+D) To encrypt data
 Answer: B
 
 44. Which programming paradigm emphasizes immutability?
-A) Object-oriented
-B) Functional
-C) Procedural
-D) Logic
-Answer: B
+A) Functional
+B) Logic
+C) Object-oriented
+D) Procedural
+Answer: A
 
 45. What is the purpose of RAID in storage systems?
-A) To increase storage capacity
-B) To provide data redundancy and improve performance
-C) To encrypt data
-D) To compress data
-Answer: B
+A) To encrypt data
+B) To compress data
+C) To increase storage capacity
+D) To provide data redundancy and improve performance
+Answer: D
 
 46. Which network topology is most commonly used in LANs?
-A) Ring
-B) Star
-C) Bus
+A) Star
+B) Bus
+C) Ring
 D) Mesh
-Answer: B
+Answer: A
 
 47. What is the main advantage of microservices architecture?
 A) Lower cost
 B) Independent deployment and scalability
-C) Better security
-D) Faster development
+C) Faster development
+D) Better security
 Answer: B
 
 48. Which data structure is used for implementing priority queues?
-A) Array
+A) Stack
 B) Heap
-C) Stack
-D) Queue
+C) Queue
+D) Array
 Answer: B
 
 49. What is the purpose of SSL/TLS protocols?
-A) To speed up connections
-B) To provide secure communication over networks
-C) To compress data
-D) To route traffic
-Answer: B
+A) To route traffic
+B) To speed up connections
+C) To provide secure communication over networks
+D) To compress data
+Answer: C
 
 50. Which software testing technique examines code without executing it?
-A) Unit testing
+A) Integration testing
 B) Static testing
-C) Integration testing
+C) Unit testing
 D) System testing
 Answer: B
 
 51. What is the function of a router in networking?
-A) To connect devices
-B) To forward data packets between networks
-C) To store data
+A) To store data
+B) To connect devices
+C) To forward data packets between networks
 D) To process applications
-Answer: B
+Answer: C
 
 52. Which database constraint ensures data integrity?
-A) Index
-B) Foreign Key
-C) View
-D) Trigger
-Answer: B
+A) Trigger
+B) View
+C) Index
+D) Foreign Key
+Answer: D
 
 53. What is the purpose of virtualization technology?
-A) To store data
-B) To create multiple virtual environments on single hardware
-C) To connect networks
-D) To process graphics
-Answer: B
+A) To connect networks
+B) To process graphics
+C) To store data
+D) To create multiple virtual environments on single hardware
+Answer: D
 
 54. Which algorithm is used for compressing data?
-A) Sorting
-B) Huffman coding
-C) Searching
+A) Searching
+B) Sorting
+C) Huffman coding
 D) Hashing
-Answer: B
+Answer: C
 
 55. What is the main function of an operating system kernel?
 A) To provide user interface
@@ -384,340 +384,340 @@ D) To store files
 Answer: B
 
 56. Which network protocol is connectionless?
-A) TCP
+A) HTTP
 B) UDP
-C) HTTP
+C) TCP
 D) FTP
 Answer: B
 
 57. What is the purpose of dependency injection in software design?
-A) To store data
-B) To reduce coupling between components
+A) To manage memory
+B) To store data
 C) To speed up execution
-D) To manage memory
-Answer: B
+D) To reduce coupling between components
+Answer: D
 
 58. Which data structure is used for implementing graphs?
-A) Array
-B) Adjacency List
-C) Stack
-D) Queue
-Answer: B
+A) Adjacency List
+B) Queue
+C) Array
+D) Stack
+Answer: A
 
 59. What is the function of a load balancer?
-A) To store data
-B) To distribute incoming network traffic across multiple servers
-C) To encrypt data
-D) To backup systems
-Answer: B
+A) To encrypt data
+B) To backup systems
+C) To distribute incoming network traffic across multiple servers
+D) To store data
+Answer: C
 
 60. Which security measure prevents SQL injection attacks?
 A) Encryption
-B) Parameterized queries
-C) Firewall
-D) Antivirus
-Answer: B
+B) Firewall
+C) Antivirus
+D) Parameterized queries
+Answer: D
 
 61. What is the purpose of garbage collection in Java?
-A) To organize code
-B) To automatically manage memory allocation and deallocation
-C) To compile programs
+A) To automatically manage memory allocation and deallocation
+B) To compile programs
+C) To organize code
 D) To debug errors
-Answer: B
+Answer: A
 
 62. Which network device operates at the network layer?
-A) Switch
+A) Bridge
 B) Router
-C) Hub
-D) Bridge
+C) Switch
+D) Hub
 Answer: B
 
 63. What is the main advantage of using containers in software deployment?
-A) Lower cost
-B) Consistent environment across different platforms
-C) Better security
-D) Faster processing
-Answer: B
+A) Consistent environment across different platforms
+B) Faster processing
+C) Lower cost
+D) Better security
+Answer: A
 
 64. Which algorithm is used for finding patterns in text?
-A) Binary Search
+A) Quick Sort
 B) String Matching
-C) Quick Sort
+C) Binary Search
 D) Bubble Sort
 Answer: B
 
 65. What is the function of a database transaction?
-A) To store data
-B) To ensure data consistency and integrity
+A) To ensure data consistency and integrity
+B) To store data
 C) To backup data
 D) To compress data
-Answer: B
+Answer: A
 
 66. Which programming concept allows multiple inheritance?
 A) Encapsulation
-B) Polymorphism
-C) Abstraction
+B) Abstraction
+C) Polymorphism
 D) Inheritance
-Answer: B
+Answer: C
 
 67. What is the purpose of a reverse proxy?
 A) To store websites
-B) To protect backend servers and improve performance
-C) To encrypt data
+B) To encrypt data
+C) To protect backend servers and improve performance
 D) To route traffic
-Answer: B
+Answer: C
 
 68. Which data structure is used for implementing undo functionality?
-A) Array
+A) Tree
 B) Stack
-C) Queue
-D) Tree
+C) Array
+D) Queue
 Answer: B
 
 69. What is the main function of a web server?
-A) To store websites
-B) To serve web pages and handle HTTP requests
-C) To process databases
+A) To serve web pages and handle HTTP requests
+B) To process databases
+C) To store websites
 D) To manage networks
-Answer: B
+Answer: A
 
 70. Which security protocol is used for secure file transfer?
-A) HTTP
-B) SFTP
-C) FTP
+A) SFTP
+B) FTP
+C) HTTP
 D) SMTP
-Answer: B
+Answer: A
 
 71. What is the purpose of caching in web applications?
 A) To store data permanently
-B) To improve response times by storing frequently accessed data
+B) To compress data
 C) To backup data
-D) To compress data
-Answer: B
+D) To improve response times by storing frequently accessed data
+Answer: D
 
 72. Which algorithm is used for finding the minimum spanning tree?
-A) Dijkstra's
-B) Kruskal's
-C) Bellman-Ford
-D) Floyd-Warshall
-Answer: B
+A) Floyd-Warshall
+B) Bellman-Ford
+C) Dijkstra's
+D) Kruskal's
+Answer: D
 
 73. What is the function of a database view?
 A) To store data
-B) To present data in a specific format without storing it
-C) To backup data
-D) To compress data
-Answer: B
+B) To compress data
+C) To present data in a specific format without storing it
+D) To backup data
+Answer: C
 
 74. Which network protocol is used for dynamic IP assignment?
-A) DNS
-B) DHCP
-C) HTTP
-D) FTP
-Answer: B
+A) HTTP
+B) FTP
+C) DNS
+D) DHCP
+Answer: D
 
 75. What is the purpose of continuous integration in software development?
-A) To store code
-B) To automatically test and integrate code changes
-C) To backup code
+A) To backup code
+B) To store code
+C) To automatically test and integrate code changes
 D) To compress code
-Answer: B
+Answer: C
 
 76. Which data structure is used for implementing breadth-first search?
-A) Stack
+A) Graph
 B) Queue
 C) Tree
-D) Graph
+D) Stack
 Answer: B
 
 77. What is the main advantage of using NoSQL databases?
-A) Lower cost
-B) Flexibility in data structure and horizontal scalability
+A) Flexibility in data structure and horizontal scalability
+B) Lower cost
 C) Better security
 D) Faster queries
-Answer: B
+Answer: A
 
 78. Which security attack involves flooding a server with requests?
-A) Man-in-the-Middle
-B) Denial of Service
-C) SQL Injection
+A) Denial of Service
+B) SQL Injection
+C) Man-in-the-Middle
 D) Cross-site Scripting
-Answer: B
+Answer: A
 
 79. What is the purpose of a database trigger?
-A) To store data
-B) To automatically execute code when certain events occur
-C) To backup data
-D) To compress data
-Answer: B
+A) To backup data
+B) To store data
+C) To compress data
+D) To automatically execute code when certain events occur
+Answer: D
 
 80. Which programming language is primarily used for system programming?
-A) Python
-B) C
+A) C
+B) JavaScript
 C) Java
-D) JavaScript
-Answer: B
+D) Python
+Answer: A
 
 81. What is the function of a content delivery network (CDN)?
-A) To store websites
-B) To distribute content across multiple servers globally
-C) To encrypt data
-D) To route traffic
-Answer: B
+A) To encrypt data
+B) To route traffic
+C) To distribute content across multiple servers globally
+D) To store websites
+Answer: C
 
 82. Which algorithm is used for encrypting data?
-A) Sorting
-B) AES (Advanced Encryption Standard)
-C) Searching
+A) Searching
+B) Sorting
+C) AES (Advanced Encryption Standard)
 D) Hashing
-Answer: B
+Answer: C
 
 83. What is the purpose of object-oriented design patterns?
-A) To organize code
+A) To manage memory
 B) To provide reusable solutions to common design problems
 C) To speed up execution
-D) To manage memory
+D) To organize code
 Answer: B
 
 84. Which data structure is used for implementing depth-first search?
-A) Queue
-B) Stack
+A) Stack
+B) Graph
 C) Tree
-D) Graph
-Answer: B
+D) Queue
+Answer: A
 
 85. What is the main function of a database index?
-A) To store data
-B) To speed up data retrieval operations
-C) To backup data
-D) To compress data
-Answer: B
+A) To backup data
+B) To compress data
+C) To speed up data retrieval operations
+D) To store data
+Answer: C
 
 86. Which network protocol is used for secure shell access?
 A) HTTP
-B) SSH
-C) FTP
-D) SMTP
-Answer: B
+B) SMTP
+C) SSH
+D) FTP
+Answer: C
 
 87. What is the purpose of software refactoring?
-A) To add new features
+A) To fix bugs
 B) To improve code structure without changing functionality
-C) To fix bugs
-D) To optimize performance
+C) To optimize performance
+D) To add new features
 Answer: B
 
 88. Which algorithm is used for finding the longest common subsequence?
-A) Binary Search
+A) Quick Sort
 B) Dynamic Programming
-C) Quick Sort
+C) Binary Search
 D) Bubble Sort
 Answer: B
 
 89. What is the function of a database stored procedure?
-A) To store data
-B) To encapsulate and execute a set of SQL statements
+A) To compress data
+B) To store data
 C) To backup data
-D) To compress data
-Answer: B
+D) To encapsulate and execute a set of SQL statements
+Answer: D
 
 90. Which security measure prevents cross-site scripting attacks?
-A) Encryption
-B) Input validation and output encoding
-C) Firewall
-D) Antivirus
-Answer: B
+A) Antivirus
+B) Firewall
+C) Encryption
+D) Input validation and output encoding
+Answer: D
 
 91. What is the purpose of memory management in operating systems?
-A) To store data permanently
-B) To allocate and deallocate memory efficiently
-C) To backup data
-D) To compress data
-Answer: B
+A) To allocate and deallocate memory efficiently
+B) To compress data
+C) To store data permanently
+D) To backup data
+Answer: A
 
 92. Which network protocol is used for network management?
-A) HTTP
+A) FTP
 B) SNMP
-C) FTP
-D) SMTP
+C) SMTP
+D) HTTP
 Answer: B
 
 93. What is the main advantage of using microservices?
-A) Lower cost
+A) Better security
 B) Independent development and deployment
-C) Better security
+C) Lower cost
 D) Faster processing
 Answer: B
 
 94. Which data structure is used for implementing LRU cache?
 A) Array
 B) Linked List with Hash Map
-C) Stack
-D) Queue
+C) Queue
+D) Stack
 Answer: B
 
 95. What is the function of a database constraint?
-A) To store data
-B) To enforce data integrity rules
-C) To backup data
-D) To compress data
-Answer: B
+A) To compress data
+B) To store data
+C) To enforce data integrity rules
+D) To backup data
+Answer: C
 
 96. Which programming concept allows method overriding?
-A) Encapsulation
-B) Polymorphism
+A) Inheritance
+B) Encapsulation
 C) Abstraction
-D) Inheritance
-Answer: B
+D) Polymorphism
+Answer: D
 
 97. What is the purpose of a circuit breaker pattern in software design?
-A) To store data
-B) To prevent cascading failures in distributed systems
-C) To speed up execution
-D) To manage memory
-Answer: B
+A) To prevent cascading failures in distributed systems
+B) To speed up execution
+C) To manage memory
+D) To store data
+Answer: A
 
 98. Which algorithm is used for finding strongly connected components?
-A) Binary Search
-B) Tarjan's Algorithm
-C) Quick Sort
-D) Bubble Sort
-Answer: B
+A) Bubble Sort
+B) Binary Search
+C) Tarjan's Algorithm
+D) Quick Sort
+Answer: C
 
 99. What is the main function of a database transaction log?
-A) To store data
-B) To maintain a record of all database changes for recovery
+A) To maintain a record of all database changes for recovery
+B) To store data
 C) To backup data
 D) To compress data
-Answer: B
+Answer: A
 
 100. Which security protocol is used for secure email?
-A) HTTP
-B) PGP (Pretty Good Privacy)
-C) FTP
-D) SMTP
-Answer: B
+A) FTP
+B) SMTP
+C) HTTP
+D) PGP (Pretty Good Privacy)
+Answer: D
 
 101. What is the primary purpose of IoT (Internet of Things)?
-A) To connect only computers
+A) To store data in the cloud
 B) To connect and enable communication between various devices and sensors
-C) To store data in the cloud
+C) To connect only computers
 D) To provide internet access
 Answer: B
 
 102. Which protocol is commonly used in IoT for lightweight messaging?
-A) HTTP
-B) MQTT (Message Queuing Telemetry Transport)
-C) FTP
-D) SMTP
-Answer: B
+A) FTP
+B) SMTP
+C) HTTP
+D) MQTT (Message Queuing Telemetry Transport)
+Answer: D
 
 103. What is the main advantage of edge computing in IoT?
-A) Lower cost
-B) Reduced latency and bandwidth usage
-C) Better security
-D) Faster processing
-Answer: B
+A) Reduced latency and bandwidth usage
+B) Lower cost
+C) Faster processing
+D) Better security
+Answer: A
 
 104. Which network topology is most suitable for IoT deployments?
 A) Star
@@ -728,17 +728,17 @@ Answer: B
 
 105. What is the purpose of a system administrator?
 A) To develop software
-B) To manage and maintain computer systems and networks
-C) To design websites
-D) To create databases
-Answer: B
+B) To create databases
+C) To manage and maintain computer systems and networks
+D) To design websites
+Answer: C
 
 106. Which Linux command is used to view system processes?
-A) ls
-B) ps
-C) cat
-D) grep
-Answer: B
+A) cat
+B) grep
+C) ps
+D) ls
+Answer: C
 
 107. What is the function of cron in Linux?
 A) To display time
@@ -749,290 +749,290 @@ Answer: B
 
 108. Which Linux command is used to change file permissions?
 A) chown
-B) chmod
-C) chgrp
-D) ls -l
-Answer: B
+B) chgrp
+C) ls -l
+D) chmod
+Answer: D
 
 109. What is the purpose of a firewall in cybersecurity?
-A) To speed up internet
+A) To store data
 B) To monitor and control incoming and outgoing network traffic
-C) To store data
+C) To speed up internet
 D) To backup systems
 Answer: B
 
 110. Which cybersecurity attack involves tricking users into revealing sensitive information?
-A) DDoS
+A) SQL Injection
 B) Phishing
-C) SQL Injection
-D) Man-in-the-Middle
+C) Man-in-the-Middle
+D) DDoS
 Answer: B
 
 111. What is the main purpose of encryption in information security?
-A) To compress data
-B) To protect data confidentiality and integrity
-C) To speed up transmission
-D) To backup data
-Answer: B
+A) To protect data confidentiality and integrity
+B) To speed up transmission
+C) To backup data
+D) To compress data
+Answer: A
 
 112. Which type of encryption uses the same key for encryption and decryption?
 A) Asymmetric encryption
 B) Symmetric encryption
-C) Hash function
-D) Digital signature
+C) Digital signature
+D) Hash function
 Answer: B
 
 113. What is the role of a database administrator (DBA)?
 A) To develop applications
-B) To manage, maintain, and secure database systems
-C) To design networks
+B) To design networks
+C) To manage, maintain, and secure database systems
 D) To create websites
-Answer: B
+Answer: C
 
 114. Which database backup type captures only changes since the last backup?
-A) Full backup
-B) Incremental backup
+A) Incremental backup
+B) Archive backup
 C) Differential backup
-D) Archive backup
-Answer: B
+D) Full backup
+Answer: A
 
 115. What is the purpose of database indexing?
-A) To store data
+A) To compress data
 B) To improve query performance and data retrieval speed
 C) To backup data
-D) To compress data
+D) To store data
 Answer: B
 
 116. Which operating system component manages memory allocation?
-A) File system
-B) Memory manager
-C) Process scheduler
-D) Device driver
-Answer: B
+A) Process scheduler
+B) File system
+C) Device driver
+D) Memory manager
+Answer: D
 
 117. What is the function of a process scheduler in an operating system?
-A) To store files
-B) To allocate CPU time to different processes
-C) To manage memory
+A) To manage memory
+B) To store files
+C) To allocate CPU time to different processes
 D) To handle I/O operations
-Answer: B
+Answer: C
 
 118. Which Linux distribution is known for its security focus?
-A) Ubuntu
+A) CentOS
 B) Kali Linux
-C) CentOS
-D) Fedora
+C) Fedora
+D) Ubuntu
 Answer: B
 
 119. What is the purpose of the /etc/passwd file in Linux?
 A) To store passwords
 B) To store user account information
-C) To store system configuration
-D) To store network settings
+C) To store network settings
+D) To store system configuration
 Answer: B
 
 120. Which Linux command is used to find files?
-A) ls
+A) grep
 B) find
-C) grep
-D) locate
+C) locate
+D) ls
 Answer: B
 
 121. What is IT infrastructure?
-A) Only hardware components
-B) The complete set of hardware, software, networks, and services required to operate IT systems
-C) Only software applications
-D) Only network devices
-Answer: B
+A) Only network devices
+B) Only software applications
+C) Only hardware components
+D) The complete set of hardware, software, networks, and services required to operate IT systems
+Answer: D
 
 122. Which component is essential in modern IT infrastructure?
-A) Legacy systems
-B) Cloud computing services
+A) Manual processes
+B) Legacy systems
 C) Standalone computers
-D) Manual processes
-Answer: B
+D) Cloud computing services
+Answer: D
 
 123. What is the purpose of virtualization in IT infrastructure?
 A) To increase costs
-B) To optimize resource utilization and improve scalability
+B) To slow down systems
 C) To reduce security
-D) To slow down systems
-Answer: B
+D) To optimize resource utilization and improve scalability
+Answer: D
 
 124. Which network protocol is used for automatic IP address assignment?
-A) DNS
-B) DHCP
-C) HTTP
-D) FTP
-Answer: B
+A) HTTP
+B) FTP
+C) DNS
+D) DHCP
+Answer: D
 
 125. What is the function of a network switch?
-A) To connect to internet
+A) To process applications
 B) To forward data packets between devices on a local network
-C) To store data
-D) To process applications
+C) To connect to internet
+D) To store data
 Answer: B
 
 126. Which network topology provides the highest fault tolerance?
-A) Star
-B) Mesh
-C) Bus
-D) Ring
-Answer: B
+A) Mesh
+B) Ring
+C) Star
+D) Bus
+Answer: A
 
 127. What is the purpose of VLANs in networking?
 A) To increase network speed
-B) To segment networks for better security and management
-C) To reduce costs
-D) To simplify configuration
-Answer: B
+B) To simplify configuration
+C) To segment networks for better security and management
+D) To reduce costs
+Answer: C
 
 128. Which protocol is used for secure remote access to network devices?
-A) Telnet
-B) SSH
+A) HTTP
+B) Telnet
 C) FTP
-D) HTTP
-Answer: B
+D) SSH
+Answer: D
 
 129. What is IT project management?
-A) Only coding
+A) Only deployment
 B) The process of planning, organizing, and managing IT projects to achieve specific goals
-C) Only testing
-D) Only deployment
+C) Only coding
+D) Only testing
 Answer: B
 
 130. Which project management methodology is iterative and incremental?
-A) Waterfall
-B) Agile
-C) Spiral
+A) Spiral
+B) Waterfall
+C) Agile
 D) V-Model
-Answer: B
+Answer: C
 
 131. What is the purpose of a project charter in IT project management?
-A) To store project files
-B) To formally authorize and define the scope of a project
-C) To track time
-D) To manage budgets
-Answer: B
+A) To manage budgets
+B) To track time
+C) To formally authorize and define the scope of a project
+D) To store project files
+Answer: C
 
 132. Which tool is commonly used for IT project scheduling?
-A) Word
-B) Microsoft Project
-C) Excel
-D) PowerPoint
-Answer: B
+A) Excel
+B) PowerPoint
+C) Word
+D) Microsoft Project
+Answer: D
 
 133. What is enterprise systems?
-A) Only databases
-B) Large-scale software systems that support business processes across an organization
-C) Only networks
-D) Only hardware
-Answer: B
+A) Large-scale software systems that support business processes across an organization
+B) Only databases
+C) Only hardware
+D) Only networks
+Answer: A
 
 134. Which enterprise system manages customer relationships?
-A) ERP
-B) CRM
+A) HRM
+B) ERP
 C) SCM
-D) HRM
-Answer: B
+D) CRM
+Answer: D
 
 135. What is the purpose of ERP (Enterprise Resource Planning) systems?
-A) To store data only
-B) To integrate and manage core business processes
-C) To connect networks only
+A) To connect networks only
+B) To store data only
+C) To integrate and manage core business processes
 D) To backup systems only
-Answer: B
+Answer: C
 
 136. Which enterprise system manages supply chain operations?
-A) CRM
-B) SCM
-C) ERP
-D) HRM
-Answer: B
+A) ERP
+B) HRM
+C) SCM
+D) CRM
+Answer: C
 
 137. What is the main advantage of cloud-based enterprise systems?
-A) Higher cost
-B) Scalability and accessibility
+A) Scalability and accessibility
+B) Higher cost
 C) Lower security
 D) Slower performance
-Answer: B
+Answer: A
 
 138. Which IoT protocol is designed for constrained devices?
-A) HTTP
-B) CoAP (Constrained Application Protocol)
-C) FTP
+A) CoAP (Constrained Application Protocol)
+B) FTP
+C) HTTP
 D) SMTP
-Answer: B
+Answer: A
 
 139. What is the purpose of fog computing in IoT?
-A) To store data in clouds
-B) To process data closer to IoT devices
-C) To encrypt data
-D) To backup data
-Answer: B
+A) To encrypt data
+B) To backup data
+C) To store data in clouds
+D) To process data closer to IoT devices
+Answer: D
 
 140. Which cybersecurity framework is widely used in organizations?
-A) ISO 9001
-B) NIST Cybersecurity Framework
+A) NIST Cybersecurity Framework
+B) COBIT
 C) ITIL
-D) COBIT
-Answer: B
+D) ISO 9001
+Answer: A
 
 141. What is the purpose of penetration testing?
-A) To break systems
-B) To identify security vulnerabilities in systems
-C) To backup data
-D) To monitor networks
-Answer: B
+A) To backup data
+B) To monitor networks
+C) To identify security vulnerabilities in systems
+D) To break systems
+Answer: C
 
 142. Which Linux command is used to view system logs?
-A) cat
+A) tail
 B) journalctl
-C) tail
-D) head
+C) head
+D) cat
 Answer: B
 
 143. What is the purpose of SELinux in Linux?
 A) To speed up the system
-B) To provide mandatory access control security
+B) To backup files
 C) To manage users
-D) To backup files
-Answer: B
+D) To provide mandatory access control security
+Answer: D
 
 144. Which database model is most commonly used in enterprise systems?
-A) Hierarchical
-B) Relational
-C) Network
-D) Object-oriented
-Answer: B
+A) Object-oriented
+B) Network
+C) Hierarchical
+D) Relational
+Answer: D
 
 145. What is the purpose of database normalization?
-A) To increase storage
-B) To eliminate data redundancy and improve data integrity
-C) To speed up queries
-D) To backup data
-Answer: B
+A) To speed up queries
+B) To backup data
+C) To increase storage
+D) To eliminate data redundancy and improve data integrity
+Answer: D
 
 146. Which operating system feature allows multiple users to work simultaneously?
-A) Multitasking
-B) Multi-user support
-C) Multiprocessing
+A) Multiprocessing
+B) Multitasking
+C) Multi-user support
 D) Multithreading
-Answer: B
+Answer: C
 
 147. What is the purpose of a virtual private network (VPN)?
 A) To speed up internet
-B) To provide secure remote access to private networks
+B) To backup systems
 C) To store data
-D) To backup systems
-Answer: B
+D) To provide secure remote access to private networks
+Answer: D
 
 148. Which network protocol is used for network monitoring?
-A) HTTP
-B) SNMP
-C) FTP
-D) SMTP
-Answer: B
+A) SNMP
+B) FTP
+C) SMTP
+D) HTTP
+Answer: A
 
 149. What is the purpose of load balancing in IT infrastructure?
 A) To store data
@@ -1042,298 +1042,298 @@ D) To encrypt data
 Answer: B
 
 150. Which IT project management tool uses Kanban boards?
-A) Microsoft Project
-B) Jira
-C) Trello
-D) Asana
-Answer: B
+A) Jira
+B) Microsoft Project
+C) Asana
+D) Trello
+Answer: A
 
 151. What is the purpose of a service level agreement (SLA) in IT?
-A) To store contracts
-B) To define the level of service expected from IT providers
-C) To track time
-D) To manage budgets
-Answer: B
+A) To define the level of service expected from IT providers
+B) To track time
+C) To manage budgets
+D) To store contracts
+Answer: A
 
 152. Which enterprise system manages human resources?
-A) CRM
-B) HRM
-C) ERP
-D) SCM
-Answer: B
+A) HRM
+B) SCM
+C) CRM
+D) ERP
+Answer: A
 
 153. What is the purpose of business intelligence (BI) systems?
 A) To store data
-B) To analyze business data and support decision-making
+B) To process transactions
 C) To backup data
-D) To process transactions
-Answer: B
+D) To analyze business data and support decision-making
+Answer: D
 
 154. Which IoT communication protocol is used for home automation?
-A) HTTP
+A) SMTP
 B) Zigbee
 C) FTP
-D) SMTP
+D) HTTP
 Answer: B
 
 155. What is the purpose of blockchain in cybersecurity?
-A) To store data
-B) To provide decentralized and tamper-proof record keeping
+A) To provide decentralized and tamper-proof record keeping
+B) To backup systems
 C) To encrypt data
-D) To backup systems
-Answer: B
+D) To store data
+Answer: A
 
 156. Which Linux command is used to manage disk partitions?
-A) df
-B) fdisk
-C) mount
+A) mount
+B) df
+C) fdisk
 D) umount
-Answer: B
+Answer: C
 
 157. What is the purpose of RAID in storage systems?
-A) To increase cost
-B) To provide data redundancy and improve performance
-C) To reduce security
+A) To provide data redundancy and improve performance
+B) To reduce security
+C) To increase cost
 D) To slow down access
-Answer: B
+Answer: A
 
 158. Which network protocol is used for secure web browsing?
-A) HTTP
+A) SMTP
 B) HTTPS
 C) FTP
-D) SMTP
+D) HTTP
 Answer: B
 
 159. What is the purpose of a content delivery network (CDN)?
 A) To store websites
-B) To distribute content globally and improve access speed
-C) To encrypt data
-D) To backup systems
-Answer: B
+B) To encrypt data
+C) To backup systems
+D) To distribute content globally and improve access speed
+Answer: D
 
 160. Which IT project management methodology is plan-driven?
-A) Agile
-B) Waterfall
-C) Scrum
-D) Kanban
-Answer: B
+A) Kanban
+B) Scrum
+C) Waterfall
+D) Agile
+Answer: C
 
 161. What is the purpose of change management in IT?
-A) To store changes
-B) To control and track changes to IT systems
-C) To backup systems
-D) To monitor networks
-Answer: B
+A) To control and track changes to IT systems
+B) To store changes
+C) To monitor networks
+D) To backup systems
+Answer: A
 
 162. Which enterprise system manages financial operations?
-A) CRM
-B) Financial Management System
-C) ERP
-D) SCM
-Answer: B
+A) Financial Management System
+B) ERP
+C) SCM
+D) CRM
+Answer: A
 
 163. What is the purpose of data warehousing?
-A) To store data
-B) To provide a centralized repository for business intelligence
+A) To process transactions
+B) To store data
 C) To backup data
-D) To process transactions
-Answer: B
+D) To provide a centralized repository for business intelligence
+Answer: D
 
 164. Which IoT platform is developed by Amazon?
-A) Google Cloud IoT
-B) AWS IoT
-C) Microsoft Azure IoT
-D) IBM Watson IoT
-Answer: B
+A) IBM Watson IoT
+B) Google Cloud IoT
+C) AWS IoT
+D) Microsoft Azure IoT
+Answer: C
 
 165. What is the purpose of zero-trust security model?
-A) To trust everyone
-B) To verify every user and device before granting access
-C) To reduce security
-D) To speed up access
-Answer: B
+A) To reduce security
+B) To trust everyone
+C) To speed up access
+D) To verify every user and device before granting access
+Answer: D
 
 166. Which Linux command is used to view real-time system resources?
-A) ps
-B) top
+A) top
+B) ps
 C) htop
 D) free
-Answer: B
+Answer: A
 
 167. What is the purpose of database clustering?
 A) To store data
-B) To provide high availability and scalability
-C) To backup data
+B) To backup data
+C) To provide high availability and scalability
 D) To compress data
-Answer: B
+Answer: C
 
 168. Which operating system feature allows running multiple applications simultaneously?
-A) Multi-user
-B) Multitasking
+A) Multithreading
+B) Multi-user
 C) Multiprocessing
-D) Multithreading
-Answer: B
+D) Multitasking
+Answer: D
 
 169. What is the purpose of network segmentation?
-A) To increase network speed
-B) To improve security by isolating network traffic
+A) To improve security by isolating network traffic
+B) To increase network speed
 C) To reduce costs
 D) To simplify management
-Answer: B
+Answer: A
 
 170. Which protocol is used for network time synchronization?
-A) HTTP
+A) FTP
 B) NTP
-C) FTP
-D) SMTP
+C) SMTP
+D) HTTP
 Answer: B
 
 171. What is the purpose of disaster recovery planning in IT?
-A) To store plans
+A) To backup data
 B) To ensure business continuity after system failures
-C) To backup data
-D) To monitor systems
+C) To monitor systems
+D) To store plans
 Answer: B
 
 172. Which IT project management tool is open-source?
-A) Microsoft Project
-B) OpenProject
-C) Jira
-D) Asana
-Answer: B
+A) Asana
+B) Microsoft Project
+C) OpenProject
+D) Jira
+Answer: C
 
 173. What is the purpose of capacity planning in IT infrastructure?
-A) To store capacity
+A) To reduce costs
 B) To ensure adequate resources for current and future needs
-C) To reduce costs
+C) To store capacity
 D) To speed up systems
 Answer: B
 
 174. Which enterprise system manages inventory?
-A) CRM
-B) Inventory Management System
-C) ERP
-D) SCM
-Answer: B
+A) SCM
+B) ERP
+C) CRM
+D) Inventory Management System
+Answer: D
 
 175. What is the purpose of data mining in business intelligence?
-A) To store data
-B) To discover patterns and relationships in large datasets
-C) To backup data
-D) To process transactions
-Answer: B
+A) To backup data
+B) To store data
+C) To process transactions
+D) To discover patterns and relationships in large datasets
+Answer: D
 
 176. Which IoT protocol is used for industrial applications?
-A) HTTP
-B) OPC UA
-C) FTP
-D) SMTP
-Answer: B
+A) FTP
+B) HTTP
+C) SMTP
+D) OPC UA
+Answer: D
 
 177. What is the purpose of multi-factor authentication?
-A) To slow down access
-B) To provide additional security layers beyond passwords
+A) To provide additional security layers beyond passwords
+B) To slow down access
 C) To reduce costs
 D) To simplify login
-Answer: B
+Answer: A
 
 178. Which Linux command is used to manage user accounts?
-A) useradd
-B) usermod
+A) passwd
+B) useradd
 C) userdel
-D) passwd
-Answer: B
+D) usermod
+Answer: D
 
 179. What is the purpose of database mirroring?
-A) To store data
-B) To create real-time copies of databases for redundancy
+A) To create real-time copies of databases for redundancy
+B) To store data
 C) To backup data
 D) To compress data
-Answer: B
+Answer: A
 
 180. Which operating system feature allows sharing resources between processes?
 A) Multitasking
-B) Inter-process communication
-C) Multiprocessing
-D) Multithreading
-Answer: B
+B) Multiprocessing
+C) Multithreading
+D) Inter-process communication
+Answer: D
 
 181. What is the purpose of network monitoring tools?
-A) To store network data
+A) To encrypt traffic
 B) To track network performance and identify issues
-C) To backup networks
-D) To encrypt traffic
+C) To store network data
+D) To backup networks
 Answer: B
 
 182. Which protocol is used for network device management?
 A) HTTP
 B) SNMP
-C) FTP
-D) SMTP
+C) SMTP
+D) FTP
 Answer: B
 
 183. What is the purpose of IT governance?
 A) To store policies
-B) To ensure IT aligns with business objectives
-C) To backup systems
-D) To monitor networks
-Answer: B
+B) To monitor networks
+C) To ensure IT aligns with business objectives
+D) To backup systems
+Answer: C
 
 184. Which IT project management methodology uses sprints?
-A) Waterfall
-B) Scrum
-C) Kanban
+A) Scrum
+B) Kanban
+C) Waterfall
 D) Lean
-Answer: B
+Answer: A
 
 185. What is the purpose of asset management in IT?
-A) To store assets
-B) To track and manage IT hardware and software assets
-C) To backup assets
+A) To backup assets
+B) To store assets
+C) To track and manage IT hardware and software assets
 D) To monitor assets
-Answer: B
+Answer: C
 
 186. Which enterprise system manages manufacturing operations?
-A) CRM
-B) Manufacturing Execution System (MES)
+A) Manufacturing Execution System (MES)
+B) SCM
 C) ERP
-D) SCM
-Answer: B
+D) CRM
+Answer: A
 
 187. What is the purpose of predictive analytics in business intelligence?
 A) To store predictions
-B) To forecast future trends and behaviors
-C) To backup data
+B) To backup data
+C) To forecast future trends and behaviors
 D) To process transactions
-Answer: B
+Answer: C
 
 188. Which IoT communication protocol is used for low-power devices?
-A) HTTP
+A) FTP
 B) LoRaWAN
-C) FTP
+C) HTTP
 D) SMTP
 Answer: B
 
 189. What is the purpose of security information and event management (SIEM)?
-A) To store security data
-B) To collect and analyze security event data
+A) To collect and analyze security event data
+B) To monitor networks
 C) To backup security
-D) To monitor networks
-Answer: B
+D) To store security data
+Answer: A
 
 190. Which Linux command is used to manage services?
-A) service
-B) systemctl
-C) init
-D) rc
-Answer: B
+A) init
+B) service
+C) rc
+D) systemctl
+Answer: D
 
 191. What is the purpose of database sharding?
-A) To store data
-B) To distribute data across multiple databases for scalability
+A) To distribute data across multiple databases for scalability
+B) To store data
 C) To backup data
 D) To compress data
-Answer: B
+Answer: A
 
 192. Which operating system feature allows running multiple processors?
 A) Multitasking
@@ -1343,116 +1343,116 @@ D) Multi-user
 Answer: B
 
 193. What is the purpose of network address translation (NAT)?
-A) To increase network speed
-B) To translate private IP addresses to public addresses
+A) To translate private IP addresses to public addresses
+B) To simplify routing
 C) To reduce costs
-D) To simplify routing
-Answer: B
+D) To increase network speed
+Answer: A
 
 194. Which protocol is used for network routing?
-A) HTTP
-B) BGP
-C) FTP
+A) BGP
+B) FTP
+C) HTTP
 D) SMTP
-Answer: B
+Answer: A
 
 195. What is the purpose of business continuity planning in IT?
-A) To store plans
-B) To ensure critical business functions continue during disruptions
-C) To backup systems
-D) To monitor networks
-Answer: B
+A) To ensure critical business functions continue during disruptions
+B) To monitor networks
+C) To store plans
+D) To backup systems
+Answer: A
 
 196. Which IT project management tool is cloud-based?
-A) Microsoft Project
-B) Monday.com
-C) Jira
-D) Asana
-Answer: B
+A) Asana
+B) Microsoft Project
+C) Monday.com
+D) Jira
+Answer: C
 
 197. What is the purpose of performance monitoring in IT infrastructure?
-A) To store performance data
-B) To track system performance and identify bottlenecks
-C) To backup systems
-D) To monitor networks
-Answer: B
+A) To track system performance and identify bottlenecks
+B) To monitor networks
+C) To store performance data
+D) To backup systems
+Answer: A
 
 198. Which enterprise system manages customer service?
-A) CRM
-B) Customer Service Management
-C) ERP
-D) SCM
-Answer: B
+A) Customer Service Management
+B) SCM
+C) CRM
+D) ERP
+Answer: A
 
 199. What is the purpose of real-time analytics in business intelligence?
-A) To store analytics
-B) To provide immediate insights from data as it's generated
-C) To backup data
-D) To process transactions
-Answer: B
+A) To backup data
+B) To process transactions
+C) To store analytics
+D) To provide immediate insights from data as it's generated
+Answer: D
 
 200. Which IoT platform is developed by Microsoft?
-A) AWS IoT
-B) Azure IoT
-C) Google Cloud IoT
+A) Azure IoT
+B) Google Cloud IoT
+C) AWS IoT
 D) IBM Watson IoT
-Answer: B
+Answer: A
 
 201. What is the purpose of endpoint security?
-A) To secure only networks
-B) To protect individual devices from security threats
-C) To backup devices
-D) To monitor devices
-Answer: B
+A) To monitor devices
+B) To backup devices
+C) To protect individual devices from security threats
+D) To secure only networks
+Answer: C
 
 202. Which Linux command is used to view disk usage?
-A) ls
-B) df
-C) du
-D) mount
-Answer: B
+A) mount
+B) du
+C) df
+D) ls
+Answer: C
 
 203. What is the purpose of database replication?
 A) To store data
-B) To create copies of databases for availability and performance
-C) To backup data
-D) To compress data
-Answer: B
+B) To backup data
+C) To compress data
+D) To create copies of databases for availability and performance
+Answer: D
 
 204. Which operating system feature allows running multiple threads?
-A) Multitasking
+A) Multiprocessing
 B) Multithreading
-C) Multiprocessing
-D) Multi-user
+C) Multi-user
+D) Multitasking
 Answer: B
 
 205. What is the purpose of network traffic analysis?
-A) To store traffic data
-B) To monitor and analyze network traffic for security and performance
-C) To backup networks
-D) To encrypt traffic
-Answer: B
+A) To backup networks
+B) To store traffic data
+C) To encrypt traffic
+D) To monitor and analyze network traffic for security and performance
+Answer: D
 
 206. Which protocol is used for network discovery?
-A) HTTP
-B) LLDP
-C) FTP
+A) LLDP
+B) FTP
+C) HTTP
 D) SMTP
-Answer: B
+Answer: A
 
 207. What is the purpose of risk management in IT?
 A) To store risks
-B) To identify, assess, and mitigate IT-related risks
+B) To monitor networks
 C) To backup systems
-D) To monitor networks
-Answer: B
+D) To identify, assess, and mitigate IT-related risks
+Answer: D
 
 208. Which IT project management methodology focuses on eliminating waste?
 A) Waterfall
-B) Lean
-C) Scrum
-D) Kanban
-Answer: B
+B) Scrum
+C) Kanban
+D) Lean
+Answer: D
 
 209. What is the purpose of configuration management in IT?
 A) To store configurations
@@ -1462,81 +1462,81 @@ D) To monitor networks
 Answer: B
 
 210. Which enterprise system manages sales operations?
-A) CRM
-B) Sales Management System
-C) ERP
+A) Sales Management System
+B) ERP
+C) CRM
 D) SCM
-Answer: B
+Answer: A
 
 211. What is the purpose of data visualization in business intelligence?
-A) To store visualizations
+A) To process transactions
 B) To present data in graphical formats for better understanding
 C) To backup data
-D) To process transactions
+D) To store visualizations
 Answer: B
 
 212. Which IoT communication protocol is used for smart cities?
-A) HTTP
-B) NB-IoT
-C) FTP
-D) SMTP
-Answer: B
+A) NB-IoT
+B) SMTP
+C) HTTP
+D) FTP
+Answer: A
 
 213. What is the purpose of vulnerability assessment?
-A) To create vulnerabilities
+A) To monitor networks
 B) To identify security weaknesses in systems
-C) To backup systems
-D) To monitor networks
+C) To create vulnerabilities
+D) To backup systems
 Answer: B
 
 214. Which Linux command is used to manage network interfaces?
-A) ifconfig
-B) ip
-C) netstat
-D) route
-Answer: B
+A) netstat
+B) ifconfig
+C) route
+D) ip
+Answer: D
 
 215. What is the purpose of database backup strategies?
-A) To store backups
-B) To ensure data recovery in case of failures
+A) To speed up queries
+B) To store backups
 C) To compress data
-D) To speed up queries
-Answer: B
+D) To ensure data recovery in case of failures
+Answer: D
 
 216. Which operating system feature allows sharing memory between processes?
-A) Multitasking
-B) Shared memory
+A) Shared memory
+B) Multithreading
 C) Multiprocessing
-D) Multithreading
-Answer: B
+D) Multitasking
+Answer: A
 
 217. What is the purpose of network security monitoring?
-A) To store security data
+A) To encrypt traffic
 B) To detect and respond to security threats in networks
 C) To backup networks
-D) To encrypt traffic
+D) To store security data
 Answer: B
 
 218. Which protocol is used for network file sharing?
-A) HTTP
-B) SMB
-C) FTP
-D) SMTP
-Answer: B
+A) SMTP
+B) FTP
+C) HTTP
+D) SMB
+Answer: D
 
 219. What is the purpose of compliance management in IT?
-A) To store compliance data
+A) To backup systems
 B) To ensure adherence to regulatory and industry standards
-C) To backup systems
+C) To store compliance data
 D) To monitor networks
 Answer: B
 
 220. Which IT project management tool is designed for agile teams?
-A) Microsoft Project
-B) Jira
-C) Trello
-D) Asana
-Answer: B
+A) Trello
+B) Asana
+C) Microsoft Project
+D) Jira
+Answer: D
 
 221. What is the purpose of capacity management in IT infrastructure?
 A) To store capacity data
@@ -1546,109 +1546,109 @@ D) To monitor networks
 Answer: B
 
 222. Which enterprise system manages marketing operations?
-A) CRM
-B) Marketing Automation Platform
-C) ERP
-D) SCM
-Answer: B
+A) Marketing Automation Platform
+B) CRM
+C) SCM
+D) ERP
+Answer: A
 
 223. What is the purpose of machine learning in business intelligence?
-A) To store machine data
-B) To enable systems to learn and improve from data
+A) To enable systems to learn and improve from data
+B) To store machine data
 C) To backup data
 D) To process transactions
-Answer: B
+Answer: A
 
 224. Which IoT platform is developed by Google?
-A) AWS IoT
+A) IBM Watson IoT
 B) Google Cloud IoT
 C) Azure IoT
-D) IBM Watson IoT
+D) AWS IoT
 Answer: B
 
 225. What is the purpose of identity and access management (IAM)?
-A) To store identities
-B) To manage user identities and control access to resources
-C) To backup systems
+A) To manage user identities and control access to resources
+B) To backup systems
+C) To store identities
 D) To monitor networks
-Answer: B
+Answer: A
 
 226. Which Linux command is used to view system information?
-A) uname
-B) cat /proc/cpuinfo
+A) top
+B) uname
 C) lscpu
-D) top
-Answer: B
+D) cat /proc/cpuinfo
+Answer: D
 
 227. What is the purpose of database optimization?
-A) To store data
-B) To improve database performance and efficiency
+A) To compress data
+B) To store data
 C) To backup data
-D) To compress data
-Answer: B
+D) To improve database performance and efficiency
+Answer: D
 
 228. Which operating system feature allows priority-based scheduling?
 A) Multitasking
-B) Priority scheduling
-C) Multiprocessing
+B) Multiprocessing
+C) Priority scheduling
 D) Multithreading
-Answer: B
+Answer: C
 
 229. What is the purpose of network performance monitoring?
-A) To store performance data
-B) To track network performance metrics and identify issues
-C) To backup networks
-D) To encrypt traffic
-Answer: B
+A) To track network performance metrics and identify issues
+B) To store performance data
+C) To encrypt traffic
+D) To backup networks
+Answer: A
 
 230. Which protocol is used for network time protocol?
 A) HTTP
-B) NTP
-C) FTP
-D) SMTP
-Answer: B
+B) SMTP
+C) NTP
+D) FTP
+Answer: C
 
 231. What is the purpose of incident management in IT?
-A) To store incidents
-B) To handle and resolve IT incidents effectively
+A) To handle and resolve IT incidents effectively
+B) To store incidents
 C) To backup systems
 D) To monitor networks
-Answer: B
+Answer: A
 
 232. Which IT project management methodology uses continuous delivery?
-A) Waterfall
-B) DevOps
-C) Scrum
-D) Kanban
-Answer: B
+A) Scrum
+B) Waterfall
+C) Kanban
+D) DevOps
+Answer: D
 
 233. What is the purpose of patch management in IT?
 A) To store patches
 B) To keep systems updated with security patches
-C) To backup systems
-D) To monitor networks
+C) To monitor networks
+D) To backup systems
 Answer: B
 
 234. Which enterprise system manages procurement?
-A) CRM
+A) ERP
 B) Procurement Management System
-C) ERP
-D) SCM
+C) SCM
+D) CRM
 Answer: B
 
 235. What is the purpose of data governance in business intelligence?
-A) To store governance data
-B) To ensure data quality, consistency, and compliance
-C) To backup data
-D) To process transactions
-Answer: B
+A) To backup data
+B) To process transactions
+C) To ensure data quality, consistency, and compliance
+D) To store governance data
+Answer: C
 
 236. Which IoT communication protocol is used for healthcare applications?
-A) HTTP
-B) HL7 FHIR
-C) FTP
-D) SMTP
-Answer: B
+A) HL7 FHIR
+B) FTP
+C) SMTP
+D) HTTP
+Answer: A
 
 237. What is the purpose of security awareness training?
 A) To store training data
@@ -1658,214 +1658,214 @@ D) To monitor networks
 Answer: B
 
 238. Which Linux command is used to manage package installation?
-A) apt
+A) dnf
 B) yum
-C) dnf
-D) pacman
+C) pacman
+D) apt
 Answer: B
 
 239. What is the purpose of database archiving?
-A) To store data
-B) To move old data to long-term storage
-C) To backup data
+A) To backup data
+B) To store data
+C) To move old data to long-term storage
 D) To compress data
-Answer: B
+Answer: C
 
 240. Which operating system feature allows real-time processing?
-A) Multitasking
-B) Real-time operating system
-C) Multiprocessing
-D) Multithreading
-Answer: B
+A) Multiprocessing
+B) Multithreading
+C) Real-time operating system
+D) Multitasking
+Answer: C
 
 241. What is the purpose of network traffic shaping?
-A) To store traffic data
-B) To control network traffic flow and bandwidth usage
-C) To backup networks
-D) To encrypt traffic
-Answer: B
+A) To encrypt traffic
+B) To store traffic data
+C) To control network traffic flow and bandwidth usage
+D) To backup networks
+Answer: C
 
 242. Which protocol is used for network management?
 A) HTTP
-B) SNMP
-C) FTP
-D) SMTP
-Answer: B
+B) SMTP
+C) SNMP
+D) FTP
+Answer: C
 
 243. What is the purpose of vendor management in IT?
-A) To store vendor data
-B) To manage relationships with IT vendors and suppliers
-C) To backup systems
-D) To monitor networks
-Answer: B
+A) To monitor networks
+B) To store vendor data
+C) To manage relationships with IT vendors and suppliers
+D) To backup systems
+Answer: C
 
 244. Which IT project management tool is designed for remote teams?
 A) Microsoft Project
-B) Basecamp
-C) Jira
+B) Jira
+C) Basecamp
 D) Asana
-Answer: B
+Answer: C
 
 245. What is the purpose of performance tuning in IT infrastructure?
-A) To store performance data
-B) To optimize system performance and resource utilization
-C) To backup systems
+A) To optimize system performance and resource utilization
+B) To backup systems
+C) To store performance data
 D) To monitor networks
-Answer: B
+Answer: A
 
 246. Which enterprise system manages quality assurance?
-A) CRM
-B) Quality Management System (QMS)
+A) Quality Management System (QMS)
+B) SCM
 C) ERP
-D) SCM
-Answer: B
+D) CRM
+Answer: A
 
 247. What is the purpose of natural language processing in business intelligence?
-A) To store language data
+A) To backup data
 B) To enable computers to understand and process human language
-C) To backup data
-D) To process transactions
+C) To process transactions
+D) To store language data
 Answer: B
 
 248. Which IoT platform is developed by IBM?
-A) AWS IoT
-B) IBM Watson IoT
-C) Google Cloud IoT
+A) IBM Watson IoT
+B) Google Cloud IoT
+C) AWS IoT
 D) Azure IoT
-Answer: B
+Answer: A
 
 249. What is the purpose of data loss prevention (DLP)?
-A) To store data
-B) To prevent unauthorized access and transmission of sensitive data
-C) To backup data
-D) To compress data
-Answer: B
+A) To backup data
+B) To compress data
+C) To store data
+D) To prevent unauthorized access and transmission of sensitive data
+Answer: D
 
 250. Which Linux command is used to view system boot messages?
-A) dmesg
+A) head
 B) journalctl
-C) tail
-D) head
+C) dmesg
+D) tail
 Answer: B
 
 251. What is the purpose of database migration?
-A) To store data
-B) To move data between different database systems
+A) To move data between different database systems
+B) To store data
 C) To backup data
 D) To compress data
-Answer: B
+Answer: A
 
 252. Which operating system feature allows distributed processing?
-A) Multitasking
-B) Distributed operating system
-C) Multiprocessing
-D) Multithreading
-Answer: B
+A) Multithreading
+B) Multiprocessing
+C) Distributed operating system
+D) Multitasking
+Answer: C
 
 253. What is the purpose of network capacity planning?
 A) To store capacity data
-B) To ensure adequate network resources for current and future needs
+B) To encrypt traffic
 C) To backup networks
-D) To encrypt traffic
-Answer: B
+D) To ensure adequate network resources for current and future needs
+Answer: D
 
 254. Which protocol is used for network configuration?
-A) HTTP
-B) DHCP
-C) FTP
-D) SMTP
-Answer: B
+A) FTP
+B) SMTP
+C) DHCP
+D) HTTP
+Answer: C
 
 255. What is the purpose of problem management in IT?
-A) To store problems
-B) To identify and resolve root causes of recurring incidents
+A) To identify and resolve root causes of recurring incidents
+B) To store problems
 C) To backup systems
 D) To monitor networks
-Answer: B
+Answer: A
 
 256. Which IT project management methodology uses continuous integration?
-A) Waterfall
+A) Scrum
 B) DevOps
-C) Scrum
-D) Kanban
+C) Kanban
+D) Waterfall
 Answer: B
 
 257. What is the purpose of software license management?
-A) To store licenses
-B) To track and manage software licenses and compliance
-C) To backup systems
+A) To backup systems
+B) To store licenses
+C) To track and manage software licenses and compliance
 D) To monitor networks
-Answer: B
+Answer: C
 
 258. Which enterprise system manages research and development?
-A) CRM
-B) R&D Management System
-C) ERP
-D) SCM
-Answer: B
+A) SCM
+B) ERP
+C) R&D Management System
+D) CRM
+Answer: C
 
 259. What is the purpose of data lineage in business intelligence?
-A) To store lineage data
-B) To track the origin and transformation of data
-C) To backup data
-D) To process transactions
-Answer: B
+A) To track the origin and transformation of data
+B) To process transactions
+C) To store lineage data
+D) To backup data
+Answer: A
 
 260. Which IoT communication protocol is used for automotive applications?
 A) HTTP
-B) CAN bus
-C) FTP
-D) SMTP
-Answer: B
+B) FTP
+C) SMTP
+D) CAN bus
+Answer: D
 
 261. What is the purpose of security incident response?
-A) To store incidents
+A) To monitor networks
 B) To handle and mitigate security incidents effectively
-C) To backup systems
-D) To monitor networks
+C) To store incidents
+D) To backup systems
 Answer: B
 
 262. Which Linux command is used to manage system services?
 A) service
-B) systemctl
-C) init
-D) rc
-Answer: B
+B) rc
+C) systemctl
+D) init
+Answer: C
 
 263. What is the purpose of database versioning?
-A) To store versions
-B) To track changes and maintain database schema versions
+A) To track changes and maintain database schema versions
+B) To store versions
 C) To backup data
 D) To compress data
-Answer: B
+Answer: A
 
 264. Which operating system feature allows fault tolerance?
-A) Multitasking
-B) Fault-tolerant operating system
+A) Fault-tolerant operating system
+B) Multitasking
 C) Multiprocessing
 D) Multithreading
-Answer: B
+Answer: A
 
 265. What is the purpose of network traffic analysis?
-A) To store traffic data
-B) To monitor and analyze network traffic for security and performance
-C) To backup networks
+A) To backup networks
+B) To store traffic data
+C) To monitor and analyze network traffic for security and performance
 D) To encrypt traffic
-Answer: B
+Answer: C
 
 266. Which protocol is used for network monitoring?
 A) HTTP
-B) SNMP
+B) SMTP
 C) FTP
-D) SMTP
-Answer: B
+D) SNMP
+Answer: D
 
 267. What is the purpose of budget management in IT?
-A) To store budgets
-B) To plan and control IT spending and resources
-C) To backup systems
-D) To monitor networks
-Answer: B
+A) To monitor networks
+B) To backup systems
+C) To plan and control IT spending and resources
+D) To store budgets
+Answer: C
 
 268. Which IT project management tool is designed for enterprise use?
 A) Trello
@@ -1875,17 +1875,17 @@ D) Asana
 Answer: B
 
 269. What is the purpose of scalability planning in IT infrastructure?
-A) To store scalability data
-B) To ensure systems can grow to meet increasing demands
-C) To backup systems
-D) To monitor networks
-Answer: B
+A) To ensure systems can grow to meet increasing demands
+B) To monitor networks
+C) To store scalability data
+D) To backup systems
+Answer: A
 
 270. Which enterprise system manages compliance?
 A) CRM
 B) Compliance Management System
-C) ERP
-D) SCM
+C) SCM
+D) ERP
 Answer: B
 
 271. What is the purpose of deep learning in business intelligence?
@@ -1896,67 +1896,67 @@ D) To process transactions
 Answer: B
 
 272. Which IoT platform is developed by Cisco?
-A) AWS IoT
-B) Cisco IoT
-C) Google Cloud IoT
-D) Azure IoT
-Answer: B
+A) Cisco IoT
+B) AWS IoT
+C) Azure IoT
+D) Google Cloud IoT
+Answer: A
 
 273. What is the purpose of access control in cybersecurity?
-A) To store access data
-B) To control who can access what resources and when
+A) To monitor networks
+B) To store access data
 C) To backup systems
-D) To monitor networks
-Answer: B
+D) To control who can access what resources and when
+Answer: D
 
 274. Which Linux command is used to view system processes in tree format?
-A) ps
-B) pstree
+A) htop
+B) ps
 C) top
-D) htop
-Answer: B
+D) pstree
+Answer: D
 
 275. What is the purpose of database partitioning?
-A) To store data
-B) To divide large databases into smaller, manageable parts
-C) To backup data
-D) To compress data
-Answer: B
+A) To backup data
+B) To store data
+C) To compress data
+D) To divide large databases into smaller, manageable parts
+Answer: D
 
 276. Which operating system feature allows embedded systems?
-A) Multitasking
+A) Multithreading
 B) Embedded operating system
 C) Multiprocessing
-D) Multithreading
+D) Multitasking
 Answer: B
 
 277. What is the purpose of network traffic engineering?
-A) To store traffic data
-B) To optimize network traffic flow and routing
-C) To backup networks
-D) To encrypt traffic
-Answer: B
+A) To optimize network traffic flow and routing
+B) To backup networks
+C) To encrypt traffic
+D) To store traffic data
+Answer: A
 
 278. Which protocol is used for network security?
-A) HTTP
-B) IPsec
+A) SMTP
+B) HTTP
 C) FTP
-D) SMTP
-Answer: B
+D) IPsec
+Answer: D
 
 279. What is the purpose of knowledge management in IT?
-A) To store knowledge
-B) To capture, organize, and share IT knowledge and best practices
-C) To backup systems
+A) To capture, organize, and share IT knowledge and best practices
+B) To backup systems
+C) To store knowledge
 D) To monitor networks
-Answer: B
+Answer: A
 
 280. Which IT project management methodology uses continuous deployment?
-A) Waterfall
-B) DevOps
+A) Kanban
+B) Waterfall
 C) Scrum
-D) Kanban
-Answer: B
+D) DevOps
+Answer: D
 
 281. What is the purpose of hardware asset management?
 A) To store hardware
@@ -1966,172 +1966,172 @@ D) To monitor networks
 Answer: B
 
 282. Which enterprise system manages business analytics?
-A) CRM
-B) Business Analytics Platform
-C) ERP
-D) SCM
-Answer: B
+A) Business Analytics Platform
+B) CRM
+C) SCM
+D) ERP
+Answer: A
 
 283. What is the purpose of data quality management in business intelligence?
-A) To store quality data
-B) To ensure data accuracy, completeness, and consistency
-C) To backup data
+A) To backup data
+B) To store quality data
+C) To ensure data accuracy, completeness, and consistency
 D) To process transactions
-Answer: B
+Answer: C
 
 284. Which IoT communication protocol is used for smart grids?
-A) HTTP
-B) IEC 61850
+A) SMTP
+B) HTTP
 C) FTP
-D) SMTP
-Answer: B
+D) IEC 61850
+Answer: D
 
 285. What is the purpose of threat intelligence in cybersecurity?
-A) To store threats
-B) To gather and analyze information about potential security threats
-C) To backup systems
-D) To monitor networks
-Answer: B
+A) To backup systems
+B) To monitor networks
+C) To gather and analyze information about potential security threats
+D) To store threats
+Answer: C
 
 286. Which Linux command is used to view system memory usage?
 A) free
-B) vmstat
-C) top
-D) htop
-Answer: B
+B) htop
+C) vmstat
+D) top
+Answer: C
 
 287. What is the purpose of database compression?
 A) To store data
 B) To reduce storage space and improve performance
-C) To backup data
-D) To encrypt data
+C) To encrypt data
+D) To backup data
 Answer: B
 
 288. Which operating system feature allows mobile computing?
-A) Multitasking
-B) Mobile operating system
+A) Mobile operating system
+B) Multithreading
 C) Multiprocessing
-D) Multithreading
-Answer: B
+D) Multitasking
+Answer: A
 
 289. What is the purpose of network traffic optimization?
 A) To store traffic data
-B) To improve network performance and reduce congestion
-C) To backup networks
+B) To backup networks
+C) To improve network performance and reduce congestion
 D) To encrypt traffic
-Answer: B
+Answer: C
 
 290. Which protocol is used for network diagnostics?
-A) HTTP
-B) ICMP
-C) FTP
-D) SMTP
-Answer: B
+A) SMTP
+B) FTP
+C) ICMP
+D) HTTP
+Answer: C
 
 291. What is the purpose of strategic planning in IT?
-A) To store strategies
-B) To align IT initiatives with business goals and objectives
-C) To backup systems
-D) To monitor networks
-Answer: B
+A) To backup systems
+B) To monitor networks
+C) To align IT initiatives with business goals and objectives
+D) To store strategies
+Answer: C
 
 292. Which IT project management tool is designed for small teams?
-A) Microsoft Project
-B) Trello
-C) Jira
-D) Asana
-Answer: B
+A) Asana
+B) Microsoft Project
+C) Trello
+D) Jira
+Answer: C
 
 293. What is the purpose of disaster recovery testing in IT infrastructure?
-A) To store test data
-B) To validate disaster recovery procedures and capabilities
+A) To validate disaster recovery procedures and capabilities
+B) To store test data
 C) To backup systems
 D) To monitor networks
-Answer: B
+Answer: A
 
 294. Which enterprise system manages customer analytics?
 A) CRM
-B) Customer Analytics Platform
-C) ERP
-D) SCM
-Answer: B
+B) ERP
+C) SCM
+D) Customer Analytics Platform
+Answer: D
 
 295. What is the purpose of artificial intelligence in business intelligence?
 A) To store AI data
-B) To enable automated decision-making and pattern recognition
-C) To backup data
-D) To process transactions
-Answer: B
+B) To process transactions
+C) To enable automated decision-making and pattern recognition
+D) To backup data
+Answer: C
 
 296. Which IoT platform is developed by Oracle?
 A) AWS IoT
-B) Oracle IoT
-C) Google Cloud IoT
-D) Azure IoT
-Answer: B
+B) Azure IoT
+C) Oracle IoT
+D) Google Cloud IoT
+Answer: C
 
 297. What is the purpose of security monitoring in cybersecurity?
-A) To store security data
-B) To continuously monitor systems for security threats
-C) To backup systems
-D) To monitor networks
-Answer: B
+A) To backup systems
+B) To store security data
+C) To monitor networks
+D) To continuously monitor systems for security threats
+Answer: D
 
 298. Which Linux command is used to view system load average?
-A) uptime
+A) htop
 B) loadavg
-C) top
-D) htop
+C) uptime
+D) top
 Answer: B
 
 299. What is the purpose of database encryption?
 A) To store data
-B) To protect sensitive data from unauthorized access
+B) To compress data
 C) To backup data
-D) To compress data
-Answer: B
+D) To protect sensitive data from unauthorized access
+Answer: D
 
 300. Which operating system feature allows cloud computing?
-A) Multitasking
+A) Multiprocessing
 B) Cloud operating system
-C) Multiprocessing
+C) Multitasking
 D) Multithreading
 Answer: B
 
 301. What is the primary responsibility of an IT manager?
-A) Only coding applications
-B) To oversee IT operations, manage resources, and align technology with business goals
-C) Only maintaining hardware
-D) Only managing networks
-Answer: B
+A) Only maintaining hardware
+B) Only coding applications
+C) Only managing networks
+D) To oversee IT operations, manage resources, and align technology with business goals
+Answer: D
 
 302. Which IT governance framework focuses on IT service management?
-A) COBIT
-B) ITIL (Information Technology Infrastructure Library)
-C) ISO 27001
-D) NIST
-Answer: B
+A) NIST
+B) ISO 27001
+C) COBIT
+D) ITIL (Information Technology Infrastructure Library)
+Answer: D
 
 303. What is the purpose of a technology roadmap in IT management?
-A) To store technology data
+A) To backup systems
 B) To plan and communicate technology strategy and implementation timeline
-C) To backup systems
-D) To monitor networks
+C) To monitor networks
+D) To store technology data
 Answer: B
 
 304. Which budgeting approach allocates IT costs based on actual usage?
 A) Fixed budget
 B) Activity-based costing
-C) Capital budget
-D) Operational budget
+C) Operational budget
+D) Capital budget
 Answer: B
 
 305. What is the main purpose of IT service management (ITSM)?
-A) To store services
-B) To design, deliver, manage, and improve IT services
-C) To backup services
-D) To monitor services
-Answer: B
+A) To design, deliver, manage, and improve IT services
+B) To store services
+C) To monitor services
+D) To backup services
+Answer: A
 
 306. Which IT management tool is used for tracking service requests?
 A) Microsoft Project
@@ -2141,88 +2141,88 @@ D) Trello
 Answer: B
 
 307. What is the purpose of a business impact analysis (BIA) in IT?
-A) To store impact data
-B) To assess the potential effects of IT system failures on business operations
-C) To backup systems
+A) To assess the potential effects of IT system failures on business operations
+B) To backup systems
+C) To store impact data
 D) To monitor networks
-Answer: B
+Answer: A
 
 308. Which IT management methodology focuses on continuous improvement?
 A) Waterfall
-B) Kaizen
-C) Agile
+B) Agile
+C) Kaizen
 D) Scrum
-Answer: B
+Answer: C
 
 309. What is the role of a Chief Information Officer (CIO)?
-A) To manage only networks
-B) To oversee IT strategy and ensure technology supports business objectives
-C) To develop only software
-D) To maintain only hardware
-Answer: B
+A) To oversee IT strategy and ensure technology supports business objectives
+B) To develop only software
+C) To maintain only hardware
+D) To manage only networks
+Answer: A
 
 310. Which IT management framework provides best practices for IT governance?
-A) ITIL
-B) COBIT (Control Objectives for Information and Related Technologies)
-C) ISO 27001
-D) NIST
-Answer: B
+A) NIST
+B) ISO 27001
+C) ITIL
+D) COBIT (Control Objectives for Information and Related Technologies)
+Answer: D
 
 311. What is the purpose of capacity management in IT operations?
-A) To store capacity data
-B) To ensure IT resources meet current and future business demands
-C) To backup systems
+A) To backup systems
+B) To store capacity data
+C) To ensure IT resources meet current and future business demands
 D) To monitor networks
-Answer: B
+Answer: C
 
 312. Which IT management tool is used for monitoring IT infrastructure?
-A) ServiceNow
-B) Nagios
-C) Jira
-D) Trello
-Answer: B
+A) Trello
+B) Jira
+C) Nagios
+D) ServiceNow
+Answer: C
 
 313. What is the main purpose of IT strategic planning?
-A) To store strategies
-B) To align IT initiatives with business goals and objectives
-C) To backup systems
-D) To monitor networks
-Answer: B
+A) To monitor networks
+B) To backup systems
+C) To store strategies
+D) To align IT initiatives with business goals and objectives
+Answer: D
 
 314. Which IT management methodology emphasizes customer satisfaction?
-A) Waterfall
-B) ITIL
-C) Agile
-D) Scrum
-Answer: B
+A) ITIL
+B) Agile
+C) Scrum
+D) Waterfall
+Answer: A
 
 315. What is the purpose of a service level agreement (SLA) in IT management?
-A) To store agreements
-B) To define expected service levels and performance metrics
+A) To define expected service levels and performance metrics
+B) To store agreements
 C) To backup services
 D) To monitor services
-Answer: B
+Answer: A
 
 316. Which IT management tool is used for asset lifecycle management?
-A) ServiceNow
-B) BMC Helix
+A) BMC Helix
+B) Trello
 C) Jira
-D) Trello
-Answer: B
+D) ServiceNow
+Answer: A
 
 317. What is the role of a Chief Technology Officer (CTO)?
-A) To manage only networks
+A) To develop only software
 B) To oversee technology strategy and innovation initiatives
-C) To develop only software
-D) To maintain only hardware
+C) To maintain only hardware
+D) To manage only networks
 Answer: B
 
 318. Which IT management framework focuses on information security?
-A) ITIL
-B) ISO 27001
+A) ISO 27001
+B) NIST
 C) COBIT
-D) NIST
-Answer: B
+D) ITIL
+Answer: A
 
 319. What is the purpose of IT portfolio management?
 A) To store portfolios
@@ -2233,108 +2233,108 @@ Answer: B
 
 320. Which IT management methodology uses the Plan-Do-Check-Act cycle?
 A) Agile
-B) Deming Cycle
-C) Scrum
-D) Kanban
-Answer: B
+B) Kanban
+C) Deming Cycle
+D) Scrum
+Answer: C
 
 321. What is the main purpose of IT operations management?
 A) To store operations data
-B) To ensure reliable and efficient IT service delivery
-C) To backup operations
-D) To monitor operations
-Answer: B
+B) To monitor operations
+C) To ensure reliable and efficient IT service delivery
+D) To backup operations
+Answer: C
 
 322. Which IT management tool is used for project portfolio management?
-A) ServiceNow
-B) Microsoft Project Server
-C) Jira
-D) Trello
-Answer: B
+A) Microsoft Project Server
+B) Trello
+C) ServiceNow
+D) Jira
+Answer: A
 
 323. What is the purpose of a technology assessment in IT management?
-A) To store assessment data
+A) To monitor technology
 B) To evaluate current technology capabilities and identify improvement opportunities
 C) To backup technology
-D) To monitor technology
+D) To store assessment data
 Answer: B
 
 324. Which IT management framework provides cybersecurity guidelines?
-A) ITIL
-B) NIST Cybersecurity Framework
-C) COBIT
-D) ISO 27001
-Answer: B
+A) NIST Cybersecurity Framework
+B) COBIT
+C) ISO 27001
+D) ITIL
+Answer: A
 
 325. What is the role of a Chief Information Security Officer (CISO)?
-A) To manage only networks
-B) To oversee information security strategy and risk management
-C) To develop only software
-D) To maintain only hardware
-Answer: B
+A) To maintain only hardware
+B) To develop only software
+C) To oversee information security strategy and risk management
+D) To manage only networks
+Answer: C
 
 326. Which IT management methodology focuses on lean principles?
-A) Waterfall
-B) Lean IT
+A) Lean IT
+B) Waterfall
 C) Agile
 D) Scrum
-Answer: B
+Answer: A
 
 327. What is the purpose of IT performance management?
-A) To store performance data
-B) To measure and improve IT service performance and efficiency
-C) To backup performance
-D) To monitor performance
-Answer: B
+A) To backup performance
+B) To monitor performance
+C) To store performance data
+D) To measure and improve IT service performance and efficiency
+Answer: D
 
 328. Which IT management tool is used for configuration management?
-A) ServiceNow
-B) Ansible
-C) Jira
-D) Trello
-Answer: B
+A) Jira
+B) ServiceNow
+C) Trello
+D) Ansible
+Answer: D
 
 329. What is the main purpose of IT risk management?
-A) To store risk data
-B) To identify, assess, and mitigate IT-related risks
-C) To backup risks
-D) To monitor risks
-Answer: B
+A) To monitor risks
+B) To backup risks
+C) To identify, assess, and mitigate IT-related risks
+D) To store risk data
+Answer: C
 
 330. Which IT management framework focuses on enterprise architecture?
 A) ITIL
-B) TOGAF (The Open Group Architecture Framework)
-C) COBIT
+B) COBIT
+C) TOGAF (The Open Group Architecture Framework)
 D) NIST
-Answer: B
+Answer: C
 
 331. What is the purpose of a technology refresh strategy?
-A) To store refresh data
-B) To plan and implement technology upgrades and replacements
+A) To monitor technology
+B) To store refresh data
 C) To backup technology
-D) To monitor technology
-Answer: B
+D) To plan and implement technology upgrades and replacements
+Answer: D
 
 332. Which IT management methodology emphasizes value delivery?
-A) Waterfall
+A) Agile
 B) Value Stream Mapping
-C) Agile
+C) Waterfall
 D) Scrum
 Answer: B
 
 333. What is the role of a Chief Data Officer (CDO)?
-A) To manage only databases
-B) To oversee data strategy and governance
-C) To develop only software
+A) To develop only software
+B) To manage only databases
+C) To oversee data strategy and governance
 D) To maintain only hardware
-Answer: B
+Answer: C
 
 334. Which IT management framework provides IT service delivery guidelines?
-A) COBIT
-B) ITIL Service Design
+A) ITIL Service Design
+B) COBIT
 C) ISO 27001
 D) NIST
-Answer: B
+Answer: A
 
 335. What is the purpose of IT financial management?
 A) To store financial data
@@ -2344,298 +2344,298 @@ D) To monitor finances
 Answer: B
 
 336. Which IT management tool is used for IT service desk management?
-A) ServiceNow
-B) Zendesk
-C) Jira
-D) Trello
-Answer: B
+A) Trello
+B) ServiceNow
+C) Zendesk
+D) Jira
+Answer: C
 
 337. What is the main purpose of IT change management?
-A) To store change data
-B) To control and manage changes to IT systems and services
-C) To backup changes
-D) To monitor changes
-Answer: B
+A) To control and manage changes to IT systems and services
+B) To monitor changes
+C) To store change data
+D) To backup changes
+Answer: A
 
 338. Which IT management methodology uses Six Sigma principles?
-A) Agile
+A) Scrum
 B) Six Sigma
-C) Scrum
-D) Kanban
+C) Kanban
+D) Agile
 Answer: B
 
 339. What is the purpose of a technology adoption strategy?
 A) To store adoption data
-B) To plan and implement new technology adoption across the organization
+B) To monitor adoption
 C) To backup adoption
-D) To monitor adoption
-Answer: B
+D) To plan and implement new technology adoption across the organization
+Answer: D
 
 340. Which IT management framework focuses on IT service operations?
-A) COBIT
-B) ITIL Service Operation
+A) ITIL Service Operation
+B) NIST
 C) ISO 27001
-D) NIST
-Answer: B
+D) COBIT
+Answer: A
 
 341. What is the role of a Chief Digital Officer (CDO)?
-A) To manage only digital data
+A) To maintain only hardware
 B) To oversee digital transformation and innovation initiatives
-C) To develop only software
-D) To maintain only hardware
+C) To manage only digital data
+D) To develop only software
 Answer: B
 
 342. Which IT management methodology emphasizes process improvement?
 A) Waterfall
-B) Business Process Management (BPM)
+B) Scrum
 C) Agile
-D) Scrum
-Answer: B
+D) Business Process Management (BPM)
+Answer: D
 
 343. What is the purpose of IT vendor management?
 A) To store vendor data
-B) To manage relationships with IT vendors and service providers
-C) To backup vendors
-D) To monitor vendors
-Answer: B
+B) To monitor vendors
+C) To manage relationships with IT vendors and service providers
+D) To backup vendors
+Answer: C
 
 344. Which IT management framework provides IT governance guidelines?
-A) ITIL
-B) COBIT 2019
-C) ISO 27001
-D) NIST
-Answer: B
+A) NIST
+B) ISO 27001
+C) COBIT 2019
+D) ITIL
+Answer: C
 
 345. What is the purpose of a technology innovation strategy?
-A) To store innovation data
+A) To backup innovation
 B) To identify and implement emerging technologies for competitive advantage
-C) To backup innovation
+C) To store innovation data
 D) To monitor innovation
 Answer: B
 
 346. Which IT management tool is used for IT asset management?
 A) ServiceNow
-B) BMC Asset Management
+B) Trello
 C) Jira
-D) Trello
-Answer: B
+D) BMC Asset Management
+Answer: D
 
 347. What is the main purpose of IT service design?
-A) To store design data
-B) To design IT services that meet business requirements
-C) To backup design
-D) To monitor design
-Answer: B
+A) To backup design
+B) To store design data
+C) To monitor design
+D) To design IT services that meet business requirements
+Answer: D
 
 348. Which IT management methodology focuses on total quality management?
-A) Agile
-B) TQM (Total Quality Management)
+A) TQM (Total Quality Management)
+B) Kanban
 C) Scrum
-D) Kanban
-Answer: B
+D) Agile
+Answer: A
 
 349. What is the purpose of a technology migration strategy?
-A) To store migration data
-B) To plan and execute technology platform migrations
-C) To backup migration
-D) To monitor migration
-Answer: B
+A) To plan and execute technology platform migrations
+B) To store migration data
+C) To monitor migration
+D) To backup migration
+Answer: A
 
 350. Which IT management framework focuses on IT service transition?
 A) COBIT
-B) ITIL Service Transition
-C) ISO 27001
+B) ISO 27001
+C) ITIL Service Transition
 D) NIST
-Answer: B
+Answer: C
 
 351. What is the role of a Chief Analytics Officer (CAO)?
-A) To manage only analytics data
-B) To oversee data analytics and business intelligence initiatives
-C) To develop only software
-D) To maintain only hardware
-Answer: B
+A) To maintain only hardware
+B) To develop only software
+C) To oversee data analytics and business intelligence initiatives
+D) To manage only analytics data
+Answer: C
 
 352. Which IT management methodology emphasizes customer-centric approach?
 A) Waterfall
 B) Customer Experience Management
-C) Agile
-D) Scrum
+C) Scrum
+D) Agile
 Answer: B
 
 353. What is the purpose of IT service catalog management?
-A) To store catalog data
-B) To maintain and publish available IT services
+A) To maintain and publish available IT services
+B) To monitor catalog
 C) To backup catalog
-D) To monitor catalog
-Answer: B
+D) To store catalog data
+Answer: A
 
 354. Which IT management framework provides IT service improvement guidelines?
-A) ITIL
-B) ITIL Continual Service Improvement
-C) COBIT
-D) NIST
-Answer: B
+A) ITIL Continual Service Improvement
+B) ITIL
+C) NIST
+D) COBIT
+Answer: A
 
 355. What is the purpose of a technology standardization strategy?
-A) To store standardization data
-B) To establish technology standards and reduce complexity
-C) To backup standardization
-D) To monitor standardization
-Answer: B
+A) To establish technology standards and reduce complexity
+B) To monitor standardization
+C) To store standardization data
+D) To backup standardization
+Answer: A
 
 356. Which IT management tool is used for IT service level management?
-A) ServiceNow
+A) Jira
 B) BMC TrueSight
-C) Jira
+C) ServiceNow
 D) Trello
 Answer: B
 
 357. What is the main purpose of IT service strategy?
 A) To store strategy data
-B) To define IT service strategy aligned with business objectives
+B) To monitor strategy
 C) To backup strategy
-D) To monitor strategy
-Answer: B
+D) To define IT service strategy aligned with business objectives
+Answer: D
 
 358. Which IT management methodology focuses on business process reengineering?
-A) Agile
-B) BPR (Business Process Reengineering)
+A) BPR (Business Process Reengineering)
+B) Agile
 C) Scrum
 D) Kanban
-Answer: B
+Answer: A
 
 359. What is the purpose of a technology consolidation strategy?
 A) To store consolidation data
 B) To reduce technology complexity and costs through consolidation
-C) To backup consolidation
-D) To monitor consolidation
+C) To monitor consolidation
+D) To backup consolidation
 Answer: B
 
 360. Which IT management framework focuses on IT service measurement?
-A) COBIT
-B) ITIL Service Measurement
-C) ISO 27001
-D) NIST
-Answer: B
+A) NIST
+B) ISO 27001
+C) ITIL Service Measurement
+D) COBIT
+Answer: C
 
 361. What is the role of a Chief Innovation Officer (CIO)?
-A) To manage only innovation data
+A) To maintain only hardware
 B) To oversee innovation strategy and technology advancement
-C) To develop only software
-D) To maintain only hardware
+C) To manage only innovation data
+D) To develop only software
 Answer: B
 
 362. Which IT management methodology emphasizes operational excellence?
-A) Waterfall
+A) Scrum
 B) Operational Excellence
-C) Agile
-D) Scrum
+C) Waterfall
+D) Agile
 Answer: B
 
 363. What is the purpose of IT service availability management?
 A) To store availability data
 B) To ensure IT services meet availability requirements
-C) To backup availability
-D) To monitor availability
+C) To monitor availability
+D) To backup availability
 Answer: B
 
 364. Which IT management framework provides IT service continuity guidelines?
 A) ITIL
-B) ITIL Service Continuity Management
-C) COBIT
+B) COBIT
+C) ITIL Service Continuity Management
 D) NIST
-Answer: B
+Answer: C
 
 365. What is the purpose of a technology optimization strategy?
-A) To store optimization data
-B) To improve technology performance and efficiency
+A) To improve technology performance and efficiency
+B) To monitor optimization
 C) To backup optimization
-D) To monitor optimization
-Answer: B
+D) To store optimization data
+Answer: A
 
 366. Which IT management tool is used for IT service reporting?
 A) ServiceNow
-B) Tableau
-C) Jira
-D) Trello
-Answer: B
+B) Jira
+C) Trello
+D) Tableau
+Answer: D
 
 367. What is the main purpose of IT service capacity management?
-A) To store capacity data
-B) To ensure adequate IT service capacity to meet business demands
-C) To backup capacity
-D) To monitor capacity
-Answer: B
+A) To backup capacity
+B) To monitor capacity
+C) To store capacity data
+D) To ensure adequate IT service capacity to meet business demands
+Answer: D
 
 368. Which IT management methodology focuses on business transformation?
-A) Agile
-B) Business Transformation
+A) Kanban
+B) Agile
 C) Scrum
-D) Kanban
-Answer: B
+D) Business Transformation
+Answer: D
 
 369. What is the purpose of a technology integration strategy?
 A) To store integration data
 B) To integrate different technology systems and platforms
-C) To backup integration
-D) To monitor integration
+C) To monitor integration
+D) To backup integration
 Answer: B
 
 370. Which IT management framework focuses on IT service knowledge management?
-A) COBIT
+A) ISO 27001
 B) ITIL Knowledge Management
-C) ISO 27001
+C) COBIT
 D) NIST
 Answer: B
 
 371. What is the role of a Chief Technology Architect (CTA)?
 A) To manage only architecture data
-B) To oversee technology architecture and design
+B) To maintain only hardware
 C) To develop only software
-D) To maintain only hardware
-Answer: B
+D) To oversee technology architecture and design
+Answer: D
 
 372. Which IT management methodology emphasizes strategic alignment?
-A) Waterfall
+A) Scrum
 B) Strategic Alignment
-C) Agile
-D) Scrum
+C) Waterfall
+D) Agile
 Answer: B
 
 373. What is the purpose of IT service incident management?
-A) To store incident data
-B) To restore IT services quickly when incidents occur
-C) To backup incidents
+A) To restore IT services quickly when incidents occur
+B) To backup incidents
+C) To store incident data
 D) To monitor incidents
-Answer: B
+Answer: A
 
 374. Which IT management framework provides IT service problem management guidelines?
-A) ITIL
-B) ITIL Problem Management
-C) COBIT
+A) COBIT
+B) ITIL
+C) ITIL Problem Management
 D) NIST
-Answer: B
+Answer: C
 
 375. What is the purpose of a technology modernization strategy?
-A) To store modernization data
-B) To modernize legacy systems and technologies
-C) To backup modernization
-D) To monitor modernization
-Answer: B
+A) To monitor modernization
+B) To store modernization data
+C) To modernize legacy systems and technologies
+D) To backup modernization
+Answer: C
 
 376. Which IT management tool is used for IT service automation?
-A) ServiceNow
-B) Ansible
+A) Ansible
+B) ServiceNow
 C) Jira
 D) Trello
-Answer: B
+Answer: A
 
 377. What is the main purpose of IT service release management?
-A) To store release data
-B) To plan and control IT service releases and deployments
-C) To backup releases
-D) To monitor releases
-Answer: B
+A) To plan and control IT service releases and deployments
+B) To store release data
+C) To monitor releases
+D) To backup releases
+Answer: A
 
 378. Which IT management methodology focuses on digital transformation?
 A) Agile
@@ -2645,155 +2645,155 @@ D) Kanban
 Answer: B
 
 379. What is the purpose of a technology scalability strategy?
-A) To store scalability data
-B) To ensure technology can scale with business growth
-C) To backup scalability
-D) To monitor scalability
-Answer: B
+A) To ensure technology can scale with business growth
+B) To store scalability data
+C) To monitor scalability
+D) To backup scalability
+Answer: A
 
 380. Which IT management framework focuses on IT service event management?
-A) COBIT
-B) ITIL Event Management
-C) ISO 27001
-D) NIST
-Answer: B
+A) ISO 27001
+B) NIST
+C) COBIT
+D) ITIL Event Management
+Answer: D
 
 381. What is the role of a Chief Enterprise Architect (CEA)?
-A) To manage only enterprise data
-B) To oversee enterprise architecture and technology strategy
-C) To develop only software
-D) To maintain only hardware
-Answer: B
+A) To maintain only hardware
+B) To manage only enterprise data
+C) To oversee enterprise architecture and technology strategy
+D) To develop only software
+Answer: C
 
 382. Which IT management methodology emphasizes value creation?
 A) Waterfall
-B) Value Creation
-C) Agile
-D) Scrum
-Answer: B
+B) Scrum
+C) Value Creation
+D) Agile
+Answer: C
 
 383. What is the purpose of IT service request management?
 A) To store request data
-B) To handle and fulfill IT service requests from users
-C) To backup requests
+B) To backup requests
+C) To handle and fulfill IT service requests from users
 D) To monitor requests
-Answer: B
+Answer: C
 
 384. Which IT management framework provides IT service access management guidelines?
-A) ITIL
+A) COBIT
 B) ITIL Access Management
-C) COBIT
+C) ITIL
 D) NIST
 Answer: B
 
 385. What is the purpose of a technology security strategy?
-A) To store security data
-B) To implement comprehensive technology security measures
+A) To implement comprehensive technology security measures
+B) To monitor security
 C) To backup security
-D) To monitor security
-Answer: B
+D) To store security data
+Answer: A
 
 386. Which IT management tool is used for IT service monitoring?
-A) ServiceNow
-B) Nagios
-C) Jira
+A) Jira
+B) ServiceNow
+C) Nagios
 D) Trello
-Answer: B
+Answer: C
 
 387. What is the main purpose of IT service configuration management?
-A) To store configuration data
-B) To manage IT service configurations and relationships
-C) To backup configuration
-D) To monitor configuration
-Answer: B
+A) To backup configuration
+B) To monitor configuration
+C) To store configuration data
+D) To manage IT service configurations and relationships
+Answer: D
 
 388. Which IT management methodology focuses on business agility?
 A) Agile
-B) Business Agility
+B) Kanban
 C) Scrum
-D) Kanban
-Answer: B
+D) Business Agility
+Answer: D
 
 389. What is the purpose of a technology compliance strategy?
-A) To store compliance data
+A) To backup compliance
 B) To ensure technology meets regulatory and industry compliance requirements
-C) To backup compliance
-D) To monitor compliance
+C) To monitor compliance
+D) To store compliance data
 Answer: B
 
 390. Which IT management framework focuses on IT service financial management?
-A) COBIT
-B) ITIL Financial Management
-C) ISO 27001
-D) NIST
-Answer: B
+A) ISO 27001
+B) NIST
+C) ITIL Financial Management
+D) COBIT
+Answer: C
 
 391. What is the role of a Chief Technology Strategist (CTS)?
 A) To manage only strategy data
-B) To develop and execute technology strategy
-C) To develop only software
-D) To maintain only hardware
-Answer: B
+B) To maintain only hardware
+C) To develop and execute technology strategy
+D) To develop only software
+Answer: C
 
 392. Which IT management methodology emphasizes operational efficiency?
-A) Waterfall
+A) Agile
 B) Operational Efficiency
-C) Agile
-D) Scrum
+C) Scrum
+D) Waterfall
 Answer: B
 
 393. What is the purpose of IT service demand management?
-A) To store demand data
-B) To understand and influence customer demand for IT services
+A) To understand and influence customer demand for IT services
+B) To monitor demand
 C) To backup demand
-D) To monitor demand
-Answer: B
+D) To store demand data
+Answer: A
 
 394. Which IT management framework provides IT service supplier management guidelines?
 A) ITIL
-B) ITIL Supplier Management
-C) COBIT
+B) COBIT
+C) ITIL Supplier Management
 D) NIST
-Answer: B
+Answer: C
 
 395. What is the purpose of a technology cost optimization strategy?
-A) To store cost data
+A) To monitor costs
 B) To optimize technology costs while maintaining performance
 C) To backup costs
-D) To monitor costs
+D) To store cost data
 Answer: B
 
 396. Which IT management tool is used for IT service analytics?
-A) ServiceNow
-B) Splunk
-C) Jira
+A) Splunk
+B) Jira
+C) ServiceNow
 D) Trello
-Answer: B
+Answer: A
 
 397. What is the main purpose of IT service validation and testing?
-A) To store validation data
+A) To backup validation
 B) To ensure IT services meet quality and performance requirements
-C) To backup validation
+C) To store validation data
 D) To monitor validation
 Answer: B
 
 398. Which IT management methodology focuses on business value delivery?
-A) Agile
-B) Business Value Delivery
-C) Scrum
-D) Kanban
-Answer: B
+A) Scrum
+B) Agile
+C) Kanban
+D) Business Value Delivery
+Answer: D
 
 399. What is the purpose of a technology innovation management strategy?
 A) To store innovation data
-B) To manage and foster technology innovation within the organization
-C) To backup innovation
+B) To backup innovation
+C) To manage and foster technology innovation within the organization
 D) To monitor innovation
-Answer: B
+Answer: C
 
 400. Which IT management framework focuses on IT service measurement and reporting?
 A) COBIT
-B) ITIL Service Measurement and Reporting
-C) ISO 27001
-D) NIST
-Answer: B
+B) NIST
+C) ITIL Service Measurement and Reporting
+D) ISO 27001
+Answer: C
