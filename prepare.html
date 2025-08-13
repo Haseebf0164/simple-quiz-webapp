@@ -282,18 +282,39 @@
           const question = lines[i].replace(/^\d+\.\s*/, '');
           const options = {};
           let j = i + 1;
+          
+          // Look for options A), B), C), D) or a), b), c), d)
           for (const opt of ['A','B','C','D']) {
-            if (lines[j] && lines[j][0] === opt) {
-              options[opt] = lines[j].slice(2).trim();
+            const upperOpt = opt + ')';
+            const lowerOpt = opt.toLowerCase() + ')';
+            
+            if (lines[j] && (lines[j].trim().startsWith(upperOpt) || lines[j].trim().startsWith(lowerOpt))) {
+              // Extract the option text after A) or a)
+              const optionText = lines[j].trim().substring(2).trim();
+              options[opt] = optionText;
               j++;
             }
           }
-          let answer = '';
-          if (lines[j] && lines[j].startsWith('Answer:')) {
-            answer = lines[j].split(':')[1].trim();
-            j++;
+          
+                     // Look for answer line (Answer: X format)
+           let answer = '';
+           if (lines[j] && lines[j].trim().startsWith('Answer:')) {
+             answer = lines[j].trim().split(':')[1].trim().toUpperCase();
+             j++;
+           } else {
+             // If no Answer: line, try to find the correct answer from context
+             // For now, we'll assume the first option is correct if no answer is specified
+             // This is a fallback for files without explicit answers
+             if (Object.keys(options).length === 4) {
+               answer = 'A'; // Default to first option
+             }
+           }
+          
+          // Only add MCQ if we have all 4 options
+          if (Object.keys(options).length === 4) {
+            mcqs.push({question, options, answer});
           }
-          mcqs.push({question, options, answer});
+          
           i = j;
         } else {
           i++;

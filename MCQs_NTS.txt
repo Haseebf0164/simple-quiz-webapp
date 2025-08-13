@@ -3,2396 +3,3847 @@ a) Kind
 b) Angry
 c) Hostile
 d) Indifferent
+Answer: a
 
 2. What is the next number in the sequence: 2, 4, 8, 16, ___?
 a) 20
 b) 24
 c) 32
 d) 18
+Answer: c
 
 3. Which part of speech is the word "quickly" in the sentence: "She ran quickly"?
 a) Noun
 b) Verb
 c) Adverb
 d) Adjective
+Answer: c
 
 4. If A = 5 and B = 3, what is the value of 2A + B?
 a) 13
 b) 10
 c) 8
 d) 11
+Answer: a
 
 5. Who is the current Prime Minister of Pakistan? (as of 2024)
 a) Imran Khan
 b) Shehbaz Sharif
 c) Nawaz Sharif
 d) Bilawal Bhutto
+Answer: b
 
 6. Which of the following is NOT a programming language?
 a) Python
 b) Java
 c) HTML
 d) Oracle
+Answer: c
 
 7. What is the antonym of "expand"?
 a) Contract
 b) Increase
 c) Extend
 d) Enlarge
+Answer: a
 
 8. If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly?
 a) Yes
 b) No
 c) Cannot be determined
 d) Only if all flowers fade quickly
+Answer: a
 
 9. What is the value of 7 × 8?
 a) 54
 b) 56
 c) 64
 d) 58
+Answer: b
 
 10. Which of the following is a web browser?
 a) Windows
 b) Chrome
 c) Linux
 d) Oracle
+Answer: b
 
 11. The word "ubiquitous" most nearly means:
 a) Rare
 b) Everywhere
 c) Expensive
 d) Unusual
+Answer: b
 
 12. Which number is the odd one out: 3, 5, 7, 9, 11?
 a) 9
 b) 3
 c) 5
 d) 11
+Answer: a
 
 13. What is the plural of "analysis"?
 a) Analysises
 b) Analyses
 c) Analysis
 d) Analys
+Answer: b
 
 14. If x = 4, what is the value of x² + 2x?
 a) 24
 b) 20
 c) 18
 d) 16
+Answer: a
 
 15. The capital of Balochistan is:
 a) Karachi
 b) Lahore
 c) Quetta
 d) Peshawar
+Answer: c
 
 16. Which of the following is a cloud computing platform?
 a) AWS
 b) Windows
 c) Excel
 d) Oracle DB
+Answer: a
 
 17. Choose the correct spelling:
 a) Recieve
 b) Receive
 c) Recive
 d) Receeve
+Answer: b
 
 18. If all squares are rectangles, and all rectangles have four sides, do all squares have four sides?
 a) Yes
 b) No
 c) Only some
 d) Cannot say
+Answer: a
 
 19. What is 15% of 200?
 a) 30
 b) 25
 c) 35
 d) 20
+Answer: a
 
 20. Who is the founder of Microsoft?
 a) Steve Jobs
 b) Bill Gates
 c) Mark Zuckerberg
 d) Larry Page
+Answer: b
 
 21. The word "opaque" means:
 a) Transparent
 b) Not clear
 c) Shiny
 d) Smooth
+Answer: b
 
 22. Which figure comes next in the pattern: ▲, ■, ▲, ■, ___?
 a) ▲
 b) ■
 c) ●
 d) ▼
+Answer: a
 
 23. Which is the correct passive form: "They make cars in Japan."
 a) Cars are made in Japan.
 b) Cars is made in Japan.
 c) Cars was made in Japan.
 d) Cars made in Japan.
+Answer: a
 
 24. What is the square root of 144?
 a) 14
 b) 12
 c) 16
 d) 10
+Answer: b
 
 25. The largest province of Pakistan by area is:
 a) Punjab
 b) Sindh
 c) Balochistan
 d) Khyber Pakhtunkhwa
+Answer: c
 
 26. Which of the following is NOT an operating system?
 a) Linux
 b) Windows
 c) Oracle
 d) macOS
+Answer: c
 
 27. Choose the word that best fits: "He is known for his ___ in solving problems."
 a) Ingenuity
 b) Ignorance
 c) Laziness
 d) Apathy
+Answer: a
 
 28. If 2x + 3 = 11, what is x?
 a) 4
 b) 3
 c) 5
 d) 6
+Answer: a
 
 29. Which is the national flower of Pakistan?
 a) Jasmine
 b) Rose
 c) Lily
 d) Sunflower
+Answer: a
 
 30. Which of the following is a type of malware?
 a) Virus
 b) Excel
 c) Chrome
 d) PowerPoint
+Answer: a
 
 31. The antonym of "scarce" is:
 a) Abundant
 b) Rare
 c) Few
 d) Little
+Answer: a
 
 32. Which number completes the series: 5, 10, 20, ___, 80?
 a) 30
 b) 40
 c) 60
 d) 50
+Answer: b
 
 33. Which sentence is correct?
 a) She don't like apples.
 b) She doesn't likes apples.
 c) She doesn't like apples.
 d) She not like apples.
+Answer: c
 
 34. What is 9²?
 a) 81
 b) 72
 c) 64
 d) 99
+Answer: a
 
 35. The currency of Pakistan is:
 a) Rupee
 b) Dollar
 c) Taka
 d) Riyal
+Answer: a
 
 36. Which of the following is a relational database?
 a) MySQL
 b) Windows
 c) Python
 d) Chrome
+Answer: a
 
 37. The word "elated" means:
 a) Sad
 b) Joyful
 c) Angry
 d) Tired
+Answer: b
 
 38. If all cats are animals and some animals are black, can we say some cats are black?
 a) Cannot be determined
 b) Yes
 c) No
 d) Only if all animals are black
+Answer: a
 
 39. What is 25% of 80?
 a) 20
 b) 16
 c) 18
 d) 24
+Answer: a
 
 40. The largest continent by area is:
 a) Africa
 b) Asia
 c) Europe
 d) Australia
+Answer: b
 
 41. Which of the following is NOT a valid variable name in Python?
 a) my_var
 b) 2var
 c) var2
 d) _var
+Answer: b
 
 42. The synonym of "diligent" is:
 a) Hardworking
 b) Lazy
 c) Careless
 d) Indifferent
+Answer: a
 
 43. Which number is missing: 1, 4, 9, 16, ___, 36?
 a) 25
 b) 20
 c) 30
 d) 28
+Answer: a
 
 44. Which is the correct form: "He ___ to school every day."
 a) Go
 b) Goes
 c) Going
 d) Gone
+Answer: b
 
 45. The highest mountain in Pakistan is:
 a) K2
 b) Nanga Parbat
 c) Mount Everest
 d) Tirich Mir
+Answer: a
 
 46. Which of the following is a network device?
 a) Router
 b) Monitor
 c) Keyboard
 d) Printer
+Answer: a
 
 47. The antonym of "optimistic" is:
 a) Pessimistic
 b) Hopeful
 c) Cheerful
 d) Confident
+Answer: a
 
 48. If 3x = 21, what is x?
 a) 7
 b) 6
 c) 8
 d) 9
+Answer: a
 
 49. The national language of Pakistan is:
 a) Urdu
 b) Punjabi
 c) Sindhi
 d) Pashto
+Answer: a
 
 50. Which of the following is NOT a type of cloud service?
 a) SaaS
 b) PaaS
 c) IaaS
 d) BIOS
+Answer: d
 
 51. The word "transient" means:
 a) Temporary
 b) Permanent
 c) Strong
 d) Weak
+Answer: a
 
 52. Which is the odd one out: Apple, Banana, Carrot, Mango?
 a) Carrot
 b) Banana
 c) Apple
 d) Mango
+Answer: a
 
 53. Which is the correct sentence?
 a) He have a car.
 b) He has a car.
 c) He having a car.
 d) He had a car.
+Answer: b
 
 54. What is 100 divided by 4?
 a) 25
 b) 20
 c) 30
 d) 40
+Answer: a
 
 55. The largest city in Pakistan is:
 a) Karachi
 b) Lahore
 c) Islamabad
 d) Multan
+Answer: a
 
 56. Which of the following is a programming paradigm?
 a) Object-oriented
 b) Spreadsheet
 c) Presentation
 d) Document
+Answer: a
 
 57. The synonym of "vivid" is:
 a) Bright
 b) Dull
 c) Faint
 d) Weak
+Answer: a
 
 58. If 5y = 35, what is y?
 a) 7
 b) 6
 c) 8
 d) 5
+Answer: a
 
 59. The currency used in Japan is:
 a) Yen
 b) Dollar
 c) Rupee
 d) Euro
+Answer: a
 
 60. Which of the following is NOT a search engine?
 a) Google
 b) Bing
 c) Yahoo
 d) Excel
+Answer: d
 
 61. The antonym of "ancient" is:
 a) Modern
 b) Old
 c) Historic
 d) Antique
+Answer: a
 
 62. Which number is next: 11, 22, 33, ___?
 a) 44
 b) 55
 c) 66
 d) 77
+Answer: a
 
 63. Which is the correct form: "They ___ playing football."
 a) Is
 b) Are
 c) Am
 d) Be
+Answer: b
 
 64. What is 8 × 7?
 a) 56
 b) 54
 c) 64
 d) 48
+Answer: a
 
 65. The national animal of Pakistan is:
 a) Markhor
 b) Lion
 c) Tiger
 d) Elephant
+Answer: a
 
 66. Which of the following is a type of cyber attack?
 a) Phishing
 b) Typing
 c) Printing
 d) Copying
+Answer: a
 
 67. The synonym of "fragile" is:
 a) Delicate
 b) Strong
 c) Hard
 d) Firm
+Answer: a
 
 68. If 12 + x = 20, what is x?
 a) 8
 b) 6
 c) 10
 d) 12
+Answer: a
 
 69. The capital of Sindh is:
 a) Karachi
 b) Hyderabad
 c) Sukkur
 d) Larkana
+Answer: a
 
 70. Which of the following is NOT a programming language?
 a) Java
 b) C++
 c) Windows
 d) Python
+Answer: c
 
 71. The antonym of "expand" is:
 a) Contract
 b) Increase
 c) Grow
 d) Enlarge
+Answer: a
 
 72. Which number is missing: 2, 5, 10, 17, ___?
 a) 26
 b) 24
 c) 20
 d) 22
+Answer: a
 
 73. Which is the correct sentence?
 a) She is taller than me.
 b) She is more tall than me.
 c) She is most tall than me.
 d) She is tall than me.
+Answer: a
 
 74. What is 6 × 9?
 a) 54
 b) 56
 c) 64
 d) 48
+Answer: a
 
 75. The founder of Pakistan is:
 a) Allama Iqbal
 b) Liaquat Ali Khan
 c) Muhammad Ali Jinnah
 d) Zulfikar Ali Bhutto
+Answer: c
 
 76. Which of the following is a database management system?
 a) Oracle
 b) Windows
 c) Excel
 d) PowerPoint
+Answer: a
 
 77. The synonym of "lucid" is:
 a) Clear
 b) Confused
 c) Dark
 d) Vague
+Answer: a
 
 78. If 4x = 32, what is x?
 a) 8
 b) 6
 c) 10
 d) 12
+Answer: a
 
 79. The currency of the USA is:
 a) Dollar
 b) Pound
 c) Rupee
 d) Euro
+Answer: a
 
 80. Which of the following is NOT a social media platform?
 a) Facebook
 b) Twitter
 c) Instagram
 d) Excel
+Answer: d
 
 81. The antonym of "frequent" is:
 a) Rare
 b) Often
 c) Usual
 d) Common
+Answer: a
 
 82. Which number is next: 7, 14, 21, ___?
 a) 28
 b) 35
 c) 42
 d) 49
+Answer: a
 
 83. Which is the correct form: "I ___ to the market yesterday."
 a) Go
 b) Went
 c) Going
 d) Gone
+Answer: b
 
 84. What is 11 × 11?
 a) 121
 b) 111
 c) 101
 d) 131
+Answer: a
 
 85. The national sport of Pakistan is:
 a) Hockey
 b) Cricket
 c) Football
 d) Squash
+Answer: a
 
 86. Which of the following is a type of network topology?
 a) Star
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 87. The synonym of "abundant" is:
 a) Plentiful
 b) Scarce
 c) Few
 d) Little
+Answer: a
 
 88. If 3x + 2 = 11, what is x?
 a) 3
 b) 2
 c) 4
 d) 5
+Answer: a
 
 89. The capital of Khyber Pakhtunkhwa is:
 a) Peshawar
 b) Quetta
 c) Lahore
 d) Karachi
+Answer: a
 
 90. Which of the following is NOT a type of software?
 a) Hardware
 b) Application
 c) System
 d) Utility
+Answer: a
 
 91. The antonym of "complex" is:
 a) Simple
 b) Complicated
 c) Difficult
 d) Intricate
+Answer: a
 
 92. Which number is missing: 10, 20, ___, 40, 50?
 a) 30
 b) 25
 c) 35
 d) 45
+Answer: a
 
 93. Which is the correct sentence?
 a) He is best in the class.
 b) He is better in the class.
 c) He is the best in the class.
 d) He is more best in the class.
+Answer: c
 
 94. What is 13 × 2?
 a) 26
 b) 24
 c) 28
 d) 22
+Answer: a
 
 95. The largest dam in Pakistan is:
 a) Tarbela
 b) Mangla
 c) Warsak
 d) Hub
+Answer: a
 
 96. Which of the following is a type of cloud deployment?
 a) Public
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 97. The synonym of "brisk" is:
 a) Quick
 b) Slow
 c) Lazy
 d) Weak
+Answer: a
 
 98. If 2x = 18, what is x?
 a) 9
 b) 8
 c) 10
 d) 7
+Answer: a
 
 99. The currency of the UK is:
 a) Pound
 b) Dollar
 c) Rupee
 d) Euro
+Answer: a
 
 100. Which of the following is NOT a programming language?
 a) Python
 b) Java
 c) Excel
 d) C++
+Answer: c
 
 101. The antonym of "permanent" is:
 a) Temporary
 b) Lasting
 c) Durable
 d) Enduring
+Answer: a
 
 102. Which number is next: 4, 8, 12, ___?
 a) 16
 b) 20
 c) 24
 d) 28
+Answer: a
 
 103. Which is the correct form: "She ___ a book now."
 a) Reads
 b) Is reading
 c) Read
 d) Reading
+Answer: b
 
 104. What is 15 × 3?
 a) 45
 b) 35
 c) 40
 d) 50
+Answer: a
 
 105. The national bird of Pakistan is:
 a) Chukar
 b) Sparrow
 c) Parrot
 d) Crow
+Answer: a
 
 106. Which of the following is a type of cyber security?
 a) Firewall
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 107. The synonym of "vague" is:
 a) Unclear
 b) Clear
 c) Bright
 d) Sharp
+Answer: a
 
 108. If 5x = 25, what is x?
 a) 5
 b) 4
 c) 6
 d) 7
+Answer: a
 
 109. The capital of Punjab is:
 a) Lahore
 b) Karachi
 c) Islamabad
 d) Multan
+Answer: a
 
 110. Which of the following is NOT a type of network?
 a) LAN
 b) WAN
 c) PAN
 d) RAM
+Answer: d
 
 111. The antonym of "artificial" is:
 a) Natural
 b) Fake
 c) False
 d) Synthetic
+Answer: a
 
 112. Which number is missing: 6, 12, 18, ___, 30?
 a) 24
 b) 20
 c) 22
 d) 26
+Answer: a
 
 113. Which is the correct sentence?
 a) I have seen him yesterday.
 b) I saw him yesterday.
 c) I seen him yesterday.
 d) I seeing him yesterday.
+Answer: b
 
 114. What is 8 × 5?
 a) 40
 b) 35
 c) 45
 d) 50
+Answer: a
 
 115. The largest river in Pakistan is:
 a) Indus
 b) Jhelum
 c) Ravi
 d) Chenab
+Answer: a
 
 116. Which of the following is a type of database?
 a) Relational
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 117. The synonym of "tedious" is:
 a) Boring
 b) Exciting
 c) Fun
 d) Interesting
+Answer: a
 
 118. If 7x = 49, what is x?
 a) 7
 b) 6
 c) 8
 d) 9
+Answer: a
 
 119. The currency of China is:
 a) Yuan
 b) Dollar
 c) Rupee
 d) Euro
+Answer: a
 
 120. Which of the following is NOT a web browser?
 a) Chrome
 b) Firefox
 c) Safari
 d) Excel
+Answer: d
 
 121. The antonym of "scarce" is:
 a) Abundant
 b) Rare
 c) Few
 d) Little
+Answer: a
 
 122. Which number is next: 3, 6, 12, ___?
 a) 24
 b) 18
 c) 30
 d) 36
+Answer: a
 
 123. Which is the correct form: "They ___ finished their work."
 a) Have
 b) Has
 c) Had
 d) Having
+Answer: a
 
 124. What is 14 × 2?
 a) 28
 b) 24
 c) 26
 d) 30
+Answer: a
 
 125. The national poet of Pakistan is:
 a) Allama Iqbal
 b) Faiz Ahmed Faiz
 c) Ahmed Faraz
 d) Parveen Shakir
+Answer: a
 
 126. Which of the following is a type of storage device?
 a) Hard disk
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 127. The synonym of "serene" is:
 a) Calm
 b) Noisy
 c) Loud
 d) Busy
+Answer: a
 
 128. If 6x = 36, what is x?
 a) 6
 b) 5
 c) 7
 d) 8
+Answer: a
 
 129. The capital of Gilgit-Baltistan is:
 a) Gilgit
 b) Skardu
 c) Hunza
 d) Chitral
+Answer: a
 
 130. Which of the following is NOT a type of computer memory?
 a) RAM
 b) ROM
 c) CPU
 d) Cache
+Answer: c
 
 131. The antonym of "hostile" is:
 a) Friendly
 b) Angry
 c) Aggressive
 d) Unkind
+Answer: a
 
 132. Which number is missing: 9, 18, ___, 36, 45?
 a) 27
 b) 24
 c) 30
 d) 33
+Answer: a
 
 133. Which is the correct sentence?
 a) She is more intelligent than me.
 b) She is most intelligent than me.
 c) She is intelligent than me.
 d) She is more intelligence than me.
+Answer: a
 
 134. What is 12 × 4?
 a) 48
 b) 44
 c) 52
 d) 40
+Answer: a
 
 135. The largest lake in Pakistan is:
 a) Manchar
 b) Saif ul Malook
 c) Keenjhar
 d) Rawal
+Answer: a
 
 136. Which of the following is a type of software license?
 a) Open source
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 137. The synonym of "robust" is:
 a) Strong
 b) Weak
 c) Fragile
 d) Delicate
+Answer: a
 
 138. If 8x = 64, what is x?
 a) 8
 b) 7
 c) 6
 d) 9
+Answer: a
 
 139. The currency of India is:
 a) Rupee
 b) Dollar
 c) Pound
 d) Euro
+Answer: a
 
 140. Which of the following is NOT a search engine?
 a) Google
 b) Bing
 c) Yahoo
 d) PowerPoint
+Answer: d
 
 141. The antonym of "opaque" is:
 a) Transparent
 b) Dark
 c) Dull
 d) Faint
+Answer: a
 
 142. Which number is next: 5, 15, 25, ___?
 a) 35
 b) 45
 c) 55
 d) 65
+Answer: a
 
 143. Which is the correct form: "He ___ to school every day."
 a) Goes
 b) Go
 c) Going
 d) Gone
+Answer: a
 
 144. What is 7 × 6?
 a) 42
 b) 36
 c) 48
 d) 54
+Answer: a
 
 145. The national tree of Pakistan is:
 a) Deodar
 b) Pine
 c) Oak
 d) Maple
+Answer: a
 
 146. Which of the following is a type of programming error?
 a) Syntax
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 147. The synonym of "nimble" is:
 a) Agile
 b) Slow
 c) Clumsy
 d) Heavy
+Answer: a
 
 148. If 9x = 81, what is x?
 a) 9
 b) 8
 c) 7
 d) 6
+Answer: a
 
 149. The capital of Azad Kashmir is:
 a) Muzaffarabad
 b) Mirpur
 c) Kotli
 d) Rawalakot
+Answer: a
 
 150. Which of the following is NOT a type of printer?
 a) Laser
 b) Inkjet
 c) Table
 d) Dot matrix
+Answer: c
 
 151. The antonym of "diligent" is:
 a) Lazy
 b) Hardworking
 c) Active
 d) Energetic
+Answer: a
 
 152. Which number is missing: 2, 6, 12, ___, 30?
 a) 20
 b) 18
 c) 24
 d) 22
+Answer: a
 
 153. Which is the correct sentence?
 a) He is taller than me.
 b) He is more tall than me.
 c) He is most tall than me.
 d) He is tall than me.
+Answer: a
 
 154. What is 10 × 5?
 a) 50
 b) 45
 c) 55
 d) 60
+Answer: a
 
 155. The largest desert in Pakistan is:
 a) Thar
 b) Cholistan
 c) Kharan
 d) Thal
+Answer: a
 
 156. Which of the following is a type of network protocol?
 a) TCP/IP
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 157. The synonym of "arduous" is:
 a) Difficult
 b) Easy
 c) Simple
 d) Light
+Answer: a
 
 158. If 10x = 100, what is x?
 a) 10
 b) 9
 c) 8
 d) 7
+Answer: a
 
 159. The currency of Saudi Arabia is:
 a) Riyal
 b) Dollar
 c) Rupee
 d) Euro
+Answer: a
 
 160. Which of the following is NOT a type of computer?
 a) Desktop
 b) Laptop
 c) Table
 d) Server
+Answer: c
 
 161. The antonym of "lucid" is:
 a) Confused
 b) Clear
 c) Bright
 d) Sharp
+Answer: a
 
 162. Which number is next: 6, 12, 18, ___?
 a) 24
 b) 30
 c) 36
 d) 42
+Answer: a
 
 163. Which is the correct form: "We ___ going to the park."
 a) Are
 b) Is
 c) Am
 d) Be
+Answer: a
 
 164. What is 9 × 5?
 a) 45
 b) 40
 c) 50
 d) 55
+Answer: a
 
 165. The national fruit of Pakistan is:
 a) Mango
 b) Apple
 c) Banana
 d) Orange
+Answer: a
 
 166. Which of the following is a type of operating system?
 a) Linux
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 167. The synonym of "succinct" is:
 a) Concise
 b) Wordy
 c) Lengthy
 d) Verbose
+Answer: a
 
 168. If 11x = 121, what is x?
 a) 11
 b) 10
 c) 12
 d) 9
+Answer: a
 
 169. The capital of Pakistan is:
 a) Islamabad
 b) Karachi
 c) Lahore
 d) Peshawar
+Answer: a
 
 170. Which of the following is NOT a type of storage device?
 a) Hard disk
 b) Table
 c) SSD
 d) USB
+Answer: b
 
 171. The antonym of "serene" is:
 a) Noisy
 b) Calm
 c) Quiet
 d) Peaceful
+Answer: a
 
 172. Which number is missing: 3, 9, 27, ___?
 a) 81
 b) 54
 c) 36
 d) 72
+Answer: a
 
 173. Which is the correct sentence?
 a) She is the most intelligent in the class.
 b) She is more intelligent in the class.
 c) She is intelligent in the class.
 d) She is most intelligent in the class.
+Answer: a
 
 174. What is 8 × 8?
 a) 64
 b) 56
 c) 72
 d) 48
+Answer: a
 
 175. The largest mosque in Pakistan is:
 a) Faisal Mosque
 b) Badshahi Mosque
 c) Wazir Khan Mosque
 d) Shah Jahan Mosque
+Answer: a
 
 176. Which of the following is a type of programming language?
 a) Python
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 177. The synonym of "meticulous" is:
 a) Careful
 b) Careless
 c) Hasty
 d) Sloppy
+Answer: a
 
 178. If 12x = 144, what is x?
 a) 12
 b) 10
 c) 14
 d) 16
+Answer: a
 
 179. The currency of Turkey is:
 a) Lira
 b) Dollar
 c) Rupee
 d) Euro
+Answer: a
 
 180. Which of the following is NOT a type of network topology?
 a) Star
 b) Bus
 c) Table
 d) Ring
+Answer: c
 
 181. The antonym of "nimble" is:
 a) Clumsy
 b) Agile
 c) Quick
 d) Fast
+Answer: a
 
 182. Which number is next: 2, 4, 8, ___?
 a) 16
 b) 12
 c) 10
 d) 14
+Answer: a
 
 183. Which is the correct form: "He ___ a car."
 a) Has
 b) Have
 c) Having
 d) Had
+Answer: a
 
 184. What is 7 × 7?
 a) 49
 b) 42
 c) 56
 d) 63
+Answer: a
 
 185. The national dress of Pakistan is:
 a) Shalwar Kameez
 b) Sari
 c) Kurta
 d) Jeans
+Answer: a
 
 186. Which of the following is a type of computer virus?
 a) Trojan
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 187. The synonym of "gregarious" is:
 a) Sociable
 b) Shy
 c) Reserved
 d) Quiet
+Answer: a
 
 188. If 13x = 130, what is x?
 a) 10
 b) 11
 c) 12
 d) 13
+Answer: a
 
 189. The capital of Balochistan is:
 a) Quetta
 b) Karachi
 c) Lahore
 d) Peshawar
+Answer: a
 
 190. Which of the following is NOT a type of input device?
 a) Mouse
 b) Keyboard
 c) Monitor
 d) Scanner
+Answer: c
 
 191. The antonym of "succinct" is:
 a) Wordy
 b) Concise
 c) Brief
 d) Short
+Answer: a
 
 192. Which number is missing: 4, 8, 16, ___?
 a) 32
 b) 24
 c) 20
 d) 28
+Answer: a
 
 193. Which is the correct sentence?
 a) He is the tallest in the class.
 b) He is more tall in the class.
 c) He is most tall in the class.
 d) He is tall in the class.
+Answer: a
 
 194. What is 6 × 8?
 a) 48
 b) 54
 c) 56
 d) 64
+Answer: a
 
 195. The largest airport in Pakistan is:
 a) Islamabad International
 b) Karachi Jinnah International
 c) Lahore Allama Iqbal
 d) Multan International
+Answer: b
 
 196. Which of the following is a type of programming loop?
 a) For
 b) Table
 c) Chair
 d) Desk
+Answer: a
 
 197. The synonym of "prudent" is:
 a) Wise
 b) Foolish
 c) Careless
 d) Rash
+Answer: a
 
 198. If 14x = 140, what is x?
 a) 10
 b) 12
 c) 14
 d) 16
+Answer: a
 
 199. The currency of UAE is:
 a) Dirham
 b) Dollar
 c) Rupee
 d) Euro
+Answer: a
 
 200. Which of the following is NOT a type of output device?
 a) Monitor
 b) Printer
 c) Mouse
 d) Speaker
+Answer: c
+
 201. The chemical symbol for Gold is:
 a) Au
 b) Ag
 c) Gd
 d) Go
+Answer: a
+202. Which of the following is a programming language?
+a) Python
+b) HTML
+c) CSS
+d) SQL
+Answer: a
 
-202. Who wrote the national anthem of Pakistan?
-a) Hafeez Jullundhri
-b) Allama Iqbal
-c) Faiz Ahmed Faiz
-d) Ahmed Faraz
+203. What does HTTP stand for?
+a) HyperText Transfer Protocol
+b) HighText Transfer Protocol
+c) HyperText Transmission Protocol
+d) Hyper Transfer Text Protocol
+Answer: a
 
-203. The largest planet in our solar system is:
-a) Earth
-b) Jupiter
-c) Saturn
-d) Mars
+204. Which of the following is NOT a type of cloud deployment model?
+a) Public
+b) Private
+c) Hybrid
+d) Linear
+Answer: d
 
-204. The first Islamic month is:
-a) Muharram
-b) Safar
-c) Ramadan
-d) Shawwal
+205. In cybersecurity, what does the acronym "VPN" stand for?
+a) Virtual Private Network
+b) Visual Private Network
+c) Virtual Public Network
+d) Visual Public Network
+Answer: a
 
-205. The capital of Balochistan is:
-a) Quetta
-b) Peshawar
-c) Karachi
-d) Lahore
+206. Which of the following is used for data analytics?
+a) Tableau
+b) Photoshop
+c) Illustrator
+d) Premiere
+Answer: a
 
-206. The process of water changing into vapor is called:
-a) Condensation
-b) Evaporation
-c) Sublimation
-d) Precipitation
+207. Which of the following is a supervised machine learning algorithm?
+a) Decision Tree
+b) K-Means
+c) Apriori
+d) DBSCAN
+Answer: a
 
-207. The founder of Pakistan is:
-a) Liaquat Ali Khan
-b) Allama Iqbal
-c) Quaid-e-Azam
-d) Sir Syed Ahmed Khan
+208. What is the main function of a firewall?
+a) To block unauthorized access
+b) To store data
+c) To process images
+d) To print documents
+Answer: a
 
-208. The largest dam in Pakistan is:
-a) Tarbela Dam
-b) Mangla Dam
-c) Warsak Dam
-d) Hub Dam
+209. Which protocol is used to send emails?
+a) SMTP
+b) FTP
+c) HTTP
+d) SNMP
+Answer: a
 
-209. The study of living things is called:
-a) Biology
-b) Physics
-c) Chemistry
-d) Geology
+210. Which of the following is NOT a cloud service provider?
+a) AWS
+b) Azure
+c) Google Cloud
+d) Oracle Database
+Answer: d
 
-210. The currency of Japan is:
-a) Yen
-b) Dollar
-c) Rupee
-d) Won
+211. What does SQL stand for?
+a) Structured Query Language
+b) Simple Query Language
+c) Sequential Query Language
+d) Standard Query Language
+Answer: a
 
-211. The first Prime Minister of Pakistan was:
-a) Liaquat Ali Khan
-b) Khawaja Nazimuddin
-c) Muhammad Ali Bogra
-d) Feroz Khan Noon
+212. Which of the following is a NoSQL database?
+a) MongoDB
+b) MySQL
+c) Oracle
+d) PostgreSQL
+Answer: a
 
-212. The longest river in Pakistan is:
-a) Indus
-b) Jhelum
-c) Ravi
-d) Chenab
+213. Which of the following is NOT a type of machine learning?
+a) Supervised
+b) Unsupervised
+c) Reinforcement
+d) Compiled
+Answer: d
 
-213. The largest continent by area is:
-a) Africa
-b) Asia
-c) Europe
-d) North America
+214. What is the default port for HTTPS?
+a) 443
+b) 80
+c) 21
+d) 25
+Answer: a
 
-214. The Holy Quran was revealed in how many years?
-a) 23
-b) 10
-c) 15
-d) 30
+215. Which of the following is a type of network topology?
+a) Star
+b) Circle
+c) Square
+d) Triangle
+Answer: a
 
-215. The SI unit of force is:
-a) Newton
-b) Joule
-c) Watt
-d) Pascal
+216. Which programming language is primarily used for statistical analysis?
+a) R
+b) Java
+c) C++
+d) PHP
+Answer: a
 
-216. The first woman Prime Minister of Pakistan was:
-a) Benazir Bhutto
-b) Fatima Jinnah
-c) Hina Rabbani Khar
-d) Asma Jahangir
+217. Which of the following is NOT a valid data type in Python?
+a) Integer
+b) String
+c) Character
+d) List
+Answer: c
 
-217. The largest desert in Pakistan is:
-a) Thar
-b) Cholistan
-c) Kharan
-d) Thal
+218. What does AI stand for?
+a) Artificial Intelligence
+b) Automated Information
+c) Advanced Integration
+d) Applied Internet
+Answer: a
 
-218. The study of earthquakes is called:
-a) Seismology
-b) Meteorology
-c) Ecology
-d) Geology
+219. Which of the following is a hashing algorithm?
+a) SHA-256
+b) AES
+c) DES
+d) RSA
+Answer: a
 
-219. The first revelation was received by Prophet Muhammad (PBUH) in which cave?
-a) Hira
-b) Thawr
-c) Saur
-d) Quba
+220. Which of the following is NOT a cloud computing service model?
+a) IaaS
+b) PaaS
+c) SaaS
+d) DaaS
+Answer: d
 
-220. The national flower of Pakistan is:
-a) Jasmine
-b) Rose
-c) Lily
-d) Sunflower
+221. Which of the following is used to uniquely identify a device on a network?
+a) IP Address
+b) MAC Address
+c) URL
+d) DNS
+Answer: b
 
-221. The largest ocean in the world is:
-a) Pacific
-b) Atlantic
-c) Indian
-d) Arctic
+222. Which of the following is a Python web framework?
+a) Django
+b) Laravel
+c) Spring
+d) Rails
+Answer: a
 
-222. The first President of Pakistan was:
-a) Iskander Mirza
-b) Ayub Khan
-c) Yahya Khan
-d) Zulfikar Ali Bhutto
+223. Which of the following is NOT a type of cyber attack?
+a) Phishing
+b) DDoS
+c) SQL Injection
+d) Compiling
+Answer: d
 
-223. The hardest natural substance is:
+224. What is the main purpose of RAID in storage?
+a) Data redundancy
+b) Data encryption
+c) Data compression
+d) Data visualization
+Answer: a
+
+225. Which of the following is a cloud storage service?
+a) Google Drive
+b) Notepad
+c) Paint
+d) Calculator
+Answer: a
+
+226. Which of the following is NOT a valid loop in C++?
+a) for
+b) while
+c) repeat
+d) do-while
+Answer: c
+
+227. Which of the following is a relational database?
+a) MySQL
+b) MongoDB
+c) Redis
+d) Cassandra
+Answer: a
+
+228. Which of the following is NOT a valid HTTP method?
+a) GET
+b) POST
+c) SEND
+d) DELETE
+Answer: c
+
+229. Which of the following is a type of neural network?
+a) Convolutional Neural Network
+b) Circular Neural Network
+c) Linear Neural Network
+d) Tabular Neural Network
+Answer: a
+
+230. Which of the following is used for version control?
+a) Git
+b) Excel
+c) Word
+d) PowerPoint
+Answer: a
+
+231. Which of the following is NOT a programming paradigm?
+a) Object-oriented
+b) Procedural
+c) Functional
+d) Typographical
+Answer: d
+
+232. Which of the following is a cloud computing benefit?
+a) Scalability
+b) Inflexibility
+c) High upfront cost
+d) Manual updates
+Answer: a
+
+233. Which of the following is a data visualization tool?
+a) Power BI
+b) Notepad++
+c) WinRAR
+d) VLC
+Answer: a
+
+234. Which of the following is NOT a valid variable name in Python?
+a) my_var
+b) 2var
+c) var2
+d) _var
+Answer: b
+
+235. Which of the following is a symmetric encryption algorithm?
+a) AES
+b) RSA
+c) ECC
+d) DSA
+Answer: a
+
+236. Which of the following is NOT a type of cloud service?
+a) SaaS
+b) PaaS
+c) IaaS
+d) BIOS
+Answer: d
+
+237. Which of the following is a markup language?
+a) HTML
+b) Python
+c) Java
+d) C++
+Answer: a
+
+238. Which of the following is NOT a valid IP address?
+a) 192.168.1.1
+b) 256.100.50.25
+c) 10.0.0.1
+d) 172.16.0.1
+Answer: b
+
+239. Which of the following is a type of malware?
+a) Trojan
+b) Firewall
+c) Router
+d) Switch
+Answer: a
+
+240. Which of the following is NOT a cloud deployment model?
+a) Public
+b) Private
+c) Hybrid
+d) Static
+Answer: d
+
+241. Which of the following is a Python library for data analysis?
+a) pandas
+b) numpy
+c) matplotlib
+d) flask
+Answer: a
+
+242. Which of the following is NOT a valid SQL command?
+a) SELECT
+b) INSERT
+c) UPDATE
+d) PRINT
+Answer: d
+
+243. Which of the following is a type of machine learning?
+a) Reinforcement
+b) Compilation
+c) Translation
+d) Rendering
+Answer: a
+
+244. Which of the following is a cloud platform by Microsoft?
+a) Azure
+b) AWS
+c) Google Cloud
+d) IBM Cloud
+Answer: a
+
+245. Which of the following is NOT a valid data type in Java?
+a) int
+b) float
+c) string
+d) char
+Answer: c
+
+246. Which of the following is a network device?
+a) Switch
+b) Scanner
+c) Printer
+d) Monitor
+Answer: a
+
+247. Which of the following is NOT a valid Python keyword?
+a) def
+b) class
+c) function
+d) return
+Answer: c
+
+248. Which of the following is a type of cyber attack?
+a) Phishing
+b) Printing
+c) Scanning
+d) Typing
+Answer: a
+
+249. Which of the following is a cloud computing characteristic?
+a) On-demand self-service
+b) Manual provisioning
+c) Fixed resources
+d) Local storage only
+Answer: a
+
+250. Which of the following is NOT a valid operator in C++?
+a) +
+b) -
+c) **
+d) /
+Answer: c
+
+251. Which of the following is a data structure?
+a) Stack
+b) Paint
+c) Notepad
+d) Calculator
+Answer: a
+
+252. Which of the following is NOT a valid HTTP status code?
+a) 200
+b) 404
+c) 500
+d) 700
+Answer: d
+
+253. Which of the following is a type of cloud service model?
+a) SaaS
+b) BIOS
+c) RAM
+d) CPU
+Answer: a
+
+254. Which of the following is a type of database?
+a) Relational
+b) Rotational
+c) Rational
+d) Regional
+Answer: a
+
+255. Which of the following is NOT a valid loop in Python?
+a) for
+b) while
+c) do-while
+d) None of these
+Answer: c
+
+256. Which of the following is a type of AI?
+a) Narrow AI
+b) Broad AI
+c) Large AI
+d) Small AI
+Answer: a
+
+257. Which of the following is NOT a valid file extension for Python files?
+a) .py
+b) .pyc
+c) .pyo
+d) .pyt
+Answer: d
+
+258. Which of the following is a type of network?
+a) LAN
+b) PAN
+c) MAN
+d) All of these
+Answer: d
+
+259. Which of the following is NOT a valid SQL clause?
+a) WHERE
+b) HAVING
+c) ORDER
+d) PRINT
+Answer: d
+
+260. Which of the following is a type of cloud storage?
+a) Object storage
+b) Table storage
+c) Row storage
+d) Column storage
+Answer: a
+
+261. Which of the following is NOT a valid data type in C?
+a) int
+b) float
+c) string
+d) char
+Answer: c
+
+262. Which of the following is a type of cyber security threat?
+a) Malware
+b) Hardware
+c) Software
+d) Firmware
+Answer: a
+
+263. Which of the following is a Python package manager?
+a) pip
+b) npm
+c) gem
+d) composer
+Answer: a
+
+264. Which of the following is NOT a valid HTML tag?
+a) <div>
+b) <span>
+c) <section>
+d) <loop>
+Answer: d
+
+265. Which of the following is a type of cloud computing?
+a) Public cloud
+b) Private cloud
+c) Hybrid cloud
+d) All of these
+Answer: d
+
+266. Which of the following is NOT a valid SQL data type?
+a) VARCHAR
+b) INT
+c) FLOAT
+d) NUMBERED
+Answer: d
+
+267. Which of the following is a type of machine learning algorithm?
+a) K-Nearest Neighbors
+b) K-Nearest Friends
+c) K-Nearest Family
+d) K-Nearest Relatives
+Answer: a
+
+268. Which of the following is NOT a valid Python data structure?
+a) List
+b) Tuple
+c) Set
+d) ArrayList
+Answer: d
+
+269. Which of the following is a type of cloud service?
+a) SaaS
+b) BIOS
+c) RAM
+d) CPU
+Answer: a
+
+270. Which of the following is NOT a valid SQL statement?
+a) SELECT
+b) UPDATE
+c) DELETE
+d) PRINT
+Answer: d
+
+271. Which of the following is a type of AI learning?
+a) Supervised
+b) Unsupervised
+c) Reinforcement
+d) All of these
+Answer: d
+
+272. Which of the following is NOT a valid Python function?
+a) print()
+b) input()
+c) output()
+d) len()
+Answer: c
+
+273. Which of the following is a type of network protocol?
+a) TCP
+b) UDP
+c) FTP
+d) All of these
+Answer: d
+
+274. Which of the following is NOT a valid data type in JavaScript?
+a) Number
+b) String
+c) Boolean
+d) Character
+Answer: d
+
+275. Which of the following is a type of cloud deployment?
+a) Public
+b) Private
+c) Hybrid
+d) All of these
+Answer: d
+
+276. Which of the following is NOT a valid SQL keyword?
+a) SELECT
+b) INSERT
+c) UPDATE
+d) PRINT
+Answer: d
+
+277. Which of the following is a type of data analytics?
+a) Descriptive
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+278. Which of the following is NOT a valid Python operator?
+a) +
+b) -
+c) **
+d) %%
+Answer: d
+
+279. Which of the following is a type of machine learning?
+a) Supervised
+b) Unsupervised
+c) Reinforcement
+d) All of these
+Answer: d
+
+280. Which of the following is NOT a valid SQL function?
+a) COUNT()
+b) SUM()
+c) AVG()
+d) PRINT()
+Answer: d
+
+281. Which of the following is a type of cloud computing service?
+a) IaaS
+b) PaaS
+c) SaaS
+d) All of these
+Answer: d
+
+282. Which of the following is NOT a valid Python method?
+a) append()
+b) pop()
+c) push()
+d) insert()
+Answer: c
+
+283. Which of the following is a type of network?
+a) LAN
+b) WAN
+c) MAN
+d) All of these
+Answer: d
+
+284. Which of the following is NOT a valid SQL constraint?
+a) PRIMARY KEY
+b) FOREIGN KEY
+c) UNIQUE
+d) PRINT
+Answer: d
+
+285. Which of the following is a type of AI?
+a) Weak AI
+b) Strong AI
+c) Both a and b
+d) None of these
+Answer: c
+
+286. Which of the following is NOT a valid Python library?
+a) numpy
+b) pandas
+c) matplotlib
+d) numpys
+Answer: d
+
+287. Which of the following is a type of network device?
+a) Router
+b) Switch
+c) Hub
+d) All of these
+Answer: d
+
+288. Which of the following is NOT a valid SQL join?
+a) INNER JOIN
+b) OUTER JOIN
+c) LEFT JOIN
+d) PRINT JOIN
+Answer: d
+
+289. Which of the following is a type of data analytics?
+a) Diagnostic
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+290. Which of the following is NOT a valid Python data type?
+a) int
+b) float
+c) string
+d) integer
+Answer: d
+
+291. Which of the following is a type of machine learning algorithm?
+a) Linear Regression
+b) Logistic Regression
+c) Decision Tree
+d) All of these
+Answer: d
+
+292. Which of the following is NOT a valid SQL clause?
+a) WHERE
+b) HAVING
+c) ORDER BY
+d) PRINT
+Answer: d
+
+293. Which of the following is a type of cloud service?
+a) SaaS
+b) PaaS
+c) IaaS
+d) All of these
+Answer: d
+
+294. Which of the following is NOT a valid Python function?
+a) print()
+b) input()
+c) len()
+d) output()
+Answer: d
+
+295. Which of the following is a type of network protocol?
+a) TCP
+b) UDP
+c) FTP
+d) All of these
+Answer: d
+
+296. Which of the following is NOT a valid data type in JavaScript?
+a) Number
+b) String
+c) Boolean
+d) Character
+Answer: d
+
+297. Which of the following is a type of cloud deployment?
+a) Public
+b) Private
+c) Hybrid
+d) All of these
+Answer: d
+
+298. Which of the following is NOT a valid SQL keyword?
+a) SELECT
+b) INSERT
+c) UPDATE
+d) PRINT
+Answer: d
+
+299. Which of the following is a type of data analytics?
+a) Descriptive
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+300. Which of the following is NOT a valid Python operator?
+a) +
+b) -
+c) **
+d) %%
+Answer: d
+
+301. Which of the following is a type of machine learning?
+a) Supervised
+b) Unsupervised
+c) Reinforcement
+d) All of these
+Answer: d
+
+302. Which of the following is NOT a valid SQL function?
+a) COUNT()
+b) SUM()
+c) AVG()
+d) PRINT()
+Answer: d
+
+303. Which of the following is a type of cloud computing service?
+a) IaaS
+b) PaaS
+c) SaaS
+d) All of these
+Answer: d
+
+304. Which of the following is NOT a valid Python method?
+a) append()
+b) pop()
+c) push()
+d) insert()
+Answer: c
+
+305. Which of the following is a type of network?
+a) LAN
+b) WAN
+c) MAN
+d) All of these
+Answer: d
+
+306. Which of the following is NOT a valid SQL constraint?
+a) PRIMARY KEY
+b) FOREIGN KEY
+c) UNIQUE
+d) PRINT
+Answer: d
+
+307. Which of the following is a type of AI?
+a) Weak AI
+b) Strong AI
+c) Both a and b
+d) None of these
+Answer: c
+
+308. Which of the following is NOT a valid Python library?
+a) numpy
+b) pandas
+c) matplotlib
+d) numpys
+Answer: d
+
+309. Which of the following is a type of network device?
+a) Router
+b) Switch
+c) Hub
+d) All of these
+Answer: d
+
+310. Which of the following is NOT a valid SQL join?
+a) INNER JOIN
+b) OUTER JOIN
+c) LEFT JOIN
+d) PRINT JOIN
+Answer: d
+
+311. Which of the following is a type of data analytics?
+a) Diagnostic
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+312. Which of the following is NOT a valid Python data type?
+a) int
+b) float
+c) string
+d) integer
+Answer: d
+
+313. Which of the following is a type of machine learning algorithm?
+a) Linear Regression
+b) Logistic Regression
+c) Decision Tree
+d) All of these
+Answer: d
+
+314. Which of the following is NOT a valid SQL clause?
+a) WHERE
+b) HAVING
+c) ORDER BY
+d) PRINT
+Answer: d
+
+315. Which of the following is a type of cloud service?
+a) SaaS
+b) PaaS
+c) IaaS
+d) All of these
+Answer: d
+
+316. Which of the following is NOT a valid Python function?
+a) print()
+b) input()
+c) len()
+d) output()
+Answer: d
+
+317. Which of the following is a type of network protocol?
+a) TCP
+b) UDP
+c) FTP
+d) All of these
+Answer: d
+
+318. Which of the following is NOT a valid data type in JavaScript?
+a) Number
+b) String
+c) Boolean
+d) Character
+Answer: d
+
+319. Which of the following is a type of cloud deployment?
+a) Public
+b) Private
+c) Hybrid
+d) All of these
+Answer: d
+
+320. Which of the following is NOT a valid SQL keyword?
+a) SELECT
+b) INSERT
+c) UPDATE
+d) PRINT
+Answer: d
+
+321. Which of the following is a type of data analytics?
+a) Descriptive
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+322. Which of the following is NOT a valid Python operator?
+a) +
+b) -
+c) **
+d) %%
+Answer: d
+
+323. Which of the following is a type of machine learning?
+a) Supervised
+b) Unsupervised
+c) Reinforcement
+d) All of these
+Answer: d
+
+324. Which of the following is NOT a valid SQL function?
+a) COUNT()
+b) SUM()
+c) AVG()
+d) PRINT()
+Answer: d
+
+325. Which of the following is a type of cloud computing service?
+a) IaaS
+b) PaaS
+c) SaaS
+d) All of these
+Answer: d
+
+326. Which of the following is NOT a valid Python method?
+a) append()
+b) pop()
+c) push()
+d) insert()
+Answer: c
+
+327. Which of the following is a type of network?
+a) LAN
+b) WAN
+c) MAN
+d) All of these
+Answer: d
+
+328. Which of the following is NOT a valid SQL constraint?
+a) PRIMARY KEY
+b) FOREIGN KEY
+c) UNIQUE
+d) PRINT
+Answer: d
+
+329. Which of the following is a type of AI?
+a) Weak AI
+b) Strong AI
+c) Both a and b
+d) None of these
+Answer: c
+
+330. Which of the following is NOT a valid Python library?
+a) numpy
+b) pandas
+c) matplotlib
+d) numpys
+Answer: d
+
+331. Which of the following is a type of network device?
+a) Router
+b) Switch
+c) Hub
+d) All of these
+Answer: d
+
+332. Which of the following is NOT a valid SQL join?
+a) INNER JOIN
+b) OUTER JOIN
+c) LEFT JOIN
+d) PRINT JOIN
+Answer: d
+
+333. Which of the following is a type of data analytics?
+a) Diagnostic
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+334. Which of the following is NOT a valid Python data type?
+a) int
+b) float
+c) string
+d) integer
+Answer: d
+
+335. Which of the following is a type of machine learning algorithm?
+a) Linear Regression
+b) Logistic Regression
+c) Decision Tree
+d) All of these
+Answer: d
+
+336. Which of the following is NOT a valid SQL clause?
+a) WHERE
+b) HAVING
+c) ORDER BY
+d) PRINT
+Answer: d
+
+337. Which of the following is a type of cloud service?
+a) SaaS
+b) PaaS
+c) IaaS
+d) All of these
+Answer: d
+
+338. Which of the following is NOT a valid Python function?
+a) print()
+b) input()
+c) len()
+d) output()
+Answer: d
+
+339. Which of the following is a type of network protocol?
+a) TCP
+b) UDP
+c) FTP
+d) All of these
+Answer: d
+
+340. Which of the following is NOT a valid data type in JavaScript?
+a) Number
+b) String
+c) Boolean
+d) Character
+Answer: d
+
+341. Which of the following is a type of cloud deployment?
+a) Public
+b) Private
+c) Hybrid
+d) All of these
+Answer: d
+
+342. Which of the following is NOT a valid SQL keyword?
+a) SELECT
+b) INSERT
+c) UPDATE
+d) PRINT
+Answer: d
+
+343. Which of the following is a type of data analytics?
+a) Descriptive
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+344. Which of the following is NOT a valid Python operator?
+a) +
+b) -
+c) **
+d) %%
+Answer: d
+
+345. Which of the following is a type of machine learning?
+a) Supervised
+b) Unsupervised
+c) Reinforcement
+d) All of these
+Answer: d
+
+346. Which of the following is NOT a valid SQL function?
+a) COUNT()
+b) SUM()
+c) AVG()
+d) PRINT()
+Answer: d
+
+347. Which of the following is a type of cloud computing service?
+a) IaaS
+b) PaaS
+c) SaaS
+d) All of these
+Answer: d
+
+348. Which of the following is NOT a valid Python method?
+a) append()
+b) pop()
+c) push()
+d) insert()
+Answer: c
+
+349. Which of the following is a type of network?
+a) LAN
+b) WAN
+c) MAN
+d) All of these
+Answer: d
+
+350. Which of the following is NOT a valid SQL constraint?
+a) PRIMARY KEY
+b) FOREIGN KEY
+c) UNIQUE
+d) PRINT
+Answer: d
+
+351. Which of the following is a type of AI?
+a) Weak AI
+b) Strong AI
+c) Both a and b
+d) None of these
+Answer: c
+
+352. Which of the following is NOT a valid Python library?
+a) numpy
+b) pandas
+c) matplotlib
+d) numpys
+Answer: d
+
+353. Which of the following is a type of network device?
+a) Router
+b) Switch
+c) Hub
+d) All of these
+Answer: d
+
+354. Which of the following is NOT a valid SQL join?
+a) INNER JOIN
+b) OUTER JOIN
+c) LEFT JOIN
+d) PRINT JOIN
+Answer: d
+
+355. Which of the following is a type of data analytics?
+a) Diagnostic
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+356. Which of the following is NOT a valid Python data type?
+a) int
+b) float
+c) string
+d) integer
+Answer: d
+
+357. Which of the following is a type of machine learning algorithm?
+a) Linear Regression
+b) Logistic Regression
+c) Decision Tree
+d) All of these
+Answer: d
+
+358. Which of the following is NOT a valid SQL clause?
+a) WHERE
+b) HAVING
+c) ORDER BY
+d) PRINT
+Answer: d
+
+359. Which of the following is a type of cloud service?
+a) SaaS
+b) PaaS
+c) IaaS
+d) All of these
+Answer: d
+
+360. Which of the following is NOT a valid Python function?
+a) print()
+b) input()
+c) len()
+d) output()
+Answer: d
+
+361. Which of the following is a type of network protocol?
+a) TCP
+b) UDP
+c) FTP
+d) All of these
+Answer: d
+
+362. Which of the following is NOT a valid data type in JavaScript?
+a) Number
+b) String
+c) Boolean
+d) Character
+Answer: d
+
+363. Which of the following is a type of cloud deployment?
+a) Public
+b) Private
+c) Hybrid
+d) All of these
+Answer: d
+
+364. Which of the following is NOT a valid SQL keyword?
+a) SELECT
+b) INSERT
+c) UPDATE
+d) PRINT
+Answer: d
+
+365. Which of the following is a type of data analytics?
+a) Descriptive
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+366. Which of the following is NOT a valid Python operator?
+a) +
+b) -
+c) **
+d) %%
+Answer: d
+
+367. Which of the following is a type of machine learning?
+a) Supervised
+b) Unsupervised
+c) Reinforcement
+d) All of these
+Answer: d
+
+368. Which of the following is NOT a valid SQL function?
+a) COUNT()
+b) SUM()
+c) AVG()
+d) PRINT()
+Answer: d
+
+369. Which of the following is a type of cloud computing service?
+a) IaaS
+b) PaaS
+c) SaaS
+d) All of these
+Answer: d
+
+370. Which of the following is NOT a valid Python method?
+a) append()
+b) pop()
+c) push()
+d) insert()
+Answer: c
+
+371. Which of the following is a type of network?
+a) LAN
+b) WAN
+c) MAN
+d) All of these
+Answer: d
+
+372. Which of the following is NOT a valid SQL constraint?
+a) PRIMARY KEY
+b) FOREIGN KEY
+c) UNIQUE
+d) PRINT
+Answer: d
+
+373. Which of the following is a type of AI?
+a) Weak AI
+b) Strong AI
+c) Both a and b
+d) None of these
+Answer: c
+
+374. Which of the following is NOT a valid Python library?
+a) numpy
+b) pandas
+c) matplotlib
+d) numpys
+Answer: d
+
+375. Which of the following is a type of network device?
+a) Router
+b) Switch
+c) Hub
+d) All of these
+Answer: d
+
+376. Which of the following is NOT a valid SQL join?
+a) INNER JOIN
+b) OUTER JOIN
+c) LEFT JOIN
+d) PRINT JOIN
+Answer: d
+
+377. Which of the following is a type of data analytics?
+a) Diagnostic
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+378. Which of the following is NOT a valid Python data type?
+a) int
+b) float
+c) string
+d) integer
+Answer: d
+
+379. Which of the following is a type of machine learning algorithm?
+a) Linear Regression
+b) Logistic Regression
+c) Decision Tree
+d) All of these
+Answer: d
+
+380. Which of the following is NOT a valid SQL clause?
+a) WHERE
+b) HAVING
+c) ORDER BY
+d) PRINT
+Answer: d
+
+381. Which of the following is a type of cloud service?
+a) SaaS
+b) PaaS
+c) IaaS
+d) All of these
+Answer: d
+
+382. Which of the following is NOT a valid Python function?
+a) print()
+b) input()
+c) len()
+d) output()
+Answer: d
+
+383. Which of the following is a type of network protocol?
+a) TCP
+b) UDP
+c) FTP
+d) All of these
+Answer: d
+
+384. Which of the following is NOT a valid data type in JavaScript?
+a) Number
+b) String
+c) Boolean
+d) Character
+Answer: d
+
+385. Which of the following is a type of cloud deployment?
+a) Public
+b) Private
+c) Hybrid
+d) All of these
+Answer: d
+
+386. Which of the following is NOT a valid SQL keyword?
+a) SELECT
+b) INSERT
+c) UPDATE
+d) PRINT
+Answer: d
+
+387. Which of the following is a type of data analytics?
+a) Descriptive
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+388. Which of the following is NOT a valid Python operator?
+a) +
+b) -
+c) **
+d) %%
+Answer: d
+
+389. Which of the following is a type of machine learning?
+a) Supervised
+b) Unsupervised
+c) Reinforcement
+d) All of these
+Answer: d
+
+390. Which of the following is NOT a valid SQL function?
+a) COUNT()
+b) SUM()
+c) AVG()
+d) PRINT()
+Answer: d
+
+391. Which of the following is a type of cloud computing service?
+a) IaaS
+b) PaaS
+c) SaaS
+d) All of these
+Answer: d
+
+392. Which of the following is NOT a valid Python method?
+a) append()
+b) pop()
+c) push()
+d) insert()
+Answer: c
+
+393. Which of the following is a type of network?
+a) LAN
+b) WAN
+c) MAN
+d) All of these
+Answer: d
+
+394. Which of the following is NOT a valid SQL constraint?
+a) PRIMARY KEY
+b) FOREIGN KEY
+c) UNIQUE
+d) PRINT
+Answer: d
+
+395. Which of the following is a type of AI?
+a) Weak AI
+b) Strong AI
+c) Both a and b
+d) None of these
+Answer: c
+
+396. Which of the following is NOT a valid Python library?
+a) numpy
+b) pandas
+c) matplotlib
+d) numpys
+Answer: d
+
+397. Which of the following is a type of network device?
+a) Router
+b) Switch
+c) Hub
+d) All of these
+Answer: d
+
+398. Which of the following is NOT a valid SQL join?
+a) INNER JOIN
+b) OUTER JOIN
+c) LEFT JOIN
+d) PRINT JOIN
+Answer: d
+
+399. Which of the following is a type of data analytics?
+a) Diagnostic
+b) Predictive
+c) Prescriptive
+d) All of these
+Answer: d
+
+400. Which of the following is NOT a valid Python data type?
+a) int
+b) float
+c) string
+d) integer
+Answer: d
+
+401. Which planet is known as the Red Planet?
+a) Venus
+b) Mars
+c) Jupiter
+d) Mercury
+Answer: b
+
+402. Who wrote the play "Romeo and Juliet"?
+a) William Shakespeare
+b) Charles Dickens
+c) Jane Austen
+d) Mark Twain
+Answer: a
+
+403. What is the capital city of Canada?
+a) Toronto
+b) Ottawa
+c) Vancouver
+d) Montreal
+Answer: b
+
+404. Which gas do plants absorb from the atmosphere?
+a) Oxygen
+b) Nitrogen
+c) Carbon Dioxide
+d) Hydrogen
+Answer: c
+
+405. Who is known as the Father of Computers?
+a) Charles Babbage
+b) Alan Turing
+c) Bill Gates
+d) Steve Jobs
+Answer: a
+
+406. What is the largest mammal in the world?
+a) African Elephant
+b) Blue Whale
+c) Giraffe
+d) Hippopotamus
+Answer: b
+
+407. Which element has the chemical symbol 'O'?
+a) Oxygen
+b) Gold
+c) Silver
+d) Iron
+Answer: a
+
+408. What is the boiling point of water at sea level?
+a) 100°C
+b) 90°C
+c) 80°C
+d) 120°C
+Answer: a
+
+409. Who painted the Mona Lisa?
+a) Leonardo da Vinci
+b) Pablo Picasso
+c) Vincent van Gogh
+d) Michelangelo
+Answer: a
+
+410. Which country is known as the Land of the Rising Sun?
+a) Japan
+b) China
+c) Thailand
+d) South Korea
+Answer: a
+
+411. What is the hardest natural substance on Earth?
 a) Diamond
 b) Gold
 c) Iron
-d) Silver
+d) Quartz
+Answer: a
 
-224. The largest mosque in Pakistan is:
-a) Faisal Mosque
-b) Badshahi Mosque
-c) Data Darbar Mosque
-d) Shah Jahan Mosque
+412. Which continent is the Sahara Desert located in?
+a) Africa
+b) Asia
+c) Australia
+d) South America
+Answer: a
 
-225. The study of plants is called:
-a) Botany
-b) Zoology
-c) Anatomy
-d) Ecology
+413. Who discovered penicillin?
+a) Alexander Fleming
+b) Marie Curie
+c) Isaac Newton
+d) Albert Einstein
+Answer: a
 
-226. The first constitution of Pakistan was enforced in:
-a) 1956
-b) 1962
-c) 1973
-d) 1947
+414. What is the main language spoken in Brazil?
+a) Portuguese
+b) Spanish
+c) English
+d) French
+Answer: a
 
-227. The largest province of Pakistan by area is:
-a) Balochistan
-b) Punjab
-c) Sindh
-d) Khyber Pakhtunkhwa
+415. Which is the smallest prime number?
+a) 2
+b) 1
+c) 3
+d) 5
+Answer: a
 
-228. The chemical formula of water is:
-a) H2O
-b) CO2
-c) O2
-d) NaCl
+416. What is the chemical symbol for Sodium?
+a) Na
+b) S
+c) So
+d) N
+Answer: a
 
-229. The national animal of Pakistan is:
-a) Markhor
-b) Lion
-c) Tiger
-d) Elephant
-
-230. The first Surah of the Holy Quran is:
-a) Al-Fatiha
-b) Al-Baqarah
-c) Al-Ikhlas
-d) Al-Nas
-
-231. The largest city of Pakistan by population is:
-a) Karachi
-b) Lahore
-c) Islamabad
-d) Faisalabad
-
-232. The study of the universe is called:
-a) Astronomy
-b) Astrology
-c) Anatomy
-d) Geology
-
-233. The first woman to win a Nobel Prize was:
-a) Marie Curie
-b) Malala Yousafzai
-c) Benazir Bhutto
-d) Mother Teresa
-
-234. The largest gland in the human body is:
-a) Liver
-b) Pancreas
-c) Thyroid
-d) Pituitary
-
-235. The national sport of Pakistan is:
-a) Hockey
-b) Cricket
-c) Football
-d) Squash
-
-236. The first battle of Islam was:
-a) Battle of Badr
-b) Battle of Uhud
-c) Battle of Khandaq
-d) Battle of Tabuk
-
-237. The largest lake in Pakistan is:
-a) Manchar Lake
-b) Saif ul Malook
-c) Keenjhar Lake
-d) Hanna Lake
-
-238. The study of the human mind is called:
-a) Psychology
-b) Sociology
-c) Anthropology
-d) Physiology
-
-239. The first Caliph of Islam was:
-a) Hazrat Abu Bakr (RA)
-b) Hazrat Umar (RA)
-c) Hazrat Usman (RA)
-d) Hazrat Ali (RA)
-
-240. The largest island in the world is:
-a) Greenland
-b) Australia
-c) Madagascar
-d) Borneo
-
-241. The first Nobel Prize for Literature was awarded in:
-a) 1901
-b) 1910
-c) 1920
-d) 1930
-
-242. The largest bone in the human body is:
-a) Femur
-b) Tibia
-c) Humerus
-d) Radius
-
-243. The first computer virus was called:
-a) Creeper
-b) ILOVEYOU
-c) Melissa
-d) Stuxnet
-
-244. The largest mammal in the world is:
-a) Blue Whale
-b) Elephant
-c) Giraffe
-d) Hippopotamus
-
-245. The first Olympic Games were held in:
-a) Greece
-b) Rome
-c) France
-d) England
-
-246. The largest land animal is:
-a) African Elephant
-b) Giraffe
-c) Hippopotamus
-d) Rhinoceros
-
-247. The first Pakistani to win Nobel Prize was:
-a) Dr. Abdus Salam
-b) Malala Yousafzai
-c) Benazir Bhutto
-d) Liaquat Ali Khan
-
-248. The largest bird in the world is:
-a) Ostrich
-b) Eagle
-c) Vulture
-d) Peacock
-
-249. The first Islamic state was established in:
-a) Madina
-b) Makkah
-c) Jerusalem
-d) Baghdad
-
-250. The largest volcano in the world is:
-a) Mauna Loa
-b) Mount Fuji
-c) Mount Etna
-d) Mount Vesuvius
-
-251. The first President of the United States was:
-a) George Washington
-b) Abraham Lincoln
-c) Thomas Jefferson
-d) John Adams
-
-252. The largest freshwater lake in the world is:
-a) Lake Superior
-b) Lake Victoria
-c) Lake Baikal
-d) Lake Tanganyika
-
-253. The first man to walk on the moon was:
+417. Who was the first man to walk on the moon?
 a) Neil Armstrong
 b) Buzz Aldrin
 c) Yuri Gagarin
 d) Michael Collins
+Answer: a
 
-254. The largest railway station in Pakistan is:
-a) Lahore Junction
-b) Karachi Cantt
-c) Rawalpindi
-d) Multan
+418. Which organ purifies blood in the human body?
+a) Kidney
+b) Heart
+c) Liver
+d) Lungs
+Answer: a
 
-255. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
+419. What is the largest ocean on Earth?
+a) Pacific Ocean
+b) Atlantic Ocean
+c) Indian Ocean
+d) Arctic Ocean
+Answer: a
 
-256. The largest producer of rice in the world is:
-a) China
-b) India
-c) Pakistan
-d) Indonesia
+420. Which country gifted the Statue of Liberty to the USA?
+a) France
+b) England
+c) Germany
+d) Italy
+Answer: a
 
-257. The first atomic bomb was dropped on:
-a) Hiroshima
-b) Nagasaki
-c) Tokyo
-d) Osaka
+421. What is the square root of 64?
+a) 8
+b) 6
+c) 7
+d) 9
+Answer: a
 
-258. The largest river in the world is:
+422. Who is the author of "Harry Potter" series?
+a) J.K. Rowling
+b) J.R.R. Tolkien
+c) Stephen King
+d) Agatha Christie
+Answer: a
+
+423. Which is the longest river in the world?
 a) Nile
 b) Amazon
 c) Yangtze
 d) Mississippi
+Answer: a
 
-259. The first woman to climb Mount Everest was:
-a) Junko Tabei
-b) Bachendri Pal
-c) Gerlinde Kaltenbrunner
-d) Wanda Rutkiewicz
+424. What is the capital of Australia?
+a) Canberra
+b) Sydney
+c) Melbourne
+d) Brisbane
+Answer: a
 
-260. The largest country by area is:
+425. Which vitamin is produced when the skin is exposed to sunlight?
+a) Vitamin D
+b) Vitamin C
+c) Vitamin A
+d) Vitamin B12
+Answer: a
+
+426. Who invented the telephone?
+a) Alexander Graham Bell
+b) Thomas Edison
+c) Nikola Tesla
+d) Michael Faraday
+Answer: a
+
+427. What is the largest planet in our solar system?
+a) Jupiter
+b) Saturn
+c) Earth
+d) Mars
+Answer: a
+
+428. Which country is famous for the Eiffel Tower?
+a) France
+b) Italy
+c) Spain
+d) Germany
+Answer: a
+
+429. What is the process by which plants make their food?
+a) Photosynthesis
+b) Respiration
+c) Digestion
+d) Fermentation
+Answer: a
+
+430. Who is known as the Iron Man of India?
+a) Sardar Vallabhbhai Patel
+b) Mahatma Gandhi
+c) Jawaharlal Nehru
+d) Subhas Chandra Bose
+Answer: a
+
+431. Which is the smallest continent by land area?
+a) Australia
+b) Europe
+c) Antarctica
+d) South America
+Answer: a
+
+432. What is the freezing point of water?
+a) 0°C
+b) 10°C
+c) 32°C
+d) 100°C
+Answer: a
+
+433. Who is the founder of Microsoft?
+a) Bill Gates
+b) Steve Jobs
+c) Mark Zuckerberg
+d) Larry Page
+Answer: a
+
+434. Which animal is known as the Ship of the Desert?
+a) Camel
+b) Horse
+c) Elephant
+d) Donkey
+Answer: a
+
+435. What is the capital of Italy?
+a) Rome
+b) Milan
+c) Venice
+d) Florence
+Answer: a
+
+436. Which is the largest bone in the human body?
+a) Femur
+b) Tibia
+c) Humerus
+d) Radius
+Answer: a
+
+437. Who was the first President of the United States?
+a) George Washington
+b) Abraham Lincoln
+c) Thomas Jefferson
+d) John Adams
+Answer: a
+
+438. What is the main source of energy for the Earth?
+a) Sun
+b) Moon
+c) Wind
+d) Water
+Answer: a
+
+439. Which is the longest bone in the human body?
+a) Femur
+b) Tibia
+c) Fibula
+d) Ulna
+Answer: a
+
+440. What is the capital of Japan?
+a) Tokyo
+b) Osaka
+c) Kyoto
+d) Hiroshima
+Answer: a
+
+441. Who is the inventor of the light bulb?
+a) Thomas Edison
+b) Nikola Tesla
+c) Alexander Graham Bell
+d) James Watt
+Answer: a
+
+442. Which is the largest continent?
+a) Asia
+b) Africa
+c) Europe
+d) North America
+Answer: a
+
+443. What is the chemical symbol for Iron?
+a) Fe
+b) Ir
+c) In
+d) I
+Answer: a
+
+444. Who is the author of "Pride and Prejudice"?
+a) Jane Austen
+b) Emily Bronte
+c) Charles Dickens
+d) George Eliot
+Answer: a
+
+445. Which is the fastest land animal?
+a) Cheetah
+b) Lion
+c) Tiger
+d) Leopard
+Answer: a
+
+446. What is the capital of Germany?
+a) Berlin
+b) Munich
+c) Frankfurt
+d) Hamburg
+Answer: a
+
+447. Which is the largest island in the world?
+a) Greenland
+b) Australia
+c) Borneo
+d) Madagascar
+Answer: a
+
+448. Who discovered gravity?
+a) Isaac Newton
+b) Albert Einstein
+c) Galileo Galilei
+d) Johannes Kepler
+Answer: a
+
+449. What is the main ingredient in bread?
+a) Flour
+b) Sugar
+c) Salt
+d) Oil
+Answer: a
+
+450. Which is the smallest ocean in the world?
+a) Arctic Ocean
+b) Indian Ocean
+c) Atlantic Ocean
+d) Pacific Ocean
+Answer: a
+
+451. Who is the founder of Facebook?
+a) Mark Zuckerberg
+b) Bill Gates
+c) Steve Jobs
+d) Larry Page
+Answer: a
+
+452. What is the capital of Russia?
+a) Moscow
+b) St. Petersburg
+c) Novosibirsk
+d) Kazan
+Answer: a
+
+453. Which is the largest country by area?
 a) Russia
 b) Canada
 c) China
 d) USA
+Answer: a
 
-261. The first Islamic year started in:
-a) 622 AD
-b) 610 AD
-c) 632 AD
-d) 570 AD
+454. What is the chemical symbol for Gold?
+a) Au
+b) Ag
+c) Go
+d) Gd
+Answer: a
 
-262. The largest producer of oil in the world is:
-a) USA
-b) Saudi Arabia
-c) Russia
-d) China
+455. Who is known as the Nightingale of India?
+a) Sarojini Naidu
+b) Indira Gandhi
+c) Lata Mangeshkar
+d) Mother Teresa
+Answer: a
 
-263. The first capital of Pakistan was:
-a) Karachi
-b) Lahore
-c) Islamabad
-d) Peshawar
+456. Which is the tallest mountain in the world?
+a) Mount Everest
+b) K2
+c) Kangchenjunga
+d) Lhotse
+Answer: a
 
-264. The largest cell in the human body is:
-a) Ovum
-b) Neuron
-c) Red blood cell
-d) White blood cell
+457. What is the capital of China?
+a) Beijing
+b) Shanghai
+c) Guangzhou
+d) Shenzhen
+Answer: a
 
-265. The first woman Speaker of National Assembly of Pakistan was:
-a) Dr. Fehmida Mirza
-b) Benazir Bhutto
-c) Hina Rabbani Khar
-d) Sherry Rehman
+458. Who invented the aeroplane?
+a) Wright Brothers
+b) Alexander Graham Bell
+c) Thomas Edison
+d) Nikola Tesla
+Answer: a
 
-266. The largest source of energy in the world is:
-a) Sun
-b) Coal
-c) Oil
-d) Gas
-
-267. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-268. The largest producer of wheat in the world is:
-a) China
-b) India
-c) Russia
-d) USA
-
-269. The first woman to win Nobel Prize in Physics was:
-a) Marie Curie
-b) Dorothy Hodgkin
-c) Rosalind Franklin
-d) Ada Lovelace
-
-270. The largest sea in the world is:
-a) Philippine Sea
-b) Coral Sea
-c) Arabian Sea
-d) South China Sea
-
-271. The first Islamic battle was fought in:
-a) 2 Hijri
-b) 1 Hijri
-c) 3 Hijri
-d) 4 Hijri
-
-272. The largest producer of cotton in the world is:
-a) China
-b) India
-c) USA
-d) Pakistan
-
-273. The first woman to win Nobel Prize in Chemistry was:
-a) Marie Curie
-b) Dorothy Hodgkin
-c) Ada Yonath
-d) Frances Arnold
-
-274. The largest peninsula in the world is:
-a) Arabian Peninsula
-b) Indian Peninsula
-c) Malay Peninsula
-d) Iberian Peninsula
-
-275. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-276. The largest producer of sugarcane in the world is:
-a) Brazil
-b) India
-c) China
-d) Thailand
-
-277. The first woman to win Nobel Prize in Medicine was:
-a) Gerty Cori
-b) Rosalyn Yalow
-c) Rita Levi-Montalcini
-d) Barbara McClintock
-
-278. The largest archipelago in the world is:
-a) Indonesia
-b) Philippines
-c) Japan
-d) Maldives
-
-279. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-280. The largest producer of tea in the world is:
-a) China
-b) India
-c) Kenya
-d) Sri Lanka
-
-281. The first woman to win Nobel Prize in Peace was:
-a) Bertha von Suttner
-b) Malala Yousafzai
-c) Mother Teresa
-d) Aung San Suu Kyi
-
-282. The largest plateau in the world is:
-a) Tibetan Plateau
-b) Deccan Plateau
-c) Colorado Plateau
-d) Altiplano
-
-283. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-284. The largest producer of coffee in the world is:
-a) Brazil
-b) Vietnam
-c) Colombia
-d) Indonesia
-
-285. The first woman to win Nobel Prize in Economics was:
-a) Elinor Ostrom
-b) Esther Duflo
-c) Amartya Sen
-d) Joan Robinson
-
-286. The largest gulf in the world is:
-a) Gulf of Mexico
-b) Persian Gulf
-c) Gulf of Aden
-d) Gulf of Alaska
-
-287. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-288. The largest producer of gold in the world is:
-a) China
-b) Australia
-c) Russia
-d) USA
-
-289. The first woman to win Nobel Prize in Literature was:
-a) Selma Lagerlöf
-b) Toni Morrison
-c) Pearl S. Buck
-d) Nadine Gordimer
-
-290. The largest waterfall in the world is:
-a) Angel Falls
-b) Niagara Falls
-c) Victoria Falls
-d) Iguazu Falls
-
-291. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-292. The largest producer of silver in the world is:
-a) Mexico
-b) Peru
-c) China
-d) Australia
-
-293. The first woman to win Nobel Prize in any field was:
-a) Marie Curie
-b) Dorothy Hodgkin
-c) Rosalind Franklin
-d) Ada Lovelace
-
-294. The largest bay in the world is:
-a) Bay of Bengal
-b) Hudson Bay
-c) Bay of Biscay
-d) Bay of Fundy
-
-295. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-296. The largest producer of copper in the world is:
-a) Chile
-b) China
-c) Peru
-d) USA
-
-297. The first woman to win Nobel Prize in two different fields was:
-a) Marie Curie
-b) Dorothy Hodgkin
-c) Ada Yonath
-d) Frances Arnold
-
-298. The largest canyon in the world is:
-a) Grand Canyon
-b) Yarlung Tsangpo Canyon
-c) Copper Canyon
-d) Fish River Canyon
-
-299. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-300. The largest producer of diamonds in the world is:
-a) Russia
-b) Botswana
-c) Canada
-d) Australia
-
-301. The first woman to win Nobel Prize in Physics and Chemistry was:
-a) Marie Curie
-b) Dorothy Hodgkin
-c) Ada Yonath
-d) Frances Arnold
-
-302. The largest delta in the world is:
-a) Ganges-Brahmaputra Delta
-b) Nile Delta
-c) Amazon Delta
-d) Mississippi Delta
-
-303. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-304. The largest producer of natural gas in the world is:
-a) USA
-b) Russia
-c) Iran
-d) Qatar
-
-305. The first woman to win Nobel Prize in Peace from Pakistan was:
-a) Malala Yousafzai
-b) Benazir Bhutto
-c) Asma Jahangir
-d) Sherry Rehman
-
-306. The largest coral reef in the world is:
-a) Great Barrier Reef
-b) Red Sea Coral Reef
-c) New Caledonia Barrier Reef
-d) Mesoamerican Barrier Reef
-
-307. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-308. The largest producer of platinum in the world is:
-a) South Africa
-b) Russia
-c) Canada
-d) USA
-
-309. The first woman to win Nobel Prize in Medicine and Physiology was:
-a) Gerty Cori
-b) Rosalyn Yalow
-c) Rita Levi-Montalcini
-d) Barbara McClintock
-
-310. The largest hot desert in the world is:
+459. Which is the largest desert in the world?
 a) Sahara
 b) Arabian
 c) Gobi
 d) Kalahari
+Answer: a
 
-311. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
+460. What is the main function of the heart?
+a) Pump blood
+b) Filter blood
+c) Digest food
+d) Produce hormones
+Answer: a
 
-312. The largest producer of aluminum in the world is:
-a) China
-b) India
-c) Russia
-d) Canada
+461. Who is the author of "The Odyssey"?
+a) Homer
+b) Virgil
+c) Sophocles
+d) Plato
+Answer: a
 
-313. The first woman to win Nobel Prize in Peace from Asia was:
-a) Aung San Suu Kyi
-b) Malala Yousafzai
-c) Mother Teresa
-d) Tawakkol Karman
+462. Which is the largest lake in the world?
+a) Caspian Sea
+b) Superior
+c) Victoria
+d) Baikal
+Answer: a
 
-314. The largest cold desert in the world is:
-a) Antarctica
-b) Gobi
-c) Atacama
-d) Kyzylkum
+463. What is the capital of Egypt?
+a) Cairo
+b) Alexandria
+c) Giza
+d) Luxor
+Answer: a
 
-315. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
+464. Who is known as the Father of the Nation in India?
+a) Mahatma Gandhi
+b) Jawaharlal Nehru
+c) Sardar Patel
+d) Subhas Chandra Bose
+Answer: a
 
-316. The largest producer of cocoa in the world is:
-a) Ivory Coast
-b) Ghana
-c) Indonesia
-d) Nigeria
+465. Which is the largest organ in the human body?
+a) Skin
+b) Liver
+c) Heart
+d) Lungs
+Answer: a
 
-317. The first woman to win Nobel Prize in Literature from Africa was:
-a) Nadine Gordimer
-b) Wole Soyinka
-c) Doris Lessing
-d) Naguib Mahfouz
+466. What is the capital of Spain?
+a) Madrid
+b) Barcelona
+c) Valencia
+d) Seville
+Answer: a
 
-318. The largest island country in the world is:
+467. Who is the founder of Pakistan?
+a) Muhammad Ali Jinnah
+b) Allama Iqbal
+c) Liaquat Ali Khan
+d) Zulfikar Ali Bhutto
+Answer: a
+
+468. Which is the largest river in Pakistan?
+a) Indus
+b) Jhelum
+c) Chenab
+d) Ravi
+Answer: a
+
+469. What is the national flower of Pakistan?
+a) Jasmine
+b) Rose
+c) Lily
+d) Sunflower
+Answer: a
+
+470. Who is the current Secretary-General of the United Nations (as of 2024)?
+a) António Guterres
+b) Ban Ki-moon
+c) Kofi Annan
+d) Boutros Boutros-Ghali
+Answer: a
+
+471. Which is the largest mosque in Pakistan?
+a) Faisal Mosque
+b) Badshahi Mosque
+c) Wazir Khan Mosque
+d) Shah Jahan Mosque
+Answer: a
+
+472. What is the national animal of Pakistan?
+a) Markhor
+b) Lion
+c) Tiger
+d) Elephant
+Answer: a
+
+473. Who is the first female Prime Minister of Pakistan?
+a) Benazir Bhutto
+b) Fatima Jinnah
+c) Hina Rabbani Khar
+d) Asma Jahangir
+Answer: a
+
+474. Which is the highest civilian award of Pakistan?
+a) Nishan-e-Pakistan
+b) Sitara-e-Imtiaz
+c) Tamgha-e-Shujaat
+d) Hilal-e-Imtiaz
+Answer: a
+
+475. What is the capital of Balochistan province?
+a) Quetta
+b) Karachi
+c) Lahore
+d) Peshawar
+Answer: a
+
+476. Which is the largest dam in Pakistan?
+a) Tarbela Dam
+b) Mangla Dam
+c) Warsak Dam
+d) Hub Dam
+Answer: a
+
+477. Who is the founder of Microsoft?
+a) Bill Gates
+b) Steve Jobs
+c) Mark Zuckerberg
+d) Jeff Bezos
+Answer: a
+
+478. What is the capital of Khyber Pakhtunkhwa?
+a) Peshawar
+b) Quetta
+c) Lahore
+d) Karachi
+Answer: a
+
+479. Which is the largest city in Pakistan?
+a) Karachi
+b) Lahore
+c) Islamabad
+d) Multan
+Answer: a
+
+480. What is the national sport of Pakistan?
+a) Field Hockey
+b) Cricket
+c) Football
+d) Squash
+Answer: a
+
+481. Who is the first President of Pakistan?
+a) Iskander Mirza
+b) Ayub Khan
+c) Zia-ul-Haq
+d) Pervez Musharraf
+Answer: a
+
+482. Which is the highest peak in Pakistan?
+a) K2
+b) Nanga Parbat
+c) Broad Peak
+d) Gasherbrum I
+Answer: a
+
+483. What is the currency of Japan?
+a) Yen
+b) Dollar
+c) Won
+d) Yuan
+Answer: a
+
+484. Who is the founder of Apple Inc.?
+a) Steve Jobs
+b) Bill Gates
+c) Mark Zuckerberg
+d) Elon Musk
+Answer: a
+
+485. Which is the largest volcano in the world?
+a) Mauna Loa
+b) Mount Fuji
+c) Mount Etna
+d) Mount Vesuvius
+Answer: a
+
+486. What is the capital of France?
+a) Paris
+b) Lyon
+c) Marseille
+d) Nice
+Answer: a
+
+487. Who is the author of "The Alchemist"?
+a) Paulo Coelho
+b) Gabriel Garcia Marquez
+c) Dan Brown
+d) Ernest Hemingway
+Answer: a
+
+488. Which is the largest bay in the world?
+a) Bay of Bengal
+b) Hudson Bay
+c) Bay of Biscay
+d) San Francisco Bay
+Answer: a
+
+489. What is the capital of Turkey?
+a) Ankara
+b) Istanbul
+c) Izmir
+d) Bursa
+Answer: a
+
+490. Who is the founder of Google?
+a) Larry Page and Sergey Brin
+b) Bill Gates and Paul Allen
+c) Steve Jobs and Steve Wozniak
+d) Mark Zuckerberg and Dustin Moskovitz
+Answer: a
+
+491. Which is the largest waterfall in the world?
+a) Angel Falls
+b) Niagara Falls
+c) Victoria Falls
+d) Iguazu Falls
+Answer: a
+
+492. What is the capital of Saudi Arabia?
+a) Riyadh
+b) Jeddah
+c) Mecca
+d) Medina
+Answer: a
+
+493. Who is the author of "War and Peace"?
+a) Leo Tolstoy
+b) Fyodor Dostoevsky
+c) Anton Chekhov
+d) Ivan Turgenev
+Answer: a
+
+494. Which is the largest peninsula in the world?
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+Answer: a
+
+495. What is the capital of South Africa?
+a) Pretoria
+b) Cape Town
+c) Johannesburg
+d) Durban
+Answer: a
+
+496. Who is the founder of Amazon?
+a) Jeff Bezos
+b) Elon Musk
+c) Bill Gates
+d) Larry Page
+Answer: a
+
+497. Which is the largest gulf in the world?
+a) Gulf of Mexico
+b) Persian Gulf
+c) Gulf of Aden
+d) Gulf of Alaska
+Answer: a
+
+498. What is the capital of Argentina?
+a) Buenos Aires
+b) Santiago
+c) Lima
+d) Montevideo
+Answer: a
+
+499. Who is the author of "The Great Gatsby"?
+a) F. Scott Fitzgerald
+b) Ernest Hemingway
+c) Mark Twain
+d) John Steinbeck
+Answer: a
+
+500. Which is the largest stadium in the world by capacity?
+a) Rungrado 1st of May Stadium
+b) Melbourne Cricket Ground
+c) Camp Nou
+d) Wembley Stadium
+Answer: a
+
+501. What is the capital of Malaysia?
+a) Kuala Lumpur
+b) Jakarta
+c) Bangkok
+d) Manila
+Answer: a
+
+502. Who is the founder of Tesla, Inc.?
+a) Elon Musk
+b) Jeff Bezos
+c) Bill Gates
+d) Steve Jobs
+Answer: a
+
+503. Which is the largest archipelago in the world?
+a) Indonesia
+b) Philippines
+c) Maldives
+d) Japan
+Answer: a
+
+504. What is the capital of Thailand?
+a) Bangkok
+b) Hanoi
+c) Phnom Penh
+d) Vientiane
+Answer: a
+
+505. Who is the author of "To Kill a Mockingbird"?
+a) Harper Lee
+b) J.D. Salinger
+c) George Orwell
+d) William Faulkner
+Answer: a
+
+506. Which is the largest coral reef system in the world?
+a) Great Barrier Reef
+b) Red Sea Coral Reef
+c) New Caledonia Barrier Reef
+d) Mesoamerican Barrier Reef
+Answer: a
+
+507. What is the capital of Norway?
+a) Oslo
+b) Stockholm
+c) Copenhagen
+d) Helsinki
+Answer: a
+
+508. Who is the founder of Twitter?
+a) Jack Dorsey
+b) Mark Zuckerberg
+c) Larry Page
+d) Steve Jobs
+Answer: a
+
+509. Which is the largest cave in the world?
+a) Son Doong Cave
+b) Mammoth Cave
+c) Krubera Cave
+d) Deer Cave
+Answer: a
+
+510. What is the capital of Sweden?
+a) Stockholm
+b) Oslo
+c) Helsinki
+d) Copenhagen
+Answer: a
+
+511. Who is the author of "1984"?
+a) George Orwell
+b) Aldous Huxley
+c) Ray Bradbury
+d) J.K. Rowling
+Answer: a
+
+512. Which is the largest hot desert in the world?
+a) Sahara
+b) Arabian
+c) Gobi
+d) Kalahari
+Answer: a
+
+513. What is the capital of Switzerland?
+a) Bern
+b) Zurich
+c) Geneva
+d) Basel
+Answer: a
+
+514. Who is the founder of SpaceX?
+a) Elon Musk
+b) Jeff Bezos
+c) Richard Branson
+d) Bill Gates
+Answer: a
+
+515. Which is the largest sea in the world?
+a) Philippine Sea
+b) Coral Sea
+c) Arabian Sea
+d) South China Sea
+Answer: a
+
+516. What is the capital of Netherlands?
+a) Amsterdam
+b) Rotterdam
+c) The Hague
+d) Utrecht
+Answer: a
+
+517. Who is the author of "The Catcher in the Rye"?
+a) J.D. Salinger
+b) F. Scott Fitzgerald
+c) Ernest Hemingway
+d) John Steinbeck
+Answer: a
+
+518. Which is the largest freshwater lake in the world by volume?
+a) Lake Baikal
+b) Lake Superior
+c) Lake Victoria
+d) Lake Tanganyika
+Answer: a
+
+519. What is the capital of Greece?
+a) Athens
+b) Thessaloniki
+c) Patras
+d) Heraklion
+Answer: a
+
+520. Who is the founder of Alibaba Group?
+a) Jack Ma
+b) Pony Ma
+c) Robin Li
+d) Lei Jun
+Answer: a
+
+521. Which is the largest island country in the world?
 a) Indonesia
 b) Madagascar
 c) Japan
 d) Philippines
+Answer: a
 
-319. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
+522. What is the capital of Portugal?
+a) Lisbon
+b) Porto
+c) Braga
+d) Coimbra
+Answer: a
 
-320. The largest producer of rubber in the world is:
-a) Thailand
-b) Indonesia
-c) Malaysia
-d) India
+523. Who is the author of "Moby-Dick"?
+a) Herman Melville
+b) Mark Twain
+c) Nathaniel Hawthorne
+d) Edgar Allan Poe
+Answer: a
 
-321. The first woman to win Nobel Prize in Chemistry from Israel was:
-a) Ada Yonath
-b) Frances Arnold
-c) Dorothy Hodgkin
-d) Marie Curie
-
-322. The largest peninsula in the world is:
-a) Arabian Peninsula
-b) Indian Peninsula
-c) Malay Peninsula
-d) Iberian Peninsula
-
-323. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-324. The largest producer of palm oil in the world is:
-a) Indonesia
-b) Malaysia
-c) Thailand
-d) Nigeria
-
-325. The first woman to win Nobel Prize in Economics from USA was:
-a) Elinor Ostrom
-b) Esther Duflo
-c) Joan Robinson
-d) Amartya Sen
-
-326. The largest archipelago in the world is:
-a) Indonesia
-b) Philippines
-c) Japan
-d) Maldives
-
-327. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-328. The largest producer of tin in the world is:
-a) China
-b) Indonesia
-c) Peru
-d) Bolivia
-
-329. The first woman to win Nobel Prize in Peace from Iran was:
-a) Shirin Ebadi
-b) Malala Yousafzai
-c) Tawakkol Karman
-d) Aung San Suu Kyi
-
-330. The largest peninsula in the world is:
-a) Arabian Peninsula
-b) Indian Peninsula
-c) Malay Peninsula
-d) Iberian Peninsula
-
-331. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-332. The largest producer of nickel in the world is:
-a) Indonesia
-b) Philippines
-c) Russia
-d) Canada
-
-333. The first woman to win Nobel Prize in Literature from USA was:
-a) Toni Morrison
-b) Pearl S. Buck
-c) Louise Glück
-d) Selma Lagerlöf
-
-334. The largest archipelago in the world is:
-a) Indonesia
-b) Philippines
-c) Japan
-d) Maldives
-
-335. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-336. The largest producer of zinc in the world is:
-a) China
-b) Peru
-c) Australia
-d) India
-
-337. The first woman to win Nobel Prize in Chemistry from UK was:
-a) Dorothy Hodgkin
-b) Ada Yonath
-c) Frances Arnold
-d) Marie Curie
-
-338. The largest peninsula in the world is:
-a) Arabian Peninsula
-b) Indian Peninsula
-c) Malay Peninsula
-d) Iberian Peninsula
-
-339. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-340. The largest producer of lead in the world is:
-a) China
-b) Australia
-c) USA
-d) India
-
-341. The first woman to win Nobel Prize in Peace from Yemen was:
-a) Tawakkol Karman
-b) Shirin Ebadi
-c) Malala Yousafzai
-d) Aung San Suu Kyi
-
-342. The largest archipelago in the world is:
-a) Indonesia
-b) Philippines
-c) Japan
-d) Maldives
-
-343. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-344. The largest producer of uranium in the world is:
+524. Which is the largest landlocked country in the world?
 a) Kazakhstan
-b) Canada
-c) Australia
-d) Russia
+b) Mongolia
+c) Chad
+d) Niger
+Answer: a
 
-345. The first woman to win Nobel Prize in Literature from Poland was:
-a) Olga Tokarczuk
-b) Wisława Szymborska
-c) Selma Lagerlöf
-d) Toni Morrison
+525. What is the capital of Denmark?
+a) Copenhagen
+b) Aarhus
+c) Odense
+d) Aalborg
+Answer: a
 
-346. The largest peninsula in the world is:
-a) Arabian Peninsula
-b) Indian Peninsula
-c) Malay Peninsula
-d) Iberian Peninsula
+526. Who is the founder of WhatsApp?
+a) Jan Koum
+b) Brian Acton
+c) Mark Zuckerberg
+d) Pavel Durov
+Answer: a
 
-347. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
+527. Which is the largest city in Africa?
+a) Lagos
+b) Cairo
+c) Kinshasa
+d) Johannesburg
+Answer: a
 
-348. The largest producer of phosphate in the world is:
-a) China
-b) Morocco
-c) USA
-d) Russia
+528. What is the capital of Finland?
+a) Helsinki
+b) Oslo
+c) Stockholm
+d) Copenhagen
+Answer: a
 
-349. The first woman to win Nobel Prize in Chemistry from USA was:
-a) Frances Arnold
-b) Ada Yonath
-c) Dorothy Hodgkin
-d) Marie Curie
+529. Who is the author of "Crime and Punishment"?
+a) Fyodor Dostoevsky
+b) Leo Tolstoy
+c) Anton Chekhov
+d) Ivan Turgenev
+Answer: a
 
-350. The largest archipelago in the world is:
-a) Indonesia
-b) Philippines
-c) Japan
-d) Maldives
-
-351. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-352. The largest producer of bauxite in the world is:
-a) Australia
-b) China
-c) Brazil
-d) India
-
-353. The first woman to win Nobel Prize in Peace from Kenya was:
-a) Wangari Maathai
-b) Malala Yousafzai
-c) Aung San Suu Kyi
-d) Tawakkol Karman
-
-354. The largest peninsula in the world is:
-a) Arabian Peninsula
-b) Indian Peninsula
-c) Malay Peninsula
-d) Iberian Peninsula
-
-355. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-356. The largest producer of manganese in the world is:
-a) South Africa
-b) Australia
-c) China
-d) India
-
-357. The first woman to win Nobel Prize in Literature from Canada was:
-a) Alice Munro
-b) Toni Morrison
-c) Pearl S. Buck
-d) Selma Lagerlöf
-
-358. The largest archipelago in the world is:
-a) Indonesia
-b) Philippines
-c) Japan
-d) Maldives
-
-359. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-360. The largest producer of silver in the world is:
-a) Mexico
-b) Peru
-c) China
-d) Australia
-
-361. The first woman to win Nobel Prize in Chemistry from France was:
-a) Marie Curie
-b) Ada Yonath
-c) Dorothy Hodgkin
-d) Frances Arnold
-
-362. The largest peninsula in the world is:
-a) Arabian Peninsula
-b) Indian Peninsula
-c) Malay Peninsula
-d) Iberian Peninsula
-
-363. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-364. The largest producer of salt in the world is:
-a) China
-b) USA
-c) India
-d) Australia
-
-365. The first woman to win Nobel Prize in Peace from Liberia was:
-a) Ellen Johnson Sirleaf
-b) Leymah Gbowee
-c) Tawakkol Karman
-d) Malala Yousafzai
-
-366. The largest archipelago in the world is:
-a) Indonesia
-b) Philippines
-c) Japan
-d) Maldives
-
-367. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-368. The largest producer of wool in the world is:
-a) Australia
-b) China
-c) New Zealand
-d) India
-
-369. The first woman to win Nobel Prize in Literature from Germany was:
-a) Herta Müller
-b) Selma Lagerlöf
-c) Toni Morrison
-d) Pearl S. Buck
-
-370. The largest peninsula in the world is:
-a) Arabian Peninsula
-b) Indian Peninsula
-c) Malay Peninsula
-d) Iberian Peninsula
-
-371. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-372. The largest producer of rice in the world is:
-a) China
-b) India
-c) Indonesia
-d) Bangladesh
-
-373. The first woman to win Nobel Prize in Chemistry from Israel was:
-a) Ada Yonath
-b) Frances Arnold
-c) Dorothy Hodgkin
-d) Marie Curie
-
-374. The largest archipelago in the world is:
-a) Indonesia
-b) Philippines
-c) Japan
-d) Maldives
-
-375. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-376. The largest producer of sugar in the world is:
+530. Which is the largest country in South America?
 a) Brazil
-b) India
-c) China
-d) Thailand
-
-377. The first woman to win Nobel Prize in Peace from Myanmar was:
-a) Aung San Suu Kyi
-b) Malala Yousafzai
-c) Tawakkol Karman
-d) Shirin Ebadi
-
-378. The largest peninsula in the world is:
-a) Arabian Peninsula
-b) Indian Peninsula
-c) Malay Peninsula
-d) Iberian Peninsula
-
-379. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-380. The largest producer of coffee in the world is:
-a) Brazil
-b) Vietnam
-c) Colombia
-d) Indonesia
-
-381. The first woman to win Nobel Prize in Literature from Sweden was:
-a) Selma Lagerlöf
-b) Toni Morrison
-c) Pearl S. Buck
-d) Nadine Gordimer
-
-382. The largest archipelago in the world is:
-a) Indonesia
-b) Philippines
-c) Japan
-d) Maldives
-
-383. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-384. The largest producer of cocoa in the world is:
-a) Ivory Coast
-b) Ghana
-c) Indonesia
-d) Nigeria
-
-385. The first woman to win Nobel Prize in Chemistry from UK was:
-a) Dorothy Hodgkin
-b) Ada Yonath
-c) Frances Arnold
-d) Marie Curie
-
-386. The largest peninsula in the world is:
-a) Arabian Peninsula
-b) Indian Peninsula
-c) Malay Peninsula
-d) Iberian Peninsula
-
-387. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-388. The largest producer of palm oil in the world is:
-a) Indonesia
-b) Malaysia
-c) Thailand
-d) Nigeria
-
-389. The first woman to win Nobel Prize in Peace from Yemen was:
-a) Tawakkol Karman
-b) Shirin Ebadi
-c) Malala Yousafzai
-d) Aung San Suu Kyi
-
-390. The largest archipelago in the world is:
-a) Indonesia
-b) Philippines
-c) Japan
-d) Maldives
-
-391. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
-
-392. The largest producer of tin in the world is:
-a) China
-b) Indonesia
+b) Argentina
 c) Peru
-d) Bolivia
+d) Colombia
+Answer: a
 
-393. The first woman to win Nobel Prize in Literature from Poland was:
-a) Olga Tokarczuk
-b) Wisława Szymborska
-c) Selma Lagerlöf
-d) Toni Morrison
+531. What is the capital of New Zealand?
+a) Wellington
+b) Auckland
+c) Christchurch
+d) Hamilton
+Answer: a
 
-394. The largest peninsula in the world is:
-a) Arabian Peninsula
-b) Indian Peninsula
-c) Malay Peninsula
-d) Iberian Peninsula
+532. Who is the founder of Instagram?
+a) Kevin Systrom
+b) Mike Krieger
+c) Mark Zuckerberg
+d) Jack Dorsey
+Answer: a
 
-395. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
+533. Which is the largest city in the USA by population?
+a) New York City
+b) Los Angeles
+c) Chicago
+d) Houston
+Answer: a
 
-396. The largest producer of nickel in the world is:
-a) Indonesia
-b) Philippines
-c) Russia
-d) Canada
+534. What is the capital of Ireland?
+a) Dublin
+b) Cork
+c) Limerick
+d) Galway
+Answer: a
 
-397. The first woman to win Nobel Prize in Literature from USA was:
-a) Toni Morrison
-b) Pearl S. Buck
-c) Louise Glück
-d) Selma Lagerlöf
+535. Who is the author of "The Lord of the Rings"?
+a) J.R.R. Tolkien
+b) C.S. Lewis
+c) J.K. Rowling
+d) George R.R. Martin
+Answer: a
 
-398. The largest archipelago in the world is:
-a) Indonesia
-b) Philippines
-c) Japan
-d) Maldives
+536. Which is the largest city in Europe by population?
+a) Istanbul
+b) Moscow
+c) London
+d) Paris
+Answer: a
 
-399. The first Islamic month is:
-a) Muharram
-b) Ramadan
-c) Shawwal
-d) Zilhajj
+537. What is the capital of Austria?
+a) Vienna
+b) Salzburg
+c) Graz
+d) Innsbruck
+Answer: a
 
-400. The largest producer of zinc in the world is:
-a) China
-b) Peru
-c) Australia
-d) India
+538. Who is the founder of LinkedIn?
+a) Reid Hoffman
+b) Jeff Weiner
+c) Mark Zuckerberg
+d) Larry Page
+Answer: a
+
+539. Which is the largest city in India by population?
+a) Mumbai
+b) Delhi
+c) Bangalore
+d) Kolkata
+Answer: a
+
+540. What is the capital of Belgium?
+a) Brussels
+b) Antwerp
+c) Ghent
+d) Bruges
+Answer: a
+
+541. Who is the author of "Don Quixote"?
+a) Miguel de Cervantes
+b) Gabriel Garcia Marquez
+c) Pablo Neruda
+d) Federico Garcia Lorca
+Answer: a
+
+542. Which is the largest city in China by population?
+a) Shanghai
+b) Beijing
+c) Guangzhou
+d) Shenzhen
+Answer: a
+
+543. What is the capital of Hungary?
+a) Budapest
+b) Debrecen
+c) Szeged
+d) Miskolc
+Answer: a
+
+544. Who is the founder of Oracle Corporation?
+a) Larry Ellison
+b) Bill Gates
+c) Steve Jobs
+d) Mark Zuckerberg
+Answer: a
+
+545. Which is the largest city in Australia by population?
+a) Sydney
+b) Melbourne
+c) Brisbane
+d) Perth
+Answer: a
+
+546. What is the capital of Poland?
+a) Warsaw
+b) Krakow
+c) Gdansk
+d) Wroclaw
+Answer: a
+
+547. Who is the author of "The Divine Comedy"?
+a) Dante Alighieri
+b) Giovanni Boccaccio
+c) Francesco Petrarca
+d) Niccolò Machiavelli
+Answer: a
+
+548. Which is the largest city in Canada by population?
+a) Toronto
+b) Montreal
+c) Vancouver
+d) Calgary
+Answer: a
+
+549. What is the capital of Czech Republic?
+a) Prague
+b) Brno
+c) Ostrava
+d) Plzen
+Answer: a
+
+550. Who is the founder of PayPal?
+a) Peter Thiel
+b) Elon Musk
+c) Max Levchin
+d) Reid Hoffman
+Answer: a
+
