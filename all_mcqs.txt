@@ -2797,3 +2797,73 @@ B) NIST
 C) ITIL Service Measurement and Reporting
 D) ISO 27001
 Answer: C
+
+401. What does NTS stand for?
+A) National Testing Service
+B) National Training System
+C) National Technology Service
+D) National Testing System
+Answer: A
+
+402. Which of the following is a common NTS test?
+A) NAT
+B) GAT
+C) Both A and B
+D) None of the above
+Answer: C
+
+403. What is the primary purpose of NTS tests?
+A) To evaluate academic performance
+B) To assess job skills
+C) To measure intelligence
+D) All of the above
+Answer: D
+
+404. Which subject areas are typically covered in NTS tests?
+A) Mathematics and English only
+B) Science and Social Studies only
+C) General Knowledge and Analytical Skills
+D) Computer Science only
+Answer: C
+
+405. How long is a typical NTS test session?
+A) 1 hour
+B) 2-3 hours
+C) 4-5 hours
+D) 6 hours
+Answer: B
+
+406. What type of questions are commonly found in NTS tests?
+A) Only multiple choice questions
+B) Only essay questions
+C) Multiple choice and analytical questions
+D) Only numerical questions
+Answer: C
+
+407. Which of the following is NOT a section in NTS tests?
+A) Quantitative Reasoning
+B) Verbal Ability
+C) Programming Skills
+D) General Knowledge
+Answer: C
+
+408. What is the scoring system for NTS tests?
+A) Pass/Fail only
+B) Percentage based
+C) Letter grades (A, B, C, D)
+D) Numerical scale (1-10)
+Answer: B
+
+409. How often are NTS tests conducted?
+A) Monthly
+B) Quarterly
+C) Annually
+D) As needed
+Answer: D
+
+410. What is required to register for an NTS test?
+A) Only ID card
+B) Only passport
+C) Valid identification and registration fee
+D) No requirements
+Answer: C

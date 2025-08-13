@@ -1,0 +1,2398 @@
+1. Which of the following is a synonym for "benevolent"?
+a) Kind
+b) Angry
+c) Hostile
+d) Indifferent
+
+2. What is the next number in the sequence: 2, 4, 8, 16, ___?
+a) 20
+b) 24
+c) 32
+d) 18
+
+3. Which part of speech is the word "quickly" in the sentence: "She ran quickly"?
+a) Noun
+b) Verb
+c) Adverb
+d) Adjective
+
+4. If A = 5 and B = 3, what is the value of 2A + B?
+a) 13
+b) 10
+c) 8
+d) 11
+
+5. Who is the current Prime Minister of Pakistan? (as of 2024)
+a) Imran Khan
+b) Shehbaz Sharif
+c) Nawaz Sharif
+d) Bilawal Bhutto
+
+6. Which of the following is NOT a programming language?
+a) Python
+b) Java
+c) HTML
+d) Oracle
+
+7. What is the antonym of "expand"?
+a) Contract
+b) Increase
+c) Extend
+d) Enlarge
+
+8. If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly?
+a) Yes
+b) No
+c) Cannot be determined
+d) Only if all flowers fade quickly
+
+9. What is the value of 7 × 8?
+a) 54
+b) 56
+c) 64
+d) 58
+
+10. Which of the following is a web browser?
+a) Windows
+b) Chrome
+c) Linux
+d) Oracle
+
+11. The word "ubiquitous" most nearly means:
+a) Rare
+b) Everywhere
+c) Expensive
+d) Unusual
+
+12. Which number is the odd one out: 3, 5, 7, 9, 11?
+a) 9
+b) 3
+c) 5
+d) 11
+
+13. What is the plural of "analysis"?
+a) Analysises
+b) Analyses
+c) Analysis
+d) Analys
+
+14. If x = 4, what is the value of x² + 2x?
+a) 24
+b) 20
+c) 18
+d) 16
+
+15. The capital of Balochistan is:
+a) Karachi
+b) Lahore
+c) Quetta
+d) Peshawar
+
+16. Which of the following is a cloud computing platform?
+a) AWS
+b) Windows
+c) Excel
+d) Oracle DB
+
+17. Choose the correct spelling:
+a) Recieve
+b) Receive
+c) Recive
+d) Receeve
+
+18. If all squares are rectangles, and all rectangles have four sides, do all squares have four sides?
+a) Yes
+b) No
+c) Only some
+d) Cannot say
+
+19. What is 15% of 200?
+a) 30
+b) 25
+c) 35
+d) 20
+
+20. Who is the founder of Microsoft?
+a) Steve Jobs
+b) Bill Gates
+c) Mark Zuckerberg
+d) Larry Page
+
+21. The word "opaque" means:
+a) Transparent
+b) Not clear
+c) Shiny
+d) Smooth
+
+22. Which figure comes next in the pattern: ▲, ■, ▲, ■, ___?
+a) ▲
+b) ■
+c) ●
+d) ▼
+
+23. Which is the correct passive form: "They make cars in Japan."
+a) Cars are made in Japan.
+b) Cars is made in Japan.
+c) Cars was made in Japan.
+d) Cars made in Japan.
+
+24. What is the square root of 144?
+a) 14
+b) 12
+c) 16
+d) 10
+
+25. The largest province of Pakistan by area is:
+a) Punjab
+b) Sindh
+c) Balochistan
+d) Khyber Pakhtunkhwa
+
+26. Which of the following is NOT an operating system?
+a) Linux
+b) Windows
+c) Oracle
+d) macOS
+
+27. Choose the word that best fits: "He is known for his ___ in solving problems."
+a) Ingenuity
+b) Ignorance
+c) Laziness
+d) Apathy
+
+28. If 2x + 3 = 11, what is x?
+a) 4
+b) 3
+c) 5
+d) 6
+
+29. Which is the national flower of Pakistan?
+a) Jasmine
+b) Rose
+c) Lily
+d) Sunflower
+
+30. Which of the following is a type of malware?
+a) Virus
+b) Excel
+c) Chrome
+d) PowerPoint
+
+31. The antonym of "scarce" is:
+a) Abundant
+b) Rare
+c) Few
+d) Little
+
+32. Which number completes the series: 5, 10, 20, ___, 80?
+a) 30
+b) 40
+c) 60
+d) 50
+
+33. Which sentence is correct?
+a) She don't like apples.
+b) She doesn't likes apples.
+c) She doesn't like apples.
+d) She not like apples.
+
+34. What is 9²?
+a) 81
+b) 72
+c) 64
+d) 99
+
+35. The currency of Pakistan is:
+a) Rupee
+b) Dollar
+c) Taka
+d) Riyal
+
+36. Which of the following is a relational database?
+a) MySQL
+b) Windows
+c) Python
+d) Chrome
+
+37. The word "elated" means:
+a) Sad
+b) Joyful
+c) Angry
+d) Tired
+
+38. If all cats are animals and some animals are black, can we say some cats are black?
+a) Cannot be determined
+b) Yes
+c) No
+d) Only if all animals are black
+
+39. What is 25% of 80?
+a) 20
+b) 16
+c) 18
+d) 24
+
+40. The largest continent by area is:
+a) Africa
+b) Asia
+c) Europe
+d) Australia
+
+41. Which of the following is NOT a valid variable name in Python?
+a) my_var
+b) 2var
+c) var2
+d) _var
+
+42. The synonym of "diligent" is:
+a) Hardworking
+b) Lazy
+c) Careless
+d) Indifferent
+
+43. Which number is missing: 1, 4, 9, 16, ___, 36?
+a) 25
+b) 20
+c) 30
+d) 28
+
+44. Which is the correct form: "He ___ to school every day."
+a) Go
+b) Goes
+c) Going
+d) Gone
+
+45. The highest mountain in Pakistan is:
+a) K2
+b) Nanga Parbat
+c) Mount Everest
+d) Tirich Mir
+
+46. Which of the following is a network device?
+a) Router
+b) Monitor
+c) Keyboard
+d) Printer
+
+47. The antonym of "optimistic" is:
+a) Pessimistic
+b) Hopeful
+c) Cheerful
+d) Confident
+
+48. If 3x = 21, what is x?
+a) 7
+b) 6
+c) 8
+d) 9
+
+49. The national language of Pakistan is:
+a) Urdu
+b) Punjabi
+c) Sindhi
+d) Pashto
+
+50. Which of the following is NOT a type of cloud service?
+a) SaaS
+b) PaaS
+c) IaaS
+d) BIOS
+
+51. The word "transient" means:
+a) Temporary
+b) Permanent
+c) Strong
+d) Weak
+
+52. Which is the odd one out: Apple, Banana, Carrot, Mango?
+a) Carrot
+b) Banana
+c) Apple
+d) Mango
+
+53. Which is the correct sentence?
+a) He have a car.
+b) He has a car.
+c) He having a car.
+d) He had a car.
+
+54. What is 100 divided by 4?
+a) 25
+b) 20
+c) 30
+d) 40
+
+55. The largest city in Pakistan is:
+a) Karachi
+b) Lahore
+c) Islamabad
+d) Multan
+
+56. Which of the following is a programming paradigm?
+a) Object-oriented
+b) Spreadsheet
+c) Presentation
+d) Document
+
+57. The synonym of "vivid" is:
+a) Bright
+b) Dull
+c) Faint
+d) Weak
+
+58. If 5y = 35, what is y?
+a) 7
+b) 6
+c) 8
+d) 5
+
+59. The currency used in Japan is:
+a) Yen
+b) Dollar
+c) Rupee
+d) Euro
+
+60. Which of the following is NOT a search engine?
+a) Google
+b) Bing
+c) Yahoo
+d) Excel
+
+61. The antonym of "ancient" is:
+a) Modern
+b) Old
+c) Historic
+d) Antique
+
+62. Which number is next: 11, 22, 33, ___?
+a) 44
+b) 55
+c) 66
+d) 77
+
+63. Which is the correct form: "They ___ playing football."
+a) Is
+b) Are
+c) Am
+d) Be
+
+64. What is 8 × 7?
+a) 56
+b) 54
+c) 64
+d) 48
+
+65. The national animal of Pakistan is:
+a) Markhor
+b) Lion
+c) Tiger
+d) Elephant
+
+66. Which of the following is a type of cyber attack?
+a) Phishing
+b) Typing
+c) Printing
+d) Copying
+
+67. The synonym of "fragile" is:
+a) Delicate
+b) Strong
+c) Hard
+d) Firm
+
+68. If 12 + x = 20, what is x?
+a) 8
+b) 6
+c) 10
+d) 12
+
+69. The capital of Sindh is:
+a) Karachi
+b) Hyderabad
+c) Sukkur
+d) Larkana
+
+70. Which of the following is NOT a programming language?
+a) Java
+b) C++
+c) Windows
+d) Python
+
+71. The antonym of "expand" is:
+a) Contract
+b) Increase
+c) Grow
+d) Enlarge
+
+72. Which number is missing: 2, 5, 10, 17, ___?
+a) 26
+b) 24
+c) 20
+d) 22
+
+73. Which is the correct sentence?
+a) She is taller than me.
+b) She is more tall than me.
+c) She is most tall than me.
+d) She is tall than me.
+
+74. What is 6 × 9?
+a) 54
+b) 56
+c) 64
+d) 48
+
+75. The founder of Pakistan is:
+a) Allama Iqbal
+b) Liaquat Ali Khan
+c) Muhammad Ali Jinnah
+d) Zulfikar Ali Bhutto
+
+76. Which of the following is a database management system?
+a) Oracle
+b) Windows
+c) Excel
+d) PowerPoint
+
+77. The synonym of "lucid" is:
+a) Clear
+b) Confused
+c) Dark
+d) Vague
+
+78. If 4x = 32, what is x?
+a) 8
+b) 6
+c) 10
+d) 12
+
+79. The currency of the USA is:
+a) Dollar
+b) Pound
+c) Rupee
+d) Euro
+
+80. Which of the following is NOT a social media platform?
+a) Facebook
+b) Twitter
+c) Instagram
+d) Excel
+
+81. The antonym of "frequent" is:
+a) Rare
+b) Often
+c) Usual
+d) Common
+
+82. Which number is next: 7, 14, 21, ___?
+a) 28
+b) 35
+c) 42
+d) 49
+
+83. Which is the correct form: "I ___ to the market yesterday."
+a) Go
+b) Went
+c) Going
+d) Gone
+
+84. What is 11 × 11?
+a) 121
+b) 111
+c) 101
+d) 131
+
+85. The national sport of Pakistan is:
+a) Hockey
+b) Cricket
+c) Football
+d) Squash
+
+86. Which of the following is a type of network topology?
+a) Star
+b) Table
+c) Chair
+d) Desk
+
+87. The synonym of "abundant" is:
+a) Plentiful
+b) Scarce
+c) Few
+d) Little
+
+88. If 3x + 2 = 11, what is x?
+a) 3
+b) 2
+c) 4
+d) 5
+
+89. The capital of Khyber Pakhtunkhwa is:
+a) Peshawar
+b) Quetta
+c) Lahore
+d) Karachi
+
+90. Which of the following is NOT a type of software?
+a) Hardware
+b) Application
+c) System
+d) Utility
+
+91. The antonym of "complex" is:
+a) Simple
+b) Complicated
+c) Difficult
+d) Intricate
+
+92. Which number is missing: 10, 20, ___, 40, 50?
+a) 30
+b) 25
+c) 35
+d) 45
+
+93. Which is the correct sentence?
+a) He is best in the class.
+b) He is better in the class.
+c) He is the best in the class.
+d) He is more best in the class.
+
+94. What is 13 × 2?
+a) 26
+b) 24
+c) 28
+d) 22
+
+95. The largest dam in Pakistan is:
+a) Tarbela
+b) Mangla
+c) Warsak
+d) Hub
+
+96. Which of the following is a type of cloud deployment?
+a) Public
+b) Table
+c) Chair
+d) Desk
+
+97. The synonym of "brisk" is:
+a) Quick
+b) Slow
+c) Lazy
+d) Weak
+
+98. If 2x = 18, what is x?
+a) 9
+b) 8
+c) 10
+d) 7
+
+99. The currency of the UK is:
+a) Pound
+b) Dollar
+c) Rupee
+d) Euro
+
+100. Which of the following is NOT a programming language?
+a) Python
+b) Java
+c) Excel
+d) C++
+
+101. The antonym of "permanent" is:
+a) Temporary
+b) Lasting
+c) Durable
+d) Enduring
+
+102. Which number is next: 4, 8, 12, ___?
+a) 16
+b) 20
+c) 24
+d) 28
+
+103. Which is the correct form: "She ___ a book now."
+a) Reads
+b) Is reading
+c) Read
+d) Reading
+
+104. What is 15 × 3?
+a) 45
+b) 35
+c) 40
+d) 50
+
+105. The national bird of Pakistan is:
+a) Chukar
+b) Sparrow
+c) Parrot
+d) Crow
+
+106. Which of the following is a type of cyber security?
+a) Firewall
+b) Table
+c) Chair
+d) Desk
+
+107. The synonym of "vague" is:
+a) Unclear
+b) Clear
+c) Bright
+d) Sharp
+
+108. If 5x = 25, what is x?
+a) 5
+b) 4
+c) 6
+d) 7
+
+109. The capital of Punjab is:
+a) Lahore
+b) Karachi
+c) Islamabad
+d) Multan
+
+110. Which of the following is NOT a type of network?
+a) LAN
+b) WAN
+c) PAN
+d) RAM
+
+111. The antonym of "artificial" is:
+a) Natural
+b) Fake
+c) False
+d) Synthetic
+
+112. Which number is missing: 6, 12, 18, ___, 30?
+a) 24
+b) 20
+c) 22
+d) 26
+
+113. Which is the correct sentence?
+a) I have seen him yesterday.
+b) I saw him yesterday.
+c) I seen him yesterday.
+d) I seeing him yesterday.
+
+114. What is 8 × 5?
+a) 40
+b) 35
+c) 45
+d) 50
+
+115. The largest river in Pakistan is:
+a) Indus
+b) Jhelum
+c) Ravi
+d) Chenab
+
+116. Which of the following is a type of database?
+a) Relational
+b) Table
+c) Chair
+d) Desk
+
+117. The synonym of "tedious" is:
+a) Boring
+b) Exciting
+c) Fun
+d) Interesting
+
+118. If 7x = 49, what is x?
+a) 7
+b) 6
+c) 8
+d) 9
+
+119. The currency of China is:
+a) Yuan
+b) Dollar
+c) Rupee
+d) Euro
+
+120. Which of the following is NOT a web browser?
+a) Chrome
+b) Firefox
+c) Safari
+d) Excel
+
+121. The antonym of "scarce" is:
+a) Abundant
+b) Rare
+c) Few
+d) Little
+
+122. Which number is next: 3, 6, 12, ___?
+a) 24
+b) 18
+c) 30
+d) 36
+
+123. Which is the correct form: "They ___ finished their work."
+a) Have
+b) Has
+c) Had
+d) Having
+
+124. What is 14 × 2?
+a) 28
+b) 24
+c) 26
+d) 30
+
+125. The national poet of Pakistan is:
+a) Allama Iqbal
+b) Faiz Ahmed Faiz
+c) Ahmed Faraz
+d) Parveen Shakir
+
+126. Which of the following is a type of storage device?
+a) Hard disk
+b) Table
+c) Chair
+d) Desk
+
+127. The synonym of "serene" is:
+a) Calm
+b) Noisy
+c) Loud
+d) Busy
+
+128. If 6x = 36, what is x?
+a) 6
+b) 5
+c) 7
+d) 8
+
+129. The capital of Gilgit-Baltistan is:
+a) Gilgit
+b) Skardu
+c) Hunza
+d) Chitral
+
+130. Which of the following is NOT a type of computer memory?
+a) RAM
+b) ROM
+c) CPU
+d) Cache
+
+131. The antonym of "hostile" is:
+a) Friendly
+b) Angry
+c) Aggressive
+d) Unkind
+
+132. Which number is missing: 9, 18, ___, 36, 45?
+a) 27
+b) 24
+c) 30
+d) 33
+
+133. Which is the correct sentence?
+a) She is more intelligent than me.
+b) She is most intelligent than me.
+c) She is intelligent than me.
+d) She is more intelligence than me.
+
+134. What is 12 × 4?
+a) 48
+b) 44
+c) 52
+d) 40
+
+135. The largest lake in Pakistan is:
+a) Manchar
+b) Saif ul Malook
+c) Keenjhar
+d) Rawal
+
+136. Which of the following is a type of software license?
+a) Open source
+b) Table
+c) Chair
+d) Desk
+
+137. The synonym of "robust" is:
+a) Strong
+b) Weak
+c) Fragile
+d) Delicate
+
+138. If 8x = 64, what is x?
+a) 8
+b) 7
+c) 6
+d) 9
+
+139. The currency of India is:
+a) Rupee
+b) Dollar
+c) Pound
+d) Euro
+
+140. Which of the following is NOT a search engine?
+a) Google
+b) Bing
+c) Yahoo
+d) PowerPoint
+
+141. The antonym of "opaque" is:
+a) Transparent
+b) Dark
+c) Dull
+d) Faint
+
+142. Which number is next: 5, 15, 25, ___?
+a) 35
+b) 45
+c) 55
+d) 65
+
+143. Which is the correct form: "He ___ to school every day."
+a) Goes
+b) Go
+c) Going
+d) Gone
+
+144. What is 7 × 6?
+a) 42
+b) 36
+c) 48
+d) 54
+
+145. The national tree of Pakistan is:
+a) Deodar
+b) Pine
+c) Oak
+d) Maple
+
+146. Which of the following is a type of programming error?
+a) Syntax
+b) Table
+c) Chair
+d) Desk
+
+147. The synonym of "nimble" is:
+a) Agile
+b) Slow
+c) Clumsy
+d) Heavy
+
+148. If 9x = 81, what is x?
+a) 9
+b) 8
+c) 7
+d) 6
+
+149. The capital of Azad Kashmir is:
+a) Muzaffarabad
+b) Mirpur
+c) Kotli
+d) Rawalakot
+
+150. Which of the following is NOT a type of printer?
+a) Laser
+b) Inkjet
+c) Table
+d) Dot matrix
+
+151. The antonym of "diligent" is:
+a) Lazy
+b) Hardworking
+c) Active
+d) Energetic
+
+152. Which number is missing: 2, 6, 12, ___, 30?
+a) 20
+b) 18
+c) 24
+d) 22
+
+153. Which is the correct sentence?
+a) He is taller than me.
+b) He is more tall than me.
+c) He is most tall than me.
+d) He is tall than me.
+
+154. What is 10 × 5?
+a) 50
+b) 45
+c) 55
+d) 60
+
+155. The largest desert in Pakistan is:
+a) Thar
+b) Cholistan
+c) Kharan
+d) Thal
+
+156. Which of the following is a type of network protocol?
+a) TCP/IP
+b) Table
+c) Chair
+d) Desk
+
+157. The synonym of "arduous" is:
+a) Difficult
+b) Easy
+c) Simple
+d) Light
+
+158. If 10x = 100, what is x?
+a) 10
+b) 9
+c) 8
+d) 7
+
+159. The currency of Saudi Arabia is:
+a) Riyal
+b) Dollar
+c) Rupee
+d) Euro
+
+160. Which of the following is NOT a type of computer?
+a) Desktop
+b) Laptop
+c) Table
+d) Server
+
+161. The antonym of "lucid" is:
+a) Confused
+b) Clear
+c) Bright
+d) Sharp
+
+162. Which number is next: 6, 12, 18, ___?
+a) 24
+b) 30
+c) 36
+d) 42
+
+163. Which is the correct form: "We ___ going to the park."
+a) Are
+b) Is
+c) Am
+d) Be
+
+164. What is 9 × 5?
+a) 45
+b) 40
+c) 50
+d) 55
+
+165. The national fruit of Pakistan is:
+a) Mango
+b) Apple
+c) Banana
+d) Orange
+
+166. Which of the following is a type of operating system?
+a) Linux
+b) Table
+c) Chair
+d) Desk
+
+167. The synonym of "succinct" is:
+a) Concise
+b) Wordy
+c) Lengthy
+d) Verbose
+
+168. If 11x = 121, what is x?
+a) 11
+b) 10
+c) 12
+d) 9
+
+169. The capital of Pakistan is:
+a) Islamabad
+b) Karachi
+c) Lahore
+d) Peshawar
+
+170. Which of the following is NOT a type of storage device?
+a) Hard disk
+b) Table
+c) SSD
+d) USB
+
+171. The antonym of "serene" is:
+a) Noisy
+b) Calm
+c) Quiet
+d) Peaceful
+
+172. Which number is missing: 3, 9, 27, ___?
+a) 81
+b) 54
+c) 36
+d) 72
+
+173. Which is the correct sentence?
+a) She is the most intelligent in the class.
+b) She is more intelligent in the class.
+c) She is intelligent in the class.
+d) She is most intelligent in the class.
+
+174. What is 8 × 8?
+a) 64
+b) 56
+c) 72
+d) 48
+
+175. The largest mosque in Pakistan is:
+a) Faisal Mosque
+b) Badshahi Mosque
+c) Wazir Khan Mosque
+d) Shah Jahan Mosque
+
+176. Which of the following is a type of programming language?
+a) Python
+b) Table
+c) Chair
+d) Desk
+
+177. The synonym of "meticulous" is:
+a) Careful
+b) Careless
+c) Hasty
+d) Sloppy
+
+178. If 12x = 144, what is x?
+a) 12
+b) 10
+c) 14
+d) 16
+
+179. The currency of Turkey is:
+a) Lira
+b) Dollar
+c) Rupee
+d) Euro
+
+180. Which of the following is NOT a type of network topology?
+a) Star
+b) Bus
+c) Table
+d) Ring
+
+181. The antonym of "nimble" is:
+a) Clumsy
+b) Agile
+c) Quick
+d) Fast
+
+182. Which number is next: 2, 4, 8, ___?
+a) 16
+b) 12
+c) 10
+d) 14
+
+183. Which is the correct form: "He ___ a car."
+a) Has
+b) Have
+c) Having
+d) Had
+
+184. What is 7 × 7?
+a) 49
+b) 42
+c) 56
+d) 63
+
+185. The national dress of Pakistan is:
+a) Shalwar Kameez
+b) Sari
+c) Kurta
+d) Jeans
+
+186. Which of the following is a type of computer virus?
+a) Trojan
+b) Table
+c) Chair
+d) Desk
+
+187. The synonym of "gregarious" is:
+a) Sociable
+b) Shy
+c) Reserved
+d) Quiet
+
+188. If 13x = 130, what is x?
+a) 10
+b) 11
+c) 12
+d) 13
+
+189. The capital of Balochistan is:
+a) Quetta
+b) Karachi
+c) Lahore
+d) Peshawar
+
+190. Which of the following is NOT a type of input device?
+a) Mouse
+b) Keyboard
+c) Monitor
+d) Scanner
+
+191. The antonym of "succinct" is:
+a) Wordy
+b) Concise
+c) Brief
+d) Short
+
+192. Which number is missing: 4, 8, 16, ___?
+a) 32
+b) 24
+c) 20
+d) 28
+
+193. Which is the correct sentence?
+a) He is the tallest in the class.
+b) He is more tall in the class.
+c) He is most tall in the class.
+d) He is tall in the class.
+
+194. What is 6 × 8?
+a) 48
+b) 54
+c) 56
+d) 64
+
+195. The largest airport in Pakistan is:
+a) Islamabad International
+b) Karachi Jinnah International
+c) Lahore Allama Iqbal
+d) Multan International
+
+196. Which of the following is a type of programming loop?
+a) For
+b) Table
+c) Chair
+d) Desk
+
+197. The synonym of "prudent" is:
+a) Wise
+b) Foolish
+c) Careless
+d) Rash
+
+198. If 14x = 140, what is x?
+a) 10
+b) 12
+c) 14
+d) 16
+
+199. The currency of UAE is:
+a) Dirham
+b) Dollar
+c) Rupee
+d) Euro
+
+200. Which of the following is NOT a type of output device?
+a) Monitor
+b) Printer
+c) Mouse
+d) Speaker
+201. The chemical symbol for Gold is:
+a) Au
+b) Ag
+c) Gd
+d) Go
+
+202. Who wrote the national anthem of Pakistan?
+a) Hafeez Jullundhri
+b) Allama Iqbal
+c) Faiz Ahmed Faiz
+d) Ahmed Faraz
+
+203. The largest planet in our solar system is:
+a) Earth
+b) Jupiter
+c) Saturn
+d) Mars
+
+204. The first Islamic month is:
+a) Muharram
+b) Safar
+c) Ramadan
+d) Shawwal
+
+205. The capital of Balochistan is:
+a) Quetta
+b) Peshawar
+c) Karachi
+d) Lahore
+
+206. The process of water changing into vapor is called:
+a) Condensation
+b) Evaporation
+c) Sublimation
+d) Precipitation
+
+207. The founder of Pakistan is:
+a) Liaquat Ali Khan
+b) Allama Iqbal
+c) Quaid-e-Azam
+d) Sir Syed Ahmed Khan
+
+208. The largest dam in Pakistan is:
+a) Tarbela Dam
+b) Mangla Dam
+c) Warsak Dam
+d) Hub Dam
+
+209. The study of living things is called:
+a) Biology
+b) Physics
+c) Chemistry
+d) Geology
+
+210. The currency of Japan is:
+a) Yen
+b) Dollar
+c) Rupee
+d) Won
+
+211. The first Prime Minister of Pakistan was:
+a) Liaquat Ali Khan
+b) Khawaja Nazimuddin
+c) Muhammad Ali Bogra
+d) Feroz Khan Noon
+
+212. The longest river in Pakistan is:
+a) Indus
+b) Jhelum
+c) Ravi
+d) Chenab
+
+213. The largest continent by area is:
+a) Africa
+b) Asia
+c) Europe
+d) North America
+
+214. The Holy Quran was revealed in how many years?
+a) 23
+b) 10
+c) 15
+d) 30
+
+215. The SI unit of force is:
+a) Newton
+b) Joule
+c) Watt
+d) Pascal
+
+216. The first woman Prime Minister of Pakistan was:
+a) Benazir Bhutto
+b) Fatima Jinnah
+c) Hina Rabbani Khar
+d) Asma Jahangir
+
+217. The largest desert in Pakistan is:
+a) Thar
+b) Cholistan
+c) Kharan
+d) Thal
+
+218. The study of earthquakes is called:
+a) Seismology
+b) Meteorology
+c) Ecology
+d) Geology
+
+219. The first revelation was received by Prophet Muhammad (PBUH) in which cave?
+a) Hira
+b) Thawr
+c) Saur
+d) Quba
+
+220. The national flower of Pakistan is:
+a) Jasmine
+b) Rose
+c) Lily
+d) Sunflower
+
+221. The largest ocean in the world is:
+a) Pacific
+b) Atlantic
+c) Indian
+d) Arctic
+
+222. The first President of Pakistan was:
+a) Iskander Mirza
+b) Ayub Khan
+c) Yahya Khan
+d) Zulfikar Ali Bhutto
+
+223. The hardest natural substance is:
+a) Diamond
+b) Gold
+c) Iron
+d) Silver
+
+224. The largest mosque in Pakistan is:
+a) Faisal Mosque
+b) Badshahi Mosque
+c) Data Darbar Mosque
+d) Shah Jahan Mosque
+
+225. The study of plants is called:
+a) Botany
+b) Zoology
+c) Anatomy
+d) Ecology
+
+226. The first constitution of Pakistan was enforced in:
+a) 1956
+b) 1962
+c) 1973
+d) 1947
+
+227. The largest province of Pakistan by area is:
+a) Balochistan
+b) Punjab
+c) Sindh
+d) Khyber Pakhtunkhwa
+
+228. The chemical formula of water is:
+a) H2O
+b) CO2
+c) O2
+d) NaCl
+
+229. The national animal of Pakistan is:
+a) Markhor
+b) Lion
+c) Tiger
+d) Elephant
+
+230. The first Surah of the Holy Quran is:
+a) Al-Fatiha
+b) Al-Baqarah
+c) Al-Ikhlas
+d) Al-Nas
+
+231. The largest city of Pakistan by population is:
+a) Karachi
+b) Lahore
+c) Islamabad
+d) Faisalabad
+
+232. The study of the universe is called:
+a) Astronomy
+b) Astrology
+c) Anatomy
+d) Geology
+
+233. The first woman to win a Nobel Prize was:
+a) Marie Curie
+b) Malala Yousafzai
+c) Benazir Bhutto
+d) Mother Teresa
+
+234. The largest gland in the human body is:
+a) Liver
+b) Pancreas
+c) Thyroid
+d) Pituitary
+
+235. The national sport of Pakistan is:
+a) Hockey
+b) Cricket
+c) Football
+d) Squash
+
+236. The first battle of Islam was:
+a) Battle of Badr
+b) Battle of Uhud
+c) Battle of Khandaq
+d) Battle of Tabuk
+
+237. The largest lake in Pakistan is:
+a) Manchar Lake
+b) Saif ul Malook
+c) Keenjhar Lake
+d) Hanna Lake
+
+238. The study of the human mind is called:
+a) Psychology
+b) Sociology
+c) Anthropology
+d) Physiology
+
+239. The first Caliph of Islam was:
+a) Hazrat Abu Bakr (RA)
+b) Hazrat Umar (RA)
+c) Hazrat Usman (RA)
+d) Hazrat Ali (RA)
+
+240. The largest island in the world is:
+a) Greenland
+b) Australia
+c) Madagascar
+d) Borneo
+
+241. The first Nobel Prize for Literature was awarded in:
+a) 1901
+b) 1910
+c) 1920
+d) 1930
+
+242. The largest bone in the human body is:
+a) Femur
+b) Tibia
+c) Humerus
+d) Radius
+
+243. The first computer virus was called:
+a) Creeper
+b) ILOVEYOU
+c) Melissa
+d) Stuxnet
+
+244. The largest mammal in the world is:
+a) Blue Whale
+b) Elephant
+c) Giraffe
+d) Hippopotamus
+
+245. The first Olympic Games were held in:
+a) Greece
+b) Rome
+c) France
+d) England
+
+246. The largest land animal is:
+a) African Elephant
+b) Giraffe
+c) Hippopotamus
+d) Rhinoceros
+
+247. The first Pakistani to win Nobel Prize was:
+a) Dr. Abdus Salam
+b) Malala Yousafzai
+c) Benazir Bhutto
+d) Liaquat Ali Khan
+
+248. The largest bird in the world is:
+a) Ostrich
+b) Eagle
+c) Vulture
+d) Peacock
+
+249. The first Islamic state was established in:
+a) Madina
+b) Makkah
+c) Jerusalem
+d) Baghdad
+
+250. The largest volcano in the world is:
+a) Mauna Loa
+b) Mount Fuji
+c) Mount Etna
+d) Mount Vesuvius
+
+251. The first President of the United States was:
+a) George Washington
+b) Abraham Lincoln
+c) Thomas Jefferson
+d) John Adams
+
+252. The largest freshwater lake in the world is:
+a) Lake Superior
+b) Lake Victoria
+c) Lake Baikal
+d) Lake Tanganyika
+
+253. The first man to walk on the moon was:
+a) Neil Armstrong
+b) Buzz Aldrin
+c) Yuri Gagarin
+d) Michael Collins
+
+254. The largest railway station in Pakistan is:
+a) Lahore Junction
+b) Karachi Cantt
+c) Rawalpindi
+d) Multan
+
+255. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+256. The largest producer of rice in the world is:
+a) China
+b) India
+c) Pakistan
+d) Indonesia
+
+257. The first atomic bomb was dropped on:
+a) Hiroshima
+b) Nagasaki
+c) Tokyo
+d) Osaka
+
+258. The largest river in the world is:
+a) Nile
+b) Amazon
+c) Yangtze
+d) Mississippi
+
+259. The first woman to climb Mount Everest was:
+a) Junko Tabei
+b) Bachendri Pal
+c) Gerlinde Kaltenbrunner
+d) Wanda Rutkiewicz
+
+260. The largest country by area is:
+a) Russia
+b) Canada
+c) China
+d) USA
+
+261. The first Islamic year started in:
+a) 622 AD
+b) 610 AD
+c) 632 AD
+d) 570 AD
+
+262. The largest producer of oil in the world is:
+a) USA
+b) Saudi Arabia
+c) Russia
+d) China
+
+263. The first capital of Pakistan was:
+a) Karachi
+b) Lahore
+c) Islamabad
+d) Peshawar
+
+264. The largest cell in the human body is:
+a) Ovum
+b) Neuron
+c) Red blood cell
+d) White blood cell
+
+265. The first woman Speaker of National Assembly of Pakistan was:
+a) Dr. Fehmida Mirza
+b) Benazir Bhutto
+c) Hina Rabbani Khar
+d) Sherry Rehman
+
+266. The largest source of energy in the world is:
+a) Sun
+b) Coal
+c) Oil
+d) Gas
+
+267. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+268. The largest producer of wheat in the world is:
+a) China
+b) India
+c) Russia
+d) USA
+
+269. The first woman to win Nobel Prize in Physics was:
+a) Marie Curie
+b) Dorothy Hodgkin
+c) Rosalind Franklin
+d) Ada Lovelace
+
+270. The largest sea in the world is:
+a) Philippine Sea
+b) Coral Sea
+c) Arabian Sea
+d) South China Sea
+
+271. The first Islamic battle was fought in:
+a) 2 Hijri
+b) 1 Hijri
+c) 3 Hijri
+d) 4 Hijri
+
+272. The largest producer of cotton in the world is:
+a) China
+b) India
+c) USA
+d) Pakistan
+
+273. The first woman to win Nobel Prize in Chemistry was:
+a) Marie Curie
+b) Dorothy Hodgkin
+c) Ada Yonath
+d) Frances Arnold
+
+274. The largest peninsula in the world is:
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+
+275. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+276. The largest producer of sugarcane in the world is:
+a) Brazil
+b) India
+c) China
+d) Thailand
+
+277. The first woman to win Nobel Prize in Medicine was:
+a) Gerty Cori
+b) Rosalyn Yalow
+c) Rita Levi-Montalcini
+d) Barbara McClintock
+
+278. The largest archipelago in the world is:
+a) Indonesia
+b) Philippines
+c) Japan
+d) Maldives
+
+279. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+280. The largest producer of tea in the world is:
+a) China
+b) India
+c) Kenya
+d) Sri Lanka
+
+281. The first woman to win Nobel Prize in Peace was:
+a) Bertha von Suttner
+b) Malala Yousafzai
+c) Mother Teresa
+d) Aung San Suu Kyi
+
+282. The largest plateau in the world is:
+a) Tibetan Plateau
+b) Deccan Plateau
+c) Colorado Plateau
+d) Altiplano
+
+283. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+284. The largest producer of coffee in the world is:
+a) Brazil
+b) Vietnam
+c) Colombia
+d) Indonesia
+
+285. The first woman to win Nobel Prize in Economics was:
+a) Elinor Ostrom
+b) Esther Duflo
+c) Amartya Sen
+d) Joan Robinson
+
+286. The largest gulf in the world is:
+a) Gulf of Mexico
+b) Persian Gulf
+c) Gulf of Aden
+d) Gulf of Alaska
+
+287. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+288. The largest producer of gold in the world is:
+a) China
+b) Australia
+c) Russia
+d) USA
+
+289. The first woman to win Nobel Prize in Literature was:
+a) Selma Lagerlöf
+b) Toni Morrison
+c) Pearl S. Buck
+d) Nadine Gordimer
+
+290. The largest waterfall in the world is:
+a) Angel Falls
+b) Niagara Falls
+c) Victoria Falls
+d) Iguazu Falls
+
+291. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+292. The largest producer of silver in the world is:
+a) Mexico
+b) Peru
+c) China
+d) Australia
+
+293. The first woman to win Nobel Prize in any field was:
+a) Marie Curie
+b) Dorothy Hodgkin
+c) Rosalind Franklin
+d) Ada Lovelace
+
+294. The largest bay in the world is:
+a) Bay of Bengal
+b) Hudson Bay
+c) Bay of Biscay
+d) Bay of Fundy
+
+295. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+296. The largest producer of copper in the world is:
+a) Chile
+b) China
+c) Peru
+d) USA
+
+297. The first woman to win Nobel Prize in two different fields was:
+a) Marie Curie
+b) Dorothy Hodgkin
+c) Ada Yonath
+d) Frances Arnold
+
+298. The largest canyon in the world is:
+a) Grand Canyon
+b) Yarlung Tsangpo Canyon
+c) Copper Canyon
+d) Fish River Canyon
+
+299. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+300. The largest producer of diamonds in the world is:
+a) Russia
+b) Botswana
+c) Canada
+d) Australia
+
+301. The first woman to win Nobel Prize in Physics and Chemistry was:
+a) Marie Curie
+b) Dorothy Hodgkin
+c) Ada Yonath
+d) Frances Arnold
+
+302. The largest delta in the world is:
+a) Ganges-Brahmaputra Delta
+b) Nile Delta
+c) Amazon Delta
+d) Mississippi Delta
+
+303. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+304. The largest producer of natural gas in the world is:
+a) USA
+b) Russia
+c) Iran
+d) Qatar
+
+305. The first woman to win Nobel Prize in Peace from Pakistan was:
+a) Malala Yousafzai
+b) Benazir Bhutto
+c) Asma Jahangir
+d) Sherry Rehman
+
+306. The largest coral reef in the world is:
+a) Great Barrier Reef
+b) Red Sea Coral Reef
+c) New Caledonia Barrier Reef
+d) Mesoamerican Barrier Reef
+
+307. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+308. The largest producer of platinum in the world is:
+a) South Africa
+b) Russia
+c) Canada
+d) USA
+
+309. The first woman to win Nobel Prize in Medicine and Physiology was:
+a) Gerty Cori
+b) Rosalyn Yalow
+c) Rita Levi-Montalcini
+d) Barbara McClintock
+
+310. The largest hot desert in the world is:
+a) Sahara
+b) Arabian
+c) Gobi
+d) Kalahari
+
+311. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+312. The largest producer of aluminum in the world is:
+a) China
+b) India
+c) Russia
+d) Canada
+
+313. The first woman to win Nobel Prize in Peace from Asia was:
+a) Aung San Suu Kyi
+b) Malala Yousafzai
+c) Mother Teresa
+d) Tawakkol Karman
+
+314. The largest cold desert in the world is:
+a) Antarctica
+b) Gobi
+c) Atacama
+d) Kyzylkum
+
+315. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+316. The largest producer of cocoa in the world is:
+a) Ivory Coast
+b) Ghana
+c) Indonesia
+d) Nigeria
+
+317. The first woman to win Nobel Prize in Literature from Africa was:
+a) Nadine Gordimer
+b) Wole Soyinka
+c) Doris Lessing
+d) Naguib Mahfouz
+
+318. The largest island country in the world is:
+a) Indonesia
+b) Madagascar
+c) Japan
+d) Philippines
+
+319. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+320. The largest producer of rubber in the world is:
+a) Thailand
+b) Indonesia
+c) Malaysia
+d) India
+
+321. The first woman to win Nobel Prize in Chemistry from Israel was:
+a) Ada Yonath
+b) Frances Arnold
+c) Dorothy Hodgkin
+d) Marie Curie
+
+322. The largest peninsula in the world is:
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+
+323. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+324. The largest producer of palm oil in the world is:
+a) Indonesia
+b) Malaysia
+c) Thailand
+d) Nigeria
+
+325. The first woman to win Nobel Prize in Economics from USA was:
+a) Elinor Ostrom
+b) Esther Duflo
+c) Joan Robinson
+d) Amartya Sen
+
+326. The largest archipelago in the world is:
+a) Indonesia
+b) Philippines
+c) Japan
+d) Maldives
+
+327. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+328. The largest producer of tin in the world is:
+a) China
+b) Indonesia
+c) Peru
+d) Bolivia
+
+329. The first woman to win Nobel Prize in Peace from Iran was:
+a) Shirin Ebadi
+b) Malala Yousafzai
+c) Tawakkol Karman
+d) Aung San Suu Kyi
+
+330. The largest peninsula in the world is:
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+
+331. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+332. The largest producer of nickel in the world is:
+a) Indonesia
+b) Philippines
+c) Russia
+d) Canada
+
+333. The first woman to win Nobel Prize in Literature from USA was:
+a) Toni Morrison
+b) Pearl S. Buck
+c) Louise Glück
+d) Selma Lagerlöf
+
+334. The largest archipelago in the world is:
+a) Indonesia
+b) Philippines
+c) Japan
+d) Maldives
+
+335. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+336. The largest producer of zinc in the world is:
+a) China
+b) Peru
+c) Australia
+d) India
+
+337. The first woman to win Nobel Prize in Chemistry from UK was:
+a) Dorothy Hodgkin
+b) Ada Yonath
+c) Frances Arnold
+d) Marie Curie
+
+338. The largest peninsula in the world is:
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+
+339. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+340. The largest producer of lead in the world is:
+a) China
+b) Australia
+c) USA
+d) India
+
+341. The first woman to win Nobel Prize in Peace from Yemen was:
+a) Tawakkol Karman
+b) Shirin Ebadi
+c) Malala Yousafzai
+d) Aung San Suu Kyi
+
+342. The largest archipelago in the world is:
+a) Indonesia
+b) Philippines
+c) Japan
+d) Maldives
+
+343. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+344. The largest producer of uranium in the world is:
+a) Kazakhstan
+b) Canada
+c) Australia
+d) Russia
+
+345. The first woman to win Nobel Prize in Literature from Poland was:
+a) Olga Tokarczuk
+b) Wisława Szymborska
+c) Selma Lagerlöf
+d) Toni Morrison
+
+346. The largest peninsula in the world is:
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+
+347. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+348. The largest producer of phosphate in the world is:
+a) China
+b) Morocco
+c) USA
+d) Russia
+
+349. The first woman to win Nobel Prize in Chemistry from USA was:
+a) Frances Arnold
+b) Ada Yonath
+c) Dorothy Hodgkin
+d) Marie Curie
+
+350. The largest archipelago in the world is:
+a) Indonesia
+b) Philippines
+c) Japan
+d) Maldives
+
+351. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+352. The largest producer of bauxite in the world is:
+a) Australia
+b) China
+c) Brazil
+d) India
+
+353. The first woman to win Nobel Prize in Peace from Kenya was:
+a) Wangari Maathai
+b) Malala Yousafzai
+c) Aung San Suu Kyi
+d) Tawakkol Karman
+
+354. The largest peninsula in the world is:
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+
+355. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+356. The largest producer of manganese in the world is:
+a) South Africa
+b) Australia
+c) China
+d) India
+
+357. The first woman to win Nobel Prize in Literature from Canada was:
+a) Alice Munro
+b) Toni Morrison
+c) Pearl S. Buck
+d) Selma Lagerlöf
+
+358. The largest archipelago in the world is:
+a) Indonesia
+b) Philippines
+c) Japan
+d) Maldives
+
+359. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+360. The largest producer of silver in the world is:
+a) Mexico
+b) Peru
+c) China
+d) Australia
+
+361. The first woman to win Nobel Prize in Chemistry from France was:
+a) Marie Curie
+b) Ada Yonath
+c) Dorothy Hodgkin
+d) Frances Arnold
+
+362. The largest peninsula in the world is:
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+
+363. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+364. The largest producer of salt in the world is:
+a) China
+b) USA
+c) India
+d) Australia
+
+365. The first woman to win Nobel Prize in Peace from Liberia was:
+a) Ellen Johnson Sirleaf
+b) Leymah Gbowee
+c) Tawakkol Karman
+d) Malala Yousafzai
+
+366. The largest archipelago in the world is:
+a) Indonesia
+b) Philippines
+c) Japan
+d) Maldives
+
+367. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+368. The largest producer of wool in the world is:
+a) Australia
+b) China
+c) New Zealand
+d) India
+
+369. The first woman to win Nobel Prize in Literature from Germany was:
+a) Herta Müller
+b) Selma Lagerlöf
+c) Toni Morrison
+d) Pearl S. Buck
+
+370. The largest peninsula in the world is:
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+
+371. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+372. The largest producer of rice in the world is:
+a) China
+b) India
+c) Indonesia
+d) Bangladesh
+
+373. The first woman to win Nobel Prize in Chemistry from Israel was:
+a) Ada Yonath
+b) Frances Arnold
+c) Dorothy Hodgkin
+d) Marie Curie
+
+374. The largest archipelago in the world is:
+a) Indonesia
+b) Philippines
+c) Japan
+d) Maldives
+
+375. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+376. The largest producer of sugar in the world is:
+a) Brazil
+b) India
+c) China
+d) Thailand
+
+377. The first woman to win Nobel Prize in Peace from Myanmar was:
+a) Aung San Suu Kyi
+b) Malala Yousafzai
+c) Tawakkol Karman
+d) Shirin Ebadi
+
+378. The largest peninsula in the world is:
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+
+379. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+380. The largest producer of coffee in the world is:
+a) Brazil
+b) Vietnam
+c) Colombia
+d) Indonesia
+
+381. The first woman to win Nobel Prize in Literature from Sweden was:
+a) Selma Lagerlöf
+b) Toni Morrison
+c) Pearl S. Buck
+d) Nadine Gordimer
+
+382. The largest archipelago in the world is:
+a) Indonesia
+b) Philippines
+c) Japan
+d) Maldives
+
+383. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+384. The largest producer of cocoa in the world is:
+a) Ivory Coast
+b) Ghana
+c) Indonesia
+d) Nigeria
+
+385. The first woman to win Nobel Prize in Chemistry from UK was:
+a) Dorothy Hodgkin
+b) Ada Yonath
+c) Frances Arnold
+d) Marie Curie
+
+386. The largest peninsula in the world is:
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+
+387. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+388. The largest producer of palm oil in the world is:
+a) Indonesia
+b) Malaysia
+c) Thailand
+d) Nigeria
+
+389. The first woman to win Nobel Prize in Peace from Yemen was:
+a) Tawakkol Karman
+b) Shirin Ebadi
+c) Malala Yousafzai
+d) Aung San Suu Kyi
+
+390. The largest archipelago in the world is:
+a) Indonesia
+b) Philippines
+c) Japan
+d) Maldives
+
+391. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+392. The largest producer of tin in the world is:
+a) China
+b) Indonesia
+c) Peru
+d) Bolivia
+
+393. The first woman to win Nobel Prize in Literature from Poland was:
+a) Olga Tokarczuk
+b) Wisława Szymborska
+c) Selma Lagerlöf
+d) Toni Morrison
+
+394. The largest peninsula in the world is:
+a) Arabian Peninsula
+b) Indian Peninsula
+c) Malay Peninsula
+d) Iberian Peninsula
+
+395. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+396. The largest producer of nickel in the world is:
+a) Indonesia
+b) Philippines
+c) Russia
+d) Canada
+
+397. The first woman to win Nobel Prize in Literature from USA was:
+a) Toni Morrison
+b) Pearl S. Buck
+c) Louise Glück
+d) Selma Lagerlöf
+
+398. The largest archipelago in the world is:
+a) Indonesia
+b) Philippines
+c) Japan
+d) Maldives
+
+399. The first Islamic month is:
+a) Muharram
+b) Ramadan
+c) Shawwal
+d) Zilhajj
+
+400. The largest producer of zinc in the world is:
+a) China
+b) Peru
+c) Australia
+d) India

@@ -227,6 +227,7 @@
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_SDLC.txt">SDLC</div></div>
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_Software.txt">Software</div></div>
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_IOT.txt">IOT</div></div>
+      <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="MCQs_NTS.txt">NTS</div></div>
       <div class="col-6 col-md-4 col-lg-3"><div class="subject-card" data-value="cs_it_concepts">💻 CS & IT Concepts</div></div>
     </div>
     <div id="mcqList" class="mcq-list"></div>
@@ -372,11 +373,11 @@
         if (area.firstChild) area.firstChild.remove();
       }, 7000);
     }
-    // Show notification for new subject (IOT) if not seen before
+    // Show notification for new subject (NTS) if not seen before
     window.addEventListener('DOMContentLoaded', function() {
-      const newSubjectKey = 'notified_new_subject_IOT';
+      const newSubjectKey = 'notified_new_subject_NTS';
       if (!localStorage.getItem(newSubjectKey)) {
-        showNotification('🆕 New subject added: <b>IOT</b>! Explore the latest MCQs.');
+        showNotification('🆕 New subject added: <b>NTS</b>! Explore the latest MCQs.');
         localStorage.setItem(newSubjectKey, '1');
       }
     });
