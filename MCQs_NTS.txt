@@ -38,7 +38,7 @@ a) Python
 b) Java
 c) HTML
 d) Oracle
-Answer: c
+Answer: d
 
 7. What is the antonym of "expand"?
 a) Contract
