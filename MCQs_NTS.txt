@@ -3846,4 +3846,4971 @@ b) Elon Musk
 c) Max Levchin
 d) Reid Hoffman
 Answer: a
+551. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
 
+552. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+553. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+554. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+555. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+556. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+557. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+558. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+559. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+560. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+571. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+572. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+573. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+574. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+575. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+576. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+577. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+578. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+579. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+580. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+581. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+582. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+583. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+584. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+585. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+586. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+587. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+588. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+589. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+590. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+591. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+592. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+593. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+594. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+595. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+596. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+597. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+598. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+599. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+600. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+601. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+602. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+603. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+604. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+605. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+606. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+607. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+608. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+609. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+610. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+611. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+612. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+613. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+614. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+615. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+616. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+617. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+618. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+619. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+620. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+621. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+622. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+623. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+624. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+625. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+626. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+627. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+628. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+629. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+630. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+631. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+632. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+633. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+634. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+635. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+636. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+637. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+638. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+639. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+640. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+641. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+642. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+643. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+644. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+645. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+646. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+647. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+648. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+649. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+650. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+651. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+652. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+653. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+654. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+655. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+656. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+657. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+658. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+659. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+660. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+661. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+662. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+663. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+664. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+665. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+666. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+667. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+668. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+669. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+670. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+671. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+672. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+673. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+674. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+675. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+676. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+677. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+678. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+679. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+680. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+681. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+682. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+683. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+684. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+685. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+686. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+687. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+688. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+689. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+690. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+691. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+692. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+693. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+694. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+695. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+696. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+697. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+698. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+699. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+700. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+701. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+702. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+703. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+704. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+705. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+706. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+707. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+708. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+709. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+710. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+711. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+712. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+713. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+714. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+715. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+716. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+717. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+718. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+719. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+720. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+721. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+722. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+723. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+724. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+725. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+726. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+727. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+728. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+729. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+730. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+731. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+732. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+733. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+734. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+735. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+736. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+737. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+738. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+739. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+740. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+741. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+742. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+743. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+744. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+745. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+746. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+747. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+748. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+749. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+750. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+751. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+752. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+753. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+754. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+755. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+756. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+757. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+758. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+759. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+760. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+761. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C
+
+762. In SQL, which command is used to remove a table and all its data permanently?
+A) DELETE
+B) REMOVE
+C) DROP
+D) TRUNCATE
+Answer: C
+
+763. What is the default port number for HTTPS?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: D
+
+764. Which scheduling algorithm gives priority to the process with the shortest burst time?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority Scheduling
+Answer: B
+
+765. In IPv6, how many bits are there in an address?
+A) 32
+B) 64
+C) 128
+D) 256
+Answer: C
+
+766. Which RAID level uses disk striping with parity?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+Answer: C
+
+767. Which protocol is used for secure file transfer?
+A) FTP
+B) SFTP
+C) TFTP
+D) HTTP
+Answer: B
+
+768. In networking, what does ARP stand for?
+A) Address Routing Protocol
+B) Address Resolution Protocol
+C) Automatic Routing Process
+D) Advanced Resolution Protocol
+Answer: B
+
+769. Which of the following is NOT a NoSQL database?
+A) MongoDB
+B) Cassandra
+C) MySQL
+D) Redis
+Answer: C
+
+770. What is the main function of a DNS server?
+A) Store websites
+B) Translate domain names to IP addresses
+C) Block viruses
+D) Send emails
+Answer: B
+
+771. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+772. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+773. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+774. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+775. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+776. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+777. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+778. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+779. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+780. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+781. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+782. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+783. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+784. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+785. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+786. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+787. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+788. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+789. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+790. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+791. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+792. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+793. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+794. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+795. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+796. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+797. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+798. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+799. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+800. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+801. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+802. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+803. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+804. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+805. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+806. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+807. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+808. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+809. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+810. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+811. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+812. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+813. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+814. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+815. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+816. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+817. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+818. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+819. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+820. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+821. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+822. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+823. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+824. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+825. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+826. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+827. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+828. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+829. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+830. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+831. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+832. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+833. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+834. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+835. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+836. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+837. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+838. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+839. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+840. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+841. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+842. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+843. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+844. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+845. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+846. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+847. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+848. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+849. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+850. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+851. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+852. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+853. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+854. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+855. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+856. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+857. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+858. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+859. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+860. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+861. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+862. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+863. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+864. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+865. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+866. Choose the correct synonym for 'Abundant':
+A) Scarce
+B) Plentiful
+C) Rare
+D) Insufficient
+Answer: B
+
+867. Choose the antonym for 'Obscure':
+A) Vague
+B) Clear
+C) Hidden
+D) Dark
+Answer: B
+
+868. Identify the error: 'He go to the office every day.'
+A) He
+B) go
+C) to
+D) office
+Answer: B
+
+869. Select the word that best fits: 'He is very _____ in his work.'
+A) careless
+B) diligent
+C) lazy
+D) negligent
+Answer: B
+
+870. Complete the sentence: 'Neither Ali nor his friends ___ coming.'
+A) is
+B) are
+C) was
+D) will
+Answer: B
+
+871. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+872. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+873. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+874. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+875. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+876. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+877. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+878. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+879. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+880. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+881. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+882. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+883. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+884. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+885. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+886. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+887. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+888. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+889. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+890. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+891. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+892. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+893. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+894. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+895. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+896. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+897. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+898. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+899. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+900. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+901. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+902. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+903. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+904. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+905. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+906. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+907. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+908. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+909. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+910. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+911. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+912. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+913. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+914. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+915. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+916. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+917. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+918. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+919. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+920. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+921. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+922. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+923. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+924. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+925. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+926. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+927. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+928. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+929. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+930. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+931. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+932. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+933. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+934. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+935. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+936. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+937. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+938. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+939. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+940. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+941. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+942. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+943. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+944. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+945. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+946. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+947. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+948. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+949. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+950. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+951. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+952. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+953. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+954. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+955. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+956. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+957. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+958. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+959. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+960. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+961. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+962. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+963. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+964. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+965. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+966. If all roses are flowers and some flowers fade quickly, which statement is true?
+A) Some roses fade quickly
+B) All flowers are roses
+C) No roses fade quickly
+D) Some flowers are not roses
+Answer: D
+
+967. Find the next number: 2, 6, 12, 20, ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: A
+
+968. Which word does not belong: Apple, Banana, Carrot, Mango
+A) Apple
+B) Banana
+C) Carrot
+D) Mango
+Answer: C
+
+969. If 5x = 20, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+970. Ali is taller than Bilal, and Bilal is taller than Usman. Who is the shortest?
+A) Ali
+B) Bilal
+C) Usman
+D) Cannot say
+Answer: C
+
+971. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+972. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+973. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+974. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+975. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+976. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+977. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+978. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+979. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+980. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+981. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+982. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+983. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+984. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+985. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+986. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+987. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+988. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+989. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+990. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+991. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+992. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+993. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+994. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+995. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+996. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+997. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+998. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+999. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1000. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1001. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1002. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1003. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1004. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1005. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1006. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1007. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1008. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1009. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1010. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1011. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1012. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1013. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1014. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1015. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1016. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1017. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1018. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1019. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1020. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1021. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1022. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1023. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1024. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1025. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1026. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1027. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1028. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1029. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1030. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1031. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1032. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1033. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1034. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1035. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1036. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1037. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1038. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1039. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1040. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1041. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1042. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1043. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1044. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1045. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1046. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1047. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1048. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1049. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1050. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1051. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1052. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1053. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1054. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1055. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1056. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1057. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1058. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1059. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1060. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1061. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1062. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1063. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1064. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1065. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1066. If a car travels 60 km in 1.5 hours, its average speed is:
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+Answer: D
+
+1067. The value of 2^5 is:
+A) 32
+B) 16
+C) 64
+D) 8
+Answer: A
+
+1068. If x + 3 = 7, then x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C
+
+1069. The area of a rectangle with length 8 and width 5 is:
+A) 13
+B) 30
+C) 40
+D) 45
+Answer: B
+
+1070. If 25% of a number is 15, the number is:
+A) 45
+B) 50
+C) 55
+D) 60
+Answer: B
+
+1071. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1072. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1073. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1074. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1075. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1076. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1077. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1078. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1079. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1080. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1081. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1082. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1083. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1084. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1085. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1086. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1087. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1088. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1089. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1090. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1091. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1092. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1093. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1094. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1095. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1096. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1097. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1098. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1099. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1100. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1101. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1102. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1103. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1104. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1105. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1106. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1107. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1108. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1109. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1110. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1111. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1112. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1113. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1114. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1115. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1116. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1117. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1118. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1119. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1120. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1121. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1122. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1123. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1124. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1125. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1126. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1127. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1128. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1129. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1130. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1131. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1132. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1133. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1134. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1135. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1136. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1137. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1138. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1139. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1140. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1141. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1142. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1143. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1144. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1145. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1146. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1147. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1148. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1149. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1150. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1151. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1152. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1153. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1154. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1155. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1156. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1157. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1158. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1159. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1160. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1161. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1162. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1163. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1164. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1165. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1166. Who is the founder of Pakistan?
+A) Allama Iqbal
+B) Liaquat Ali Khan
+C) Muhammad Ali Jinnah
+D) Ayub Khan
+Answer: C
+
+1167. The capital of Japan is:
+A) Tokyo
+B) Kyoto
+C) Osaka
+D) Hiroshima
+Answer: A
+
+1168. Water boils at what temperature at sea level?
+A) 90°C
+B) 100°C
+C) 110°C
+D) 120°C
+Answer: B
+
+1169. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+1170. The largest ocean in the world is:
+A) Atlantic
+B) Pacific
+C) Indian
+D) Arctic
+Answer: B
+
+1171. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1172. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1173. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1174. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1175. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1176. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1177. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1178. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1179. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1180. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1181. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1182. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1183. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1184. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1185. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1186. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1187. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1188. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1189. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1190. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1191. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1192. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1193. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1194. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1195. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1196. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1197. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1198. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1199. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1200. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1201. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1202. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1203. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1204. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1205. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1206. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1207. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1208. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1209. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1210. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1211. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1212. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1213. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1214. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1215. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1216. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1217. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1218. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1219. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1220. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1221. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1222. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1223. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1224. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1225. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1226. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1227. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1228. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1229. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1230. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1231. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1232. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1233. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1234. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1235. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1236. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1237. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1238. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1239. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1240. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1241. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1242. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1243. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1244. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1245. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1246. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1247. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1248. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1249. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1250. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1251. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1252. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1253. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1254. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1255. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1256. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1257. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1258. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1259. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1260. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1261. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1262. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1263. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1264. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1265. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B
+
+1266. What does IoT stand for?
+A) Internet of Technology
+B) Internet of Things
+C) Interface of Things
+D) Integration of Technology
+Answer: B
+
+1267. Which protocol is used to send email?
+A) FTP
+B) HTTP
+C) SMTP
+D) SNMP
+Answer: C
+
+1268. In networking, IP stands for:
+A) Internet Protocol
+B) Internal Process
+C) Interface Program
+D) Interconnected Process
+Answer: A
+
+1269. Which device connects different networks together?
+A) Switch
+B) Router
+C) Hub
+D) Repeater
+Answer: B
+
+1270. Which of these is a database management system?
+A) HTML
+B) MySQL
+C) CSS
+D) XML
+Answer: B

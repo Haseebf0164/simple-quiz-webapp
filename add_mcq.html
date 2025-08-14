@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCQ Generator</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+        }
+        .section {
+            margin-bottom: 30px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .section-title {
+            margin-top: 0;
+            color: #3498db;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px;
+        }
+        textarea {
+            width: 100%;
+            min-height: 150px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-family: inherit;
+            resize: vertical;
+        }
+        .file-upload {
+            margin: 15px 0;
+        }
+        .file-upload label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        .button-danger {
+            background-color: #e74c3c;
+        }
+        .button-danger:hover {
+            background-color: #c0392b;
+        }
+        .button-success {
+            background-color: #2ecc71;
+        }
+        .button-success:hover {
+            background-color: #27ae60;
+        }
+        .result-section {
+            margin-top: 30px;
+        }
+        .mcq-item {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #fff;
+            border-left: 4px solid #3498db;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .tab-buttons {
+            display: flex;
+            margin-bottom: 15px;
+        }
+        .tab-button {
+            padding: 10px 20px;
+            background-color: #ddd;
+            border: none;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px 4px 0 0;
+        }
+        .tab-button.active {
+            background-color: #3498db;
+            color: white;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .instructions {
+            background-color: #e8f4fc;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            border-left: 4px solid #3498db;
+        }
+        .status-message {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            display: none;
+        }
+        .success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+            display: block;
+        }
+        .error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>MCQ Generator</h1>
+        
+        <div class="instructions">
+            <h3>Instructions:</h3>
+            <p>1. Format MCQs with each question starting with a number followed by a dot (e.g., "1. Question text")</p>
+            <p>2. Options should start with a letter followed by ) or . (e.g., "A) Option 1" or "A. Option 1")</p>
+            <p>3. Answer should be marked with "Answer: " followed by the option letter</p>
+            <p><strong>Example Format:</strong></p>
+            <pre>191. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C</pre>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title">Destination File</h2>
+            <div class="file-upload">
+                <label for="destination-file">Upload destination file (to append MCQs to):</label>
+                <input type="file" id="destination-file" accept=".txt">
+                <div id="destination-status" class="status-message"></div>
+            </div>
+            <div id="destination-preview" style="display:none;">
+                <h4>Destination File Preview (last 3 questions):</h4>
+                <div id="destination-preview-content"></div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title">Add MCQs</h2>
+            
+            <div class="tab-buttons">
+                <button class="tab-button active" onclick="openTab('paste')">Paste Text</button>
+                <button class="tab-button" onclick="openTab('upload')">Upload File</button>
+            </div>
+            
+            <div id="paste" class="tab-content active">
+                <textarea id="mcq-text" placeholder="Paste your MCQs here in the format:
+191. Which layer of the OSI model is responsible for routing?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: C"></textarea>
+                <button onclick="processText()">Process MCQs</button>
+            </div>
+            
+            <div id="upload" class="tab-content">
+                <div class="file-upload">
+                    <label for="mcq-file">Upload MCQ text file:</label>
+                    <input type="file" id="mcq-file" accept=".txt">
+                </div>
+                <button onclick="processFile()">Process MCQs</button>
+            </div>
+        </div>
+        
+        <div class="section result-section">
+            <h2 class="section-title">Generated MCQs</h2>
+            <div id="result-status" class="status-message"></div>
+            <div id="result-container"></div>
+            <div class="button-group">
+                <button onclick="copyToClipboard()">Copy to Clipboard</button>
+                <button onclick="downloadFile()">Download as TXT</button>
+                <button class="button-success" onclick="appendToDestination()" id="append-button" disabled>Append to Destination File</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let mcqs = [];
+        let lastQuestionNumber = 0;
+        let destinationFileContent = '';
+        let destinationFileName = '';
+        
+        // Initialize event listeners
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('destination-file').addEventListener('change', handleDestinationFileUpload);
+        });
+        
+        function openTab(tabId) {
+            // Hide all tab contents
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Deactivate all tab buttons
+            document.querySelectorAll('.tab-button').forEach(button => {
+                button.classList.remove('active');
+            });
+            
+            // Show the selected tab content
+            document.getElementById(tabId).classList.add('active');
+            
+            // Activate the clicked button
+            event.currentTarget.classList.add('active');
+        }
+        
+        function handleDestinationFileUpload(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            destinationFileName = file.name;
+            const reader = new FileReader();
+            
+            reader.onload = function(e) {
+                destinationFileContent = e.target.result;
+                lastQuestionNumber = getLastQuestionNumber(destinationFileContent);
+                
+                // Update status
+                const statusElement = document.getElementById('destination-status');
+                statusElement.textContent = `File loaded successfully. Last question number: ${lastQuestionNumber}`;
+                statusElement.className = 'status-message success';
+                
+                // Enable append button if we have MCQs
+                if (mcqs.length > 0) {
+                    document.getElementById('append-button').disabled = false;
+                }
+                
+                // Show preview of last 3 questions
+                showDestinationPreview();
+            };
+            
+            reader.onerror = function() {
+                const statusElement = document.getElementById('destination-status');
+                statusElement.textContent = 'Error reading file';
+                statusElement.className = 'status-message error';
+            };
+            
+            reader.readAsText(file);
+        }
+        
+        function showDestinationPreview() {
+            const previewContainer = document.getElementById('destination-preview');
+            const contentContainer = document.getElementById('destination-preview-content');
+            
+            if (!destinationFileContent) {
+                previewContainer.style.display = 'none';
+                return;
+            }
+            
+            const questions = destinationFileContent.split(/\n\s*\n/).filter(q => q.trim());
+            const lastThreeQuestions = questions.slice(-3);
+            
+            let previewHTML = '';
+            lastThreeQuestions.forEach(q => {
+                const lines = q.split('\n').filter(l => l.trim());
+                if (lines.length > 0) {
+                    previewHTML += `<div class="mcq-item"><pre>${lines.join('\n')}</pre></div>`;
+                }
+            });
+            
+            contentContainer.innerHTML = previewHTML;
+            previewContainer.style.display = 'block';
+        }
+        
+        function processText() {
+            const text = document.getElementById('mcq-text').value;
+            if (!text.trim()) {
+                showResultMessage('Please paste some MCQ text first', 'error');
+                return;
+            }
+            
+            parseMCQs(text);
+        }
+        
+        function processFile() {
+            const fileInput = document.getElementById('mcq-file');
+            if (!fileInput.files.length) {
+                showResultMessage('Please select a file first', 'error');
+                return;
+            }
+            
+            const file = fileInput.files[0];
+            const reader = new FileReader();
+            
+            reader.onload = function(e) {
+                parseMCQs(e.target.result);
+            };
+            
+            reader.onerror = function() {
+                showResultMessage('Error reading file', 'error');
+            };
+            
+            reader.readAsText(file);
+        }
+        
+        function parseMCQs(text) {
+            extractMCQs(text);
+            
+            // If we have a destination file, use its last question number
+            if (destinationFileContent) {
+                lastQuestionNumber = getLastQuestionNumber(destinationFileContent);
+            } else {
+                lastQuestionNumber = 0;
+            }
+            
+            displayResults();
+            
+            // Enable append button if we have a destination file
+            if (destinationFileContent && mcqs.length > 0) {
+                document.getElementById('append-button').disabled = false;
+            }
+        }
+        
+        function getLastQuestionNumber(text) {
+            const lines = text.split('\n');
+            let lastNumber = 0;
+            
+            for (const line of lines) {
+                const match = line.match(/^(\d+)\./);
+                if (match) {
+                    const num = parseInt(match[1]);
+                    if (num > lastNumber) {
+                        lastNumber = num;
+                    }
+                }
+            }
+            
+            return lastNumber;
+        }
+        
+        function extractMCQs(text) {
+            mcqs = [];
+            const blocks = text.split(/\n\s*\n/); // Split by empty lines
+            
+            for (const block of blocks) {
+                if (!block.trim()) continue;
+                
+                const lines = block.split('\n').map(line => line.trim()).filter(line => line);
+                if (lines.length < 3) continue; // At least question, 2 options, and answer
+                
+                const questionMatch = lines[0].match(/^(\d+)\.\s*(.+)/);
+                if (!questionMatch) continue;
+                
+                const question = questionMatch[2];
+                const options = [];
+                let correctAnswer = '';
+                
+                for (let i = 1; i < lines.length; i++) {
+                    const line = lines[i];
+                    
+                    if (line.toLowerCase().startsWith('answer:')) {
+                        const answerMatch = line.match(/answer:\s*([a-d])/i);
+                        if (answerMatch) {
+                            correctAnswer = answerMatch[1].toLowerCase();
+                        }
+                    } else {
+                        const optionMatch = line.match(/^([a-d])[\)\.]\s*(.+)/i);
+                        if (optionMatch) {
+                            options.push({
+                                letter: optionMatch[1].toLowerCase(),
+                                text: optionMatch[2]
+                            });
+                        }
+                    }
+                }
+                
+                if (question && options.length >= 2 && correctAnswer) {
+                    mcqs.push({
+                        question,
+                        options,
+                        correctAnswer
+                    });
+                }
+            }
+            
+            if (mcqs.length === 0) {
+                showResultMessage('No valid MCQs found in the input. Please check the format.', 'error');
+            } else {
+                showResultMessage(`Found ${mcqs.length} valid MCQs`, 'success');
+            }
+        }
+        
+        function displayResults() {
+            const container = document.getElementById('result-container');
+            container.innerHTML = '';
+            
+            if (mcqs.length === 0) {
+                container.innerHTML = '<p>No valid MCQs found in the input. Please check the format.</p>';
+                return;
+            }
+            
+            mcqs.forEach((mcq, index) => {
+                const questionNum = lastQuestionNumber + index + 1;
+                const mcqElement = document.createElement('div');
+                mcqElement.className = 'mcq-item';
+                
+                let html = `<p><strong>${questionNum}. ${mcq.question}</strong></p>`;
+                
+                mcq.options.forEach(option => {
+                    const isCorrect = option.letter === mcq.correctAnswer;
+                    const correctClass = isCorrect ? ' style="color:green; font-weight:bold;"' : '';
+                    html += `<p${correctClass}>${option.letter.toUpperCase()}) ${option.text}</p>`;
+                });
+                
+                html += `<p>Answer: ${mcq.correctAnswer.toUpperCase()}</p>`;
+                mcqElement.innerHTML = html;
+                container.appendChild(mcqElement);
+            });
+        }
+        
+        function showResultMessage(message, type) {
+            const element = document.getElementById('result-status');
+            element.textContent = message;
+            element.className = `status-message ${type}`;
+        }
+        
+        function copyToClipboard() {
+            if (mcqs.length === 0) {
+                showResultMessage('No MCQs to copy', 'error');
+                return;
+            }
+            
+            let textToCopy = '';
+            mcqs.forEach((mcq, index) => {
+                const questionNum = lastQuestionNumber + index + 1;
+                textToCopy += `${questionNum}. ${mcq.question}\n`;
+                
+                mcq.options.forEach(option => {
+                    textToCopy += `${option.letter.toUpperCase()}) ${option.text}\n`;
+                });
+                
+                textToCopy += `Answer: ${mcq.correctAnswer.toUpperCase()}\n\n`;
+            });
+            
+            navigator.clipboard.writeText(textToCopy.trim())
+                .then(() => showResultMessage('MCQs copied to clipboard!', 'success'))
+                .catch(err => showResultMessage('Failed to copy: ' + err, 'error'));
+        }
+        
+        function downloadFile() {
+            if (mcqs.length === 0) {
+                showResultMessage('No MCQs to download', 'error');
+                return;
+            }
+            
+            let fileContent = '';
+            mcqs.forEach((mcq, index) => {
+                const questionNum = lastQuestionNumber + index + 1;
+                fileContent += `${questionNum}. ${mcq.question}\n`;
+                
+                mcq.options.forEach(option => {
+                    fileContent += `${option.letter.toUpperCase()}) ${option.text}\n`;
+                });
+                
+                fileContent += `Answer: ${mcq.correctAnswer.toUpperCase()}\n\n`;
+            });
+            
+            const blob = new Blob([fileContent.trim()], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'mcqs.txt';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            
+            showResultMessage('MCQs downloaded as TXT file', 'success');
+        }
+        
+        function appendToDestination() {
+            if (mcqs.length === 0) {
+                showResultMessage('No MCQs to append', 'error');
+                return;
+            }
+            
+            if (!destinationFileContent) {
+                showResultMessage('No destination file loaded', 'error');
+                return;
+            }
+            
+            // Generate the new MCQs content
+            let newContent = '';
+            mcqs.forEach((mcq, index) => {
+                const questionNum = lastQuestionNumber + index + 1;
+                newContent += `${questionNum}. ${mcq.question}\n`;
+                
+                mcq.options.forEach(option => {
+                    newContent += `${option.letter.toUpperCase()}) ${option.text}\n`;
+                });
+                
+                newContent += `Answer: ${mcq.correctAnswer.toUpperCase()}\n\n`;
+            });
+            
+            // Combine with destination content
+            const combinedContent = destinationFileContent.trim() + '\n\n' + newContent.trim();
+            
+            // Create download
+            const blob = new Blob([combinedContent], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = destinationFileName || 'combined_mcqs.txt';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            
+            showResultMessage(`MCQs appended to destination file (${destinationFileName}) and downloaded`, 'success');
+        }
+    </script>
+</body>
+</html>
